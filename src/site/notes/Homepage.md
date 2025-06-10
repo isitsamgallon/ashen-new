@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Homepage\|Homepage]]
-- [[Session Notes/Session 42\|Session 42]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]]
-- [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
+- [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]
+- [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]
+- [[Books, Documents & Artefacts/The Village of Blackwood\|The Village of Blackwood]]
+- [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]
+- [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]
 
 { .block-language-dataview}
 
