@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-10T19:04:59.386+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-10T19:25:07.719+01:00"}
 ---
 
 ![[ObsidianBannercopy2.png\|banner]]
@@ -7,7 +7,7 @@
 # Quick Links
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]]
 
-This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
+This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.
 
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead.
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
 - [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
 - [[History & Events/The Sundering\|The Sundering]]
 - [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
-- [[History & Events/Skyfall Ward\|Skyfall Ward]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Homepage\|Homepage]]
 - [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]
 - [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]
 - [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
 - [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]]
-- [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]]
 
 { .block-language-dataview}
 
