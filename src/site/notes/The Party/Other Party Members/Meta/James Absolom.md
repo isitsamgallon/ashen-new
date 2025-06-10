@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2025-06-10T19:04:48.827+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2025-06-10T19:10:33.875+01:00"}
 ---
 
 The Big Cheese, architect of our own destruction or simply 'The DM'

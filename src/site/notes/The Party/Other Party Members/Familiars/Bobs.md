@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bobs/","updated":"2025-06-10T19:04:48.807+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bobs/","updated":"2025-06-10T19:10:33.859+01:00"}
 ---
 
 ### Overview

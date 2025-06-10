@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2025-06-10T19:04:48.833+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2025-06-10T19:10:33.879+01:00"}
 ---
 
 Plays [[The Party/Mordecai Reverence\|Mordecai Reverence]] in the campaign 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-06-10T19:04:48.856+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-06-10T19:10:33.895+01:00"}
 ---
 
  > [!infobox]
