@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/locations/ofc/blackwall/the-black-tower/","tags":["Discovered"],"updated":"2025-06-10T19:04:11.779+01:00"}
----
-
-A huge black tower located at the back of the back of the city and is where the majority of the cities knowledge, decision making and leaders is located. According to a [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|book found in the restricted section of the library]], the tower was built back during the [[History & Events/Grayfall Empire\|Grayfall Empire]]. Due to the uprising of their human slaves in the [[History & Events/Eras/4th Era\|4th Era]] the tower was remodelled to hold many secret passage ways to allow them to escape at a moments notice. These passages ways were then later used by the Dwarves of [[Locations/Fort Moldan\|Fort Moldan]] to rob the tower of all its riches while [[Other Information/Display Tags/The Party\|The Party]] was away.

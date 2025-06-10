@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/locations/ofc/twopines-estate/","tags":["Discovered"],"updated":"2025-06-10T19:04:11.808+01:00"}
----
-
-The estate of the Duke of Twopines. [[Other Information/Display Tags/The Party\|The Party]] first travelled here in response to a quest from the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]] about the Duke's missing daughter. In reality, his daughter was already dead and had been taken by [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. This is the village that started the quest to stop [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]. [[Other Information/Display Tags/The Party\|The Party]] did have a chance to get her back, but they would've had to sacrifice some of their life span, which just isn't an option for most of [[Other Information/Display Tags/The Party\|The Party]]. 
