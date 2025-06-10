@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]
-- [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]
-- [[Books, Documents & Artefacts/The Village of Blackwood\|The Village of Blackwood]]
-- [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]
-- [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]
+- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]
+- [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
+- [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
+- [[Gods & Heralds/Somnora/Somnora\|Somnora]]
 
 { .block-language-dataview}
 
@@ -102,7 +102,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | May 27, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | May 30, 2025    |
-| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | May 30, 2025    |
+| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | June 10, 2025   |
 
 { .block-language-dataview}
 
