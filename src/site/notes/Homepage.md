@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
-- [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]
-- [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]
-- [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
-- [[Gods & Heralds/Somnora/Somnora\|Somnora]]
+- [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
+- [[History & Events/The Sundering\|The Sundering]]
+- [[History & Events/The Cleansing\|The Cleansing]]
+- [[History & Events/Skyfall Ward\|Skyfall Ward]]
+- [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
 
 { .block-language-dataview}
 

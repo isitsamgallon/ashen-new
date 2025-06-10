@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-05-30T12:44:59.700+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-06-10T19:02:58.055+01:00"}
 ---
 
 > [!infobox]
