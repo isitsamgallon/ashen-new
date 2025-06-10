@@ -1,19 +1,13 @@
 ---
-type: Travelling
-role: Companion
-class: Unknown
-Nation: Unknown
-dg-publish: true
-Nickname: 
-icon: npc
-race: Corvum
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2025-06-10T19:04:48.789+01:00"}
 ---
+
 
 
 > [!infobox]
 > 
 > # Corvus
-> ![[corvus.jpg|cover hsmall]]
+> ![corvus.jpg|cover hsmall](/img/user/Admin/Attachments/Corvus.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -41,13 +35,11 @@ race: Corvum
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Unknown|
 ### Overview
-Corvus is Corvum that [[The Party]] found living in [[Iron Forge]] when they accompanied [[Strixhaven]] researchers to investigate the city. He was originally spotted by [[The Korrigan]] hiding in the dark, Corvus was very weary of them since he originally moved to the city to get away from the people of the surface who made too much noise. Eventually, Korrigan convinced him to travel with [[The Party]] as it seemed like the Stronghold was going be raided soon by more researchers and the [[Goblin Mafia]] and that they could help them move out. He has been travelling as a [[Companions]] ever since, although he doesn't talk much
+Corvus is Corvum that [[Other Information/Display Tags/The Party\|The Party]] found living in [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] when they accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to investigate the city. He was originally spotted by [[The Party/The Korrigan\|The Korrigan]] hiding in the dark, Corvus was very weary of them since he originally moved to the city to get away from the people of the surface who made too much noise. Eventually, Korrigan convinced him to travel with [[Other Information/Display Tags/The Party\|The Party]] as it seemed like the Stronghold was going be raided soon by more researchers and the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] and that they could help them move out. He has been travelling as a [[Groups & Factions/Companions\|Companions]] ever since, although he doesn't talk much
 
 ### History & Mentions
-```dataview
-TABLE WITHOUT ID
-	file.link AS "§", 
-	x AS "Interactions" FROM "Session Notes"
-FLATTEN x WHERE contains(x,this.file.name) 
-SORT file.name DESC
-```
+| §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 04\|Session 04]] | This room was a massive dinning room, with large ancient dwarven king and many animated skeleton who are all drinking and being merry. The party decide to take a long rest before engaging with this to make they're in a good condition to fight. That night, somehow both Chenris and Korrigan fall asleep and everyone wakes up to find there was one less research with them. [[The Party/Other Party Members/Corvus\|Corvus]], the mysteries figure from earlier reveals himself as a Corvum and is packing his bags to move out of the strong hold. When asked, he no idea where the other researcher went. |
+
+{ .block-language-dataview}

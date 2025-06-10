@@ -1,10 +1,9 @@
 ---
-dg-publish: true
-icon: npc
-race: 
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bobs/","updated":"2025-06-10T19:04:48.807+01:00"}
 ---
+
 ### Overview
-[[The Korrigan]]'s Find Steed spell that he fashioned to look like [[Uti †]], so [[Bit]] wouldn't get lonely or sad 
+[[The Party/The Korrigan\|The Korrigan]]'s Find Steed spell that he fashioned to look like [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]], so [[The Party/Other Party Members/Familiars/Bit\|Bit]] wouldn't get lonely or sad 
 
 ### Trivia
-- [[Tom Brothers]] called Bobs, Bobs because it meant he could have Bits and Bobs.
+- [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] called Bobs, Bobs because it meant he could have Bits and Bobs.

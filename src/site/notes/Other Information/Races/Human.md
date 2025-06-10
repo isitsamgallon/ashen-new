@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/human/","updated":"2025-05-27T13:31:54.939+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/human/","updated":"2025-06-10T19:04:32.219+01:00"}
 ---
 
  > [!infobox]

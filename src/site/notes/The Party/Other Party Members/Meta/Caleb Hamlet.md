@@ -1,11 +1,8 @@
 ---
-dg-publish: true
-tags:
-  - Player
-Nickname: 
-race: 
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/caleb-hamlet/","tags":["Player"],"updated":"2025-06-10T19:04:48.817+01:00"}
 ---
-Plays [[Wurinn Fuuldrusch]] in the campaign. 
+
+Plays [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in the campaign. 
 
 ### Quotes
 - “I politely rage”

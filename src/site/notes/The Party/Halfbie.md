@@ -1,36 +1,24 @@
 ---
-role: Party Member
-type: In The Party
-class: Wizard/Artificer
-dg-publish: true
-Nation: Kearlin Atoll
-town: Paraton
-Nickname:
-  - Halfwit
-cssclasses:
-  - wikicallout
-icon: party
-faction:
-  - The Party
-race: Eladrin
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-10T19:04:48.774+01:00"}
 ---
+
 
 > [!infobox]
 > 
 > # Halfbie
-> ![[halfbie 2.png]]
+> ![halfbie 2.png](/img/user/Admin/Attachments/halfbie%202.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | [[Eladrin]] |
->  Nationality | [[Kearlin Atoll]] |
+>  Race | [[Eladrin\|Eladrin]] |
+>  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
 >  Class | Wizard/ Artificer |
 >  Subclass | Order of Scribes/ Artillerist |
 >  Age | ~1300 (Mentally), 21(Physically) |
 >  Alignment | Seelie |
 >  Pronouns | Any |
->  Family | Unnamed Parents, [[Vaelrith]] (Child?) |
+>  Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -47,10 +35,10 @@ race: Eladrin
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 
-> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session 30]]</cite>
+> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]</cite>
 
 ### Overview
-An enigmatic wizard who seems to know [[The Party]], claiming that he had seen them in their dreams. They first appeared to [[The Party]] in their spring form and personality. Played by [[Sam Gallon]].
+An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
 
 ### Personality
 **Overall:** Halfbie is a very kind and caring person who wants to help their friends and loved ones. They have an incredibly curious personality and love to take things apart to fully understand the things around them. Although their appetite for learning is large, they're very aware of people's boundaries and do their best not to cross them. 
@@ -64,4 +52,4 @@ An enigmatic wizard who seems to know [[The Party]], claiming that he had seen t
 Halfbie's story hasn't been publicly revealed.
 
 ### Trivia
-- Halfbie has an obsession with chicken noodle soup after it was their only real meal when they were trapped in the [[Feywild]]s for 750 years.
+- Halfbie has an obsession with chicken noodle soup after it was their only real meal when they were trapped in the [[Locations/Feywild/Feywild\|Feywild]]s for 750 years.

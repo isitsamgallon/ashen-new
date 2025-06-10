@@ -1,11 +1,8 @@
 ---
-dg-publish: true
-tags:
-  - Player
-Nickname: 
-race: 
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2025-06-10T19:04:48.833+01:00"}
 ---
-Plays [[Mordecai Reverence]] in the campaign 
+
+Plays [[The Party/Mordecai Reverence\|Mordecai Reverence]] in the campaign 
 
 ### Quotes
 - "he kinda touches himself up a little bit" - when talking about Mordecai

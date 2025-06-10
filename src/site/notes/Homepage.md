@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-10T18:56:18.942+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-10T19:04:59.386+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -7,7 +7,7 @@
 # Quick Links
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]]
 
-This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian. 
+This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead.
@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
-- [[History & Events/The Sundering\|The Sundering]]
-- [[History & Events/The Cleansing\|The Cleansing]]
-- [[History & Events/Skyfall Ward\|Skyfall Ward]]
-- [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
+- [[Homepage\|Homepage]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[The Party/The Korrigan\|The Korrigan]]
+- [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]
+- [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]
 
 { .block-language-dataview}
 
@@ -100,8 +100,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                         | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | May 27, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | May 30, 2025    |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | June 10, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | June 10, 2025   |
 | [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | June 10, 2025   |
 
 { .block-language-dataview}

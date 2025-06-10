@@ -1,34 +1,25 @@
 ---
-type: In The Party
-role: Party Member
-class: Rogue/Warlock
-dg-publish: true
-Nation: Unknown/Unclear
-town: Unknown/Unclear
-Nickname: 
-icon: party
-faction:
-  - The Party
-race: Human
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-06-10T19:04:48.754+01:00"}
 ---
+
 
 
 > [!infobox]
 > 
 > # Aiden Knight
-> ![[AidenKnight.png|cover hsmall]]
+> ![AidenKnight.png|cover hsmall](/img/user/Admin/Attachments/AidenKnight.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
 > :----: | --- |
 >  Race | Human |
->  Nationality | [[Organisation of Free Cities (OFC)]], [[Whitespire]] |
+>  Nationality | [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]], [[Locations/OFC/Whitespire/Whitespire\|Whitespire]] |
 >  Class | Rogue/ Warlock |
->  Subclass | Temporal Echo/ [[Chronovorus]] |
+>  Subclass | Temporal Echo/ [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] |
 >  Age | Mid 20s |
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents, [[Freya]] (sister) |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Freya\|Freya]] (sister) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

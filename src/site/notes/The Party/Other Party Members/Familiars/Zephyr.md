@@ -1,19 +1,17 @@
 ---
-dg-publish: true
-Nickname: 
-icon: npc
-race: 
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-06-10T19:04:48.812+01:00"}
 ---
+
  > [!infobox]
 > 
 > # Zephyr
-> ![[ZephyrPP.png|cover hsmall]]
+> ![ZephyrPP.png|cover hsmall](/img/user/Admin/Attachments/ZephyrPP.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
 > :----: | --- |
 >  Race | Fey |
->  Nationality | [[Feywild]] |
+>  Nationality | [[Locations/Feywild/Feywild\|Feywild]] |
 >  Class | Summon |
 >  Subclass | Fey Beast |
 >  Alignment | Seelie |
@@ -33,7 +31,7 @@ Type | Stat |
 >Senses | Darkvision 60ft |
 >Languages | Abyssal, Beast Speech, Celestial, Common, Deep Speech, Druidic, Primordial, Sylvan|
 
-A Fey Hawk that is loyal to [[The Korrigan]], which is native to the [[Feywild]]'s
+A Fey Hawk that is loyal to [[The Party/The Korrigan\|The Korrigan]], which is native to the [[Locations/Feywild/Feywild\|Feywild]]'s
 
 **Trivia**
-- [[Wurinn Fuuldrusch]] can cast beast sense on Zephyr so [[The Party]] could use it to scout far away POIs
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] can cast beast sense on Zephyr so [[Other Information/Display Tags/The Party\|The Party]] could use it to scout far away POIs
