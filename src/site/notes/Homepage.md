@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[The Party/Aiden Knight\|Aiden Knight]]
 - [[Locations/Verdant Spine\|Verdant Spine]]
 - [[Locations/Strixhaven\|Strixhaven]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Itone Isles\|Itone Isles]]
-- [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 
 { .block-language-dataview}
 
