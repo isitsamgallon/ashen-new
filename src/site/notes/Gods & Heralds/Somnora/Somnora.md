@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2025-06-10T19:02:19.817+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2025-06-11T20:07:37.408+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typcial Alignment | Neutral |
 > | Pronouns | She/ Her  |
 > | Celestial Realm | [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]] |
+> | Herald(s)| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] |
 
 > "AND IN THE HUSH OF THE NINTH HOUR CAME Somnora, the Veil of Night, whose mantle is woven of stars and whose breath brings sleep to kings and beggars alike. She walks the hidden paths between waking and wonder, and in her shadow bloom the dreams of men. Her voice is the hush before the storm, the lullaby of eternity, and she binds the restless with visions both divine and dreadful. For in her dominion, the soul is laid bare, and truth is whispered in riddles."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

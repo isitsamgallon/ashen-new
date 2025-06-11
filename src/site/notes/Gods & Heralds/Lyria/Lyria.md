@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-06-10T19:02:19.785+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-06-11T20:06:15.044+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typical Alignment | Neutral |
 > | Pronouns | She/ Her |
 > | Celestial Realm | [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]] |
+> | Herald(s) | Unknown |
 
 > "AND BEHOLD, LYRIA CAME FORTH AS THE FLAME of Yearning, clothed in the perfume of twilight and crowned with the blush of first Jove. Her breath stirred hearts to longing, and her touch awakened the slumbering soul. She is the Whisper in the garden, the Sacred Temptation, the covenant of pleasure and pain for in her embrace is both ecstasy and ruin, and many are they who fall willingly."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

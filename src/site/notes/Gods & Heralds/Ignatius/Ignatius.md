@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-06-10T19:02:19.761+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-06-11T20:08:24.987+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typcial Alignment | Evil |
 > | Pronouns | He/ Him |
 > | Celestial Realm | [[Gods & Heralds/Ignatius/The Crucible Eternal\|The Crucible Eternal]] |
+> | Herald(s)| [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] |
 
 > "AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose Armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

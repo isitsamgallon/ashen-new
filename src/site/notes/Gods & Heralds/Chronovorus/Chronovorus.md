@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-06-10T19:02:19.702+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-06-11T20:08:05.532+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typcial Alignment | Evil |
 > | Pronouns | He/ Him |
 > | Celestial Realm | [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] |
+> | Herald(s)| [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] |
 
 >"AND FROM THE BREACH IN THE FABRIC OF TIME came the Chronovorus, the Eater of Days, whose form was not fixed, and whose hunger knew no end. He passed unseen through ages, devouring what was and what might be, until even memory turned to dust." <cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

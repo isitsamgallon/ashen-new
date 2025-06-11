@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2025-06-10T19:02:19.806+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2025-06-11T20:06:49.156+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typcial Alignment | Evil |
 > | Pronouns | She/ Her |
 > | Celestial Realm | [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]] |
+> | Herald(s)| [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]] |
 
 > "AND SERAPHINA MOVED AS LIGHT THROUGH broken glass, the Healer of Wounds and Restorer of the Forsaken. Her hands, anointed with celestial fire, knit together flesh and spirit; her song brought balm to the weary and peace to the tormented. Clad in the dawn 's embrace, she walks where sorrow dwells, and by her touch, the sick rise, the shattered are made whole, and the forgotten remember Jove."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

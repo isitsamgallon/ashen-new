@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/celestial-planes/","updated":"2025-06-10T19:02:19.696+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/celestial-planes/","updated":"2025-06-11T20:12:05.497+01:00"}
 ---
 
 

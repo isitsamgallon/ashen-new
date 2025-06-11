@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Gods & Heralds Tile Images\|Gods & Heralds Tile Images]]
-- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
 - [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]
-- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
-- [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
+- [[Gods & Heralds/Worshipers\|Worshipers]]
+- [[Gods & Heralds/Eldros/The Verdant Equilibrium\|The Verdant Equilibrium]]
+- [[Gods & Heralds/Ignatius/The Crucible Eternal\|The Crucible Eternal]]
+- [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Gods & Heralds/Worshipers\|Worshipers]]
 - [[Admin/Gods & Heralds Tile Images\|Gods & Heralds Tile Images]]
 - [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]
 - [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]
 - [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
-- [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]]
 
 { .block-language-dataview}
 

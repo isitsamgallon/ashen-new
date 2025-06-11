@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-06-11T18:26:41.107+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-06-11T20:05:55.107+01:00"}
 ---
 
 > [!infobox]
@@ -15,6 +15,7 @@
 > | Titles | **God of Death, Silence and Endings** |
 > | Typcial Alignment | Neutral |
 > | Pronouns | He/ Him |
+> | Herald(s)| Unknown |
 
 > "AND AT THE SETTING OF ALL THINGS CAME Vaelrith, the Stillness Beyond, the Crown of Death, upon whom time dare not lay its hand. Cloaked in silence and crowned with bone, he walks not in wrath, but in solemn promise- for to each living breath, he is the Amen. The stars falter in his passing, and the earth yields without protest, for his hand is gentle and final. He is the keeper of endings, the last word in the book of days."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-06-10T19:02:19.733+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-06-11T20:07:31.288+01:00"}
 ---
 
 > [!infobox]
@@ -16,6 +16,7 @@
 > | Typical Alignment | Neutral |
 > | Pronouns | He/ Him |
 > | Celestial Realm | [[Gods & Heralds/Eldros/The Verdant Equilibrium\|The Verdant Equilibrium]] |
+> | Herald(s)| None |
 
 > "AND ELDROS STOOD AMIDST THE GOLDEN FIELDS, The Reaper of Seasons, whose scythe moved in circles Unbroken. He who sows in silence and reaps with Wisdom, turning the wheel of life and death by divine Ordinance, his plates spinning with the fates of men. " <cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

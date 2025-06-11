@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-06-11T18:28:35.404+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-06-11T20:20:12.907+01:00"}
 ---
 
 
@@ -18,6 +18,7 @@
 > | Pronouns | She/ Her|
 > | Celestial Realm | [[Gods & Heralds/Aeloria/The Golden Plane\|The Golden Plane]] |
 > | Herald(s)| [[Groups & Factions/Religious Organisations/The Golden Ones\|The Golden Ones]] |
+
 
 > "AND LO, AELORIA CAME FORTH CLOAKED IN radiant light, the Keeper of Knowledge, whose eyes beheld the secrets of the firmament. Around her did the holy tomes revolve, and her voice was as a thousand whispers of truth, guiding the faithful and forbidding the unworthy. " <cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 
