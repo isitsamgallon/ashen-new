@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-06-10T19:11:11.118+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-06-11T21:47:18.814+01:00"}
 ---
 
 
@@ -18,5 +18,9 @@ The Inchling Kingdom is a tiny kingdom found in the forests near [[Locations/OFC
 
 { .block-language-dataview}
 
-### Notable Information
-- The kingdom was first visited in [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] 
+### History & Mentions
+| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]] | Everyone woke up in their camp spot outside [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]. Not wanting to be rude, they all decided to leave a note for the [[Other Information/Races/Inchlings\|Inchlings]], saying goodbye and thanking them for the food. [[The Party/Mordecai Reverence\|Mordecai Reverence]] ended up writing the note by casting Enlarge/Reduce on themselves so they could make the thing a bit smaller than they usually would, looking for a quill, [[The Party/Halfbie\|Halfbie]] incised that Mordecai used their, summoning an ancient-looking quill from nothingness "It's special - no ink needed!" they said excitedly with beaming smile on their face. |
+
+{ .block-language-dataview}

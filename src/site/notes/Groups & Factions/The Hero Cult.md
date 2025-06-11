@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-06-10T19:02:58.110+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-06-11T21:38:28.987+01:00"}
 ---
 
 ### Overview
@@ -12,3 +12,9 @@ This process inadvertently led to the formation of a cult around [[Other Informa
 - The cult sends out missionaries to as many towns and nations as possible to spread their message. Notably, none of the missionaries ever returned from [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] and [[Locations/Uvam Dynasty/Yokotori\|Yokotori]], most likely due to them mentioning [[The Party/Mordecai Reverence\|Mordecai Reverence]].
 - Most of [[Other Information/Display Tags/The Party\|the party]] hates the idea of the cult but ultimately sees it as a force for good since it spreads good values.
 - Chenris wanted to move the cult to [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]] to increase trade for the small town.
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

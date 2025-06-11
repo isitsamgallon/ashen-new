@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2025-06-10T19:10:58.155+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2025-06-11T20:29:41.388+01:00"}
 ---
 
 
 ### Overview
-The name of [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session Notes/Season 4 - Ignatius Beckons/Session 38]].
+The name of [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]].
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

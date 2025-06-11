@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kitoma/","tags":["Undiscovered"],"updated":"2025-06-10T19:11:11.057+01:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kitoma/","tags":["Undiscovered"],"updated":"2025-06-11T21:45:08.230+01:00"}
 ---
 
 
 ### Overview
 A town found in [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]].
 
-### Notable Information 
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

@@ -78,7 +78,8 @@ An hourglass filled with silver dust. When flipped, it erases one memory from an
 - [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] (?)
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]] | The priest went on to explain that [[Gods & Heralds/Eldros/Eldros\|Eldros]] used to look after the dreaming world as well, but he struggled to keep track because the rules were different. He still had to maintain balance over the waking parts of the universe. After a few instances of things going wrong, the god decided it would be best to create someone who would watch over the sleeping world while he focused on the waking world. This caused him to give birth to his daughter, whom he named [[Gods & Heralds/Somnora/Somnora\|Somnora]]. |
 
 { .block-language-dataview}

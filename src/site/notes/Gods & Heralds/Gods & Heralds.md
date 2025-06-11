@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-06-11T20:09:08.043+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-06-11T21:32:40.583+01:00"}
 ---
 
 ![Screenshot 2025-06-09 215201.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)

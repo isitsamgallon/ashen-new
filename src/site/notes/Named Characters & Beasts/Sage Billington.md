@@ -7,7 +7,8 @@
 [[Named Characters & Beasts/Dill Billington\|Dill Billington]] 's father and resident of [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] | As they ascended, Dill initially felt fear but later marvelled at the expansive view below. He wished his parents, [[ Sage Billington\| Sage Billington]] and [[ Cumin Billington\| Cumin Billington]], could share in this experience. Intrigued, he asked [[The Party/Halfbie\|Halfbie]] about other wonders they could show him. [[The Party/Halfbie\|Halfbie]] then launched into an enthusiastic monologue about chicken noodle soup. |
 
 { .block-language-dataview}

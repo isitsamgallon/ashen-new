@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-06-10T19:02:58.117+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-06-11T21:39:06.908+01:00"}
 ---
 
+### Overview
 [[Other Information/Display Tags/The Party\|The Party]] is an official sponsor! The Weatherspoon's of [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. Most of [[Other Information/Display Tags/The Party\|The Party]] have Ye Old Tavern Down the Road branded cloaks. Sometimes [[Other Information/Display Tags/The Party\|The Party]] will use this to their advantage for disguises, like when [[The Party/Mordecai Reverence\|Mordecai Reverence]] disguised himself as part of the Taverns team that asked people for their opinions in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]].
 
 Ye Old Tavern Down the Road can allegedly be found in most cities and towns around [[Locations/The Amber Realms\|The Amber Realms]], but here is a list of cities they were especially mentioned to be in:
 - [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]
 - [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] 
 - [[Locations/Ehobel/Ehobel\|Ehobel]] - The [[Other Information/Races/Elves\|Elves]] know of it and see it as a low-class pub that none of them would want to go to. 
+
+### History & Mentions
+| §                                                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 3 - The Worst Diplomates/Session 19\|Session 19]] | once they enter the city, they decide to go to [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]] to get some more information on what to expect with the [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]] situation. Allegedly he had stolen everything from the palace, even the furniture. The are no witnesses since most of the guards weren't on duty, keith had hired his own guards for some reason. with nothing else left to do they go to the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]] to get some sleep. In the morning, they make their way to the palace to find that there is a lot more of a verity of races walking the streets of the city, a testament to the work Steve had been doing. |
+
+{ .block-language-dataview}

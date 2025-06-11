@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","updated":"2025-06-10T19:10:42.951+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","updated":"2025-06-11T21:24:53.590+01:00"}
 ---
 
-(x:: We start mid combat in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]. [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] has two pages so he escaped out through the window. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] misty steps to join Drache. [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], while trying to defend [[The Party/Dead/Kal ‡\|Kal ‡]] gets impaled by the The Ethertwist Haunter and is downed. [[The Party/Mordecai Reverence\|Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. )
+(x:: We start mid combat in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]. [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] has two pages so he escaped out through the window. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] misty steps to join Drache. [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], while trying to defend [[The Party/Dead/Kal ‡\|Kal ‡]] gets impaled by the [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] and is downed. [[The Party/Mordecai Reverence\|Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. )
 
-Chenris now has The Pages to keep them away from both the ghost and the haunter. [[The Party/Aiden Knight\|Aiden Knight]] and Drache go back to pick up Steve. initially Kal is not strong enough to move Steve more than a few meters before dropping him.
+Chenris now has The Pages to keep them away from both the ghost and [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the haunter]]. [[The Party/Aiden Knight\|Aiden Knight]] and Drache go back to pick up Steve. initially Kal is not strong enough to move Steve more than a few meters before dropping him.
 
 Kal ties up Steve with some rope and attaches it to an arrow & shoots it at Drache who pulls him towards the rest of the team outside the house. He a not racist for once when he wakes up!! 
 
-(x:: Chenris Spiritual Weapon to distract the haunter and give everyone time to get out. Everyone runs for the clearing and gets out of The Not World. Kal burns the house down which summons a bunch of White Robed mages from [[Locations/Strixhaven\|Strixhaven]], who look at Chenris with distain before putting out the fire.)
+(x:: Chenris Spiritual Weapon to distract [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the haunter]] and give everyone time to get out. Everyone runs for the clearing and gets out of The Not World. Kal burns the house down which summons a bunch of White Robed mages from [[Locations/Strixhaven\|Strixhaven]], who look at Chenris with distain before putting out the fire.)
 
 --Long Rest--
 
