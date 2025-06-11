@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-06-10T19:02:19.839+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-06-11T18:26:41.107+01:00"}
 ---
 
 > [!infobox]
 > 
 > # Vaelrith
-> ![Screenshot 2025-06-09 181345.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181345.png)
+> ![Vaelrith.png](/img/user/Admin/Attachments/Vaelrith.png)
 > ###### Basic Information
 > 
 > | Type | Stat |

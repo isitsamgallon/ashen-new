@@ -19,12 +19,12 @@
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | Discovered                   |
-> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > 
 { .block-language-dataview}
 
@@ -41,18 +41,18 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 ### NPCs From The OFC
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
+| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
-| [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 
 { .block-language-dataview}
 

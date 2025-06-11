@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-06-10T19:02:19.748+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-06-11T18:31:27.624+01:00"}
 ---
 
 ![Screenshot 2025-06-09 215201.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
@@ -25,3 +25,17 @@ There are several deities that watch over [[Locations/The Amber Realms\|The Ambe
 | [[Gods & Heralds/Lyria/Lyria\|Lyria]]       | The Goddess of Lust and Love                                                                  | Unknown                                             | [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]]      |
 | [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]    | The God of Death, [[Gods & Heralds/Vaelrith/Fragment Of Vaelrith\|Fragment Of Vaelrith]]                                                    | Unknown                                             | [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]]         |
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px; border-radius: 15px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/AeloriaWeb.png"/>
+		<a href="https://www.ashencampaign.xyz/gods-and-heralds/aeloria/aeloria/">Aeloria</a>
+	</div>
+		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px; border-radius: 15px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ChronovorusWeb.png"/>
+		<a href="https://www.ashencampaign.xyz/gods-and-heralds/chronovorus/chronovorus/">Chronovorus</a>
+	</div>
+		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
+		<img style="padding: 10px; border-radius: 15px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/EldrosWeb.png"/>
+		<a href="https://www.ashencampaign.xyz/gods-and-heralds/eldros/eldros/">Eldros</a>
+	</div>
+</div>
