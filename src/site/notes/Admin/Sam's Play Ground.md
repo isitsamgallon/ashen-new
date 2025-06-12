@@ -1,93 +1,115 @@
 ---
-{"dg-publish":true,"permalink":"/admin/sam-s-play-ground/","updated":"2025-06-12T15:49:43.891+01:00"}
+{"dg-publish":true,"permalink":"/admin/sam-s-play-ground/","updated":"2025-06-12T16:30:17.227+01:00"}
 ---
 
-<!DOCTYPE html>
-
-<html lang="en">
-
+<html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-    <meta charset="UTF-8">
+.navbar {
+  overflow: hidden;
+  background-color: #a21313;
+}
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: #fff9f0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
 
-    <title>Dropdown Menu</title>
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fdefdd;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #fff9f0;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
 </head>
+<body style="background-color:white;">
 
-<body>
-
-    <nav>
-
-        <ul>
-
-        <li><a href="https://www.ashencampaign.xyz/">Home</a></li>
-
-        <li><a href="https://www.ashencampaign.xyz/named-characters-and-beasts/named-characters-and-beasts/">Characters ▾</a>
-
-        <li>
-
-            <a href="https://www.ashencampaign.xyz/other-information/display-tags/the-party/">The Party</a></li>
-
-            <ul class="dropdown">
-
-                <li><a href="https://www.ashencampaign.xyz/other-information/display-tags/the-party/">The Party & Companions</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/the-party/aiden-knight/">Aidan Knight</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/the-party/wurinn-fuuldrusch/">Wurinn "Drache" Fuuldrusch</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/the-party/halfbie/">Halfbie</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/the-party/mordecai-reverence/">Mordecai Reverence</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/the-party/the-korrigan/">The Korrigan</a></li>
-
-            </ul>
-
-        <li><a href="https://www.ashencampaign.xyz/locations/locations/">Locations</a></li>
-
-        <li><a href="https://www.ashencampaign.xyz/history-and-events/history-and-events/">History & Events</a></li>
-
-        <li>
-
-            <a href="https://www.ashencampaign.xyz/gods-and-heralds/gods-and-heralds/">Gods & Heralds</a></li>
-
-            <ul class="dropdown"></ul>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/aeloria/aeloria/">Aeloria</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/chronovorus/chronovorus/">Chronovorus</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/eldros/eldros/">Eldros</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/ignatius/ignatius/">Ignatius</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/lorwyn/lorwyn/">Lorwyn</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/lyria/lyria/">Lyria</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/seraphina/seraphina/">Seraphina</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/somnora/somnora/">Somnora</a></li>
-
-                <li><a href="https://www.ashencampaign.xyz/gods-and-heralds/vaelrith/vaelrith/">Vaelrith</a></li>
-
-            </li>  
-
-        <li><a href="https://www.ashencampaign.xyz/groups-and-factions/groups-and-factions/">Groups & Factions</a></li>
-
-        <li><a href="https://www.ashencampaign.xyz/other-information/races/races/">Races</a></li>
-
-        </ul>
-
-    </nav>
+<div class="navbar">
+  <a href="https://www.ashencampaign.xyz/">Homepage</a>
+  <a href="https://www.ashencampaign.xyz/named-characters-and-beasts/named-characters-and-beasts/">Characters</a>
+  <div class="dropdown">
+    <button class="dropbtn">The Party 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://www.ashencampaign.xyz/other-information/display-tags/the-party/">The Party & Companions</a>
+      <a href="https://www.ashencampaign.xyz/the-party/aiden-knight/">Aidan Knight</a>
+      <a href="https://www.ashencampaign.xyz/the-party/wurinn-fuuldrusch/">Drache</a>
+      <a href="https://www.ashencampaign.xyz/the-party/halfbie/">Halfbie</a>
+      <a href="https://www.ashencampaign.xyz/the-party/mordecai-reverence/">Mordecai Reverence</a>
+      <a href="https://www.ashencampaign.xyz/the-party/the-korrigan/">The Korrigan</a>
+    </div>
+  </div>
+  <a href="https://www.ashencampaign.xyz/history-and-events/history-and-events/">History & Events</a>
+   <div class="dropdown">
+    <button class="dropbtn">Gods & Heralds 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/aeloria/aeloria/">Aeloria</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/chronovorus/chronovorus/">Chronovorus</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/eldros/eldros/">Eldros</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/ignatius/ignatius/">Ignatius</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/lorwyn/lorwyn/">Lorwyn</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/lyria/lyria/">Lyria</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/seraphina/seraphina/">Seraphina</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/somnora/somnora/">Somnora</a>
+      <a href="https://www.ashencampaign.xyz/gods-and-heralds/vaelrith/vaelrith/">Vaelrith</a>
+   </div>
+  </div> 
+  <a href="https://www.ashencampaign.xyz/groups-and-factions/groups-and-factions/">Groups & Factions</a>
+  <a href="https://www.ashencampaign.xyz/other-information/races/races/">Races</a>
+</div>
 
 </body>
-
 </html>

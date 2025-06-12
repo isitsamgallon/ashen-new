@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","updated":"2025-06-11T18:43:20.141+01:00"}
+{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","hide":true,"updated":"2025-06-12T15:55:54.590+01:00"}
 ---
 
 
