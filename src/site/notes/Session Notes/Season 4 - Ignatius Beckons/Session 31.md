@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-06-11T21:06:48.570+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-31/","updated":"2025-06-13T19:14:20.631+01:00"}
 ---
 
 **Session Date:** 9th Feb 2025 
@@ -28,7 +28,7 @@ Walking through the streets of the residential district, [[Other Information/Dis
 
 Mordecai ventured inside to ask about the cloak. The shopkeeper explained that the cloak would cost around 6000 gold. Mordecai tried to haggle, explaining that they were somewhat famous and could advertise the shop when they travelled around. The shopkeeper rejects this but, after some talking, agrees to give a small discount if the party is able to figure out what the items do. he is unaware as the items were brought in from the university when on an expedition.
 
-While this is happening, [[The Party/Halfbie\|Halfbie]] uses the Identify spell to learn about the book, learning it was called the [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]]. The book had two abilities: 
+While this is happening, [[The Party/Halfbie\|Halfbie]] uses the Identify spell to learn about the book, learning it was called the [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories]]. The book had two abilities: 
 - Editor’s Reprieve - Once per week, you may **rewrite a minor event from the past 24 hours**, subtly **altering reality** in a way that does not contradict major events. The rewritten event seamlessly integrates into history as if it always happened that way.
 - Ink of Forgotten Truths - When you write a person's name in the tome, their past **bleeds onto the pages**, revealing **a hidden fact or secret** about them. The ink fades after 1 minute, leaving no trace.
 

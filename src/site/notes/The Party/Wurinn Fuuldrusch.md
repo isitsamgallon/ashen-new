@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-06-10T19:10:33.898+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-06-13T17:28:00.577+01:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 >  Age | 30-40 |
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]](lover) |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

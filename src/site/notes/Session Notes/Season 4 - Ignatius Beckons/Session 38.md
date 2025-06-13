@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-06-11T20:32:10.195+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-06-13T19:14:20.683+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -16,7 +16,7 @@ What followed was a horrific campaign of magical consumption. Halfbie was led th
 Korrigan cut into Halfbie’s stomach, unleashing a tide of black pus and, eventually, Vaelrith himself—an eerie, skeletal figure birthed from ichor. After being handed the cursed bell by Halfbie, Vaelrith disappeared into thin air, leaving behind only silence. The Party, horrified and exhausted, barely had time to react before Xekai appeared via portal, offering a cryptic yet bitterly amused commentary on the events. The aftermath left the group shaken—especially Mordecai, who chastised Halfbie for their reckless curiosity that nearly got them all killed.
 
 # Full Session Notes 
-(x:: [[Other Information/Display Tags/The Party\|The Party]], still on the [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] with her giant ice spider, hurried to escape from [[Locations/Important Locations/The Tulan Fort\|the Tulan Fort]]. They could hear shouts and screams from within the fort as they rushed to raid for the chaise. While [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/The Korrigan\|Korrigan]] panicked and attempted to devise a plan to get out of this situation, [[The Party/Halfbie\|Halfbie]] quietly took out their [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Tome of Unfinished Stories]] and began casting a spell to rewrite aspects of the world. The spell changed the problem so that the people in the fort were no longer angry with them and were willing to offer a choice. )
+(x:: [[Other Information/Display Tags/The Party\|The Party]], still on the [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] with her giant ice spider, hurried to escape from [[Locations/Important Locations/The Tulan Fort\|the Tulan Fort]]. They could hear shouts and screams from within the fort as they rushed to raid for the chaise. While [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/The Korrigan\|Korrigan]] panicked and attempted to devise a plan to get out of this situation, [[The Party/Halfbie\|Halfbie]] quietly took out their [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories]] and began casting a spell to rewrite aspects of the world. The spell changed the problem so that the people in the fort were no longer angry with them and were willing to offer a choice. )
 
 (x:: As the members of the fort caught up with them, everything slowed down, and the fort members gave them a stern but light reprimand. They explained that spying was bad and that riding on the back of a giant ice spider could lead to a cold, so they needed to be more careful.)
 

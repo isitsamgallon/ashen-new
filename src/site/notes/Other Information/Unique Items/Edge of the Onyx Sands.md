@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/other-information/unique-items/edge-of-the-onyx-sands/","updated":"2025-06-13T19:23:17.210+01:00"}
+---
+
+### Overview
+A dagger found on the head priest of [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]. [[The Party/Aiden Knight\|Aiden Knight]] looted the dagger on [[Other Information/Display Tags/The Party\|The Party]]'s raid of the base. it was later revealed in [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]] this dagger is actually and artefact of [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]. 
+
+### Item Description
+**Desert Steel.** You receive a +2 bonus to Attack rolls you make when attacking with this Dagger. This weapon also deals an additional +2 Necrotic damage.
+
+**Dark Return.** After throwing this dagger you may speak a command word. The dagger disperses into glittering black sand and reappears in your hand. 
+
+**Onyx Transformation.** When you are the target of an attack, spell or ability you can use your reaction to turn yourself into a being of glittering black sand. This state has 50 hit points. You remain in this state until the start of your next turn or when the hit points are reduced to 0. During this time you can not be healed. All damage surpassing this pool of hit points is carried over to your own hit points. You can use this feature once per long rest.
+
+### History & Mentions
+| §                                                                               | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] | As the cult summoned a time rift, Aiden worked frantically to close it while the rest of [[Other Information/Display Tags/The Party\|the party]] launched an all-out assault. Overwhelmed by endless waves of cultists, their strength was nearly depleted when Aiden finally sealed the rift, its collapse leaving a grotesque scene of twisted bodies and blood-soaked stone. The group claimed a sinister dagger, Edge of the Onyx Sands, and Chenris uncovered a critical page for [[Gods & Heralds/Chronovorus/The Black Ritual\|the Black Ritual]], along with a staff of swarming insects. The ritual’s price—a burning of sacred pages and cherished possessions—left them grimly aware of the sacrifices ahead. Following the pull of [[Gods & Heralds/Chronovorus/The Pages\|the pages]], [[Other Information/Display Tags/The Party\|the party]] ventured into a dark forest that transported them to a decayed mansion of malevolent energy. |
+
+{ .block-language-dataview}

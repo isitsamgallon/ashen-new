@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/other-information/unique-items/clockwork-bird/","updated":"2025-06-13T19:08:53.185+01:00"}
+---
+
+### Overview
+One of [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s [Artificer Infusions](http://dnd5e.wikidot.com/artificer:infusions) that he gave to [[The Party/Other Party Members/Bruce\|Bruce]] as a bet and uses in battle. 
+
+### Statblock
+![HOMUNCULUS SERVANT STATBLOCK.png](/img/user/Admin/Attachments/HOMUNCULUS%20SERVANT%20STATBLOCK.png)
+
+### History & Mentions
+| §                                                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 3 - The Worst Diplomates/Session 16\|Session 16]] | Korrigan casts [Pass Without Trace](https://www.dndbeyond.com/spells/2201-pass-without-trace) and they find a window to climb through but as they get into the room Mordecai's costume bag makes a massive sound because of the outfit has bells on it. With a guard coming to investigate Mordecai puts the costume on and jumps out the window and tries to act confused. They successfully trick the guard into thinking they're arew a jester and put on a show to distract them so the others can sneak [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]] out without anyone knowing. They put Chenris' [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]] in her room to make it sound like she is till in there and make sure people don't discover too early. Everyone gets out and no one knows what has happened. They go to meet up with Chenris and Drache. |
+
+{ .block-language-dataview}

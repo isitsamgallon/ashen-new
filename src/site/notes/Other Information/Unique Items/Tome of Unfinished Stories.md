@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/other-information/unique-items/tome-of-unfinished-stories/","updated":"2025-06-13T19:16:52.405+01:00"}
+---
+
+### Overview
+A book at [[The Party/Halfbie\|Halfbie]] manged to obtain from a [[Locations/Strixhaven\|Strixhaven]] magic shop. They manged to get the book for free by telling the shop keeper they could travel with the book and research its affects and get a big discount. the shopkeeper agree. when they left the shop [[The Party/Halfbie\|Halfbie]]  then rewrote history to say they got the book for free. They have to return it [[Locations/Strixhaven\|Strixhaven]] in 6 months unless they rewrite history again. 
+
+### Item Description
+Once per day, you may write a name in the book and learn a random fact about that person (chosen by the DM).
+
+Once per week, you can rewrite a single event from the past 24 hours, but the change must be subtle and not directly contradict major events.
+
+### History & Mentions
+| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | [[Other Information/Display Tags/The Party\|The Party]], still on the [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] with her giant ice spider, hurried to escape from [[Locations/Important Locations/The Tulan Fort\|the Tulan Fort]]. They could hear shouts and screams from within the fort as they rushed to raid for the chaise. While [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/The Korrigan\|Korrigan]] panicked and attempted to devise a plan to get out of this situation, [[The Party/Halfbie\|Halfbie]] quietly took out their [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories]] and began casting a spell to rewrite aspects of the world. The spell changed the problem so that the people in the fort were no longer angry with them and were willing to offer a choice. |
+
+{ .block-language-dataview}
