@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]]
 - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
 - [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
 - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 - [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
-- [[Admin/Templates/Unique Item Template\|Unique Item Template]]
 
 { .block-language-dataview}
 
