@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
+- [[Other Information/Display Tags/The Party\|The Party]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
 - [[Admin/PartyWebPics\|PartyWebPics]]
-- [[Admin/Spell Links\|Spell Links]]
-- [[Admin/Sam's Play Ground\|Sam's Play Ground]]
-- [[Homepage\|Homepage]]
-- [[Other Information/All Sessions\|All Sessions]]
 
 { .block-language-dataview}
 
