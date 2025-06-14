@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-06-10T19:10:33.838+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-06-14T13:52:32.695+01:00"}
 ---
 
 > [!infobox]
@@ -33,6 +33,11 @@
 >AC | 14 |
 >Senses | Sight |
 >Languages | Common, Thieves' Cant, Celestial, Common, Deep Speech, Primordial|
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
+> 
+{ .block-language-dataview}
 
 ### Overview
 Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] when [[Other Information/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Important Locations/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 

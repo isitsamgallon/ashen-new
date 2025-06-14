@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-06-10T19:10:33.841+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-06-14T13:51:34.085+01:00"}
 ---
 
 
@@ -34,6 +34,11 @@
 >AC | 13 |
 >Senses | Darkvision 60ft |
 >Languages | Common, Infernal, Draconic|
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
+> 
+{ .block-language-dataview}
 
 
 > "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]</cite>

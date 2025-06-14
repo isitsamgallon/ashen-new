@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spell-links/","updated":"2025-03-01T21:15:06.719+00:00"}
+{"dg-publish":true,"permalink":"/admin/spell-links/","hide":true,"updated":"2025-06-14T14:29:40.010+01:00"}
 ---
 
 

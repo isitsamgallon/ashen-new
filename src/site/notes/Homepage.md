@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-12T16:30:10.333+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-14T14:22:25.832+01:00"}
 ---
 
 ![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -57,8 +57,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
-| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | June 09, 2025      |
+| [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
@@ -66,8 +66,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | September 24, 2024 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
-| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
+| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]]
-- [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
-- [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
-- [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
-- [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
+- [[Admin/PartyWebPics\|PartyWebPics]]
+- [[Admin/Spell Links\|Spell Links]]
+- [[Admin/Sam's Play Ground\|Sam's Play Ground]]
+- [[Homepage\|Homepage]]
+- [[Other Information/All Sessions\|All Sessions]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Admin/PartyWebPics\|PartyWebPics]]
+- [[Other Information/All Sessions\|All Sessions]]
+- [[Other Information/Level Up\|Level Up]]
 - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
 - [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
-- [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
-- [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
-- [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 
 { .block-language-dataview}
 

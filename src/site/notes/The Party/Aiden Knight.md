@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-06-11T21:59:40.483+01:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-06-14T13:50:24.242+01:00"}
 ---
 
 
@@ -36,6 +36,12 @@
 >AC | 15 |
 >Senses | Sight|
 >Languages | Common, Elvish, Goblin, Primordial, Thieves’ Cant|
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
+> 
+{ .block-language-dataview}
+
 
  > "..."  <cite>Aidan Knight</cite>
 

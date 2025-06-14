@@ -7,7 +7,7 @@ The name [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] gave to a
 ### Known Members
 - [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]
 - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
-- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]
 - [[Named Characters & Beasts/Genevieve †\|Genevieve †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]
 
 { .block-language-dataview}

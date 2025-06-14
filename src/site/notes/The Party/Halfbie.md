@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-10T19:10:33.825+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-14T13:51:50.024+01:00"}
 ---
 
 
@@ -34,6 +34,12 @@
 >AC | 13 (15 MA) |
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
+> 
+{ .block-language-dataview}
 
 > "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]</cite>
 

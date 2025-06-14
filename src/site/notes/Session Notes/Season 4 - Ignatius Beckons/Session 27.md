@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-27/","updated":"2025-06-11T21:09:19.859+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-27/","tags":["LevelUp"],"updated":"2025-06-14T14:07:17.772+01:00"}
 ---
 
 **Session Date:** 20th Dec 2024 

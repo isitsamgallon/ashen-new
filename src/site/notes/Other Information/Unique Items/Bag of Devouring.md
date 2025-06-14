@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/bag-of-devouring/","updated":"2025-06-13T19:08:49.814+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/bag-of-devouring/","tags":["chenrisitem"],"updated":"2025-06-14T13:53:35.010+01:00"}
 ---
 
 ### Overview

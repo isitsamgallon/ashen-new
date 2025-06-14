@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-21/","updated":"2025-06-11T21:19:38.534+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-21/","tags":["LevelUp"],"updated":"2025-06-14T14:13:52.046+01:00"}
 ---
 
 

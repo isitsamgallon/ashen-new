@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-13/","updated":"2025-06-11T21:33:04.961+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-13/","updated":"2025-06-14T14:02:19.712+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ The next morning, after a brief altercation between Mordecai and Aidan, Drache c
 
 Chenris freed himself and gave Korrigan the help action to try and find the mage again since Korrigan has the best vison out everyone. they find the mage and start trying to attack and get a number of hits off on the mage, but not enough to kill it. As this is happening, gravity is getting stronger and people are starting to lose consciousness. To make matters worse, Mordecai spots [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]] approaching the party with large battle axes and a legion of Goblins. As a last ditched effort, chenris uses [Misty Step](https://www.dndbeyond.com/spells/misty-step) to appear next to the mage but misses his [Inflict Wounds](https://www.dndbeyond.com/spells/inflict-wounds) and the whole party blacks out. 
 
-(x:: When the party opens their eyes they are in [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s library and there is a soul for each member of the party except Chenris. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] states that she will help the party get stronger ([[Level Up\|Level Up]]) as she is a fan of how much information she is getting out of the party. )
+(x:: When the party opens their eyes they are in [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s library and there is a soul for each member of the party except Chenris. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] states that she will help the party get stronger  as she is a fan of how much information she is getting out of the party. )
 
 (x:: When the party wake up in the real world they are chained up in mine. Chenris and Korrigan are quick to point out that this seems very similar to the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]. They currently have none of their equipment. The party is in a cage that is guarded by two goblins in chain mail. in an attempt to escape, Korrigan charms one of the guards. the other guard stops everything a demands that the other is un-charm so he can be disposed of after being such an embarrassment. Korrigan says he'll release the charm if the goblin is not harmed after and the goblin agrees. As soon as he is un-charmed he told to take his break and then off screened. This deeply saddens Korrigan as he realises he is directly responsible for for someones death. )
 

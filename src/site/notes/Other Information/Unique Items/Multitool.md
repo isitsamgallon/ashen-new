@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/multitool/","updated":"2025-06-13T19:08:36.975+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/multitool/","tags":["halfbieitem","chenrisitem"],"updated":"2025-06-14T13:54:23.607+01:00"}
 ---
 
 ### Overview

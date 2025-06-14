@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"updated":"2025-06-10T19:10:58.501+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"updated":"2025-06-14T14:14:54.488+01:00"}
 ---
 
 
 ### Overview
 Witherfeather is a powerful mage that was first mentioned by [[The Party/The Korrigan\|The Korrigan]] as a way to break [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] out of this contract with the [[Groups & Factions/Ivory Crest\|Ivory Crest]]. It was revealed that Korrigan was also a part of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] 5 years ago and Terrance helped him escape the contact when the effect weakened over time. He freed both of them by transferring the ownership over to a new party and then giving them the contract so that they were always in control. 
 
-### Notable Informationhe start of the story he was chased out of [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], presumably for freeing many slaves.
+### Notable Information
+- He start of the story he was chased out of [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], presumably for freeing many slaves.
 - Terence was then captured in [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] by [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]] and was forced to use his powers to help steal from people and in-slave them to Arwen. This is presumably where he also met [[The Party/Mordecai Reverence\|Mordecai Reverence]]. 
 
 ### History & Mentions

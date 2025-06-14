@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-06-11T21:24:45.462+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-06-14T13:52:19.722+01:00"}
 ---
 
 > [!infobox]
@@ -37,6 +37,13 @@
 >Traits |
 >---|
 >Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
+> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
+> 
+{ .block-language-dataview}
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-06-13T17:28:00.577+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-06-14T13:50:52.574+01:00"}
 ---
 
 
@@ -33,6 +33,12 @@
 >AC | 18 |
 >Senses | Sight |
 >Languages | Common, Draconic|
+>
+>##### Unique Items 
+> - [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
+> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
+> 
+{ .block-language-dataview}
 
 
 > "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session 28\|Session 28]]</cite>
