@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-06-11T21:47:50.452+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-06-30T20:16:54.331+01:00"}
 ---
 
 > [!infobox]
@@ -23,29 +23,29 @@
 >   | File                                                                                  | Discovery Status               |
 > | ------------------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | <ul><li>Missing</li></ul>      |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | <ul><li>Missing</li></ul>      |
 > | [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
 > 
 { .block-language-dataview}
 
 ### Overview
-The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Emperor, [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the Dwarves in what came to be known as [[History & Events/The Cleansing\|The Cleansing]] led by his ancestor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]]. The Dawn was one of the magic factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period The Dawn had a very good relationship with [[Locations/Ehobel/Ehobel\|Ehobel]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
+The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]] and led by [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|The Emperor]], [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the Dwarves in what came to be known as [[History & Events/The Cleansing\|The Cleansing]] led by his ancestor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]]. The Dawn was one of the magic factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period The Dawn had a very good relationship with [[Locations/Ehobel/Ehobel\|Ehobel]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
 
 
 
@@ -54,9 +54,9 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive   |
+| [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
@@ -68,8 +68,8 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
 | [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead    |
-| [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
 | [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
+| [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
 | [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
 
 { .block-language-dataview}

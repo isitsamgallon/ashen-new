@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-06-11T21:06:35.700+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-06-30T20:16:55.710+01:00"}
 ---
 
 **Session Date:** 16th Jan 2025 
@@ -20,7 +20,7 @@ As the group visited [[Locations/The Dawn Empire/The All-Father Temple\|the All-
 
 (x:: The pews inside the building were full to bursting, the entire town gathered under one roof. As [[The Party/The Korrigan\|Korrigan]] watched, three figures clad in yellow and orange robes emerged into the room. Sun motifs danced across their robes in the light of their flaming swords as fire enveloped the stage. An old man emerged from the flames, his beard and robes seemingly untouched by the flames as they dissipated behind him. With surprising strength and dexterity, he wielded a fiery great hammer as he addressed the crowd - stating that before they began their meeting, any citizen not of [[Locations/The Dawn Empire/The Dawn Empire\|the dawn empire]] should leave immediately. Fiery magic emanated from his hammer, licking the walls to find any hidden intruders. The magic swirled around the [[Locations/The Dawn Empire/Dustwood\|dustwood]] citizens, leaving them unscathed, before finding the spider form of [[The Party/The Korrigan\|Korrigan]]. Unable to resist in his minibeast form, [[The Party/The Korrigan\|Korri]] kept getting pushed further and further back towards the crack in the wall until he was back in the cart with his friends. )
 
-(x:: Once they had determined that the fiery display had ceased, [[The Party/The Korrigan\|Korrigan]] crawled back through his trusty crack in the wall and witnessed the secret meeting in its entirety. Once the older man was convinced that the eavesdroppers had been vanquished, he spoke once again, announcing that the Emperor had “betrayed and abandoned” them. He encouraged the crowd to resurrect the priesthood and bring back their saviour. )
+(x:: Once they had determined that the fiery display had ceased, [[The Party/The Korrigan\|Korrigan]] crawled back through his trusty crack in the wall and witnessed the secret meeting in its entirety. Once the older man was convinced that the eavesdroppers had been vanquished, he spoke once again, announcing that [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|the Emperor]] had “betrayed and abandoned” them. He encouraged the crowd to resurrect the priesthood and bring back their saviour. )
 
 (x:: Once the old man’s spiel had concluded, the priesthood disappeared in an eruption of leaflets that rained down around their audience. [[The Party/The Korrigan\|Korrigan]] rushed back to the group, transformed back into his humanoid form, and caught them up on this rogue religious group. The group ventured into the now empty hall to find a couple of leaflets left behind, labelling the group as the “[[Groups & Factions/Brotherhood Of The Sun\|Brotherhood of the Sun]]” with a tagline of “Remember the [[Groups & Factions/Brotherhood Of The Sun\|Prince of Fire]]”.)
   

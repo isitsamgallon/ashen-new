@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-06-10T19:10:49.881+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-06-30T20:16:37.959+01:00"}
 ---
 
 
@@ -46,7 +46,7 @@
 ### Attitudes & Beliefs
 Elves are often depicted with superiority complex, often looking down on the other races and regarding them as savages and brutes. Their culture is often centred around the arts and beauty and go to great lengths to heighten the beauty around them and their own. 
 
-Due to their extremely long lifespans, they have strange perceptions of time often seeing 50 years as just blip in their lives.  Because of this way of electing emperors shifted from voting to a succession. Typically when one emperor dies the next lord in line for the throne will take their place or if the emperor lives for more than 1000s year then they move to the next one. [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] broke this rule by becoming the next empress after her mother, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]. 
+Due to their extremely long lifespans, they have strange perceptions of time often seeing 50 years as just blip in their lives.  Because of this way of electing emperors shifted from voting to a succession. Typically when one emperor dies the next lord in line for the throne will take their place or if [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|the emperor]] lives for more than 1000s year then they move to the next one. [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] broke this rule by becoming the next empress after her mother, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]. 
 
 Elves notably make frequent use of slaves, most likely captured during wars and invasions. so much so that [[Locations/Ehobel/Ehobel\|Ehobel]] has atleast 3 slave companies ([[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]], [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]], [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]])
 

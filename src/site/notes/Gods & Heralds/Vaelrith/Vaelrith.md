@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-06-11T20:29:41.210+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2025-07-01T21:31:11.181+01:00"}
 ---
 
 > [!infobox]
@@ -36,13 +36,11 @@ It was mentioned that at some point [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith
 ### Mythos & Legends
 Vaelrith, god of Death, Silence, Endings, and Memory, is among the first beings to exist-born in tandem with [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]], the primordial whole. When the first moment reached its last, it was Vaelrith who laid a silent hand upon [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]], ending its existence and giving birth to all creation. In that act, death became not destruction, but the sacred doorway through which all things begin and end.
 
-He has always been a quiet god, revered not for power, but for presence. Death under Vaelrith's gaze is not cruel-it is restful, necessary, and unchanging. Yet mortals have long feared him. In a forgotten age, a cult known as The Shrouded Rebirth sought to stop death
-altogether. Believing themselves wise, they lured Vaelrith into a crypt of their own making and sealed him there with ancient rites, imagining a world freed from his touch.
+He has always been a quiet god, revered not for power, but for presence. Death under Vaelrith's gaze is not cruel-it is restful, necessary, and unchanging. Yet mortals have long feared him. In a forgotten age, a cult known as The Shrouded Rebirth sought to stop death altogether. Believing themselves wise, they lured Vaelrith into a crypt of their own making and sealed him there with ancient rites, imagining a world freed from his touch.
 
 But without death, life decayed. Suffering lingered, and time lost meaning. [[Gods & Heralds/Eldros/Eldros\|Eldros]], guardian of balance, assumed the burden Vaelrith left behind, restoring the cycle of life and loss. The cult that had imprisoned him slowly perished- unageing, yet unravelling- proving that death is not an end to be feared, but a mercy to be honoured. 
 
-One tale that endures is The Bell That Rang Once, telling of a city that magically defied death. When rot and madness overcame it, a single, soundless bell tolled across the land. In that moment, death returned- not in fury, but in peace- and the people were allowed to rest.
-Vaelrith remains silent in his imprisonment, yet his essence is still felt. His faceless psychopomps continue to guide souls, their presence marked by stillness and calm. He does not demand offerings, nor does he grant favours- but he is always watching, always waiting.
+One tale that endures is The Bell That Rang Once, telling of a city that magically defied death. When rot and madness overcame it, a single, soundless bell tolled across the land. In that moment, death returned- not in fury, but in peace- and the people were allowed to rest. Vaelrith remains silent in his imprisonment, yet his essence is still felt. His faceless psychopomps continue to guide souls, their presence marked by stillness and calm. He does not demand offerings, nor does he grant favours- but he is always watching, always waiting.
 
 To know Vaelrith is to understand that endings are not erasures, but closures. He is the keeper of the last page, the guardian of memory, and the promise that even in silence, we are not forgotten.
 

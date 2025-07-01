@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-06-10T19:00:50.434+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-06-30T20:16:52.203+01:00"}
 ---
 
 ### Introduction: The Flame’s Origin
@@ -30,7 +30,7 @@ The empire flourished, its forges burning brighter than ever. But Grayfall’s r
 
 Despite Kaelis’s contributions, the Grayfall Empire was crumbling. The humans, long treated as second-class citizens, rose in rebellion. Armed with stolen magics and deep-seated fury, they laid siege to the empire’s great strongholds.
 
-Kaelis, torn between loyalty to the empire that had given him a home and the knowledge that change was inevitable, sought a way to preserve Grayfall’s knowledge. He pleaded with Emperor Thalgrim to negotiate with the rebels, but the emperor refused, believing dwarven steel and Kaelis’s fire magic would be enough to crush the uprising.
+Kaelis, torn between loyalty to the empire that had given him a home and the knowledge that change was inevitable, sought a way to preserve Grayfall’s knowledge. He pleaded with Emperor Thalgrim to negotiate with the rebels, but [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|the emperor]] refused, believing dwarven steel and Kaelis’s fire magic would be enough to crush the uprising.
 
 As the final battle raged within the capital, Kaelis enacted a desperate plan. He gathered as many scrolls and artifacts as he could, smuggling them out of the city. Some say he intended to find a new home for Grayfall’s knowledge, while others believe he sought only to save his life’s work.
 

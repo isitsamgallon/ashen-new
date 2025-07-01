@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","updated":"2025-06-10T19:00:50.422+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-chronicles-of-the-grayfall-empire-a-dwarven-legacy/","updated":"2025-06-30T20:16:54.949+01:00"}
 ---
 
 
@@ -11,7 +11,7 @@ While the dwarves indulged in their creations and reveled in the solitude of the
 
 **Chapter 2: The Seeds of Discord**
 
-As the [[History & Events/Grayfall Empire\|Grayfall Empire]] progressed into the [[History & Events/Eras/4th Era\|4th Era]], its wealth grew exponentially from the treasures of the Verdant Spine. Yet, this affluence sowed the seeds of internal discord. The very structure of their governance, where each dwarf king held a vote for the emperor, fostered rivalry and greed. Each king, naturally inclined to vote for himself, led to a fragmentation of the once-unified empire. The cities, once cohesive, became insular, each pursuing its own agenda.
+As the [[History & Events/Grayfall Empire\|Grayfall Empire]] progressed into the [[History & Events/Eras/4th Era\|4th Era]], its wealth grew exponentially from the treasures of the Verdant Spine. Yet, this affluence sowed the seeds of internal discord. The very structure of their governance, where each dwarf king held a vote for [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|the emperor]], fostered rivalry and greed. Each king, naturally inclined to vote for himself, led to a fragmentation of the once-unified empire. The cities, once cohesive, became insular, each pursuing its own agenda.
 
 This internal strife weakened the empire's unity, making it vulnerable to external and internal threats. The disintegration was further accelerated by the rise of ambitious lords seeking to expand their dominions beyond the peninsula.
 

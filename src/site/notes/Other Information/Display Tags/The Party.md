@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-06-14T15:31:15.528+01:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-06-30T20:31:10.202+01:00"}
 ---
 
 ### Player Characters
@@ -46,7 +46,7 @@
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
 		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/CorvusWeb.jpg?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/the-party/other-party-members/corvus/">Corvus</a>
-		<p>Rouge</p>
+		<p>Rogue</p>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
 		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/SteveUlanWeb.png?raw=true"/>
@@ -70,11 +70,12 @@
 | File                                                                                                             | Class             | Role         | Status       | Home Nation     | Home Town       |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] | Druid             | Companion    | In The Party | Unknown/Unclear | Unknown/Unclear |
-| [[The Party/Aiden Knight\|Aiden Knight]]                                                                      | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Halfbie\|Halfbie]]                                                                                | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
+| [[The Party/Aiden Knight\|Aiden Knight]]                                                                      | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
+| [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                          | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/The Korrigan\|The Korrigan]]                                                                      | Ranger/Druid      | Party Member | In The Party | The Feywilds    | Seelie Court    |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                            | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
-| [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                          | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 
 { .block-language-dataview}
+ 

@@ -28,6 +28,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                                                                                  |
+| [[Session Notes/Session 39\|Session 39]]                             | \-                          | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                          |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                                          |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                                               |
@@ -36,7 +37,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]] | Season 4 - Ignatius Beckons | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]] | Season 4 - Ignatius Beckons | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                                              |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] | Season 4 - Ignatius Beckons | After executing Malin, Halfbie is accidentally flung into the Feywild, where he survives for centuries before Korrigan rescues him. The party then journeys onward, grappling with morality, confronting past traumas, and discovering the tiny but vibrant Inchling Kingdom.                                                                                       |
 
 { .block-language-dataview}
 ### Books & Documents Reading List
@@ -59,8 +59,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | June 09, 2025      |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
+- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Session Notes/Session 39\|Session 39]]
 - [[Other Information/Display Tags/The Party\|The Party]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]]
-- [[Admin/PartyWebPics\|PartyWebPics]]
+- [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
+- [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/Session 39\|Session 39]]
 - [[Admin/PartyWebPics\|PartyWebPics]]
 - [[Other Information/All Sessions\|All Sessions]]
 - [[Other Information/Level Up\|Level Up]]
 - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
-- [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
 
 { .block-language-dataview}
 
@@ -102,13 +102,13 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | June 11, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | June 10, 2025   |
+| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | June 10, 2025   |
 | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                                                                                   | June 11, 2025   |
 | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]]                                                                | June 11, 2025   |
 | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]                                                                | June 11, 2025   |
 | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                                                                            | June 11, 2025   |
 | [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]                                                                                        | June 11, 2025   |
 | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]                                                                             | June 11, 2025   |
-| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | June 10, 2025   |
 
 { .block-language-dataview}
 

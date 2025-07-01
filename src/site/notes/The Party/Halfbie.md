@@ -36,8 +36,8 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > 
 { .block-language-dataview}
 
