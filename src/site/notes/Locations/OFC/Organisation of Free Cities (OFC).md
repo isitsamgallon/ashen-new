@@ -16,15 +16,15 @@
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
-> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
+> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > 
 { .block-language-dataview}
 
