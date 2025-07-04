@@ -51,7 +51,7 @@ The ealiest known account of them in [[Books, Documents & Artefacts/The Sunderin
 
 ### Known Goblins 
 - [[Named Characters & Beasts/Bing †\|Bing †]]
-- [[Named Characters & Beasts/Jub\|Jub]]
 - [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]]
+- [[Named Characters & Beasts/Jub\|Jub]]
 
 { .block-language-dataview}

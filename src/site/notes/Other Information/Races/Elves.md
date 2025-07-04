@@ -67,8 +67,8 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 - [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]
 
 { .block-language-dataview}
-- [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
+- [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 
 { .block-language-dataview}
