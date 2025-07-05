@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/gimsu/","tags":["Undiscovered"],"updated":"2025-06-11T21:53:32.378+01:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/gimsu/","tags":["Discovered"],"updated":"2025-07-05T18:31:49.310+01:00"}
 ---
 
 ### Overview
-A town in [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. #INFORMATION_MISSING_OR_OUT-OF-DATE 
+A town found to the west of the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. [[Other Information/Display Tags/The Party\|The Party]] do not not know much about this place, however, it was where [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]] made is poly to capture [[The Party/Mordecai Reverence\|Mordecai Reverence]] to enact his revenge for killing [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]].
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

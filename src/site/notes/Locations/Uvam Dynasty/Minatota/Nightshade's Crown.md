@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/nightshade-s-crown/","tags":["Discovered"],"updated":"2025-06-11T21:53:18.148+01:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/nightshade-s-crown/","tags":["Discovered"],"updated":"2025-07-05T18:29:28.894+01:00"}
 ---
 
 ### Overview 
-A place in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]] where [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] was seen last. The bar is hidden within a book shop. If you nod at the old shop owner, she will pull a book on a shelf to reveal a secret door. #INFORMATION_MISSING_OR_OUT-OF-DATE 
+On the surface this is shop is old book shop ran in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. in reality this is the secret entrance into the night club ran by [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]. [[The Party/Mordecai Reverence\|Mordecai Reverence]] used to work here before they escaped [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] completely and ran way to the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]. The entire purpose of this club was to try and rob as many people as possible.
 
-[[The Party/Mordecai Reverence\|Mordecai Reverence]] used to work here
+[[Other Information/Display Tags/The Party\|The party]] originally journeyed here in search of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. they eventually found him in the one of the back rooms of the club where he was being forced to help them rob people with his magic. 
 
 ### History & Mentions
 | §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

@@ -23,24 +23,24 @@
 >   | File                                                                                  | Discovery Status               |
 > | ------------------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | <ul><li>Missing</li></ul>      |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | <ul><li>Discovered</li></ul>   |
 > 
 { .block-language-dataview}
 
@@ -52,12 +52,11 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 ### NPCs From The Dawn
 | File                                                                                                                              | Home Town             | Status  |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
+| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | \-      |
-| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
-| [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
 | [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
+| [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
 | [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
@@ -72,6 +71,7 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
 | [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
 | [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
+| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | Alive   |
 
 { .block-language-dataview}
 

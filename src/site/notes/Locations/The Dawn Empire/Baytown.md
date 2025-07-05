@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/baytown/","tags":["Discovered"],"updated":"2025-06-11T21:48:51.790+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/baytown/","tags":["Discovered"],"updated":"2025-07-05T18:40:07.946+01:00"}
 ---
 
 ### Overview
-A town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. #INFORMATION_MISSING_OR_OUT-OF-DATE 
+A coastal town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], [[Other Information/Display Tags/The Party\|The Party]] ventured here in [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]] as it offered a direct route, for a high price, to the [[Locations/Itone Isles\|Itone Isles]].
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

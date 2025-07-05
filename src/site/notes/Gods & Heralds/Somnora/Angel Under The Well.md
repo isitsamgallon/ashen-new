@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/angel-under-the-well/","updated":"2025-06-10T19:02:19.811+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/angel-under-the-well/","updated":"2025-07-05T18:06:33.785+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+### Overview
+It's true name is currently own known, but the '[[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]' is a powerful [[Gods & Heralds/Herald\|herald]] of [[Gods & Heralds/Somnora/Somnora\|Somnora]]. this [[Gods & Heralds/Herald\|Herald]] was first encountered in [[Locations/The Dawn Empire/Newhall\|Newhall]] ([[Session Notes/Season 2 - The War for The OFC's Freedom/Session 07\|Session 07]]) and then later defeated in a climactic rematch in [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]] ([[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]]).
 
-Angel under the well in [[Locations/The Dawn Empire/Newhall\|Newhall]]
+### Powers & Abilities 
+As a [[Gods & Heralds/Herald\|herald]], they are incredibly powerful with access to the high-level evocation and summoning magic. In a fight it was handily able to beat [[Other Information/Display Tags/The Party\|the party]] at level 4 and was still a challenge for them when they were level 8. However, it seemed like during their fight it was either holding back or being held back my another force so it's full powers may not have been seen yet. 
+
+Outside of combat, it has a verity of powers that allow it to disrupt peoples sleep or enter their dreams to terrorise them. it also has the ability to mess with peoples memories as show in in [[Locations/The Dawn Empire/Newhall\|Newhall]] and [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]] where many of the residence were having issues with remembering where they were and some even struggling remember who they were as people, as shown with [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]].
 
 ### History & Mentions
 | §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/niall-thornwood/","tags":["NPC"],"updated":"2025-06-10T19:10:58.302+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/niall-thornwood/","tags":["NPC"],"updated":"2025-07-05T18:24:11.263+01:00"}
 ---
 
 
 ### Overview
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
-
-### Notable Information
-
+one of [[The Party/Mordecai Reverence\|Mordecai Reverence]]'s younger brothers who died in the fire that Mordecai accidentally stared when their magic activated randomly. 
 
 ### History & Mentions
 | § | Interactions |

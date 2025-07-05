@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","updated":"2025-06-11T21:44:48.481+01:00"}
+{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","tags":["Undiscovered"],"updated":"2025-07-05T18:43:35.441+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+### Overview
+A [[Other Information/Races/Goblin\|Goblin]] settlement found to the north of [[Locations/Ehobel/Ehobel\|Ehobel]], not much is known about this place as [[Other Information/Display Tags/The Party\|The Party]] have never gone here.
+
+### History & Mentions
+| § | Interactions |
+| - | ------------ |
+
+{ .block-language-dataview}

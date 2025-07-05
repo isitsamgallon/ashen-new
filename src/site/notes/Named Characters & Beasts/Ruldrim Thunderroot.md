@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2025-07-03T21:41:06.401+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2025-07-05T18:14:37.282+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE i
 ### Overview
-The Voice from the machine 
+Ruldrim is an ancient dwarf found deep with in the mines of [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]] in a large ordained coffin guarded by numerous automatons. he resurrected into the collective consciousness of the all the automatons in the room he was buried in when [[Other Information/Display Tags/The Party\|the party]] were able to enter his room due to [[The Party/Halfbie\|Halfbie]] telling all the automatons to leave for [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]
 
 ### Notable Information
+For some unknown reason, Ruldrim was told to rest in the room where he was later found by [[Other Information/Display Tags/The Party\|The Party]], with the knowledge that he would be awoken later on in the war when he was needed. unfortunately the [[Other Information/Races/Dwarves\|Dwarves]] lost the war and were relegated  to [[Locations/Fort Moldan\|Fort Moldan]] after [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]. 
 
+Ruldrim once had a wife and young daughter before he was put to sleep who were revealed to be one of the sets of skeletons found in the section of [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] that was only accessible from the [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]. 
+
+The room he was found in was once a part of ancient time machine. the element of it that could warp time has been lost but the room is still able to teleport. 
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

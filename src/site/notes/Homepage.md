@@ -59,8 +59,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | June 09, 2025      |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | February 02, 2025  |
@@ -77,16 +77,16 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]]
-- [[Groups & Factions/The Flaming Suns\|The Flaming Suns]]
-- [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]
-- [[Admin/Templates/Unique Item Template\|Unique Item Template]]
-- [[Admin/Templates/RacesTemplate\|RacesTemplate]]
+- [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]
+- [[Admin/Templates/NewGroup\|NewGroup]]
+- [[Admin/Templates/New Nation\|New Nation]]
+- [[Admin/Templates/New Location\|New Location]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Groups & Factions/The Flaming Suns\|The Flaming Suns]]
+- [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
 - [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]]
 - [[Named Characters & Beasts/Paul\|Paul]]
 - [[Named Characters & Beasts/Historically Significant  Characters/Bromli Emberforge\|Bromli Emberforge]]
@@ -98,21 +98,9 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                                                                                         | Date of Tagging |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                      | June 11, 2025   |
-| [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]]                                                                    | July 03, 2025   |
-| [[Named Characters & Beasts/Paul\|Paul]]                                                                                                  | July 03, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]] | June 10, 2025   |
-| [[Named Characters & Beasts/Historically Significant  Characters/Bromli Emberforge\|Bromli Emberforge]]                                   | July 03, 2025   |
-| [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]]                                                                | June 11, 2025   |
-| [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                                                                                   | June 11, 2025   |
-| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]                                                                | June 11, 2025   |
-| [[Locations/The Dawn Empire/Baytown\|Baytown]]                                                                                            | June 11, 2025   |
-| [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]                                                                                        | June 11, 2025   |
-| [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]                                                                             | June 11, 2025   |
-| [[Groups & Factions/The Flaming Suns\|The Flaming Suns]]                                                                                  | July 04, 2025   |
-| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]                                                                     | June 10, 2025   |
+| Note                                                                    | Date of Tagging |
+| ----------------------------------------------------------------------- | --------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | June 11, 2025   |
 
 { .block-language-dataview}
 
