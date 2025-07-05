@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-06-14T14:22:25.832+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-07-05T18:48:13.663+01:00"}
 ---
 
-![ObsidianBannercopy2.png|banner](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
+![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]]
@@ -77,11 +77,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
 - [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]
 - [[Admin/Templates/NewGroup\|NewGroup]]
 - [[Admin/Templates/New Nation\|New Nation]]
-- [[Admin/Templates/New Location\|New Location]]
 
 { .block-language-dataview}
 
