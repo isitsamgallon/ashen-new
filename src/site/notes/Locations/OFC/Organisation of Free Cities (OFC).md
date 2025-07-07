@@ -16,15 +16,15 @@
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
-> | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
-> | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
-> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
+> | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
+> | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
+> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
 > | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
 > 
 { .block-language-dataview}
 
@@ -51,8 +51,8 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
-| [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
+| [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 
 { .block-language-dataview}
 
