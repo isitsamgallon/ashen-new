@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2025-06-10T19:10:58.065+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2025-07-13T11:48:32.884+01:00"}
 ---
 
 > [!infobox]
@@ -24,7 +24,7 @@
 >Languages | Celestial, Draconic, Abyssal, Telepathy |
 
 ### Overview
-
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
 ### Personality
 

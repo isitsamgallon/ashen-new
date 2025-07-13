@@ -27,6 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Session 41\|Session 41]]                             | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                                                                        |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                                                                                |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                                       |
@@ -36,7 +37,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure.                 |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]] | Season 4 - Ignatius Beckons | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]] | Season 4 - Ignatius Beckons | The party learned the truth about their identities, with Halfbie coming face-to-face with the ghost of Chenris, and Korrigan's buried memories triggering a dangerous vendetta. After a brutal battle against an Aspect of Ebis Daro and the loss of Obeus, the night spiraled into drunken chaos, ending with Korrigan accidentally betrothing himself to a demon. |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 31\|Session 31]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                                              |
 
 { .block-language-dataview}
 ### Books & Documents Reading List
@@ -56,8 +56,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------------ |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | November 21, 2024  |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | August 03, 2024    |
-| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | June 09, 2025      |
+| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | November 25, 2024  |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -68,8 +68,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
+| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
-- [[Homepage\|Homepage]]
-- [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]
-- [[Admin/Templates/NewGroup\|NewGroup]]
-- [[Admin/Templates/New Nation\|New Nation]]
+- [[Session Notes/Session 41\|Session 41]]
+- [[Groups & Factions/Luminara\|Luminara]]
+- [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[Admin/Templates/New Book or Document\|New Book or Document]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Groups & Factions/Luminara\|Luminara]]
+- [[Named Characters & Beasts/Kaes\|Kaes]]
+- [[Session Notes/Session 41\|Session 41]]
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
 - [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]]
-- [[Named Characters & Beasts/Paul\|Paul]]
-- [[Named Characters & Beasts/Historically Significant  Characters/Bromli Emberforge\|Bromli Emberforge]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]]
 
 { .block-language-dataview}
 
@@ -98,9 +98,13 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                    | Date of Tagging |
-| ----------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | June 11, 2025   |
+| Note                                                                                             | Date of Tagging |
+| ------------------------------------------------------------------------------------------------ | --------------- |
+| [[Named Characters & Beasts/Kaes\|Kaes]]                                                      | July 08, 2025   |
+| [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                        | July 13, 2025   |
+| [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]] | July 13, 2025   |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                          | June 11, 2025   |
+| [[Groups & Factions/Luminara\|Luminara]]                                                      | July 13, 2025   |
 
 { .block-language-dataview}
 

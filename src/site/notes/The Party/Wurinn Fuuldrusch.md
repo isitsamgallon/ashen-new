@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-06-14T13:50:52.574+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-07-13T11:40:24.128+01:00"}
 ---
 
 
@@ -65,7 +65,8 @@ Drache was originally from and loyal to [[Locations/Important Locations/The Tula
  - "History is written in blood"
  - "I'll whisper sweet nothings in your ear" - Drache to Korrigan
  - "Yes I am rubbing Aidan off"
- - i am big and fast
+ - "i am big and fast"
+ - "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it."
 
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
