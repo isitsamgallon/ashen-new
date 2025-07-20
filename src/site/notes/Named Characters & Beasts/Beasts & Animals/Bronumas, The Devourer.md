@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2025-07-13T11:48:32.884+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2025-07-20T10:22:09.836+01:00"}
 ---
 
 > [!infobox]
@@ -15,7 +15,7 @@
 >  Age | Unknown |
 >  Alignment | Neutral |
 >  Pronouns | They/Them |
->  Family | Unclear, [[The Party/The Korrigan\|The Korrigan]] (Married) |
+>  Family | Unclear, [[The Party/The Korrigan\|The Korrigan]] (Divorced) |
 >  
 >Type | Stat |
 >:---: | --- |
