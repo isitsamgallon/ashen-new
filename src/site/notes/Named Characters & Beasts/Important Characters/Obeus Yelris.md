@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-06-11T21:04:12.278+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-07-30T09:42:30.724+01:00"}
 ---
 
 > [!infobox]
@@ -43,7 +43,7 @@ Obeus Yelris is the daughter of [[Named Characters & Beasts/Historically Signifi
 When [[Other Information/Display Tags/The Party\|The Party]] first met her, she had been locked up in the inner sanctum and had never been outside, due to her compromised immune system. The Party had come to propose trade agreements and warn her of the Bandits nearby with [[Named Characters & Beasts/Grom\|Grom]]. For the first time being interested in the outside world, she demands that [[Other Information/Display Tags/The Party\|The Party]] break her out and take her on an adventure. She has since travelled to many different nations including the [[History & Events/The War for the OFC's Freedom\|OFC]]. [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]].
 
 ### Personality
-Obeus is a quiet and thought girl who is often happy just to experience the world with the party. Although she is highly intelligent, she is also quite innocent of a lot of things people take for granted. For example, when the party first broke her out of the palace in [[Session Notes/Season 3 - The Worst Diplomates/Session 16\|Session 16]] she had no idea what she would need to pack and just stuffed her bag with as many books, gold and furniture as she could. 
+Obeus is a quiet and thought girl who is often happy just to experience the world with the party. Although she is highly intelligent, she is also quite innocent of a lot of things people take for granted. For example, when the party first broke her out of the palace in [[Session Notes/Season 3 - The Worst Diplomates/Session 16\|Session Notes/Season 3 - The Worst Diplomates/Session 16]] she had no idea what she would need to pack and just stuffed her bag with as many books, gold and furniture as she could. 
 
 She is often quick to tears when people accidentally offend her or when people forget to include her in the counts for plans.
 

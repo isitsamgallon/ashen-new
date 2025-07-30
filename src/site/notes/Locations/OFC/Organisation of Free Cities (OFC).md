@@ -16,15 +16,15 @@
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
+> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Discovered                   |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Discovered                   |
-> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Discovered                   |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Discovered                   |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
+> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Discovered                   |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Discovered                   |
 > 
 { .block-language-dataview}
 
@@ -43,8 +43,8 @@ The OFC is mostly made up of dense forests and tall spruce trees. The nation is 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |

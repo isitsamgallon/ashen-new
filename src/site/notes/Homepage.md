@@ -27,6 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                          |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                                                                |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]] | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                                                        |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                                                                |
@@ -36,7 +37,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                               |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure. |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]] | Season 4 - Ignatius Beckons | The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.                                                         |
 
 { .block-language-dataview}
 ### Books & Documents Reading List
@@ -68,8 +68,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
+| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Named Characters & Beasts/Lull\|Lull]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
+- [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra\|Elandra]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Named Characters & Beasts/Lull\|Lull]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae\|Rae]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra\|Elandra]]
-- [[Named Characters & Beasts/Misty\|Misty]]
-- [[Named Characters & Beasts/Tish\|Tish]]
 
 { .block-language-dataview}
 
@@ -101,14 +101,15 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | June 11, 2025   |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 20, 2025   |
+| [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 20, 2025   |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 20, 2025   |
 | [[Named Characters & Beasts/Kaes\|Kaes]]                                                                          | July 08, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]                             | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra\|Elandra]]                       | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | July 20, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra\|Elandra]]                       | July 20, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]                             | July 20, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 20, 2025   |
 | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                            | July 13, 2025   |
 | [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]]                     | July 20, 2025   |
 | [[Locations/Important Locations/Lost Haven\|Lost Haven]]                                                          | July 20, 2025   |
