@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-07-20T11:34:41.737+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-07-30T10:11:41.527+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-One of the slaves in [[Locations/Important Locations/Lost Haven\|Lost Haven]]. [[Other Information/Display Tags/The Party\|The Party]] shared a tent with him. he was around in the last slave revolt, lead by [[The Party/Dead/Kal ‡\|Kal ‡]] but did not actively fight
+One of the slaves in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. [[Other Information/Display Tags/The Party\|The Party]] shared a tent with him. he was around in the last slave revolt, lead by [[The Party/Dead/Kal ‡\|Kal ‡]] but did not actively fight
 
 Tish was not one of the fighters. He was just one of the slaves that was around at that kind of time. He was always pretty anti everything you were doing. (
 

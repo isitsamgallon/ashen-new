@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-36/","updated":"2025-06-10T19:10:43.144+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-36/","updated":"2025-07-30T10:11:41.661+01:00"}
 ---
 
 **Session Date:** 14th Apr 2025
@@ -22,7 +22,7 @@ Finally, the party reached the Wall—a towering, ancient barrier watched by sil
 
 The room was silent, and [[The Party/Mordecai Reverence\|Mordecai]] wrestled with a whirlwind of emotions inside of themselves. Finally, [[The Party/Mordecai Reverence\|Mordecai]] spoke up, explaining how he didn't think they could live with the idea of being the course of both of his parent's deaths. "it's not use asking him either; he'll say he wants to do die... let him live..." the statement started strong and filled with conviction be tailing off at the end. [[The Party/Wurinn Fuuldrusch\|Drache]]'s hand tightened on [[The Party/Mordecai Reverence\|Mordecai]]'s shoulder as his face morphed into an approving smile [[The Party/Mordecai Reverence\|Mordecai]] couldn't see. 
 
-(x:: [[The Party/The Korrigan\|Korrigan]] silently motioned his magic into a healing spirit that washed over [[The Party/Mordecai Reverence\|Mordecai]] with a newfound sense of peace. With a quick gesture, the spirit moved over to [[The Party/Mordecai Reverence\|Mordecai]] 's father, healing him slightly. [[The Party/Mordecai Reverence\|Mordecai]] lamented that even with this matter resolved, neither he nor his mother could ever return home. There was simply too much pain and distrust for him to do so. [[The Party/The Korrigan\|Korrigan]] 's hand now rested on [[The Party/Mordecai Reverence\|Mordecai]] 's other shoulder, "You know, [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] may not be your home anymore, but that's okay because home is just a place where you are comfortable. Once upon a time, my home was probably [[Locations/Important Locations/Lost Haven\|Lost Haven]], and now it's some temple in a mysterious forest.)
+(x:: [[The Party/The Korrigan\|Korrigan]] silently motioned his magic into a healing spirit that washed over [[The Party/Mordecai Reverence\|Mordecai]] with a newfound sense of peace. With a quick gesture, the spirit moved over to [[The Party/Mordecai Reverence\|Mordecai]] 's father, healing him slightly. [[The Party/Mordecai Reverence\|Mordecai]] lamented that even with this matter resolved, neither he nor his mother could ever return home. There was simply too much pain and distrust for him to do so. [[The Party/The Korrigan\|Korrigan]] 's hand now rested on [[The Party/Mordecai Reverence\|Mordecai]] 's other shoulder, "You know, [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] may not be your home anymore, but that's okay because home is just a place where you are comfortable. Once upon a time, my home was probably [[Locations/Lost Haven/Lost Haven\|Lost Haven]], and now it's some temple in a mysterious forest.)
 
 [[The Party/Mordecai Reverence\|Mordecai]] couldn't stop a single tear from running down their cheeks. They quickly regained composure so as not to ruin their makeup. "He can be good. If I can do it, so can he. And he'll have to live with that for the rest of his life."
 
@@ -167,11 +167,11 @@ As she turned to face them, she simply said, 'Find me.' before the dream dispatc
 
 (X:: [[The Party/Halfbie\|Halfbie]] then asked why he had saved Emmaline. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] cut them off, explaining that that was the right question. The correct one is, 'Why did [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] need saving?' He answered his question, "Because she was very injured, and I have a responsibility." )
 
-(X:: [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] refused to elaborate on this responsibility, saying it was a pact he had signed long ago. When [[The Party/The Korrigan\|Korrigan]] asked, "[[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], how can we help you?" He simply said they just need to continue doing what they've been doing already but to please pick up the pace. He then confirmed that going on their way to [[Locations/Important Locations/Lost Haven\|Lost Haven]] was the correct way to go. They all promised to try to speed up what they were doing. )
+(X:: [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] refused to elaborate on this responsibility, saying it was a pact he had signed long ago. When [[The Party/The Korrigan\|Korrigan]] asked, "[[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], how can we help you?" He simply said they just need to continue doing what they've been doing already but to please pick up the pace. He then confirmed that going on their way to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was the correct way to go. They all promised to try to speed up what they were doing. )
 
 "Yeah, we thought we would have a look at The Wall. Do you know the [[Other Information/Tour De Ashen\|Tour de Ashen]]? I assume you do." said Halbie 
 
-(X:: "Yes, you're going down to the Wall, and then you're going to go up, and then you're probably going to see [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]. And then you're going to go towards [[Locations/Important Locations/Lost Haven\|Lost Haven]], and then there will be a whole debacle." said [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] dismissively.)
+(X:: "Yes, you're going down to the Wall, and then you're going to go up, and then you're probably going to see [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]. And then you're going to go towards [[Locations/Lost Haven/Lost Haven\|Lost Haven]], and then there will be a whole debacle." said [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] dismissively.)
 
 "Why is there going to be a debacle there?" asked [[The Party/The Korrigan\|Korrigan]] 
 
@@ -219,7 +219,7 @@ At the desk, the Clerk could be found writing some in a long and old scroll. He 
 
 (x:: [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]] looked to the guards and, now that they were closer, felt an ominous presence coming from them. [[The Party/Halfbie\|Halfbie]] examined closer and realised that the Armour didn't seem to have the wear's best interests in mind. )
 
-(x:: [[The Party/Wurinn Fuuldrusch\|Drache]], unaware of this, asked if it was possible to cross into [[Locations/The Desert/The Desert\|the desert]] from there. The Clerk confirmed it was possible but wasn't recommended, especially as they wouldn't be able to get back in this and would have to go through [[Locations/Important Locations/Lost Haven\|Lost Haven]] or similar routes.)
+(x:: [[The Party/Wurinn Fuuldrusch\|Drache]], unaware of this, asked if it was possible to cross into [[Locations/The Desert/The Desert\|the desert]] from there. The Clerk confirmed it was possible but wasn't recommended, especially as they wouldn't be able to get back in this and would have to go through [[Locations/Lost Haven/Lost Haven\|Lost Haven]] or similar routes.)
 
 
 # Trivia & Notes

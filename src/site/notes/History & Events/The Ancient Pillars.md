@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","updated":"2025-06-10T19:11:47.459+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","updated":"2025-07-30T10:11:41.492+01:00"}
 ---
 
 
@@ -10,6 +10,6 @@ It is assumed these are the original 50 Pillars that held back the Gods from the
 List of Ancient Pillars:
 - [[Other Information/Forge of the Astral Blades/locations/The Elderwood\|The Elderwood]]
 - [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]
-- [[Locations/Important Locations/Lost Haven\|Lost Haven]]
+- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 - [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]]
  

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2025-07-20T11:04:49.788+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2025-07-30T10:11:41.521+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-Young girl  who walks around with [[Named Characters & Beasts/Tish\|Tish]] in the the slums of [[Locations/Important Locations/Lost Haven\|Lost Haven]]. she cannot talk. 
+Young girl  who walks around with [[Named Characters & Beasts/Tish\|Tish]] in the the slums of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. she cannot talk. 
 
 ### Notable Information
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lull/","tags":["NPC"],"updated":"2025-07-30T09:47:12.763+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lull/","tags":["NPC"],"updated":"2025-07-30T10:11:41.956+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-The man with a metal leg from [[Locations/Important Locations/Lost Haven\|Lost Haven]].
+The man with a metal leg from [[Locations/Lost Haven/Lost Haven\|Lost Haven]].
 
 ### Notable Information
 

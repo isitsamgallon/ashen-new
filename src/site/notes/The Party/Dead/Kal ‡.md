@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-07-20T11:28:34.224+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-07-30T10:11:41.930+01:00"}
 ---
 
 > [!infobox]
@@ -11,7 +11,7 @@
 >  Type | Stat |
 > :----: | --- |
 >  Race | Human |
->  Nationality | [[Locations/Important Locations/Lost Haven\|Lost Haven]] |
+>  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] |
 >  Class | Rogue/ Ranger |
 >  Subclass | N/A|
 >  Age | Late 20s |
@@ -40,7 +40,7 @@
 { .block-language-dataview}
 
 ### Overview
-Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] when [[Other Information/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Important Locations/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 
+Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] when [[Other Information/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Lost Haven/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 
 
 Kal was eventually killed by a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]], near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] where his soul was soon taken by [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] and a deal was struck for Kal to come back as her [[Gods & Heralds/Herald\|Herald]]. Once resurrected as [[The Party/The Korrigan\|The Korrigan]], the party found him wandering the streets of Steelwick with most of his memories missing. Was played by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]].
 

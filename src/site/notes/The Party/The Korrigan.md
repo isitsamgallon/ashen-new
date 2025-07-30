@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-06-14T13:59:11.649+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-07-30T10:11:41.942+01:00"}
 ---
 
  > [!infobox]
@@ -55,7 +55,7 @@ Korrigan is characterised as a generally happy and seemingly innocent individual
 Korrigan resembles [[The Party/Dead/Kal ‡\|Kal ‡]], the primary distinction being the presence of a large set of antlers protruding from the sides of his head.  
   
 ### Backstory Summary  
-Kal's early backstory has not been disclosed to the public. Following initial events, Kal fled to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was deceived into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]], subsequently enduring six years of servitude before breaking free with assistance from [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After escaping, he departed from The Dawn and became associated with the Organisation of Free Cities. After his death, Kal awakened within [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] 's realm, where he negotiated a pact allowing him to return to life as the [[Gods & Heralds/Herald\|Herald]] to complete unfinished business in [[Locations/Important Locations/Lost Haven\|Lost Haven]]. In exchange, he is tasked with destroying one of [[Other Information/Display Tags/The Towers\|The Towers]] for her amusement. 
+Kal's early backstory has not been disclosed to the public. Following initial events, Kal fled to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was deceived into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]], subsequently enduring six years of servitude before breaking free with assistance from [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After escaping, he departed from The Dawn and became associated with the Organisation of Free Cities. After his death, Kal awakened within [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] 's realm, where he negotiated a pact allowing him to return to life as the [[Gods & Heralds/Herald\|Herald]] to complete unfinished business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. In exchange, he is tasked with destroying one of [[Other Information/Display Tags/The Towers\|The Towers]] for her amusement. 
 
 ### Quotes
 - _kisses drache_ “mmmm salty”

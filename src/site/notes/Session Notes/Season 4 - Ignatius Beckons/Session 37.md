@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-06-14T15:29:26.972+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-07-30T10:11:41.673+01:00"}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -69,7 +69,7 @@ Their plan initially succeeded until Korrigan was caught casting a spell, exposi
 
 (x::Feeling the awkward silence, Sylvia asked what they were all doing in her woods. [[The Party/Wurinn Fuuldrusch\|Drache]] simply stated that they were on the Tour Du Ashen as if that cleared everything up, much to [[The Party/The Korrigan\|Korrigan]] 's enjoyment. He complained about how nerdy he sounded to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]]. [[The Party/Wurinn Fuuldrusch\|Drache]] smirked and told Sylvia that the name and plan were his ideas and he wouldn't want to take credit for them. )
 
-Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan explained from the beginning how they came to be exploring and on their way to [[Locations/Important Locations/Lost Haven\|Lost Haven]]. 
+Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan explained from the beginning how they came to be exploring and on their way to [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. 
 
 (x::"Do you know [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]?" he asked, nodding to Sylvia, "Well, I died in a fight with a Wyvern, and now [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] has a new [[Gods & Heralds/Herald\|Herald]].  AND LOOK, NOW I HAVE HORNS." )
 
@@ -101,11 +101,11 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "Wait, you made a deal with a God?" she exclaimed in alarm, "Are you thick? Actually, don't answer that. I know you're thick."
 
-(x::"Yep. I am... I am streetwise. I'm not smart, actually; I'm not very streetwise, either." [[The Party/The Korrigan\|Korrigan]] said, "I like puzzles. I like figuring things out. Oh! Speaking of, did I tell you anything about [[Locations/Important Locations/Lost Haven\|Lost Haven]]?")
+(x::"Yep. I am... I am streetwise. I'm not smart, actually; I'm not very streetwise, either." [[The Party/The Korrigan\|Korrigan]] said, "I like puzzles. I like figuring things out. Oh! Speaking of, did I tell you anything about [[Locations/Lost Haven/Lost Haven\|Lost Haven]]?")
 
 "I believe you mentioned it briefly, but you were quite mysterious about the details. You shared that you're from there and hinted at having killed several people but didn't elaborate much. I'm still not sure about the whole story." She answered.
 
-(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Important Locations/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Human\|Human]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.)
+(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Human\|Human]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.)
 
 "I did see the horse. I do remember you used to talk about your sleep. You used to see stuff about A revolution against some king or something and see your dad. She said.
 
@@ -113,9 +113,9 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "you said something about, yeah, your friend, some girl or something; you kept mentioning her name or whatever. It's a [[The Party/Other Party Members/Familiars/Bit\|bit]] weird, but whatever, I'm not jealous." she stated.
 
-(x::Kerrigan confirmed this, saying that her name, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]], was one of the few people he remembered after his new role. He then explained that his new goal was to head up to [[Locations/Important Locations/Lost Haven\|Lost Haven]] with his party, and she was more than welcome to join them, saying it would be like old times. Sylvia agreed to join them, stating that [[Locations/Important Locations/Lost Haven\|Lost Haven]] was known for polluting a lot, and it would be good to stop that by killing the king and killing everyone involved in destroying the environment. )
+(x::Kerrigan confirmed this, saying that her name, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]], was one of the few people he remembered after his new role. He then explained that his new goal was to head up to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] with his party, and she was more than welcome to join them, saying it would be like old times. Sylvia agreed to join them, stating that [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was known for polluting a lot, and it would be good to stop that by killing the king and killing everyone involved in destroying the environment. )
 
-(x:: [[The Party/The Korrigan\|Korrigan]] ignored her alarming comments and instead focused on telling her all about [[Gods & Heralds/Aetherion/Terathra\|Terathra]] and how they were sealed away and [[Other Information/Display Tags/The Towers\|the towers]] were hurting them. [[The Party/The Korrigan\|Korrigan]] explained that one of his goals in [[Locations/Important Locations/Lost Haven\|Lost Haven]] was to destroy the tower. Sylvia initially didn't believe him until he showed her the book he stole from [[Locations/Strixhaven\|Strixhaven]], which explained everything to her. After reading the book, she was immediately on board and wanted to help. )
+(x:: [[The Party/The Korrigan\|Korrigan]] ignored her alarming comments and instead focused on telling her all about [[Gods & Heralds/Aetherion/Terathra\|Terathra]] and how they were sealed away and [[Other Information/Display Tags/The Towers\|the towers]] were hurting them. [[The Party/The Korrigan\|Korrigan]] explained that one of his goals in [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was to destroy the tower. Sylvia initially didn't believe him until he showed her the book he stole from [[Locations/Strixhaven\|Strixhaven]], which explained everything to her. After reading the book, she was immediately on board and wanted to help. )
 
 (x::Excited to be adventuring with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] again, [[The Party/The Korrigan\|Korrigan]] jumped up, teleported them to the temple, and excitedly showed her his statute. She thought it was cool, but she wanted one herself. )
 

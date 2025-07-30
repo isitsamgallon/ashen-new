@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-06-10T19:10:49.863+01:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-07-30T10:11:41.544+01:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
@@ -22,7 +22,7 @@ The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn 
 	- [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
 	- [[Locations/Ehobel/Ehobel\|Ehobel]]
 	- [[Locations/Snowport\|Snowport]]
-	- [[Locations/Important Locations/Lost Haven\|Lost Haven]]
+	- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 	- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]?
 - The party with reform the tax code to alleviate the burden on low income families and tax richer constituencies and well as increase tax on Trade.
 - Introduces e basic laws for safety of the people

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-40/","updated":"2025-07-04T21:22:01.464+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-40/","updated":"2025-07-30T10:11:41.696+01:00"}
 ---
 
 # Session Information
@@ -71,9 +71,9 @@ Ruldrim, shocked to learn how much time had passed, asked to see the graves of h
 
 (x::[[Other Information/Display Tags/The Party\|The Party]] quickly got up and began to leave. [[The Party/Halfbie\|Halfbie]] stopped and said they had an idea. They began to write down the events of what they saw in [[Gods & Heralds/Somnora/Somnora\|Somnora]]'s celestial plane. They then put that on [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s altar and prayed. This led to [[Other Information/Display Tags/The Party\|the Party]] receiving a new boon that told them about all the interesting things in the area.)
 
-(x::While this happened, [[The Party/The Korrigan\|Korrigan]] turned to Aidan and asked how they felt after the last possession. [[Other Information/Display Tags/The Party\|The Party]] had been so busy that they didn't have the chance to talk. Aidan admitted that his biggest fear was having it happen again and doing severe damage. He reassured [[The Party/The Korrigan\|Korrigan]] that his number one goal was to find a way to fix it. he then relented that before all of that, they needed to go to [[Locations/Important Locations/Lost Haven\|Lost Haven]], something [[The Party/The Korrigan\|Korrigan]] admitted that he was pretty worried about. )
+(x::While this happened, [[The Party/The Korrigan\|Korrigan]] turned to Aidan and asked how they felt after the last possession. [[Other Information/Display Tags/The Party\|The Party]] had been so busy that they didn't have the chance to talk. Aidan admitted that his biggest fear was having it happen again and doing severe damage. He reassured [[The Party/The Korrigan\|Korrigan]] that his number one goal was to find a way to fix it. he then relented that before all of that, they needed to go to [[Locations/Lost Haven/Lost Haven\|Lost Haven]], something [[The Party/The Korrigan\|Korrigan]] admitted that he was pretty worried about. )
 
-(x::[[The Party/The Korrigan\|Korrigan]] explained that although he knew he had to kill a kind, he had no idea why his past self would need to do that. [[The Party/The Korrigan\|Korrigan]] tried to reason that maybe he could let the kind go, but [[Other Information/Display Tags/The Party\|the Party]] wasn't so sure, as they had never seen such hatred before [[The Party/The Korrigan\|Korrigan]] had spoken about the king of [[Locations/Important Locations/Lost Haven\|Lost Haven]]. )
+(x::[[The Party/The Korrigan\|Korrigan]] explained that although he knew he had to kill a kind, he had no idea why his past self would need to do that. [[The Party/The Korrigan\|Korrigan]] tried to reason that maybe he could let the kind go, but [[Other Information/Display Tags/The Party\|the Party]] wasn't so sure, as they had never seen such hatred before [[The Party/The Korrigan\|Korrigan]] had spoken about the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. )
 
 (x::[[The Party/Halfbie\|Halfbie]] told [[Other Information/Display Tags/The Party\|the Party]], after their prayer, that the most interesting thing in the area is an old dravern settlement called [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]] and explained how it came up in a few history books [^5] and might hold something interesting. [[Other Information/Display Tags/The Party\|The Party]] soon all agreed, and they set off for [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]. )
 

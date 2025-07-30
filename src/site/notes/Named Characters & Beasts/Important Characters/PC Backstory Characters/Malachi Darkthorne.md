@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-07-20T11:01:52.379+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-07-30T10:11:41.509+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-King of [[Locations/Important Locations/Lost Haven\|Lost Haven]]
+King of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 
 ### Notable Information
 

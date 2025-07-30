@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-06-14T14:20:45.618+01:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-07-30T10:11:41.566+01:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -15,7 +15,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] Questions about Player Backstories:
 	- [ ] How was [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] from a noble lineage?
 	- [ ] Why does [[The Party/Mordecai Reverence\|Mordecai Reverence]] have to run away from his father?
-	- [ ] What is [[The Party/Dead/Kal ‡\|Kal ‡]]'s unfinished business in [[Locations/Important Locations/Lost Haven\|Lost Haven]]?
+	- [ ] What is [[The Party/Dead/Kal ‡\|Kal ‡]]'s unfinished business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]?
 	- [ ] How does [[The Party/Aiden Knight\|Aiden Knight]] have time manipulation abilities?
 	- [ ] What is [[The Party/Halfbie\|Halfbie]]?
 - [ ] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-06-14T13:59:41.614+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-07-30T10:11:41.685+01:00"}
 ---
 
 # Session Information
@@ -23,7 +23,7 @@ Upon reaching Oceanvale, the city was revealed to be a near-empty fishing villag
 
 (x:: Since [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]'s rebirth, [[The Party/Halfbie\|Halfbie]] felt... whole again, a realisation that they had neither the energy nor the desire to investigate further had. Instead, [[The Party/Halfbie\|Halfbie]] posed the question of whether going to the place that had lost all of its food supplies was truly the best idea, especially since they had all been spotted in the town just before everything went missing. [[Other Information/Display Tags/The Party\|The party]] agreed that it was probably best to skip the Fairest Post and head straight for [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]. )
 
-(x:: [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] then reminded them that their ultimate destination was [[Locations/Important Locations/Lost Haven\|Lost Haven]]. When [[The Party/The Korrigan\|Korrigan]] asked eagerly about what would happen there, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] ominously replied that it would be "interesting" when they all arrived.)
+(x:: [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] then reminded them that their ultimate destination was [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. When [[The Party/The Korrigan\|Korrigan]] asked eagerly about what would happen there, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] ominously replied that it would be "interesting" when they all arrived.)
 
 (x:: [[The Party/Halfbie\|Halfbie]], too exhausted to care, casually asked [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] what he did in his free time. Taken aback by the non-world-threatening question, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] sarcastically replied, "Laughing at you lot?!")
 

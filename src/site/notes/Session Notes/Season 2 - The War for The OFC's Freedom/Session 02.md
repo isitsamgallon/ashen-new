@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-02/","tags":["LevelUp"],"updated":"2025-06-14T14:14:24.542+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-02/","tags":["LevelUp"],"updated":"2025-07-30T10:11:41.577+01:00"}
 ---
 
 (x:: The party are quickly swept off their feet by [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and were told to come with him to the site of an airship crash, they travelled half a day away to find a crashed airship in flames, upon investigation kal notices some of the soldiers on board the airship had fake OFC uniform, they found a survivor which attacked them as soon as they noticed his fake uniform. The party take the survivor out of the airship and the guards kill them immediately due to being a threat to Caden. The party noticed it was an inside job. Outside the airship after investigating, a survivor the party missed walks out and up to cayden. As soon as the party notice the faulty uniform they go to intervene but the survivor yelled "FOR [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]" and exploded in a fiery explosion.  The party was injured and cayden was thrown against a tree, he seemed to be alive though unconscious but then the party was interrupted by a piercing roar and a wyvern descended onto the battle field. During the battle , Caden was killed due to a tree falling on. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was later revealed to be behind this murder.  )
@@ -22,7 +22,7 @@ Drache and [[The Party/Mordecai Reverence\|Mordecai Reverence]] both go to talk 
 
 They group leaves for [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]. On their travels, [[Gods & Heralds/Chronovorus/Haunter Crows\|crow]]s keep watching them until Drache uses speak with animals to find out they were bribed to watch them by their "master". Kal gives them some seed to go away and they do. 
 
-The Whitespire town is filled with mages and surrounds a massive tower that goes to the heavens. This particular tower is one of 5 called [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]]. There are also towers in [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Important Locations/Lost Haven\|Lost Haven]]. 
+The Whitespire town is filled with mages and surrounds a massive tower that goes to the heavens. This particular tower is one of 5 called [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]]. There are also towers in [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. 
 
 -- Long Rest --
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-06-11T21:26:14.026+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-07-30T10:11:41.600+01:00"}
 ---
 
 
@@ -53,7 +53,7 @@ Although all of this strike incredibly everyone as quite weird, the majority of 
 - Aidan wishes to be rid of Chronovorus and to have never experienced his trauma at the hands of [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]
 - Mordecai could have [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|his mother]] back
 - Drache could have the freedom to do as his wishes and be with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]
-- Korrigan could finish his business in [[Locations/Important Locations/Lost Haven\|Lost Haven]].
+- Korrigan could finish his business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]].
 
 (x:: Chenris declines again saying that none of that would be real. The man asks how does he know anything is real. For all we know. this would could just be controlled by 5 people making us do their bidding. Chenris responds in kind: )
 
@@ -77,7 +77,7 @@ Chenris move to leave the room but as he does, the man says "That's a shame in d
 
 (x:: Later on in camp, Korrigan tries to explain his actions to chenris but he is unresponsive. he tries to chenris that the physically items don't matter its the memory behind the object that matters and chenris surly has the not memorised by now. Chenris is feeling so many strong emotions at this point, His form is changing through all the seasons in very quick succession. He does not respond. )
 
-(x:: Korrigan, feeling a bit lost and defeated, says that the party needs to trust each other and and to do that we need everything on the table. He starts to explain his deal with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. She brought him back to life so he could settle his business in [[Locations/Important Locations/Lost Haven\|Lost Haven]] and make sure the tower in there falls. The party is stunned into silence. Chenris without looking up replies "i'll take first watch" )
+(x:: Korrigan, feeling a bit lost and defeated, says that the party needs to trust each other and and to do that we need everything on the table. He starts to explain his deal with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. She brought him back to life so he could settle his business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and make sure the tower in there falls. The party is stunned into silence. Chenris without looking up replies "i'll take first watch" )
 
 #### Mordecai & Chenris' Watch
 (x:: Even though it has a few hours now, Mord has refused to clean the blood off his hands and asks Chenris about the note. They talk about how Chenris needs to let go of the note since he said himself that he doesn't know why he cant let go. Mordecai suggest talking about it by chenris doesn't know the words to express himself coherently. Mordecai then asks him just tell him how he felt in the moment his professor died. Chenris replies)
