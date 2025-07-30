@@ -34,7 +34,7 @@ the party made their way to the clearing in [[Locations/OFC/Twopines Estate\|Two
 - (x:: Kal placed a worn out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and stepped back, tears littering his face. )
 - (x:: Mordecai was next, removing his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|mother's]] cloak from his shoulders. With tears rolling down his face he tries to smell her one last time but her perfume faded with the years of campfire smoke. With a final goodbye, it his added to the fire.)
 - Chenris quietly puts a hastily written note with an unsolved problem 
-- (x:: Drache ripped [[Locations/Important Locations/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|who went missing]].)
+- (x:: Drache ripped [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|who went missing]].)
 
 
 The first bell rang. as they kept their eyes shut, everyone was haunted by the ghosts of their past. 

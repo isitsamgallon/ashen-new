@@ -4,7 +4,7 @@
 
 
 ### Overview
-The name of [[Locations/Important Locations/The Tulan Fort\|The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]].
+The name of [[Groups & Factions/The Tulan Fort\|The Tulan Fort]] soldier who was killed with the a Name Poison for wanting to unionise in [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]].
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -9,6 +9,6 @@ Here is a list of what each party member burnt during their ritual:
 - [[The Party/The Korrigan\|The Korrigan]] Placed a worn-out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and stepped back, tears littering his face. 
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] burnt [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]]'s cloak.
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] puts a hastily written note with an unsolved problem. (This is a fake and will ultimately cause the ritual to fail)
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] Ripped [[Locations/Important Locations/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find who he was missing.
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] Ripped [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find who he was missing.
 
 [[Other Information/Display Tags/The Party\|The Party]] originally discovered the ritual during a raid on [[Groups & Factions/Religious Organisations/The Black Cult\|The Black Cult]]. where they found a book on the subject in the cults library ([[Books, Documents & Artefacts/Page From Unnamed Book found the Black Cult's Hideout\|Page From Unnamed Book found the Black Cult's Hideout]]). 

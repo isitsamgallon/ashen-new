@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-06-14T13:52:19.722+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-07-30T13:22:10.108+01:00"}
 ---
 
 > [!infobox]
@@ -362,7 +362,7 @@ The events chronicled here mark a significant chapter in Chenris’ story—a ch
 
 For now, I am cautiously optimistic. The young man who once sought only knowledge for its own sake now moves through the world with a heavier sense of responsibility. I will continue to observe him closely. His trajectory, though still fraught with peril, has taken a turn that brings me a modicum of relief. But whether Chenris Tallfellow will find his way back to the light, or fall deeper into the shadows that now encircle him, remains an open question.
 
-As Chenris and his party prepared to leave [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], their path led them toward [[Locations/Important Locations/The Tulan Fort\|the Tulan Fort]], but the shadow of the past followed closely behind. Chenris’s thirst for knowledge, particularly of the arcane and the forbidden, grows unchecked. His quick thinking and mastery of magic have proven invaluable, yet there is an unease surrounding his choices—the books he reads, the artefacts he covets, and the dark forces he confronts with increasing frequency.
+As Chenris and his party prepared to leave [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], their path led them toward [[Groups & Factions/The Tulan Fort\|The Tulan Fort]], but the shadow of the past followed closely behind. Chenris’s thirst for knowledge, particularly of the arcane and the forbidden, grows unchecked. His quick thinking and mastery of magic have proven invaluable, yet there is an unease surrounding his choices—the books he reads, the artefacts he covets, and the dark forces he confronts with increasing frequency.
 
 The line between curiosity and obsession is thin, and I fear that Chenris is beginning to blur that line. His once-bright potential is now shadowed by the weight of the knowledge he seeks. I will continue to monitor his progress, though I fear that his journey may lead him into dangerous waters, where even I may not be able to reach him.
 

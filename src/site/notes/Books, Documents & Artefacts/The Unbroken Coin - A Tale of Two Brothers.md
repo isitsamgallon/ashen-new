@@ -26,7 +26,7 @@ Despite their differences, the brothers were inseparable. Together they roamed t
 
 **Chapter Three: Two Paths, One Hearth**
 
-As the years passed, the brothers grew into their distinct roles within [[Locations/Important Locations/Morak Hold\|Morak Hold]]. The elder spent his days among the miners and smiths, his unshakable optimism lifting spirits wherever he went. He became a student of the Hold’s clerics, learning to heal wounds and soothe hearts. His laughter remained a constant presence, a light in the Hold’s deepest shadows.
+As the years passed, the brothers grew into their distinct roles within [[Locations/Morak Hold\|Morak Hold]]. The elder spent his days among the miners and smiths, his unshakable optimism lifting spirits wherever he went. He became a student of the Hold’s clerics, learning to heal wounds and soothe hearts. His laughter remained a constant presence, a light in the Hold’s deepest shadows.
 
 The younger, however, sought knowledge in solitude. He spent hours poring over ancient carvings and forgotten tomes, tracing the mysteries etched into Morak’s oldest walls. He had a talent for remaining unseen, slipping into places he shouldn’t be and returning with fragments of forgotten power. His smile, sharp and sly, unsettled some—but never his mother.
 

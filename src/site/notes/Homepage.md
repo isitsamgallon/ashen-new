@@ -27,7 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                          |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist.                                        |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                                                                |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]] | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                                                        |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                                                                |
@@ -78,10 +78,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 ### Recently Modified
 - [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
-- [[Named Characters & Beasts/Lull\|Lull]]
-- [[The Party/The Korrigan\|The Korrigan]]
-- [[The Party/Dead/Kal ‡\|Kal ‡]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]
+- [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]
 
 { .block-language-dataview}
 
@@ -89,8 +89,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 - [[Admin/Tom To Do List\|Tom To Do List]]
 - [[Named Characters & Beasts/Lull\|Lull]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae\|Rae]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]
 
 { .block-language-dataview}
 
@@ -105,10 +105,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 30, 2025   |
 | [[Named Characters & Beasts/Kaes\|Kaes]]                                                                          | July 08, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra\|Elandra]]                       | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael\|Kael]]                             | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 30, 2025   |
 | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                            | July 13, 2025   |
 | [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]]                     | July 20, 2025   |
