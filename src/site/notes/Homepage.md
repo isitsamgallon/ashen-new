@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Other Information/Money\|Money]]
 - [[Locations/Locations\|Locations]]
 - [[Locations/The Desert/Camp Sophia\|Camp Sophia]]
 - [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]
 - [[Locations/The Desert/The Great Wall\|The Great Wall]]
-- [[Locations/The Desert/The Desert\|The Desert]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Money\|Money]]
 - [[Locations/Astral Plane\|Astral Plane]]
 - [[Other Information/Races/Goliath\|Goliath]]
 - [[Other Information/Races/Eladrin\|Eladrin]]
 - [[Locations/Lost Haven/Noble City\|Noble City]]
-- [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
 
 { .block-language-dataview}
 
