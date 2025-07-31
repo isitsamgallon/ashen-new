@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-06-11T21:52:46.431+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-07-31T14:30:43.448+01:00"}
 ---
 
 ### Overview  

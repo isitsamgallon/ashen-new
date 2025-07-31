@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/emberfall/","tags":["Undiscovered"],"updated":"2025-06-11T21:51:56.284+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/emberfall/","tags":["Undiscovered"],"updated":"2025-07-31T14:30:43.425+01:00"}
 ---
 
 ### Overview

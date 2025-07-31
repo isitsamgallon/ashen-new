@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/the-slumbering-veil/","updated":"2025-06-10T19:02:19.824+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/the-slumbering-veil/","updated":"2025-07-31T13:54:38.718+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181621.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181621.png) 

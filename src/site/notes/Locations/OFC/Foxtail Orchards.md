@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/foxtail-orchards/","tags":["Discovered"],"updated":"2025-06-11T21:46:54.154+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/foxtail-orchards/","tags":["Discovered"],"updated":"2025-07-31T14:15:55.414+01:00"}
 ---
 
 ### Overview

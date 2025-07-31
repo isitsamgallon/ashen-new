@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/ember-peak/","tags":["Undiscovered"],"updated":"2025-06-11T21:51:45.901+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/ember-peak/","tags":["Undiscovered"],"updated":"2025-07-31T14:30:43.422+01:00"}
 ---
 
 ### Overview

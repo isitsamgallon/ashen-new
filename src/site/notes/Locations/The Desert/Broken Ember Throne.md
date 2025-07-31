@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/broken-ember-throne/","tags":["Undiscovered"],"updated":"2025-06-11T21:51:32.884+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/broken-ember-throne/","tags":["Undiscovered"],"updated":"2025-07-31T14:30:43.453+01:00"}
 ---
 
 ### Overview

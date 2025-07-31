@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered"],"updated":"2025-07-05T18:34:09.346+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered"],"updated":"2025-07-31T14:26:46.393+01:00"}
 ---
 
 ### Overview

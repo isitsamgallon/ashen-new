@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Undiscovered"],"updated":"2025-06-11T21:45:05.130+01:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Undiscovered"],"updated":"2025-07-31T14:17:45.191+01:00"}
 ---
 
 > [!infobox]
@@ -18,12 +18,12 @@
 > | ----------------------------------------------------------- | ------------------------------ |
 > | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Totala\|Totala]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 

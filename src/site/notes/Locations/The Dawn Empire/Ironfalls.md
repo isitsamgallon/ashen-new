@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/ironfalls/","tags":["Undiscovered"],"updated":"2025-06-11T21:49:38.914+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/ironfalls/","tags":["Undiscovered"],"updated":"2025-07-31T14:26:00.332+01:00"}
 ---
 
 ### Overview

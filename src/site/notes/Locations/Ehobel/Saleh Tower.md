@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered"],"updated":"2025-06-11T21:43:01.739+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered"],"updated":"2025-07-31T14:29:16.219+01:00"}
 ---
 
 ### Overview

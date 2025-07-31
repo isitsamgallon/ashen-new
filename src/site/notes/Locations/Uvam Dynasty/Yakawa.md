@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/yakawa/","tags":["Discovered"],"updated":"2025-06-11T21:54:08.690+01:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/yakawa/","tags":["Discovered"],"updated":"2025-07-31T14:28:11.458+01:00"}
 ---
 
 ### Overview

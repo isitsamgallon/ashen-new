@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/caalona/","tags":["Discovered"],"updated":"2025-06-11T21:41:36.340+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/caalona/","tags":["Discovered"],"updated":"2025-07-31T14:29:32.168+01:00"}
 ---
 
 ### Overview

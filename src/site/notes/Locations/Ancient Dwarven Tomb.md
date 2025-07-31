@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ancient-dwarven-tomb/","tags":["Discovered"],"updated":"2025-07-07T18:47:32.224+01:00"}
+{"dg-publish":true,"permalink":"/locations/ancient-dwarven-tomb/","tags":["Discovered"],"updated":"2025-07-31T14:05:10.405+01:00"}
 ---
 
 

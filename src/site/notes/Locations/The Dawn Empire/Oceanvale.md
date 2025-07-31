@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/oceanvale/","tags":["Discovered"],"updated":"2025-06-11T21:49:58.332+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/oceanvale/","tags":["Discovered"],"updated":"2025-07-31T14:26:18.772+01:00"}
 ---
 
 ### Overview 

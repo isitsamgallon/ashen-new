@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-silent-shade/","tags":["Discovered"],"updated":"2025-06-11T21:48:12.139+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-silent-shade/","tags":["Discovered"],"updated":"2025-07-31T14:26:55.101+01:00"}
 ---
 
 ### Overview

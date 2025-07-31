@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/nas-anor/","tags":["Discovered"],"updated":"2025-06-11T21:42:25.161+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/nas-anor/","tags":["Discovered"],"updated":"2025-07-31T14:29:53.546+01:00"}
 ---
 
 ### Overview

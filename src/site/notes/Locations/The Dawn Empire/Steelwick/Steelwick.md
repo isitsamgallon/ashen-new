@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/","tags":["Discovered"],"updated":"2025-06-11T21:48:21.565+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/","tags":["Discovered"],"updated":"2025-07-31T14:26:40.374+01:00"}
 ---
 
 ### Overview

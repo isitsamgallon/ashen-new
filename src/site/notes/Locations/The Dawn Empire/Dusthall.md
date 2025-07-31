@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dusthall/","tags":["Discovered"],"updated":"2025-06-11T21:49:04.296+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dusthall/","tags":["Discovered"],"updated":"2025-07-31T14:24:50.791+01:00"}
 ---
 
 ### Overview

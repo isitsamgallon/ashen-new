@@ -52,7 +52,7 @@ Obeus is a small Elf with sickly pale skin and flowing black hair and can often 
 
 ### Other Information
 - She cried when [[The Party/Mordecai Reverence\|Mordecai Reverence]] said that they would be her friend especially now that they would be travelling together. 
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was the only one to understand truly why her guards wouldn't let her leave the palace due to his similar nature as a Half-[[Eladrin\|Eladrin]].
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was the only one to understand truly why her guards wouldn't let her leave the palace due to his similar nature as a Half-[[Other Information/Races/Eladrin\|Eladrin]].
 - She has been travelling with them as a [[Groups & Factions/Companions\|Companions]] since being broken out of the palace.
 
 ### History & Mentions

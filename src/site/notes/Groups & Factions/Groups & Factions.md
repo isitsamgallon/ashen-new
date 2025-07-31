@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/groups-and-factions/","hideInGraph":true,"updated":"2025-06-10T19:02:58.048+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/groups-and-factions/","hideInGraph":true,"updated":"2025-07-31T12:29:38.989+01:00"}
 ---
 
-Here is a list of all current known groups and f within the campaign
+Here is a list of all current known groups and factions within the campaign
 - [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]
 - [[Groups & Factions/Companions\|Companions]]
 - [[Groups & Factions/Ebon Quill\|Ebon Quill]]

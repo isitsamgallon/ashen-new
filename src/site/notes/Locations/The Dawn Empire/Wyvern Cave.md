@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/wyvern-cave/","tags":["Discovered"],"updated":"2025-06-11T21:51:23.786+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/wyvern-cave/","tags":["Discovered"],"updated":"2025-07-31T14:27:05.153+01:00"}
 ---
 
 

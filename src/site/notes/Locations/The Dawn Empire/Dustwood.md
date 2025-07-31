@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dustwood/","tags":["Discovered"],"updated":"2025-06-11T21:49:14.377+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dustwood/","tags":["Discovered"],"updated":"2025-07-31T14:24:59.529+01:00"}
 ---
 
 ### Overview

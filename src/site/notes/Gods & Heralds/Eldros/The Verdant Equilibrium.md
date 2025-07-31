@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/the-verdant-equilibrium/","tags":["Discovered"],"updated":"2025-06-11T20:12:49.420+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/the-verdant-equilibrium/","tags":["Discovered"],"updated":"2025-07-31T13:56:18.740+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181540.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181540.png)

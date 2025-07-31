@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/the-blooming-heart/","updated":"2025-06-11T20:12:29.174+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/the-blooming-heart/","updated":"2025-07-31T13:55:15.968+01:00"}
 ---
 
 

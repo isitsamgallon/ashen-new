@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/the-crucible-eternal/","updated":"2025-06-11T20:12:40.891+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/the-crucible-eternal/","updated":"2025-07-31T13:56:04.254+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181547.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181547.png)

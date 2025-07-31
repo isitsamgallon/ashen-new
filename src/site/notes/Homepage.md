@@ -68,8 +68,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | October 11, 2024   |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | February 02, 2025  |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | January 29, 2025   |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | March 12, 2024     |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 04, 2024 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | October 22, 2024   |
 
@@ -77,20 +77,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]]
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
-- [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]
-- [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]
+- [[Locations/Locations\|Locations]]
+- [[Locations/The Desert/Camp Sophia\|Camp Sophia]]
+- [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]
+- [[Locations/The Desert/The Great Wall\|The Great Wall]]
+- [[Locations/The Desert/The Desert\|The Desert]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Admin/Tom To Do List\|Tom To Do List]]
-- [[Named Characters & Beasts/Lull\|Lull]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]
+- [[Locations/Astral Plane\|Astral Plane]]
+- [[Other Information/Races/Goliath\|Goliath]]
+- [[Other Information/Races/Eladrin\|Eladrin]]
+- [[Locations/Lost Haven/Noble City\|Noble City]]
+- [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
 
 { .block-language-dataview}
 
@@ -100,19 +100,23 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[Other Information/Races/Goliath\|Goliath]]                                                                      | July 31, 2025   |
+| [[Other Information/Races/Eladrin\|Eladrin]]                                                                      | July 31, 2025   |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | June 11, 2025   |
-| [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 30, 2025   |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 30, 2025   |
-| [[Named Characters & Beasts/Kaes\|Kaes]]                                                                          | July 08, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 31, 2025   |
+| [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 30, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
 | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                            | July 13, 2025   |
-| [[Named Characters & Beasts/Beasts & Animals/Bronumas, The Devourer\|Bronumas, The Devourer]]                     | July 20, 2025   |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | July 30, 2025   |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | July 31, 2025   |
+| [[Locations/Lost Haven/Noble City\|Noble City]]                                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/The Slums\|The Slums]]                                                                     | July 31, 2025   |
+| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | July 31, 2025   |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                          | July 13, 2025   |
 
 { .block-language-dataview}

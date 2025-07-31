@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/wooden-hearth-inn/","tags":["Discovered"],"updated":"2025-06-11T21:41:26.054+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/wooden-hearth-inn/","tags":["Discovered"],"updated":"2025-07-31T14:29:10.976+01:00"}
 ---
 
 ### Overview

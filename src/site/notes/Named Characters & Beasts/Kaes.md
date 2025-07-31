@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaes/","tags":["NPC"],"updated":"2025-07-08T21:45:34.681+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaes/","tags":["NPC"],"updated":"2025-07-31T12:01:59.466+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-Currently running [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]
-he is [[Named Characters & Beasts/Genevieve †\|Genevieve †]]'s son. 
-
-### Notable Information
-
+The new ruler of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]. he took over from this mother, [[Named Characters & Beasts/Genevieve †\|Genevieve †]] after her death during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. He seems to be well liked and is known for being very cold and calculating. 
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
