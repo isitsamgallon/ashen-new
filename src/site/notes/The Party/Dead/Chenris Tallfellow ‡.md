@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-07-30T13:22:10.108+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-03T15:00:33.864+01:00"}
 ---
 
 > [!infobox]
@@ -39,8 +39,8 @@
 >Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
@@ -320,7 +320,7 @@ The climax of the ordeal came when Chenris encountered the **[[Named Characters
 Yet, Chenris did not accept. His skepticism, once again, overpowered his darker impulses. He rejected the offer, citing the artificial nature of the peace being offered. While I do not doubt that Chenris’ desire for knowledge and power remains strong, this moment reveals that he is not beyond hope. He may yet possess the discernment to distinguish between genuine growth and hollow shortcuts.
 
 **Consequences & Strained Alliances**
-Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
+Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of [[Other Information/Races/Elves\|elves]]—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[The Party/The Korrigan\|The Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
 
 Chenris, though clearly shaken, healed Mordecai—an action underscored by his sarcastic comment about the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]’s intentions. This was not an act of compassion, but rather a calculated and spiteful decision to avoid proving his adversary’s grim predictions correct. Nonetheless, Chenris' ability to weigh the broader consequences of his actions is a positive development.
 

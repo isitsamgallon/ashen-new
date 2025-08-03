@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-06-10T19:10:49.890+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-08-03T14:53:24.312+01:00"}
 ---
 
 
@@ -44,10 +44,10 @@
 a race of small and numerous [goblinoids](https://forgottenrealms.fandom.com/wiki/Goblinoid "Goblinoid") common throughout [[Locations/The Amber Realms\|The Amber Realms]], often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly [hobgoblins](https://forgottenrealms.fandom.com/wiki/Hobgoblin "Hobgoblin"). They're typically seen as part of the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] completing jobs and heist with varying degrees of success. They're not known for being very smart.
 
 ### Attitudes & Beliefs
-Not much is known about them apart from their simple minded nature and the fact that most of them are part of gangs of the mafia.
+Not much is known about them apart from their simple minded nature and the fact that most of them are part of gangs or the mafia.
 
 ### History
-The ealiest known account of them in [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]] where it was revealed that chief, [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] joined forces with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
+The earliest known account of them in [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]] where it was revealed that chief [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Chatiz\|Chatiz]] joined forces with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] during [[History & Events/The Sundering\|The Sundering]]
 
 ### Known Goblins 
 - [[Named Characters & Beasts/Bing †\|Bing †]]

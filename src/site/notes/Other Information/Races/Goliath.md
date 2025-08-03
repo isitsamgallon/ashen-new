@@ -1,54 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goliath/","updated":"2025-07-31T12:17:12.005+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goliath/","updated":"2025-08-03T15:01:29.584+01:00"}
 ---
 
 
  >[!infobox]
 > 
 > #  Goliath
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![United_colors_of_goliaths_5point5e.webp](/img/user/Admin/Attachments/United_colors_of_goliaths_5point5e.webp)
 > ###### 5th Edition Statistics
 > 
 >  Type | Stat |
 > :----: | --- |
->  Size | - |
->  Type | - |
->  Alignment | - |
+>  Size | Medium |
+>  Type | Humanoid |
+>  Alignment | Neutral |
 >  
 > ###### General Information
 > Type | Stat |
 >  :----: | --- |
->  Activity Cycle | - |
->  Average Lifespan | - |
->  Language(s) | - |
->  Vision | - |
->  Homeland | - |
+>  Activity Cycle | Day |
+>  Average Lifespan | Usually less than a century |
+>  Language(s) | Common |
+>  Vision | Normal |
+>  Homeland | unknown |
 >
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | - |
->  Hair Colour(s) | - |
->  Eye Colour(s) | - |
->  Average Height | - |
->  Average Weight | - |
->  Distinctions | - |
+>  Skin Colour(s) | Gray or Brown |
+>  Hair Colour(s) | Dark |
+>  Eye Colour(s) | Blue or Green |
+>  Average Height | 7‒8 ft (2.1‒2.4 m) |
+>  Average Weight | 280‒340 lb (130‒150 kg) |
+>  Distinctions | Skin mottled with dark patches, bony protrusions |
 >
 >##### History
 >Type | Stat |
 >  :----: | --- |
->  Based on | - |
+>  First appearance | _[Races of Stone](https://forgottenrealms.fandom.com/wiki/Races_of_Stone "Races of Stone")_ (2004) |
 
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-
-
-### Attitudes & Beliefs
-
-
-### History
-
+Not much is known about Goliaths as [[Other Information/Display Tags/The Party\|the party]] has only encountered them acting as guards in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]'s slums. 
 
 ### ### Known Goliath
 

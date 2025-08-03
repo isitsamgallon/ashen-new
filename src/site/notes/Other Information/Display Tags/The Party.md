@@ -69,10 +69,10 @@
 | File                                                                                                             | Class             | Role         | Status       | Home Nation     | Home Town       |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] | Druid             | Companion    | In The Party | Unknown/Unclear | Unknown/Unclear |
-| [[The Party/Aiden Knight\|Aiden Knight]]                                                                      | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Halfbie\|Halfbie]]                                                                                | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
-| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                          | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
+| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
+| [[The Party/Aiden Knight\|Aiden Knight]]                                                                      | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/The Korrigan\|The Korrigan]]                                                                      | Ranger/Druid      | Party Member | In The Party | The Feywilds    | Seelie Court    |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                            | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
 

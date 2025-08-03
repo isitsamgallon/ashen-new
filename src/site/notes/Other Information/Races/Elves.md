@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-06-30T20:16:37.959+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-08-03T15:00:15.852+01:00"}
 ---
 
 
@@ -29,7 +29,7 @@
 > Type | Stat |
 >  :----: | --- |
 >  Skin Colour(s) | Same range as [[Other Information/Races/Human\|Human]] plus shades of copper, bronze, and bluish-white |
->  Hair Colour(s) | Same as humans plus green and blue |
+>  Hair Colour(s) | Same as [[Other Information/Races/Human\|Human]]|humans]] plus green and blue |
 >  Eye Colour(s) | Same as humans plus gold and silver |
 >  Average Height | 4′7″‒5′5″ (1.4‒1.7 m) |
 >  Average Weight | 87‒157 lb (39‒71.2 kg) |
@@ -55,11 +55,16 @@ Elves fought during [[History & Events/The Sundering\|The Sundering]] as their a
 
 Elves and [[Other Information/Races/Human\|Human]] have fought many time, with the most recent being [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which took place a little bit before the campaign.
 
+### Half-Elves
+Half-Elves are special and are cases where an elf will have a child with a member of another races, typically human as they're more compatible. Typically most will die during child birth but there are a few cases of them making it through childbirth, however, most will have some form of disability. 
+
+A great example of this is [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] who's [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|mother]] was an elf and her [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|father]] was a human. Obeus has a weakened immune system and is at extreme risk of death due to even minor colds and flus. This is why she wasn't aloud to leave her palace in [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]].
+
 ### Locations Found
 - [[Locations/Ehobel/Ehobel\|Ehobel]]
 - [[Locations/Strixhaven\|Strixhaven]]
 
-### Known Elves
+### Known Elves & Half-Elves 
 - [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
 - [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]
@@ -67,8 +72,8 @@ Elves and [[Other Information/Races/Human\|Human]] have fought many time, with t
 - [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]
 
 { .block-language-dataview}
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
 - [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 
 { .block-language-dataview}
