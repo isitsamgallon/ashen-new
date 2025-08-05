@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-06-11T21:47:18.814+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-06-11T21:47:18.813+01:00"}
 ---
 
 

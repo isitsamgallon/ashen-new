@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-03T15:00:33.864+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-03T15:00:33.863+01:00"}
 ---
 
 > [!infobox]
@@ -39,9 +39,9 @@
 >Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
 > - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
+> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > 
 { .block-language-dataview}
 
@@ -343,7 +343,7 @@ Chenris, however, did not falter. In the ensuing exchange, when negotiations bro
 **The Disappearance of [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]]**  
 Upon arriving in [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], [[Other Information/Display Tags/The Party\|The Party]] sought respite at a tavern, "[[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]]," and it was here they began to gather information about the recent disappearance of one [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]]. Rumors in the city swirled like smoke, suggesting that Horrigan had somehow managed to steal everything from the palace, even the very furniture, all while the guards were mysteriously absent. The audacity of the crime, and the magical potential it would require, immediately raised suspicions within Chenris.
 
-The investigation led [[Other Information/Display Tags/The Party\|The Party]] to the palace itself. What they found there was a scene of such total desolation that it almost defied belief. The palace had been utterly stripped—every valuable, every gilded trimming gone. Chenris led the charge, uncovering a secret entrance in the palace vault, hidden beneath the surface and leading to a maze of tunnels. Mordecai, ever the opportunist, was sent forward to explore these narrow passages. His discovery of mining tools, oil lamps, and [[Gold\|Gold]] coins indicated a sophisticated operation, but there was more to uncover.
+The investigation led [[Other Information/Display Tags/The Party\|The Party]] to the palace itself. What they found there was a scene of such total desolation that it almost defied belief. The palace had been utterly stripped—every valuable, every gilded trimming gone. Chenris led the charge, uncovering a secret entrance in the palace vault, hidden beneath the surface and leading to a maze of tunnels. Mordecai, ever the opportunist, was sent forward to explore these narrow passages. His discovery of mining tools, oil lamps, and [[Other Information/Gold\|Gold]] coins indicated a sophisticated operation, but there was more to uncover.
 
 **Hidden Knowledge and [[Locations/OFC/Blackwall/The Black Tower\|the Black Tower]]**  
 While the others searched the palace, Chenris wandered into the forbidden section of the city’s library. There, amidst the dust-covered tomes of forgotten knowledge, he found a book detailing the history of [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], one that linked it to the ancient [[History & Events/Grayfall Empire\|Grayfall Empire]], a dwarven stronghold from ages past. The city’s history was one of desperation—siege, secret escape tunnels, and ultimately, collapse. The book, cryptic though it was, pointed Chenris toward the beach where the old tunnels may yet lead, and perhaps where the stolen goods had been taken.

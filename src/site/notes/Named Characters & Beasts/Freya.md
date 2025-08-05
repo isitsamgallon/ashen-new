@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/freya/","tags":["NPC"],"updated":"2025-06-10T19:10:58.175+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/freya/","tags":["NPC"],"updated":"2025-06-10T19:10:58.174+01:00"}
 ---
 
 

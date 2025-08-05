@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-06-11T21:37:39.524+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-06-11T21:37:39.523+01:00"}
 ---
 
 > [!infobox]

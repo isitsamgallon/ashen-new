@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"updated":"2025-06-14T14:14:54.488+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/terence-witherfeather/","tags":["NPC"],"updated":"2025-06-14T14:14:54.487+01:00"}
 ---
 
 

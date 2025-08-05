@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/goldpass-bridge/","tags":["Discovered"],"updated":"2025-06-11T21:54:56.875+01:00"}
+{"dg-publish":true,"permalink":"/locations/goldpass-bridge/","tags":["Discovered"],"updated":"2025-06-11T21:54:56.874+01:00"}
 ---
 
 ### Overview

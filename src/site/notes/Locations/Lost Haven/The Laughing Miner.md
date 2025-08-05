@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/the-laughing-miner/","tags":["Discovered"],"updated":"2025-07-31T11:53:43.633+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/the-laughing-miner/","tags":["Discovered"],"updated":"2025-07-31T11:53:43.632+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

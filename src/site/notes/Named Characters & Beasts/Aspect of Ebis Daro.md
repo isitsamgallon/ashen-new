@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/aspect-of-ebis-daro/","tags":["NPC"],"updated":"2025-06-10T19:10:58.052+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/aspect-of-ebis-daro/","tags":["NPC"],"updated":"2025-06-10T19:10:58.051+01:00"}
 ---
 
 

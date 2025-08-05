@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/bing/","tags":["NPC"],"updated":"2025-06-10T19:10:58.097+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/bing/","tags":["NPC"],"updated":"2025-06-10T19:10:58.096+01:00"}
 ---
 
 

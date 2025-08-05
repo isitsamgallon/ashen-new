@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/named-characters-and-beasts/","hideInGraph":true,"updated":"2025-06-10T19:10:58.454+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/named-characters-and-beasts/","hideInGraph":true,"updated":"2025-06-10T19:10:58.453+01:00"}
 ---
 
 

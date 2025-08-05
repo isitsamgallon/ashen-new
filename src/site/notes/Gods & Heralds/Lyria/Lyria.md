@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-06-11T20:06:15.044+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-06-11T20:06:15.043+01:00"}
 ---
 
 > [!infobox]

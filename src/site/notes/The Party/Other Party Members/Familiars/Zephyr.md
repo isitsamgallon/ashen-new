@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-06-10T19:10:33.864+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-06-10T19:10:33.863+01:00"}
 ---
 
  > [!infobox]

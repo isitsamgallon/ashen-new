@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","updated":"2025-07-13T11:00:14.181+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","updated":"2025-07-13T11:00:14.180+01:00"}
 ---
 
 **Entry 1: The Fallen Sun**  
@@ -16,7 +16,7 @@ Yet, even in our panic, there was purpose. We are necromancers, sworn to the pre
 **Entry 3: The Price of Immortality**  
 _Three Days After the King’s Passing_
 
-The body arrived at midnight, shrouded in ceremonial [[gold\|gold]], the crimson of his blood long dried. We worked in silence, the weight of our task heavy as the stone walls around us. His corpse was intact—thank the gods of twilight—but the soul had begun its journey beyond the veil.
+The body arrived at midnight, shrouded in ceremonial [[Other Information/Gold\|gold]], the crimson of his blood long dried. We worked in silence, the weight of our task heavy as the stone walls around us. His corpse was intact—thank the gods of twilight—but the soul had begun its journey beyond the veil.
 
 It would not return willingly. Souls tethered to mortal crowns often resist rebirth, for the weight of rulership lingers even in death.
 
@@ -33,7 +33,7 @@ _Seven Days After the King’s Passing_
 
 The ritual succeeded—or so it seems.
 
-The chamber was bathed in cold, unnatural light as his eyes opened. Not the warm amber of the living king, but pale [[gold\|gold]], shimmering like dawn over a frost-covered field. He rose slowly, his movements deliberate, as though he still remembered how the living moved.
+The chamber was bathed in cold, unnatural light as his eyes opened. Not the warm amber of the living king, but pale [[Other Information/Gold\|gold]], shimmering like dawn over a frost-covered field. He rose slowly, his movements deliberate, as though he still remembered how the living moved.
 
 “Who calls me back?” his voice rasped, hollow and heavy.
 

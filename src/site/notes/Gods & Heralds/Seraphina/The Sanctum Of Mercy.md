@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/the-sanctum-of-mercy/","updated":"2025-07-31T13:54:55.524+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/the-sanctum-of-mercy/","updated":"2025-07-31T13:54:55.523+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181612.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181612.png)

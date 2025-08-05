@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2025-06-10T19:10:58.289+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2025-06-10T19:10:58.288+01:00"}
 ---
 
 Arwen is a very obese half-elf, who was first mentioned by [[Named Characters & Beasts/Cindy\|Cindy]] and is the owner of the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. In his office, there are many pictures of [[The Party/Mordecai Reverence\|Mordecai Reverence]] with his eye cut out. There are many dead [[Other Information/Races/Tiefling\|Tiefling]]s under the pictures, written above them, presumably in their blood "Mordecai stole my heart". 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-14T13:51:50.024+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-14T13:51:50.023+01:00"}
 ---
 
 
@@ -36,8 +36,8 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > 
 { .block-language-dataview}
 

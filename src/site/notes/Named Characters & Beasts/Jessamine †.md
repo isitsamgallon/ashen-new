@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jessamine/","tags":["NPC"],"updated":"2025-06-10T19:10:58.394+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jessamine/","tags":["NPC"],"updated":"2025-06-10T19:10:58.393+01:00"}
 ---
 
 

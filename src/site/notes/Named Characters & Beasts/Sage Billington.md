@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2025-06-10T19:10:58.483+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2025-06-10T19:10:58.482+01:00"}
 ---
 
 

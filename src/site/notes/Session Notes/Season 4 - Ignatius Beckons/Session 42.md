@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-07-31T11:56:37.046+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-07-31T11:56:37.045+01:00"}
 ---
 
 # Session Information

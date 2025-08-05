@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-07-30T10:11:41.544+01:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-07-30T10:11:41.543+01:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
@@ -17,7 +17,7 @@ The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn 
 - Council that runs most other affairs that are not linked to the ministers departments.
 
 # Laws & Legislation 
-- The party want to stop the use of [[Credits\|Credits]] and move to the more common stand of Gold as their national currency to allow for the ease of trade and immigration. This could be achieved my forgiving Credit debt and/or issuing a credit buy back scheme 
+- The party want to stop the use of [[Other Information/Credits\|Credits]] and move to the more common stand of Gold as their national currency to allow for the ease of trade and immigration. This could be achieved my forgiving Credit debt and/or issuing a credit buy back scheme 
 - The party would like to open up trade routes with the following countries:
 	- [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
 	- [[Locations/Ehobel/Ehobel\|Ehobel]]

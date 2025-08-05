@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-06-11T20:07:31.288+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2025-06-11T20:07:31.287+01:00"}
 ---
 
 > [!infobox]

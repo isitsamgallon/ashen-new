@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","tags":["dracheitem"],"updated":"2025-06-14T13:53:58.798+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","tags":["dracheitem"],"updated":"2025-06-14T13:53:58.797+01:00"}
 ---
 
 ### Overview

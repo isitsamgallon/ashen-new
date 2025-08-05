@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-feywilds-domain/","tags":["Discovered"],"updated":"2025-07-31T13:55:52.530+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-feywilds-domain/","tags":["Discovered"],"updated":"2025-07-31T13:55:52.529+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181555.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181555.png)

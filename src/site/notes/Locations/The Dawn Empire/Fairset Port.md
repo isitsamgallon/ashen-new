@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/fairset-port/","tags":["Discovered"],"updated":"2025-06-11T21:49:20.344+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/fairset-port/","tags":["Discovered"],"updated":"2025-06-11T21:49:20.343+01:00"}
 ---
 
 

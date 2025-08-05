@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-06-11T20:08:05.532+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-06-11T20:08:05.531+01:00"}
 ---
 
 > [!infobox]

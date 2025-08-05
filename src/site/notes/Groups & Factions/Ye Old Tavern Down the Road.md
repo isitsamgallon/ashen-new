@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-06-11T21:39:06.908+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ye-old-tavern-down-the-road/","tags":["Groups"],"updated":"2025-06-11T21:39:06.907+01:00"}
 ---
 
 ### Overview

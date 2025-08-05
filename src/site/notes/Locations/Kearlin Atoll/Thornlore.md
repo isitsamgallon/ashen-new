@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/thornlore/","tags":["Undiscovered"],"updated":"2025-07-31T14:17:45.212+01:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/thornlore/","tags":["Undiscovered"],"updated":"2025-07-31T14:17:45.211+01:00"}
 ---
 
 

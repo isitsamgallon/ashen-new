@@ -35,8 +35,8 @@
 >Languages | Common, Draconic|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > - [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
+> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > 
 { .block-language-dataview}
 

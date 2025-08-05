@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-06-11T20:20:12.907+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2025-06-11T20:20:12.906+01:00"}
 ---
 
 

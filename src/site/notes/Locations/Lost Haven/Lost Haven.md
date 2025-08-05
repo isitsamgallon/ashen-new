@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered"],"updated":"2025-07-31T12:27:06.287+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered"],"updated":"2025-07-31T12:27:06.286+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
@@ -18,10 +18,10 @@
 >   | File                                                               | Discovery Status             |
 > | ------------------------------------------------------------------ | ---------------------------- |
 > | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/Noble City\|Noble City]]                 | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/The Slums\|The Slums]]                   | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/Noble City\|Noble City]]                 | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/The Slums\|The Slums]]                   | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}
 
@@ -35,15 +35,15 @@ The capital has a large library
 ### NPCs From The Lost Haven
 | File                                                                                                                 | Home Town  | Status |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                                          | The Slums  | Alive  |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | The Slums  | Alive  |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | The Slums  | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                           | The Slums  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | Lost Haven | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                           | The Slums  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | The Slums  | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | The Slums  | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Lost Haven | Alive  |
+| [[Named Characters & Beasts/Tish\|Tish]]                                                                          | The Slums  | Alive  |
 
 { .block-language-dataview}
 

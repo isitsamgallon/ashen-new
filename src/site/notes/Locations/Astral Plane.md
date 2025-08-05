@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/astral-plane/","tags":["Discovered"],"updated":"2025-07-31T14:23:48.396+01:00"}
+{"dg-publish":true,"permalink":"/locations/astral-plane/","tags":["Discovered"],"updated":"2025-07-31T14:23:48.395+01:00"}
 ---
 
 ### Overview

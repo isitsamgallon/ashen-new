@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/money/","updated":"2025-07-31T14:42:01.894+01:00"}
+{"dg-publish":true,"permalink":"/other-information/money/","updated":"2025-07-31T14:42:01.893+01:00"}
 ---
 
 ### Gold

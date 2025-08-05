@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/tome-of-unfinished-stories/","tags":["halfbieitem"],"updated":"2025-06-14T13:54:54.581+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/tome-of-unfinished-stories/","tags":["halfbieitem"],"updated":"2025-06-14T13:54:54.580+01:00"}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-07-30T10:11:41.527+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-07-30T10:11:41.526+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

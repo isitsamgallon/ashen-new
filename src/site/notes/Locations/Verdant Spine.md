@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/verdant-spine/","tags":["Display"],"updated":"2025-06-11T21:55:59.453+01:00"}
+{"dg-publish":true,"permalink":"/locations/verdant-spine/","tags":["Display"],"updated":"2025-06-11T21:55:59.452+01:00"}
 ---
 
 ### Overview

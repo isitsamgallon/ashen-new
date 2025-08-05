@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-coalition/","tags":["Groups"],"updated":"2025-07-30T13:23:55.229+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-coalition/","tags":["Groups"],"updated":"2025-07-30T13:23:55.228+01:00"}
 ---
 
 ### Overview

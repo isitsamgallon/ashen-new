@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-black-dragon/","tags":["NPC","Important"],"updated":"2025-06-10T19:10:58.353+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-black-dragon/","tags":["NPC","Important"],"updated":"2025-06-10T19:10:58.352+01:00"}
 ---
 
 

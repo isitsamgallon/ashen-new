@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/clockwork-bird/","tags":["chenrisitem"],"updated":"2025-06-14T13:53:43.918+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/clockwork-bird/","tags":["chenrisitem"],"updated":"2025-06-14T13:53:43.917+01:00"}
 ---
 
 ### Overview

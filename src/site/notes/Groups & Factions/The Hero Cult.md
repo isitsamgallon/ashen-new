@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-06-11T21:38:28.987+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-hero-cult/","tags":["Groups"],"updated":"2025-06-11T21:38:28.986+01:00"}
 ---
 
 ### Overview

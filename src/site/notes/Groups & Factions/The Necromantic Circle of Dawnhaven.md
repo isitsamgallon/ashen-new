@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-necromantic-circle-of-dawnhaven/","tags":["Groups"],"updated":"2025-06-11T21:38:42.482+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-necromantic-circle-of-dawnhaven/","tags":["Groups"],"updated":"2025-06-11T21:38:42.481+01:00"}
 ---
 
 ### Overview

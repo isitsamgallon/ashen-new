@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-07-30T10:11:41.566+01:00"}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2025-07-30T10:11:41.565+01:00"}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.

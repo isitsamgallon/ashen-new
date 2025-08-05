@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2025-06-11T21:09:14.503+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2025-06-11T21:09:14.502+01:00"}
 ---
 
 

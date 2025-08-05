@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2025-07-13T10:30:00.660+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2025-07-13T10:30:00.659+01:00"}
 ---
 
 ### Overview

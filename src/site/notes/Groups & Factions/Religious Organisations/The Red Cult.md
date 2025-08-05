@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-red-cult/","tags":["Groups"],"updated":"2025-06-11T21:39:57.259+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-red-cult/","tags":["Groups"],"updated":"2025-06-11T21:39:57.258+01:00"}
 ---
 
 ### Overview

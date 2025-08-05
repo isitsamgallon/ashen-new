@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/enelion/enelion/","tags":["Discovered"],"updated":"2025-07-31T14:29:41.326+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/enelion/enelion/","tags":["Discovered"],"updated":"2025-07-31T14:29:41.325+01:00"}
 ---
 
 ### Overview

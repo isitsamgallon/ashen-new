@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2025-07-05T18:44:51.981+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2025-07-05T18:44:51.980+01:00"}
 ---
 
 ### Overview

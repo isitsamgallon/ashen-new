@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/prince-of-fire-flyer/","updated":"2025-06-10T19:00:50.322+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/prince-of-fire-flyer/","updated":"2025-06-10T19:00:50.321+01:00"}
 ---
 
 ### Overview

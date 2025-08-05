@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-07-30T10:11:41.509+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-07-30T10:11:41.508+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

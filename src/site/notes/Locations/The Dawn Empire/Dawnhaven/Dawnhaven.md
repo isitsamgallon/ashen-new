@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-06-30T20:16:36.903+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-06-30T20:16:36.902+01:00"}
 ---
 
 ### Overview

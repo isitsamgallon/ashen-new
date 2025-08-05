@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/grayfall-empire/","updated":"2025-06-30T20:16:38.561+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/grayfall-empire/","updated":"2025-06-30T20:16:38.560+01:00"}
 ---
 
 The ancient dwarven empire was founded in the [[History & Events/Eras/2nd Era\|2nd Era]] by Emperor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]]. It encompassed the majority of the [[Locations/Verdant Peninsula\|Verdant Peninsula]]. The Drawfs established their dominance through a combination of strategic prowess and exploitation. Their cities, built upon the backs of a vast human slave workforce, were marvels of engineering and fortification. The majority of their empire was found underground allowing it to grow uninhibited by the various wars and infighting happening on the surface. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-tale-of-the-dreamer-and-the-wanderer/","updated":"2025-06-10T19:00:50.448+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-tale-of-the-dreamer-and-the-wanderer/","updated":"2025-06-10T19:00:50.447+01:00"}
 ---
 
 

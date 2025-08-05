@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/farpost/","tags":["Discovered"],"updated":"2025-07-31T14:25:14.767+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/farpost/","tags":["Discovered"],"updated":"2025-07-31T14:25:14.766+01:00"}
 ---
 
 ### Overview

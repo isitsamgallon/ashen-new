@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/divine-pillars-and-the-world-s-mantle/","updated":"2025-06-10T19:00:50.373+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/divine-pillars-and-the-world-s-mantle/","updated":"2025-06-10T19:00:50.372+01:00"}
 ---
 
 A book that [[The Party/The Korrigan\|The Korrigan]] secretly read while [[Other Information/Display Tags/The Party\|The Party]] was in [[Locations/Strixhaven\|Strixhaven]]. He was looking for information about [[Other Information/Display Tags/The Towers\|The Towers]] and how they function. This was mostly likely because of his pact with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Here is a summary of the book, taken from [[Other Information/Display Tags/The Ashen Book\|The Ashen Book]]:

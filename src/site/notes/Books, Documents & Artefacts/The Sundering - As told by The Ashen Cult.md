@@ -89,7 +89,7 @@ P.2. The faithful followers of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], g
 
 # Hymn of the Cleansing Flame
 
-H.1. [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], flame of purity, Cleanse this world, set our spirits free. With your fire, burn away the old, Bring forth a new dawn, bold and [[Gold\|Gold]].
+H.1. [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], flame of purity, Cleanse this world, set our spirits free. With your fire, burn away the old, Bring forth a new dawn, bold and [[Other Information/Gold\|Gold]].
 
 H.2. We sing your praises, oh Cleansing Flame, In your holy fire, we find no shame. Transform our souls, make us anew, In your light, our faith is true.
 

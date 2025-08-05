@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/vulwin-slave-company/","tags":["Undiscovered"],"updated":"2025-07-31T14:29:05.036+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/vulwin-slave-company/","tags":["Undiscovered"],"updated":"2025-07-31T14:29:05.035+01:00"}
 ---
 
 ### Overview

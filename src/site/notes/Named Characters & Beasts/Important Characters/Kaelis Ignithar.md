@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/kaelis-ignithar/","tags":["Important","NPC"],"updated":"2025-07-04T20:27:58.116+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/kaelis-ignithar/","tags":["Important","NPC"],"updated":"2025-07-04T20:27:58.115+01:00"}
 ---
 
 

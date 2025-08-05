@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2025-07-20T13:16:27.914+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2025-07-20T13:16:27.913+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

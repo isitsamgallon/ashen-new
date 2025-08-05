@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-06-11T21:51:08.850+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-06-11T21:51:08.849+01:00"}
 ---
 
 ### Overview

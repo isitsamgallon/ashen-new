@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","tags":["dracheitem"],"updated":"2025-06-14T13:54:43.204+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","tags":["dracheitem"],"updated":"2025-06-14T13:54:43.203+01:00"}
 ---
 
 ### Overview
