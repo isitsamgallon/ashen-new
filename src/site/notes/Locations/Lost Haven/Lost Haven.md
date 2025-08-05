@@ -41,9 +41,9 @@ The capital has a large library
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                           | The Slums  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | Lost Haven | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | The Slums  | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | The Slums  | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Lost Haven | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | The Slums  | Dead   |
 
 { .block-language-dataview}
 

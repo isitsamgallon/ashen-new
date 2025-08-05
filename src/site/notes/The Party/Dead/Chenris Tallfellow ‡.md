@@ -39,8 +39,8 @@
 >Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
 > - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}

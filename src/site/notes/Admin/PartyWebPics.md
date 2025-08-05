@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/party-web-pics/","updated":"2025-06-14T14:37:55.339+01:00"}
+{"dg-publish":true,"permalink":"/admin/party-web-pics/","hide":true,"updated":"2025-08-05T18:58:46.270+01:00"}
 ---
 
 
