@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/rules-and-reference/actions/","updated":"2025-08-05T19:49:14.659+01:00"}
+{"dg-publish":true,"permalink":"/other-information/rules-and-reference/actions/","updated":"2025-08-06T12:04:55.921+01:00"}
 ---
 
 ## Activate an Item
@@ -177,7 +177,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [[Statuss#concentration\|Concentration]] (explained in chapter 10). If your [[Statuss#concentration\|Concentration]] is broken, the spell dissipates without taking effect. For example, if you are [[Statuss#concentration\|Concentration]] on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your [[Statuss#concentration\|Concentration]] might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [[Statuss#concentration\|Concentration]] (explained in chapter 10). If your [[Statuss#concentration\|Concentration]] is broken, the spell dissipates without taking effect. For example, if you are [[Statuss#concentration\|Concentration]] on the web spell and ready [[Admin/Spells/Magic Missile\|magic missile]], your web spell ends, and if you take damage before you release [[Admin/Spells/Magic Missile\|magic missile]] with your reaction, your [[Statuss#concentration\|Concentration]] might be broken.
 
 You have until the start of your next turn to use a readied action.
 

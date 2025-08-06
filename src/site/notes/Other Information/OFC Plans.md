@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-07-30T10:11:41.543+01:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-08-06T12:04:41.336+01:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
@@ -96,7 +96,7 @@ Minister of Education; [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfell
 - 80% or more have a literacy rate of an irl 15 year old 
 - 80% or more have a basic idea of how maths works (Add, Subtract, Divide and Multiplication) including how to better manage finances 
 - Vocational education to increase working efficiency
-- Basic magic classes to make life easier (cantrips like mage hand and create water) 
+- Basic magic classes to make life easier (cantrips like [[Admin/Spells/Mage Hand\|mage hand]] and create water) 
 
 **Key Roles:**
 - Minister for Education - Responsible for overseeing the creation of curriculums and has the final say on teachers and educational matters 

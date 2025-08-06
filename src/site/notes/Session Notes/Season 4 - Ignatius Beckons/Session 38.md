@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-07-30T13:22:10.065+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-08-06T12:00:46.781+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -70,7 +70,7 @@ Their posture straightened, and their expressions went blank. A low hum vibrated
 
 [[The Party/The Korrigan\|Korrigan]] stepped forward cautiously. "[[The Party/Halfbie\|Halfbie]]...? Are you—" He didn't finish. The moment his hand touched their shoulder, a violent shock of psychic energy sent him reeling back, clutching his head and gasping in pain.
 
-[[The Party/Mordecai Reverence\|Mordecai]] reacted instantly, casting Dispel Magic. But it fizzled uselessly against the invader's power. The presence inside [[The Party/Halfbie\|Halfbie]] remained undeterred.
+[[The Party/Mordecai Reverence\|Mordecai]] reacted instantly, casting [[Admin/Spells/Dispel Magic\|Dispel Magic]]. But it fizzled uselessly against the invader's power. The presence inside [[The Party/Halfbie\|Halfbie]] remained undeterred.
 
 Panicked, [[The Party/The Korrigan\|Korrigan]] barked at [[The Party/Mordecai Reverence\|Mordecai]]. "Watch them. Don't let them do anything."
 
@@ -94,7 +94,7 @@ After writing some notes in their book, they fell asleep, and [[The Party/Mordec
 
 The women walked confidently to the dome, their vampiric features on full display to those with dark vision. From within the dome, they asked what a large group of vampires wanted. The women simply stated that they wished to feed [[The Party/Halfbie\|Halfbie]] and that they would wait all night if they had to. [[The Party/Halfbie\|Halfbie]] asked them why they needed to feed them and if they had chicken noodle soup. The women, now frustrated, said they wanted to ensure [[The Party/Halfbie\|Halfbie]] and their God survived what was to come. 
 
-[[The Party/Halfbie\|Halfbie]] manipulated the dome so the vampires could see them and moved closer to the vampires. They told them to put the food on their floating disk as they conjured forth Tensor's Floating Disk and pushed it through the dome. As this happened, Kerrigan sneakily cast his detect thoughts spell and exited the doom to talk to them face-to-face and see what he could learn. No matter his questions, the women would not explain who they were and what their God was. She seemed aware that her mind was being read and gave away no clues. [[The Party/The Korrigan\|Korrigan]] knew when he was beaten and stopped the spell. While this was happening, the vampires quickly piled on as much food as they could onto the disk, with the women putting on a large ornate meat pie on top and pushing it back in. 
+[[The Party/Halfbie\|Halfbie]] manipulated the dome so the vampires could see them and moved closer to the vampires. They told them to put the food on their floating disk as they conjured forth Tensor's Floating Disk and pushed it through the dome. As this happened, Kerrigan sneakily cast his [[Admin/Spells/Detect Thoughts\|detect thoughts]] spell and exited the doom to talk to them face-to-face and see what he could learn. No matter his questions, the women would not explain who they were and what their God was. She seemed aware that her mind was being read and gave away no clues. [[The Party/The Korrigan\|Korrigan]] knew when he was beaten and stopped the spell. While this was happening, the vampires quickly piled on as much food as they could onto the disk, with the women putting on a large ornate meat pie on top and pushing it back in. 
 
 As the food approached, it began to rapidly age and rot away until nothing but sludge was left. [[The Party/Halfbie\|Halfbie]] used disinfection to clean the disk in case anything got on their stuff. The vampires stood up again, holding even more rich and expensive food and putting iot on the disk again. 
 

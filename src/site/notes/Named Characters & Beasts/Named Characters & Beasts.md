@@ -28,7 +28,6 @@
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                                        | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | Lost Haven                   | Lost Haven                  |
-| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                                            | Itone                        | Uti's Cave                  |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                                     | The Dawn Empire              | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                                            | Unknown/Unclear              | Unknown/Unclear             |
 

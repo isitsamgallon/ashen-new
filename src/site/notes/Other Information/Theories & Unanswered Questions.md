@@ -51,4 +51,4 @@ A list of all current, proven false and proven correct theories, as well as all 
 
 ### Correct Theories & Answers
 - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was a [[Other Information/Perpetual\|Perpetual]] because he was killed a long time ago and resurrected [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] - read [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]] to learn more
-- [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] was killed on [[Locations/Itone Isles\|Itone Isles]] by [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] was killed on [[Locations/Itone Isles\|Itone Isles]] by [[Uti †\|Uti †]]

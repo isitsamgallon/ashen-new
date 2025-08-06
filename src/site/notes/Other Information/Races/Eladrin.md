@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-08-03T15:21:31.366+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-08-06T12:06:54.275+01:00"}
 ---
 
 
@@ -53,7 +53,7 @@ Like their physical appearance and their powers, the impulsiveness and intensity
 Despite these variations, all fey eladrin shared many common traits, such as the respect for personal freedom, a great love for beauty and art, and a desire to surround themselves with beautiful objects.
 
 ### Abilities
-Eladrin were capable of teleporting over small distances. In an effect similar to the misty step spell, they could briefly step into the [[Locations/Feywild/Feywild\|Feywild]] and shorten travel distances between two points, effectively instantly traveling over distances of up to 30 feet (9.1 meters).[1] Some high [[Other Information/Races/Elves\|elves]], through diligent study, could also learn to use the same abilities.[8]
+Eladrin were capable of teleporting over small distances. In an effect similar to the [[Admin/Spells/Misty Step\|misty step]] spell, they could briefly step into the [[Locations/Feywild/Feywild\|Feywild]] and shorten travel distances between two points, effectively instantly traveling over distances of up to 30 feet (9.1 meters).[1] Some high [[Other Information/Races/Elves\|elves]], through diligent study, could also learn to use the same abilities.[8]
 
 The abilities that fey eladrin possessed were dependent on the season towards which they had the most affinity.
 - Spring eladrin channeled the joy of the spring season to all creatures around them, rendering them temporarily friendly and reluctant to attack the eladrin. They were innately capable of casting a number of spells, including charm person, confusion, enthrall, hallucinatory terrain, Otto's irresistible dance, suggestion, and Tasha's hideous laughter.

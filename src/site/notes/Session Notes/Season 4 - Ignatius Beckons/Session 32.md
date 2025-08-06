@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-07-30T10:11:41.648+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-32/","updated":"2025-08-06T12:03:53.855+01:00"}
 ---
 
 [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]**Session Date:** 18th Feb 2025 
@@ -67,7 +67,7 @@ Off to the side, [[The Party/Halfbie\|Halfbie]] had been preparing another spell
 
 A massive dragon.
 
-The spectral beast let out an earth-shaking roar before beating its wings, launching itself backward to gain distance. Its maw opened, crackling with untamed power as it prepared to unleash another devastating Lightning Bolt. Realising the danger, [[The Party/Halfbie\|Halfbie]] gritted their teeth and raised a hand, ready to counter. But the dragon had moved—far beyond their range.
+The spectral beast let out an earth-shaking roar before beating its wings, launching itself backward to gain distance. Its maw opened, crackling with untamed power as it prepared to unleash another devastating [[Admin/Spells/Lightning Bolt\|Lightning Bolt]]. Realising the danger, [[The Party/Halfbie\|Halfbie]] gritted their teeth and raised a hand, ready to counter. But the dragon had moved—far beyond their range.
 
 The bolt of lightning erupted forward, zigzagging wildly as it sought its targets. [[The Party/Wurinn Fuuldrusch\|Drache]] had no time to move—the energy slammed into him, sending him to his knees as his body convulsed with the impact. Further back, Aidan and [[The Party/Halfbie\|Halfbie]] managed to twist away just in time, the outer arcs of the bolt merely grazing them, but still leaving the sting of burnt flesh in its wake. They had to end this, now.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-43/","updated":"2025-07-31T11:57:21.128+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-43/","updated":"2025-08-06T13:24:56.615+01:00"}
 ---
 
 # Session Information
@@ -10,7 +10,7 @@
 # Session Summary 
 The session began with the Party waking to their gruelling routine in the mines, only to discover that Mordecai, Korrigan, and Drache had contracted Lung Rot, a deadly infection caused by coal dust. Desperate for treatment, they learned the doctors had relocated to a place called _[[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]_, a pub rumoured to be run by the Goblin Mafia. After a risky plan to tail a goblin led them to the Mafia’s hideout, Mordecai was captured and forced into negotiations. The goblins offered medical aid in exchange for the Party’s servitude, but Mordecai narrowly escaped after realizing the contract was a soul-binding trap.
 
-Meanwhile, Halfbie and Drache infiltrated the Hunter’s Quarters, stealing supplies and weapons, while Korrigan orchestrated a diversion by planting Molotov cocktails across [[Locations/Lost Haven/The Slums\|the slums]]. The explosions caused chaos, allowing Halfbie and Mordecai to slip into the city beyond [[Locations/Lost Haven/The Slums\|the slums]]. There, they disguised themselves as nobles and encountered Chenris, who charmed a noblewoman for information. They learned the antimagic field emanated from the king’s palace and devised a brutal plan to infiltrate it by ambushing guards.
+Meanwhile, Halfbie and Drache infiltrated the Hunter’s Quarters, stealing supplies and weapons, while Korrigan orchestrated a diversion by planting Molotov cocktails across [[Locations/Lost Haven/The Slums\|the slums]]. The explosions caused chaos, allowing Halfbie and Mordecai to slip into the city beyond [[Locations/Lost Haven/The Slums\|the slums]]. There, they disguised themselves as nobles and encountered Chenris, who charmed a 3oblewoman for information. They learned the antimagic field emanated from the king’s palace and devised a brutal plan to infiltrate it by ambushing guards.
 
 The session ended with the Party split: Halfbie and Mordecai prepared to execute their plan in the city, while Korrigan and Drache remained in [[Locations/Lost Haven/The Slums\|the slums]], armed and ready to exploit the ongoing revolt. The king’s decree of mass slaughter raised the stakes, forcing the Party to act swiftly to save their allies and dismantle the oppressive system.
 

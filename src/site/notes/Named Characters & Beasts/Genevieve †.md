@@ -1,13 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"updated":"2025-07-13T10:26:20.607+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/genevieve/","tags":["NPC"],"updated":"2025-08-06T12:37:36.400+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-Genevieve is the former leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. She fought in [[History & Events/The Sundering\|The Sundering]] as a part of [[Groups & Factions/The Coalition\|The Coalition]] and is considered a fair leader, but extremely money-driven. 
+Genevieve was the former leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]], being 334 years old when she died whilst being [[Other Information/Races/Human\|Human]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. 
 
-334 years old when she died. 
-[[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] heard a rumour she was dating a troll.
+She fought in [[History & Events/The Sundering\|The Sundering]] as a part of [[Groups & Factions/The Coalition\|The Coalition]] and was considered a fair leader, but extremely [[Other Information/Money\|money]]-driven. 
+
+[[Other Information/Display Tags/The Party\|The Party]] first met her while they were exploring [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] looking for allies. [[Named Characters & Beasts/Genevieve †\|Genevieve †]] was happy to help for the right price and joined the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s side during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. Here the conditions for [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] joining the war:
+- Large sum of [[Other Information/Money\|money]] 
+- Full control of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military
+- A portion of the protection and mafia money
+
+### Perpetual Nature
+(o:: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that [[Named Characters & Beasts/Genevieve †\|Genevieve †]]'s long lifespan was a result of a crystal mentioned to be in her office. He was trying to direct [[Other Information/Display Tags/The Party\|The Party]] to investigate further but they became fixated on the find her her lover instead. Before he could get them back on track they became incredibly drunk and awoke in [[Locations/Lost Haven/Lost Haven\|Lost Haven]].)
+
+### Other Information & Trivia
+- When the party first met her, she seemed to already be aware of [[The Party/Wurinn Fuuldrusch\|Drache]] even though he had never been to [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]. She warned him of being known as a deserter and nearly punished him herself, despite him belonging to [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. Instead she just wished for the safe rescue of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]].
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] heard a rumour she was dating a troll.
 
 ### History & Mentions
 | §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

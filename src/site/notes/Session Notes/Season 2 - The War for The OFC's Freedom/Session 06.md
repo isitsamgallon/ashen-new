@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-06-30T20:17:01.046+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-06T12:06:35.875+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@ MEANWHILE Korrigan finds the group and relays them the information pertaining to
 
 Chaos ensues.
 
-Chenris tries to convince the person on guard to let him in because he’s now ready to sign the contract but they won’t let him in because someone else was signing rn (party start to panic as its defo Drache as big himbo hours). Mordecai uses prestidigitation to make the sound of soldiers marching towards the group but only one of them scarper. Chenris tries to break the window. Mordecai eventually uses minor illusion to make it look like guards were approaching which eventually scares off the rest of the crest members. Aidan picks the lock, then Chenris dramatically bursts open the door with Thaumaturgy and yet it’s too late. Despite Drache struggling on every letter of his name, the party is still too slow in stopping him sign his entire name and bind himself to this institution.
+Chenris tries to convince the person on guard to let him in because he’s now ready to sign the contract but they won’t let him in because someone else was signing rn (party start to panic as its defo Drache as big himbo hours). Mordecai uses prestidigitation to make the sound of soldiers marching towards the group but only one of them scarper. Chenris tries to break the window. Mordecai eventually uses [[Admin/Spells/Minor Illusion\|minor illusion]] to make it look like guards were approaching which eventually scares off the rest of the crest members. Aidan picks the lock, then Chenris dramatically bursts open the door with Thaumaturgy and yet it’s too late. Despite Drache struggling on every letter of his name, the party is still too slow in stopping him sign his entire name and bind himself to this institution.
 
 Immediately any negative thought of the Ivory Crest was replaced with love and admiration. All Drache wanted to do was exactly what the organisation wanted him to do, completely brainwashed. Korrigan looked super distressed yet at quiet acceptance at the loss of his friend to the organisation he fought so hard to be free of. The recruiter whispered in Draches ear, poisoning him against the party.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-06-14T13:51:50.023+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-08-06T12:06:32.635+01:00"}
 ---
 
 
@@ -36,8 +36,8 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > 
 { .block-language-dataview}
 
@@ -48,7 +48,7 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 
 ### Personality
 **Overall:** Halfbie is a very kind and caring person who wants to help their friends and loved ones. They have an incredibly curious personality and love to take things apart to fully understand the things around them. Although their appetite for learning is large, they're very aware of people's boundaries and do their best not to cross them. 
-**Spring:** Halfbie has a vibrant and generally happy personality. They spend most of their time using magic to brighten their, and other peoples', day by comedically using [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) and [Minor Illusion](Minor Illusion).
+**Spring:** Halfbie has a vibrant and generally happy personality. They spend most of their time using magic to brighten their, and other peoples', day by comedically using [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) and [[[Minor Illusion\|[Minor Illusion]]]([[Admin/Spells/Minor Illusion\|Minor Illusion]]).
 
 ### Description
 **Overall:** Halfbie is a tall and well-built Eldarin with a pretty face and Purple eyes. 

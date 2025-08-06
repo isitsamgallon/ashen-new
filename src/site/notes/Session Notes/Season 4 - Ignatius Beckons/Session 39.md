@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-07-30T10:11:41.684+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-06T12:04:30.578+01:00"}
 ---
 
 # Session Information
@@ -67,7 +67,7 @@ Upon reaching Oceanvale, the city was revealed to be a near-empty fishing villag
 
 (x:: [[The Party/Mordecai Reverence\|Mordecai]], slightly panicked, [[The Party/The Korrigan\|Korrigan]]'s [[The Party/Halfbie\|Halfbie]]'s unchecked curiosity might endanger them all, rushed to catch up. [[The Party/Halfbie\|Halfbie]] began using Prestidigitation to eliminate the horrid halfbies as they waited for everyone else. This wait allowed them to investigate the area a bit. Still, to their horror, they sensed a magical presence washing over them. It felt foul and unnatural—it was that of a [[Gods & Heralds/Herald\|herald]].)
 
-(x:: Once everyone had gathered, they explained the presence they had felt, and the group began to prepare for battle. [[The Party/Wurinn Fuuldrusch\|Drache]] readied his great axe, [[The Party/The Korrigan\|Korrigan]] drew his bow, [[The Party/Mordecai Reverence\|Mordecai]] cast Mage Armor, and the Halfbis quickly assembled their eldritch cannon.)
+(x:: Once everyone had gathered, they explained the presence they had felt, and the group began to prepare for battle. [[The Party/Wurinn Fuuldrusch\|Drache]] readied his great axe, [[The Party/The Korrigan\|Korrigan]] drew his bow, [[The Party/Mordecai Reverence\|Mordecai]] cast [[Admin/Spells/Mage Armor\|Mage Armor]], and the Halfbis quickly assembled their eldritch cannon.)
 
 (x:: Once everyone was ready, they slowly walked down the tunnels, guided by [[The Party/Halfbie\|halfbie]]'s senses. They soon approached a large cave opening. And in the middle, surrounded by corpses, sense and blood, was the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]. )
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-07-30T09:50:07.084+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-08-06T12:59:29.056+01:00"}
 ---
 
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]] |[[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | 
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -20,7 +20,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 <iframe src="https://app.kanka.io/w/322252/maps/108114/explore" width="100%" height="800">
   <p>Your browser does not support iframes.</p>
 </iframe>
-
+ 
 
 
 
@@ -39,6 +39,17 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure. |
 
 { .block-language-dataview}
+
+### Information Revealed Out of Sessions
+| §                                                                       | Information                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]] | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed that the [harengon](https://forgottenrealms.fandom.com/wiki/Harengon) is now dead and dragons in the image are [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]] and [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] - not [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]] like what was originally suspected.                                                                                              |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]] | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed before the session that we had seen the [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] symbol recently                                                                                                                                                                                                                                                      |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]] | The airship at the start was from the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] holding [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] ship from [[Locations/The Desert/The Desert\|The Desert]]                                                                                                                                                                                      |
+| [[Named Characters & Beasts/Genevieve †\|Genevieve †]]               | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that [[Named Characters & Beasts/Genevieve †\|Genevieve †]]'s long lifespan was a result of a crystal mentioned to be in her office. He was trying to direct [[Other Information/Display Tags/The Party\|The Party]] to investigate further but they became fixated on the find her her lover instead. Before he could get them back on track they became incredibly drunk and awoke in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. |
+
+{ .block-language-dataview}
+
 ### Books & Documents Reading List
 
 > [!Info] **Reading List Explained**
@@ -59,11 +70,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025      |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025      |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025      |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025      |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025      |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025      |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025      |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025      |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -77,11 +88,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Spells/Thunderwave\|Thunderwave]]
-- [[Admin/Spells/Thunderous Smite\|Thunderous Smite]]
-- [[Admin/Spells/Zone of Truth\|Zone of Truth]]
-- [[Admin/Spells/Wish\|Wish]]
-- [[Admin/Spells/Web\|Web]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 20\|Session 20]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
 
 { .block-language-dataview}
 
@@ -100,19 +111,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | June 11, 2025   |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 06, 2025 |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 31, 2025   |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | July 20, 2025   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 30, 2025   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
-| [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                            | July 13, 2025   |
-| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | July 31, 2025   |
 | [[Locations/Lost Haven/The Slums\|The Slums]]                                                                     | July 31, 2025   |
 | [[Locations/Lost Haven/Noble City\|Noble City]]                                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | July 31, 2025   |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | July 31, 2025   |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | July 31, 2025   |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                          | July 13, 2025   |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-06-11T20:34:09.050+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-08-06T11:57:20.082+01:00"}
 ---
 
 **Session Date:** 26th Mar 2025 
@@ -27,7 +27,7 @@ The rest of [[Other Information/Display Tags/The Party\|the party]] grew concern
 
 Halfway through his explanation that he meant no harm at it was just them, [[The Party/Halfbie\|Halfbie]] barged in dressed in an overcoat and devoid of colour, exclaiming that justice waited for no one and it needed to be seized. All of the kids, but the one who found [[The Party/The Korrigan\|Korrigan]], scattered in fear as the final [[Other Information/Races/Vampire\|vampire]] began to get ready for a fight. [[The Party/The Korrigan\|Korrigan]] slapped [[The Party/Halfbie\|Halfbie]] in frustration before returning to the [[Other Information/Races/Vampire\|vampire]] once again, trying to explain the situation and how [[Other Information/Display Tags/The Party\|The Party]] meant them no harm. Finally, the [[Other Information/Races/Vampire\|vampire]] put their claws down but didn't drop their guard. Seeing they were getting nowhere, [[The Party/The Korrigan\|Korrigan]] gave one last apology before leaving the house and carrying on with the journey, promising to make it up to them when he could. 
 
-After walking a considerable distance away, [[The Party/The Korrigan\|Korrigan]] finds a rabbit and casts Animal Messenger on it. He instructs the rabbit to deliver a message to the vampires, saying, "A gift from the horned man, sorry," before continuing on their journey.
+After walking a considerable distance away, [[The Party/The Korrigan\|Korrigan]] finds a rabbit and casts [[Admin/Spells/Animal Messenger\|Animal Messenger]] on it. He instructs the rabbit to deliver a message to the vampires, saying, "A gift from the horned man, sorry," before continuing on their journey.
 
 (x:: Later, as they pass by [[Locations/The Dawn Empire/Farpost\|Farpost]], they notice a lot of activity in the town. Many guards clad in bright orange armour are stationed around the city. They decide it would be wise to investigate, as it might provide clues about the identity of the "[[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Prince of Fire]]," referenced in the [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]].)
 

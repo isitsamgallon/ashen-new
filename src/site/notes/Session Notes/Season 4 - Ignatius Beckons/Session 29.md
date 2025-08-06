@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-06-30T20:16:55.710+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-29/","updated":"2025-08-06T13:33:49.639+01:00"}
 ---
 
 **Session Date:** 16th Jan 2025 
@@ -78,7 +78,7 @@ The orb thinks for a moment before relenting and explaining that it will give th
 
 (x:: Soon, [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/The Korrigan\|Korrigan]] landed on the floor just as [[The Party/Mordecai Reverence\|Mordecai]] was put down and disconnected from the hive mind. [[The Party/Mordecai Reverence\|Mordecai]] feels sick, but otherwise, the experience was just as the orb had explained it to them, they had no memories of what they had 'processed'. They got up and began to explain the situation to the others who were hesitant to take the deal, and when they put it to the vote, everyone but [[The Party/Mordecai Reverence\|Mordecai]] voted no. [[The Party/Wurinn Fuuldrusch\|Drache]] tried to console [[The Party/Mordecai Reverence\|Mordecai]], explaining that there would be plenty of other chances to learn more about [[The Party/Halfbie\|Halfbie]] - ones that wouldn't cause them all to forget important information. [[The Party/Mordecai Reverence\|Mordecai]] is disappointed but eventually understands where they are all coming from and mentally decides to do their best to at least get to know [[The Party/Halfbie\|Halfbie]] a little before jumping to such rash decisions. The orb made a sound like it was clearing its throat and said they had a side of the bargain to fulfil and explained that, to their knowledge, there was no way to reverse the possession of [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]].)
 
-(x:: With everything settled, the group had no reason to stay in the room and bid their farewells to the orb. As they were leaving [[The Party/Halfbie\|Halfbie]] cast the message spell on [[The Party/Mordecai Reverence\|Mordecai]] and ⚔️ [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s voices they said, "Glad to see you're not a hypocrite" [[The Party/Mordecai Reverence\|Mordecai]] momentarily stopped in their tracks as the rest walked past him out of the room. [[The Party/Halfbie\|Halfbie]] was the last to leave, shooting them a quick glance before leaving as well. [[The Party/Mordecai Reverence\|Mordecai]] soon joined them as they decided that it might be best if they went into 🏛️ [[Gods & Heralds/Eldros/Eldros\|Eldros]]' room next as none of them knew anything about the god, and it would be a great chance for them to learn some new information.)
+(x:: With everything settled, the group had no reason to stay in the room and bid their farewells to the orb. As they were leaving [[The Party/Halfbie\|Halfbie]] cast the [[Admin/Spells/Message\|message]] spell on [[The Party/Mordecai Reverence\|Mordecai]] and ⚔️ [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s voices they said, "Glad to see you're not a hypocrite" [[The Party/Mordecai Reverence\|Mordecai]] momentarily stopped in their tracks as the rest walked past him out of the room. [[The Party/Halfbie\|Halfbie]] was the last to leave, shooting them a quick glance before leaving as well. [[The Party/Mordecai Reverence\|Mordecai]] soon joined them as they decided that it might be best if they went into 🏛️ [[Gods & Heralds/Eldros/Eldros\|Eldros]]' room next as none of them knew anything about the god, and it would be a great chance for them to learn some new information.)
 
 
 #### [[Gods & Heralds/Eldros/Eldros\|Eldros]]' Room
@@ -108,10 +108,10 @@ A bond unbroken, forevermore.
 Come, speak to me, share your tale,
 For in your words, life’s truths prevail."
 
-(x:: [[The Party/The Korrigan\|Korrigan]] confessed that [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] had been killed and updated the being on everything that had happened since they last spoke. [[Gods & Heralds/Aetherion/Terathra\|Terathra]]'s response:)
+(x:: [[The Party/The Korrigan\|Korrigan]] confessed that [[Uti †\|Uti †]] had been killed and updated the being on everything that had happened since they last spoke. [[Gods & Heralds/Aetherion/Terathra\|Terathra]]'s response:)
 
 > [!quote] 
-Oh, Uti, a flame now quenched by fate,
+Oh, [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Uti]], a flame now quenched by fate,
 His journey ended, beyond the mortal gate.
 Grief weighs heavy, a sorrow untold,
 For his light was a treasure, a warmth to behold.
