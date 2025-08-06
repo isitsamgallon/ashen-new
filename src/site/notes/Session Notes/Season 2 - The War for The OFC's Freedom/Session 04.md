@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-06-10T19:10:43.024+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-08-06T13:39:24.896+01:00"}
 ---
 
 The party enter a room to find a bed a few levers, [[The Party/Dead/Kal ‡\|Kal ‡]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 

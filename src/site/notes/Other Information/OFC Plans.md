@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-08-06T12:04:41.336+01:00"}
 ---
 
-These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 12\|Session 12]].
+These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 3 - The Worst Diplomates/Session 12\|Session 12]].
 
 # Introduction
 The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] empire, proving its strength and resilience as a nation. The Generals that led the OFC to victory against the tyranny of [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] have taken their rightful place as ministers of the OFC, they have rewritten and established laws to ensure our great nation is a safe and welcoming place for all species and creatures.

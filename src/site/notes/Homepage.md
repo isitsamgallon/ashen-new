@@ -88,11 +88,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 20\|Session 20]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 29\|Session 29]]
-- [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 15\|Session 15]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 14\|Session 14]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 13\|Session 13]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 12\|Session 12]]
+- [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]]
 
 { .block-language-dataview}
 
