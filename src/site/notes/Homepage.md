@@ -30,7 +30,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist.                                        |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                                                                |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]] | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                                                        |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                                                                |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                              |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                       |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                          |
@@ -70,11 +70,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025      |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025      |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | September 17, 2024 |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025      |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025      |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025      |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025      |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025      |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025      |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -88,11 +88,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 15\|Session 15]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 14\|Session 14]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 13\|Session 13]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 12\|Session 12]]
-- [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]]
+- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]]
+- [[Named Characters & Beasts/Misty\|Misty]]
 
 { .block-language-dataview}
 
@@ -113,17 +113,17 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 06, 2025 |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 30, 2025   |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | July 31, 2025   |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 06, 2025 |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
-| [[Locations/Lost Haven/The Slums\|The Slums]]                                                                     | July 31, 2025   |
-| [[Locations/Lost Haven/Noble City\|Noble City]]                                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | July 31, 2025   |
 | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | July 31, 2025   |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/Noble City\|Noble City]]                                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | August 06, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | July 31, 2025   |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                          | July 13, 2025   |
 
