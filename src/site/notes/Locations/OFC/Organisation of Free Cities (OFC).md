@@ -16,14 +16,14 @@
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
-> | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
-> | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
+> | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}

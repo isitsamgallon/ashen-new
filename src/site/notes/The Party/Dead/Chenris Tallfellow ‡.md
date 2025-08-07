@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-06T12:06:53.392+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-07T13:37:50.338+01:00"}
 ---
 
 > [!infobox]

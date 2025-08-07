@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/rules-and-reference/conditions/","updated":"2025-08-05T19:49:14.662+01:00"}
+{"dg-publish":true,"permalink":"/other-information/rules-and-reference/conditions/","updated":"2025-08-06T19:14:31.917+01:00"}
 ---
 
 ## Blinded
@@ -49,7 +49,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 ---
 ## Incapacitated
-- An incapacitated creature can't take actions or reactions.
+- An incapacitated creature can't take [[Other Information/Rules & Reference/Actions\|actions]] or reactions.
 
 ---
 ## Invisible

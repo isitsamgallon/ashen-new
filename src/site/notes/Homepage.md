@@ -25,18 +25,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Sessions
-| Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist.                                        |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                                                                |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]] | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                                                        |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                                                              |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                                                                  |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                                                       |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                                                          |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                                                               |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                                                       |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] | Season 4 - Ignatius Beckons | Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure. |
+| Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]] | Season 4 - Ignatius Beckons | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]] | Season 4 - Ignatius Beckons | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]] | Season 4 - Ignatius Beckons |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]] | Season 4 - Ignatius Beckons |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                 |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.                                                                                       |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                   |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                        |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                |
 
 { .block-language-dataview}
 
@@ -73,8 +73,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | September 06, 2024 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025      |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025      |
-| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025      |
+| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | December 17, 2024  |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025      |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025      |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | May 03, 2024       |
@@ -88,20 +88,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]]
+- [[The Party/The Korrigan\|The Korrigan]]
+- [[Admin/Tom To Do List\|Tom To Do List]]
 - [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 43\|Session 43]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 42\|Session 42]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 41\|Session 41]]
-- [[Named Characters & Beasts/Misty\|Misty]]
+- [[Named Characters & Beasts/Aspect of Ebis Daro\|Aspect of Ebis Daro]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]]
 - [[Other Information/Rules & Reference/Skills\|Skills]]
 - [[Other Information/Rules & Reference/Senses\|Senses]]
 - [[Other Information/Rules & Reference/Conditions\|Conditions]]
 - [[Other Information/Rules & Reference/Actions\|Actions]]
-- [[Admin/Spells/Toll the Dead\|Toll the Dead]]
 
 { .block-language-dataview}
 
@@ -111,7 +111,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 06, 2025 |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 06, 2025 |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
@@ -120,11 +119,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | July 20, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | July 20, 2025   |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | July 31, 2025   |
 | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | July 31, 2025   |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | July 31, 2025   |
 | [[Locations/Lost Haven/Noble City\|Noble City]]                                                                   | July 31, 2025   |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | August 06, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | July 31, 2025   |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 06, 2025 |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                          | July 13, 2025   |
 
 { .block-language-dataview}
