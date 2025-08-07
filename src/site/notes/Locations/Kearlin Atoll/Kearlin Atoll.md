@@ -20,9 +20,9 @@
 > | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Kearlin Atoll/Totala\|Totala]]               | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}

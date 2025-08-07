@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-44/","updated":"2025-08-07T13:45:50.600+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-44/","updated":"2025-08-07T16:05:56.281+01:00"}
 ---
 
 # Session Information
@@ -15,7 +15,7 @@ Mordecai attempted to reason with Sera by referencing Kal, sparking a chaotic ba
 Meanwhile, Korrigan, Drache, and Aiden were preparing for revolution in the slums. After rallying allies, making Molotovs, and coordinating choke points with Tish and Misty, Korrigan sparked the uprising with a fiery speech and a bowshot. Slaves joined the battle, overthrowing guards and spreading chaos. Misty reappeared in deadly fashion, and the group stormed the hunter’s quarters, enlisting the goblin mafia and recruiting a healer. As they pressed forward, they planned to regroup and assault the palace directly, believing Mordecai and Chenris might already be there. The rebellion was in full force, and the party set their sights on the king himself.
 
 # Full Session Notes
-(x::[[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] led their two bodyguards into the forest and to Leomand's tiny hut. Upon seeing a large opegue orb in the middle of the woods, the guards were very concerned, but [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] was dismissive of the claims and ordered them to follow through. One obeyed and followed suit while [[The Party/Mordecai Reverence\|Mordecai]] tried to make an excuse, saying this was merely a safe place they set up to store their hunting gear while the roughs in the slum were dealt with.)
+(x::[[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] led their two bodyguards into the forest and to [[Admin/Spells/Leomund's Tiny Hut\|Leomund's Tiny Hut]]. Upon seeing a large opaque orb in the middle of the woods, the guards were very concerned, but [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] was dismissive of the claims and ordered them to follow through. One obeyed and followed suit while [[The Party/Mordecai Reverence\|Mordecai]] tried to make an excuse, saying this was merely a safe place they set up to store their hunting gear while the roughs in the slum were dealt with.)
 
 (x::Once both were within the spells' effects, [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Dead/Chenris Tallfellow ‡\|chenris]] unleashed their abilities on the guards. They were both initially confused about why they were being attacked and tried to deal with them by using the blunt side of their weapons, but after some goading by [[The Party/Dead/Chenris Tallfellow ‡\|chenris]], they began fighting for real. However, the two were no match for two fully powered-up mages and soon were killed.)
 

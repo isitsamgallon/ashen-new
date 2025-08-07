@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-06-11T20:08:05.531+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2025-08-07T13:47:29.294+01:00"}
 ---
 
 > [!infobox]
@@ -65,7 +65,7 @@ This dark ceremony involves the abduction of children, Whose life essence is dra
 #### The Hourglass of Prediction
 This artifact allows its wielder to slow or hasten time But at the cost of their own lifespan with each use.
 
-#### The Edge Of The Onyx Sands
+#### The [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge Of The Onyx Sands]]
 A dagger rumoured to slice through the fabric of time Itself, wielded by the head cultist of [[Groups & Factions/Religious Organisations/The Black Cult\|the Black Cult]]
 
 #### The Chrono-shard

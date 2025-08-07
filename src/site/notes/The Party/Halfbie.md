@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-08-06T12:06:32.635+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-08-07T16:13:34.492+01:00"}
 ---
 
 
@@ -48,11 +48,18 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 
 ### Personality
 **Overall:** Halfbie is a very kind and caring person who wants to help their friends and loved ones. They have an incredibly curious personality and love to take things apart to fully understand the things around them. Although their appetite for learning is large, they're very aware of people's boundaries and do their best not to cross them. 
-**Spring:** Halfbie has a vibrant and generally happy personality. They spend most of their time using magic to brighten their, and other peoples', day by comedically using [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) and [[[Minor Illusion\|[Minor Illusion]]]([[Admin/Spells/Minor Illusion\|Minor Illusion]]).
+**Spring:** Halfbie has a vibrant and generally happy personality. They spend most of their time using magic to brighten their, and other peoples', day by comedically using [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) and [[Admin/Spells/Minor Illusion\|Minor Illusion]].
 
 ### Description
 **Overall:** Halfbie is a tall and well-built Eldarin with a pretty face and Purple eyes. 
 **Spring:** They have green hair with eye-level bangs and face-framing pieces on either side that stretch down to their chin, with the rest of their hair being tied back into a long ponytail that reaches halfway down their back. They wear nice clothes that have been dressed down in various ways, for example, the sleeves are rolled up and the top buttons of the shirt are undone as they find it easier to move in. They also wear quite colourful clothing, reflecting their bright personality.
+
+### Quotes
+| §                                       | Quote                                                                  |
+| --------------------------------------- | ---------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] |
+
+{ .block-language-dataview}
 
 ### Backstory Summary
 Halfbie's story hasn't been publicly revealed.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-06-14T13:51:34.085+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-08-07T16:09:38.859+01:00"}
 ---
 
 
@@ -56,13 +56,16 @@ Mordecai Reverence is typically dressed in elaborate attire, favouring gold jewe
 Mordecai's magical abilities manifested unexpectedly in childhood, resulting in a [[Admin/Spells/Fireball\|fireball]] that devastated his family home. The ensuing fire claimed the lives of his mother, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Mother]], and several siblings, while his father and brother survived and have since pursued him relentlessly. Later, Mordecai relocated to [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]], where he joined [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] for financial reasons, subsequently attracting the obsessive affection of [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]. He later escaped this situation but was captured by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]].
 
 ### Quotes
-- "I’m shitting myself"
-- "Thank you... Wife?" Mordecai to Drache
-- "i am the most guardiets guard"
-- "![✨](https://discord.com/assets/10cfdf082083ea92.svg)![🌈](https://discord.com/assets/03c45c83ae57ae76.svg) Racism ![🌈](https://discord.com/assets/03c45c83ae57ae76.svg)![✨](https://discord.com/assets/10cfdf082083ea92.svg)"
-- "maybe one bollock to the wall" - chenris "im happy to be one bollock" - mord
-- Leave me alone, im traumatised
-- 'suck my tiny, tiny dick' - mord, 'I use wild shape' - korrigan
+| §                                       | Quote                                                                                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "I’m shitting myself" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                                    |
+| [[Other Information/Quotes\|Quotes]] | "Thank you... Wife?" [[The Party/Mordecai Reverence\|Mordecai Reverence]] to [[The Party/Wurinn Fuuldrusch\|Drache]]                                      |
+| [[Other Information/Quotes\|Quotes]] | "I am the most guardiets guard" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                          |
+| [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]] |
+| [[Other Information/Quotes\|Quotes]] | "Leave me alone, im traumatised" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                         |
+| [[Other Information/Quotes\|Quotes]] | "'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/The Korrigan\|Korrigan]]    |
+
+{ .block-language-dataview}
 
 ### Trivia
 * Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.

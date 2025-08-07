@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-07-30T13:31:36.351+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-07T16:12:09.056+01:00"}
 ---
 
 
@@ -58,15 +58,23 @@ Drache is an incredibly tall, 46-year-old white [[Other Information/Races/Dragon
 Drache was originally from and loyal to [[Groups & Factions/The Tulan Fort\|The Tulan Fort]] before he fell in love with a woman named [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]. Emmeline was a soldier from a rival fort called [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]. After secretly sending each other love letters for a while, they both decide to desert their posts to try and live a life together. However, on their journey to meet up, Drache was kidnapped by [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]] delaying his reunion and leading to Emmeline's capture by Tulan Fort.
 
 ### Quotes
- - "I heard you're looking for a stud."
- - "I will not be challenged by a twink"
- - "what a time to be a narc"
- - "Ah yes…book…"
- - "History is written in blood"
- - "I'll whisper sweet nothings in your ear" - Drache to Korrigan
- - "Yes I am rubbing Aidan off"
- - "i am big and fast"
- - "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it."
+| §                                       | Quote                                                                                                                                                                                 |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "Thank you... Wife?" [[The Party/Mordecai Reverence\|Mordecai Reverence]] to [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                          |
+| [[Other Information/Quotes\|Quotes]] | _kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/The Korrigan\|The Korrigan]]                                                                                                                |
+| [[Other Information/Quotes\|Quotes]] | "I heard you're looking for a stud." - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                  |
+| [[Other Information/Quotes\|Quotes]] | "I will not be challenged by a twink" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                 |
+| [[Other Information/Quotes\|Quotes]] | "what a time to be a narc" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                            |
+| [[Other Information/Quotes\|Quotes]] | "Ah yes…book…" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                                        |
+| [[Other Information/Quotes\|Quotes]] | "History is written in blood" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                         |
+| [[Other Information/Quotes\|Quotes]] | "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/The Korrigan\|Korrigan]]                                                                               |
+| [[Other Information/Quotes\|Quotes]] | "Yes I am rubbing Aidan off" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                          |
+| [[Other Information/Quotes\|Quotes]] | "I am big and fast" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                                   |
+| [[Other Information/Quotes\|Quotes]] | "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it." - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                             |
+| [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                                    |
+| [[Other Information/Quotes\|Quotes]] | ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) can i get [[The Party/Wurinn Fuuldrusch\|Drache]] in draggggggg ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] |
+
+{ .block-language-dataview}
 
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 

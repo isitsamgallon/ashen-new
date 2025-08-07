@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-08-06T22:47:08.406+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-08-07T16:18:02.298+01:00"}
 ---
 
  > [!infobox]
@@ -58,14 +58,19 @@ Korrigan resembles [[The Party/Dead/Kal ‡\|Kal ‡]], the primary distinction 
 Kal's early backstory has not been disclosed to the public. Following initial events, Kal fled to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was deceived into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]], subsequently enduring six years of servitude before breaking free with assistance from [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After escaping, he departed from The Dawn and became associated with the Organisation of Free Cities. After his death, Kal awakened within [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] 's realm, where he negotiated a pact allowing him to return to life as the [[Gods & Heralds/Herald\|Herald]] to complete unfinished business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. In exchange, he is tasked with destroying one of [[Other Information/Display Tags/The Towers\|The Towers]] for her amusement. 
 
 ### Quotes
-- _kisses drache_ “mmmm salty”
-- “Rawr”
-- AFTER OUR ROMANTIC TRIP! - Korrigan storming out of the court room
-- "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- "as long as you don't do red-face"
-- "we are a meal deal"
-- 'suck my tiny, tiny dick' - mord, 'I use wild shape' - korrigan
-- "Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do"
+| §                                       | Quote                                                                                                                                                                           |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/The Korrigan\|Korrigan]]                                                                  |
+| [[Other Information/Quotes\|Quotes]] | _kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/The Korrigan\|The Korrigan]]                                                                                                          |
+| [[Other Information/Quotes\|Quotes]] | “Rawr” - [[The Party/The Korrigan\|Korrigan]]                                                                                                                                             |
+| [[Other Information/Quotes\|Quotes]] | AFTER OUR ROMANTIC TRIP! - Korrigan storming out of the court room -  [[The Party/The Korrigan\|Korrigan]]                                                                                |
+| [[Other Information/Quotes\|Quotes]] | "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/The Korrigan\|Korrigan]]                                                                                 |
+| [[Other Information/Quotes\|Quotes]] | "as long as you don't do red-face" -  [[The Party/The Korrigan\|Korrigan]]                                                                                                                |
+| [[Other Information/Quotes\|Quotes]] | "we are a meal deal" -  [[The Party/The Korrigan\|Korrigan]]                                                                                                                              |
+| [[Other Information/Quotes\|Quotes]] | "Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do" -  [[The Party/The Korrigan\|Korrigan]] |
+| [[Other Information/Quotes\|Quotes]] | "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/The Korrigan\|Korrigan]]                                                                         |
+
+{ .block-language-dataview}
   
 ### Trivia  
 - Korrigan was introduced to the term "cunt" by Mordecai but has not used it appropriately since.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-07-30T10:11:41.930+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-08-07T16:14:18.876+01:00"}
 ---
 
 > [!infobox]
@@ -51,6 +51,12 @@ Kal is described as always wearing a large, worn green hooded cloak. He had dust
 The first part of Kal's backstory hasn't been revealed publicly yet. 
 
 After these events, Kal ran away to [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], where he was soon tricked into joining the [[Groups & Factions/Ivory Crest\|Ivory Crest]] where he became their slave for over 4 years before finally breaking free with the help of [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After finally being free, he left The Dawn and soon found himself in [[Locations/OFC/Organisation of Free Cities (OFC)\|The Dawn]].
+
+### Quotes
+| § | Quote |
+| - | ----- |
+
+{ .block-language-dataview}
 
 ### Trivia
 Kal notably wrote [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]] with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]].

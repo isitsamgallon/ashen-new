@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-06-14T13:50:24.241+01:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-08-07T15:57:09.361+01:00"}
 ---
 
 
@@ -90,5 +90,9 @@ Aiden's backstory hasn't been revealed publicly yet.
 { .block-language-dataview}
 
 ### Quotes
-- "IT'S A TALL BLACK GUYYYYY!!!"
-- "What inter-dimensional bullshit have you done with it?!"
+| §                                       | Quote                                                                             |
+| --------------------------------------- | --------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | IT'S THE BLACK MAN!! - [[The Party/Aiden Knight\|Aiden Knight]]                                           |
+| [[Other Information/Quotes\|Quotes]] | "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] |
+
+{ .block-language-dataview}

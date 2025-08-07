@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-07T13:37:50.338+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-07T16:14:36.149+01:00"}
 ---
 
 > [!infobox]
@@ -375,13 +375,17 @@ Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
 
 
 ### Quotes
-- "You be speaking mad facts" - When speaking to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]
-- It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) 
-- "I did want a stud..." Addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
-- We are not friends - as [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] DIES IN FRONT ON HIM
-- "I am definitely proposing the library" _boing_
-- "maybe one bollock to the wall" - chenris "im happy to be one bollock" - mord
-- "are you okay?" - Aiden "I am a ghost...No" - Chenris
+| §                                       | Quote                                                                                                                                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                         |
+| [[Other Information/Quotes\|Quotes]] | "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/The Korrigan\|Korrigan]]                                                                           |
+| [[Other Information/Quotes\|Quotes]] | "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]                                                                                      |
+| [[Other Information/Quotes\|Quotes]] | " It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] |
+| [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                        |
+| [[Other Information/Quotes\|Quotes]] | "I am definitely proposing the library" _boing_ - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                |
+| [[Other Information/Quotes\|Quotes]] | "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                         |
+
+{ .block-language-dataview}
 
 ### Trivia
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
