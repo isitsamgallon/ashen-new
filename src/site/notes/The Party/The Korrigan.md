@@ -69,6 +69,8 @@ Kal's early backstory has not been disclosed to the public. Following initial ev
 | [[Other Information/Quotes\|Quotes]] | "we are a meal deal" -  [[The Party/The Korrigan\|Korrigan]]                                                                                                                              |
 | [[Other Information/Quotes\|Quotes]] | "Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do" -  [[The Party/The Korrigan\|Korrigan]] |
 | [[Other Information/Quotes\|Quotes]] | "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/The Korrigan\|Korrigan]]                                                                         |
+| [[Other Information/Quotes\|Quotes]] | "this is a shiv...stab." - [[The Party/The Korrigan\|The Korrigan]]                                                                                                                                     |
+| [[Other Information/Quotes\|Quotes]] | "I don't do realism, I am a fairy man" - [[The Party/The Korrigan\|The Korrigan]]                                                                                                                       |
 
 { .block-language-dataview}
   

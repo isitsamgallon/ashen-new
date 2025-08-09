@@ -18,8 +18,8 @@
 >   | File                                                               | Discovery Status             |
 > | ------------------------------------------------------------------ | ---------------------------- |
 > | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/Noble City\|Noble City]]                 | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/Noble City\|Noble City]]                 | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul> |
 > 
@@ -42,8 +42,8 @@ A nation found to the East of [[Locations/The Dawn Empire/The Dawn Empire\|The D
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | The Slums  | Alive  |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | The Slums  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | Lost Haven | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                           | The Slums  | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Lost Haven | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | The Slums  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | The Slums  | Dead   |

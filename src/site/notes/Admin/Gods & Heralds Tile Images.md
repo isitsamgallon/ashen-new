@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","hide":true,"updated":"2025-06-12T15:55:54.590+01:00"}
+{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","hide":true,"updated":"2025-08-09T11:29:14.799+01:00"}
 ---
 
 
 
-![[SommnoraWeb 1.png\|SommnoraWeb 1.png]]
+![SommnoraWeb.png](/img/user/Admin/Attachments/SommnoraWeb.png)
 
-![[SeraphinaWeb 1.png\|SeraphinaWeb 1.png]]
+![SeraphinaWeb.png](/img/user/Admin/Attachments/SeraphinaWeb.png)
 
-![[LyIraWeb 1.png\|LyIraWeb 1.png]]
+![LyIraWeb.png](/img/user/Admin/Attachments/LyIraWeb.png)
 
-![[LorwynWeb 1.png\|LorwynWeb 1.png]]
+![LorwynWeb.png](/img/user/Admin/Attachments/LorwynWeb.png)
 
-![[IgnatiusWeb 1.png\|IgnatiusWeb 1.png]]
+![IgnatiusWeb.png](/img/user/Admin/Attachments/IgnatiusWeb.png)
 
-![[EldrosWeb 1.png\|EldrosWeb 1.png]]
+![EldrosWeb.png](/img/user/Admin/Attachments/EldrosWeb.png)
 
-![[ChronovorusWeb 1.png\|ChronovorusWeb 1.png]]
+![ChronovorusWeb.png](/img/user/Admin/Attachments/ChronovorusWeb.png)
 
 ![[AeloriaWeb 1.png\|AeloriaWeb 1.png]]
 
