@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-08-06T12:00:46.781+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-38/","updated":"2025-08-10T13:28:14.907+01:00"}
 ---
 
 **Session Date:** 25th May 2025 
@@ -32,7 +32,7 @@ Korrigan cut into Halfbie’s stomach, unleashing a tide of black pus and, event
 
 (x:: [[Other Information/Display Tags/The Party\|The Party]] stepped back instinctively, unsure whether to flee or freeze. [[The Party/Halfbie\|Halfbie]], with a shiver, knelt beside the road and lit a small candle. The others followed suit, mimicking a ritual they didn't understand but somehow knew was right. Silent respect—or perhaps fear—tied their hands.)
 
-(x:: As the carriage drew closer, the true horror began to unveil itself. What had first appeared as an ivory-painted cart was, in truth, constructed entirely from bones—thousands of them, cracked and yellowed, lashed together into a latticework of death. Skulls of [[Other Information/Races/Human\|Human]], [[Other Information/Races/Elves\|elves]], [[Other Information/Races/Dwarves\|dwarves]], and even things no one could name formed grotesque ornamentation across the chassis. Rib cages formed wheels, spine columns ran the length like support beams, and long, clawed fingers clutched the casket above as if trying to drag something back in.)
+(x:: As the carriage drew closer, the true horror began to unveil itself. What had first appeared as an ivory-painted cart was, in truth, constructed entirely from bones—thousands of them, cracked and yellowed, lashed together into a latticework of death. Skulls of [[Other Information/Races/Humans\|Humans]], [[Other Information/Races/Elves\|elves]], [[Other Information/Races/Dwarves\|dwarves]], and even things no one could name formed grotesque ornamentation across the chassis. Rib cages formed wheels, spine columns ran the length like support beams, and long, clawed fingers clutched the casket above as if trying to drag something back in.)
 
 Atop the carriage sat a coffin, its wood so weathered it looked liable to crumble at a breath. It bore no seals or runes, only a frantic scrawl gouged into the lid: Do Not Open. This was the desperate final plea of someone who died, knowing what might follow.
 

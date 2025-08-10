@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-07-31T14:17:17.627+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2025-08-10T13:27:56.117+01:00"}
 ---
 
 > [!infobox]
@@ -11,42 +11,67 @@
 >  Type | Info |
 > :----: | --- |
 >  Primary Race | [[Other Information/Races/Elves\|Elves]]|
->  Founder | Unknown |
+>  Previous Leader | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] |
 >  ##### Cities & Towns 
 >   | File                                                                       | Discovery Status               |
 > | -------------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/Ehobel/Ehobel\|Ehobel]]                                     | \-                             |
-> | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>   |
 > 
 { .block-language-dataview}
 
 
-The home nation of the [[Other Information/Races/Elves\|Elves]] in [[Locations/The Amber Realms\|The Amber Realms]] and led by The Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]] took over the role of Empress from her mother [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] some years ago. He is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what was happening with her people. Ehobel was one of the main factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period Ehobel had a very good relationship with [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
+### Overview
+The home nation of the [[Other Information/Races/Elves\|Elves]], it is currently led by The Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]] came into the role after her mother[[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] died. 
 
+### Society
+#### The Nation's Capital
+[[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]] is the capital city of Ehobel. It was previously [[Locations/Ehobel/Renabel\|Renabel]], but it was moved sometime after [[History & Events/The Sundering\|The Sundering]] when [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] was constructed. 
 
-### NPCs From Ehobel
+#### Attitudes
+Many of the [[Other Information/Races/Elves\|Elves]] are known for having superiority complexes. They often look down on other species, seeing them as a mix of unclean, poor, Inferior, or short-lived. 
+
+They often use slavery to make their lives easier, so they don't have to do any hard work. Many of their towns and cities are built like beach resorts or have many amenities that would usually be reserved for the ultra-wealthy of other nations. 
+
+#### Diplomatic & Trade Relations
+Ehobel and [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] have a significantly strained relationship because they are constantly at war. The exact reasons for these wars are unknown, but [[Other Information/Display Tags/The Party\|The Party]] theorises that they could be caused by The Dawn Empire's Emperor, [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]], having once been in love with the previous empress, Ashira Yelris.
+
+Ehobel trades heavily with the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. The two nations are connected by the [[Locations/Goldpass Bridge\|Goldpass Bridge]], making [[Locations/Ehobel/Nas Anor\|Nas Anor]] and [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] large trading towns. 
+
+Due to [[Other Information/Display Tags/The Party\|The Party]] being good friends with Obeus, relations between the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] are excellent, with her promising to help the OFC if they ever needed it. 
+
+### History
+#### The Sundering
+Ehobel was one of the major groups that participated in the Sundering as a member of  [[Groups & Factions/The Coalition\|The Coalition]], supplying foot soldiers, mages, and scholars. 
+
+#### The Towers
+After the Sundering, [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] flew to Ehobel and helped construct the tower of Ishnmel. Ishnmel was then built around the tower to protect it from [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] and similar groups. It was then made the capital shortly after. 
+
+#### Wars with The Dawn Empire
+At least four wars have occurred between the two empires, with the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] taking place as little as weeks before the start of the campaign. These wars also led to the creation of the OFC due to The Dawn's unwillingness to defend that land after one of the wars. 
+
+### Notable
 | File                                                                                                                            | Home Town | Status  |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn †\|Mannnnnn †]]                                                        | \-        | Dead    |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-08-06T12:06:54.275+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/eladrin/","updated":"2025-08-10T13:28:14.828+01:00"}
 ---
 
 
@@ -27,8 +27,8 @@
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | Same range as [[Other Information/Races/Human\|Human]] plus shades of copper, bronze, and bluish-white |
->  Hair Colour(s) | Same as [[Other Information/Races/Human\|Human]]|humans]] plus green and blue |
+>  Skin Colour(s) | Same range as [[Other Information/Races/Humans\|Humans]] plus shades of copper, bronze, and bluish-white |
+>  Hair Colour(s) | Same as [[Other Information/Races/Humans\|Humans]]|humans]] plus green and blue |
 >  Eye Colour(s) | Same as humans plus gold and silver |
 >  Average Height | 4′7″‒5′5″ (1.4‒1.7 m) |
 >  Average Weight | 87‒157 lb (39‒71.2 kg) |

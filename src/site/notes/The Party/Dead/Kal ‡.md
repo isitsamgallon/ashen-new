@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-08-07T16:14:18.876+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal/","updated":"2025-08-09T13:03:23.355+01:00"}
 ---
 
 > [!infobox]
@@ -17,7 +17,7 @@
 >  Age | Late 20s |
 >  Alignment | Chaotic Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents |
+Player | [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -59,4 +59,4 @@ After these events, Kal ran away to [[Locations/The Dawn Empire/Dawnhaven/Dawnha
 { .block-language-dataview}
 
 ### Trivia
-Kal notably wrote [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]] with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]].
+Kal notably wrote [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]] with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]].

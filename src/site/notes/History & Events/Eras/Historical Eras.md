@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/eras/historical-eras/","updated":"2025-06-10T19:11:47.446+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/eras/historical-eras/","updated":"2025-08-10T12:52:48.441+01:00"}
 ---
 
 Historians have split the world's history up into Eras. Each Era is defined by a world-changing event, like a war or empires rising and falling. The campaign is currently happening in the [[History & Events/Eras/7th Era\|7th Era]].

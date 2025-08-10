@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-06-10T19:10:49.907+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-08-10T13:28:14.848+01:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | Same as [[Other Information/Races/Human\|Human]], plus shades of red |
+>  Skin Colour(s) | Same as [[Other Information/Races/Humans\|Humans]], plus shades of red |
 >  Hair Colour(s) | Red, brown, black, dark blue, purple |
 >  Eye Colour(s) | Black, gold, red, silver, or white (solid color, with no sclera or pupil) |
 >  Average Height | 4′11″‒6′ (150‒180 cm) |
@@ -47,9 +47,10 @@
 
 ### Known Tieflings
 - [[Named Characters & Beasts/Cindy\|Cindy]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]]
 
 { .block-language-dataview}

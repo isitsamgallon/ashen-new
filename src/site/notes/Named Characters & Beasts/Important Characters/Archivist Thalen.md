@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2025-06-10T19:10:58.246+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2025-08-10T13:28:14.813+01:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 > | Type | Stat |
 > | :----: | --- |
-> | Race | [[Other Information/Races/Human\|Human]] |
+> | Race | [[Other Information/Races/Humans\|Humans]] |
 > | Nationality | Unknown |
 > | Class | Wizard |
 > | Subclass | Order Of Scribes |

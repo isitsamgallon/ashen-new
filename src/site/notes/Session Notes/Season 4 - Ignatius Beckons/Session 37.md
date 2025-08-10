@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-08-06T12:04:29.015+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-37/","updated":"2025-08-10T13:28:14.896+01:00"}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -105,7 +105,7 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "I believe you mentioned it briefly, but you were quite mysterious about the details. You shared that you're from there and hinted at having killed several people but didn't elaborate much. I'm still not sure about the whole story." She answered.
 
-(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Human\|Human]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.)
+(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Humans\|Humans]] and i can summon it!!" explained [[The Party/The Korrigan\|Korrigan]] excitedly.)
 
 "I did see the horse. I do remember you used to talk about your sleep. You used to see stuff about A revolution against some king or something and see your dad. She said.
 
@@ -113,7 +113,7 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "you said something about, yeah, your friend, some girl or something; you kept mentioning her name or whatever. It's a [[The Party/Other Party Members/Familiars/Bit\|bit]] weird, but whatever, I'm not jealous." she stated.
 
-(x::Kerrigan confirmed this, saying that her name, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]], was one of the few people he remembered after his new role. He then explained that his new goal was to head up to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] with his party, and she was more than welcome to join them, saying it would be like old times. Sylvia agreed to join them, stating that [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was known for polluting a lot, and it would be good to stop that by killing the king and killing everyone involved in destroying the environment. )
+(x::Kerrigan confirmed this, saying that her name, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]], was one of the few people he remembered after his new role. He then explained that his new goal was to head up to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] with his party, and she was more than welcome to join them, saying it would be like old times. Sylvia agreed to join them, stating that [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was known for polluting a lot, and it would be good to stop that by killing the king and killing everyone involved in destroying the environment. )
 
 (x:: [[The Party/The Korrigan\|Korrigan]] ignored her alarming comments and instead focused on telling her all about [[Gods & Heralds/Aetherion/Terathra\|Terathra]] and how they were sealed away and [[Other Information/Display Tags/The Towers\|the towers]] were hurting them. [[The Party/The Korrigan\|Korrigan]] explained that one of his goals in [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was to destroy the tower. Sylvia initially didn't believe him until he showed her the book he stole from [[Locations/Strixhaven\|Strixhaven]], which explained everything to her. After reading the book, she was immediately on board and wanted to help. )
 

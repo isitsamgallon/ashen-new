@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-08-06T19:21:48.827+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-08-09T13:03:23.290+01:00"}
 ---
 
 # Session Information
@@ -134,7 +134,7 @@ That night, Korrigan recounts his full history to the others—his upbringing in
 
 (x::"So, yeah, we were sent out to hunt. We brought back meat for the upper classes. Of course, we weren't allowed to keep any of it. And if we weren't back by sundown, our family would be killed, as well as a good 20 other slaves, just to encourage us to come back. So I ended up doing that. I helped my father in the forge as much as I could endure, with whatever I was allergic to. I just grew up witnessing death, disease, plagues, abuse, and starvation.")
 
-(x::"The King ordered purges of [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] to purge out the weak. Later in my adolescence, I found purpose alongside a group of close friends: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]], and my mentor, Alandra. We were trying to find ways to make it better for us. We started crafting propaganda, a book. We tried every single peaceful option to end slavery here. We even had a petition with half of the names of the people in the slum, saying that if we were given freedom and a small wage, we would stay and do our jobs.")
+(x::"The King ordered purges of [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] to purge out the weak. Later in my adolescence, I found purpose alongside a group of close friends: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]], and my mentor, Alandra. We were trying to find ways to make it better for us. We started crafting propaganda, a book. We tried every single peaceful option to end slavery here. We even had a petition with half of the names of the people in the slum, saying that if we were given freedom and a small wage, we would stay and do our jobs.")
 
 (x::"We tried every single peaceful thing. By 17, we were seen as a symbol of hope. We operated out of a pub, secretly running underneath my father's forge. We called it the Ember's Refuge. That's where I was heading down towards the day yesterday. But soon after my 18th birthday, Malachi the King ordered our execution. We did nothing aggressive. We didn't, you know, we weren't planning attacks. It was all peaceful. Broke into our houses and slaughtered some of the resistance. He slaughtered Alandra in front of me and my father.")
 

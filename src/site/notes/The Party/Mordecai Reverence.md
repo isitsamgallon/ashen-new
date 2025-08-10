@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-08-07T16:09:38.859+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-08-09T11:41:32.037+01:00"}
 ---
 
 
@@ -18,6 +18,7 @@
 >  Alignment | Neutral Good |
 >  Pronouns | He/ They |
 >  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), Unnamed Father, Unnamed Siblings |
+>  Player | [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -44,7 +45,7 @@
 > "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]</cite>
 
 ### Overview
-Mordecai Reverence is a [[Other Information/Races/Tiefling\|Tiefling]] sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. He is portrayed by [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]].
+Mordecai Reverence is a [[Other Information/Races/Tiefling\|Tiefling]] sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within the party. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. 
 
 ### Personality
 Mordecai Reverence has a performance-oriented personality. He carefully cultivates his behaviour to appear likeable and intriguing. He exhibits an overdramatic demeanour, heavily influenced by his emotions, which can result in selfish decision-making; however, he strives to mask this trait. Mordecai desires the dramatic elements of life and adventure, adeptly weaving engaging narratives that involve both conflict and moments of tranquillity. His intentions are good, although impulsiveness may hinder his judgment at times.

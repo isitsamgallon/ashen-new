@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-07-31T14:15:01.040+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-08-10T13:28:36.897+01:00"}
 ---
 
 > [!infobox]
@@ -10,35 +10,65 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Other Information/Races/Human\|Human]] |
+>  Primary Race | [[Other Information/Races/Humans\|Humans]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] & Other Lords |
 >  Current Leader | [[Other Information/Display Tags/The Party\|The Party]] |
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status             |
 > | --------------------------------------------------------------- | ---------------------------- |
+> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>    |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}
 
 ### Overview
-The OFC is a small nation found  west of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. Sometime after the events of [[History & Events/The Sundering\|The Sundering]], the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] occurred causing the people of the land to fracture from The Dawn and form The OFC after the former refused to defend them against the [[Other Information/Races/Elves\|Elves]]. It is assumed that [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] also defected from The Dawn around this time but it is unclear exactly when or why this happened. Upon his defection, he became the leader of the armies and was known throughout the OFC as a powerful figure and a beacon of hope to its people.
+The OFC is an offshoot nation of The Dawn Empire, created after one of the wars between the empire and Ehobel. It was initially run by corrupt nobles and an ex-Dawn Empire General,  [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]. After [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]], the OFC is now under the leadership of [[Other Information/Display Tags/The Party\|The Party]], which has [[Other Information/OFC Plans\|instigated many reforms]], including removing the previous leadership. 
 
-[[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] disdains the OFC and everything that it stands for and wished to take back the land and its people under his rule. In [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 06\|Session 06]], [[Other Information/Display Tags/The Party\|The Party]] learnt that at least part of his reasoning for wanting the land back was due to its strategic position when at war with [[Locations/Ehobel/Ehobel\|Ehobel]] and its great trade routes via the seas. He went so far as to start [[History & Events/The War for the OFC's Freedom\|a full-scale war]] with the OFC to try and gain the land but was defeated.
+### Society
+#### Economy
+Before the party's reforms, the nation used the [[Other Information/Money#Credits\|credit]] system, which took the form of purple tattoos on people's arms, displaying the amount of money (Or debt) someone had. Money could then be transferred between parties via a magical spell. 
+
+#### Attitudes 
+Many of the inhabitants of the OFC were known to be quite racist, especially towards Elves. However, this has since changed when [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] Mistook the party's wish for the world to stop being so racist and started forcibly making people stop being racist with imprisonment and torture. 
+
+##### Magic
+Magic in the OFC was highly restricted. Anyone who wanted to use magic had to get a magic license, or they would be arrested. The party has since lifted this restriction.
+
+#### Diplomatic & Trade Relations
+##### Ehobel
+The OFC has strong relations with the Ehobel due to their friendship with its Empress, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]], who promised to come to the party/ OFC's aid if needed.
+
+##### The Dawn Empire
+Initially, the OFC had terrible relations with the Dawn as they were not only responsible for a lot of the people's bloodshed due to the various wars fought on the land, but the Emperor was also insistent on reclaiming what he saw as rightfully his. 
+
+##### The Emerald Fort
+The Fort and the OFC have a good relationship due to the deal the Party struck with [[Named Characters & Beasts/Genevieve †\|Genevieve]], which resulted in the fort providing much of the nation's protection and armies during the war. 
+
+##### Fort Moldan
+[[Locations/Fort Moldan\|Fort Moldan]] and the OFC have a terrible relationship because the [[Other Information/Races/Dwarves\|Dwarves]] infiltrate [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]] and rob the nation of all its gold. The Party are currently trying to retrieve it.  
 
 ### Geography 
-The OFC is mostly made up of dense forests and tall spruce trees. The nation is slightly bigger than the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and is surrounded by water on all sides but one which borders with The Dawn. 
+The OFC is mainly made up of dense forests and tall spruce trees. The nation is slightly bigger than the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] and is surrounded by water on all sides but one, which borders with The Dawn. 
 
-[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Other Information/Display Tags/The Party\|The Party]] made great use of the OFC's geography during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. They used the dense woods for ambushes. Due It is surrounded by water on most sides and there only being one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
+[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Other Information/Display Tags/The Party\|The Party]] made great use of the OFC's geography during [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]. They used the dense woods for ambushes. Because it was surrounded by water on most sides and had only one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
 
-### NPCs From The OFC
+### History
+#### Wars Between Ehobel and The Dawn Empire
+Due to the OFC's position between [[Locations/Ehobel/Ehobel\|Ehobel]] and the Dawn Empire, it was often used as a battleground for their wars. After one particularly bad skirmish, the Dawn retreated out of modern-day OFC and left it to ruin. This led to some of the army, and presumably Caden, defecting and forming the OFC. 
+
+##### The Ethertwist Haunter
+[[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] was created during one of these wars, most likely the [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]. The creation story showed that the parents of the baby, who would inevitably become the herald, travelled to the land now known as OFC when the Emperor told them it would be a safe place to move to and start a family.
+
+During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]]], the party witnessed one of the Elven attacks when searching for [[Gods & Heralds/Chronovorus/The Pages\|The Pages]].
+
+### Notable NPCs
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |

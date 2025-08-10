@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","tags":["LevelUp"],"updated":"2025-06-14T14:00:54.762+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","tags":["LevelUp"],"updated":"2025-08-09T13:03:23.222+01:00"}
 ---
 
 (x:: We start mid combat in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]. [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] has two pages so he escaped out through the window. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] misty steps to join Drache. [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], while trying to defend [[The Party/Dead/Kal ‡\|Kal ‡]] gets impaled by the [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] and is downed. [[The Party/Mordecai Reverence\|Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. )
@@ -31,7 +31,7 @@ House looks beautiful, and the child is still alive. Mordecai impersonates an el
 the party made their way to the clearing in [[Locations/OFC/Twopines Estate\|Twopines Estate]] to start [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]]. They approached the clearing as all light drained from the world, there was no time wasted as the party gathered wood for the fire that would eventually consume what they loved most. First came the pages. Whatever light that was left was snuffed out leaving the party in complete darkness. One by one, each party member offered their possessions up to the flame.
 
 - Aidan threw in the key that he had used to escape the cult he had been holding since his birth. 
-- (x:: Kal placed a worn out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] and stepped back, tears littering his face. )
+- (x:: Kal placed a worn out short sword offering it to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] and stepped back, tears littering his face. )
 - (x:: Mordecai was next, removing his [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|mother's]] cloak from his shoulders. With tears rolling down his face he tries to smell her one last time but her perfume faded with the years of campfire smoke. With a final goodbye, it his added to the fire.)
 - Chenris quietly puts a hastily written note with an unsolved problem 
 - (x:: Drache ripped [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] emblem from this shirt, kissing it and determined that he would find [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|who went missing]].)
@@ -39,7 +39,7 @@ the party made their way to the clearing in [[Locations/OFC/Twopines Estate\|Two
 
 The first bell rang. as they kept their eyes shut, everyone was haunted by the ghosts of their past. 
 
-- (x:: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]] called out for Kal's help, urging him to open his eyes and help her.)
+- (x:: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] called out for Kal's help, urging him to open his eyes and help her.)
 - (x:: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] whispered in his ears, tempting him to come home. She knew that he didn't mean to start the fire that consumed them.)
 - (x:: [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Chenris' teacher]] tempted him to open his eyes, telling him that chenris was his greatest achievement.)
 - Drache's long lost forbidden love called out for him.

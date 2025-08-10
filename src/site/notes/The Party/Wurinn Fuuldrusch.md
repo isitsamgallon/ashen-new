@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-07T16:12:09.056+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-09T11:40:28.290+01:00"}
 ---
 
 
@@ -18,6 +18,7 @@
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |
 >  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]](lover) |
+>  Player | [[[Caleb Hamlet\|[Caleb Hamlet]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |
@@ -44,7 +45,7 @@
 > "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session 28\|Session 28]]</cite>
 
 ### Overview
-Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. Played by [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]].
+Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. 
 
 ### Personality
 Drache is an incredibly kind and honest person, often trying to resolve conflict more peacefully before resorting to violence. He will often stand up for people when they're being bullied and will normally try to see the good of everyone, despite their actions. Growing up in a fort, he is quite gruff and to the point. his time at the fort has also made him a very honourable man, who prefers to not sneak around, opting to tackle a challenge head-on. He is also known for not being the most intelligent in the party but he is extremely good with people. 

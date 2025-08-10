@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-08-07T15:57:09.361+01:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-08-09T11:39:18.663+01:00"}
 ---
 
 
@@ -20,6 +20,7 @@
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
 >  Family | Unnamed Parents, [[Named Characters & Beasts/Freya\|Freya]] (sister) |
+>  Player | [[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/eras/1st-era/","updated":"2025-06-10T19:11:47.421+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/eras/1st-era/","updated":"2025-08-10T12:52:48.414+01:00"}
 ---
 
-Please refer to [[History & Events/Eras/Historical Eras\|Historical Eras]] for more information. 
+Please refer to [[History & Events/Eras/Eras\|History & Events/Eras/Eras]] for more information. 
+
+### Events From This Era
+
+{ .block-language-dataview}
