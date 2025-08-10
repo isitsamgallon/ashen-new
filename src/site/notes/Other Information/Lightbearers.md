@@ -4,4 +4,4 @@
 
 
 ### Overview
-This is the name given by the mysterious wraiths to people who attempt to steal or destroy the crystals found within [[Other Information/Display Tags/The Towers\|The Towers]] and [[Locations/The Realm of Mana\|The Realm of Mana]].
+This is the name given by the mysterious wraiths to people who attempt to steal or destroy the crystals found within [[Other Information/The Towers\|The Towers]] and [[Locations/The Realm of Mana\|The Realm of Mana]].

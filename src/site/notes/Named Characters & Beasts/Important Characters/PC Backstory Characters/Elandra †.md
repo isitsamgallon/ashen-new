@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/elandra/","tags":["NPC"],"updated":"2025-07-20T13:16:21.144+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/elandra/","tags":["NPC"],"updated":"2025-08-10T11:59:01.665+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

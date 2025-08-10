@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/the-shifting-forest/","tags":["Discovered"],"updated":"2025-06-11T21:44:01.140+01:00"}
+{"dg-publish":true,"permalink":"/locations/feywild/the-shifting-forest/","tags":["Discovered"],"updated":"2025-08-10T11:47:54.735+01:00"}
 ---
 
 
 ### Overview
-A part of the [[Locations/Feywild/Feywild\|Feywild]] which seems to be alive and can trap people in it for as long as it wants. [[The Party/Halfbie\|Halfbie]] notably got lost in the forest nearly 1,300 years in [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]]. This is also where they met [[Named Characters & Beasts/Jessamine †\|Jessamine †]].
+A part of the [[Locations/Feywild/Feywild\|Feywild]] which seems to be alive and can trap people in it for as long as it wants. [[The Party/Halfbie\|Halfbie]] notably got lost in the forest for nearly 1,300 years in [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]]. This is also where they met [[Named Characters & Beasts/Jessamine †\|Jessamine †]].
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

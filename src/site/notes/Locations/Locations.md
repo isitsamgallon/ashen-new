@@ -83,7 +83,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 | §                                                                  | City Type  |
 | ------------------------------------------------------------------ | ---------- |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | Small Town |
-| [[Locations/Lost Haven/Noble City\|Noble City]]                 | Capital    |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                     | \-         |
 | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | Large Town |
 | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | Building   |
 

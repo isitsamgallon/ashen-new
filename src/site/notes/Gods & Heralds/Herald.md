@@ -7,7 +7,7 @@ There are two main theories on how heralds are made, either they are people who 
 
 It's very unlikely anyone who fought in [[History & Events/The Sundering\|The Sundering]] became a herald because of the following: 
 - These people know the power of Heralds and Gods and how dangerous they are 
-- They wouldn't be chosen by any Gods as they helped build [[Other Information/Display Tags/The Towers\|The Towers]] which weakened all god's abilities
+- They wouldn't be chosen by any Gods as they helped build [[Other Information/The Towers\|The Towers]] which weakened all god's abilities
 
 ### Other Information 
 An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven\|Strixhaven]]

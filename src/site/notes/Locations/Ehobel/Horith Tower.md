@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-One of [[Other Information/Display Tags/The Towers\|The Towers]] in [[Locations/Ehobel/Ehobel\|Ehobel]]
+One of [[Other Information/The Towers\|The Towers]] in [[Locations/Ehobel/Ehobel\|Ehobel]]
 
 ### History & Mentions
 | § | Interactions |

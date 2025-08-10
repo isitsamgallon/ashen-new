@@ -25,7 +25,7 @@ Back at the Adventurers Guild, Mordecai confronts Chenris about his obsessive pu
     - [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and [[Locations/Ehobel/Ehobel\|Ehobel]] used to trade a ton but stopped after the war
     - [[Locations/Ehobel/Ehobel\|Ehobel]] gets most of what it needs from its plentiful forests; however, there is a shortage due to [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]
     - [[Locations/Ehobel/Ehobel\|Ehobel]] doesn't have great access to crop lands
-- Information about how [[Other Information/Display Tags/The Towers\|The Towers]] worked.)
+- Information about how [[Other Information/The Towers\|The Towers]] worked.)
 
 (x::At this point, Korrigan has woken up and made his way down to the Library to find chenris deeply immersed in books. Korrigan takes this time to talk about what they kept secret from the rest of [[Other Information/Display Tags/The Party\|The Party]]. Korrigan says that there's no way we can go through with the plan, and chenris agrees (he is lying, and Korrigan knows it). They both uneasily look at each other and notice that they need to meet up with everyone else soon.)
 

@@ -90,18 +90,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Recently Modified
 - [[Locations/Feywild/Seelie Court\|Seelie Court]]
 - [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]
 - [[The Party/Dead/Kal ‡\|Kal ‡]]
+- [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]
 - [[Admin/Templates/Eras\|Eras]]
 - [[Other Information/Quotes\|Quotes]]
 - [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]]
 - [[Other Information/Rules & Reference/Skills\|Skills]]
+- [[Other Information/Rules & Reference/Senses\|Senses]]
 
 { .block-language-dataview}
 
@@ -121,7 +121,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 06, 2025 |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | July 30, 2025   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | August 09, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]                             | August 09, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                         | August 09, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | August 09, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | August 09, 2025 |

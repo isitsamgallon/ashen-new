@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-08-09T13:03:23.290+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-42/","updated":"2025-08-10T13:36:22.539+01:00"}
 ---
 
 # Session Information
@@ -124,7 +124,7 @@ That night, Korrigan recounts his full history to the others—his upbringing in
 
 (x::The priest refused to engage, stating, "I told you friends, do not speak of this in my presence. I'd rather not be dragged off and whipped for your insolence.")
 
-(x::[[The Party/Halfbie\|Halfbie]] turned to leave. As they reached for the door, they turned to face the priest with an innocent smile and said, "Well, if we've taken down [[Other Information/Display Tags/The Towers\|the towers]] before, i'm sure we can figure out something this time... Toodles!" before leaving, with [[The Party/Mordecai Reverence\|Mordecai]] not far behind him.)
+(x::[[The Party/Halfbie\|Halfbie]] turned to leave. As they reached for the door, they turned to face the priest with an innocent smile and said, "Well, if we've taken down [[Other Information/The Towers\|The Towers]] before, i'm sure we can figure out something this time... Toodles!" before leaving, with [[The Party/Mordecai Reverence\|Mordecai]] not far behind him.)
 
 (x::[[The Party/Halfbie\|Halfbie]] left the church, cursing in frustration at the idiot priest as they walked back to their tent. [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/The Korrigan\|Korrigan]] talked about how they could start the next revolution. [[The Party/Mordecai Reverence\|Mordecai]] stated they needed some kind of signal that the rebellion could use to untie, like a qa work song or something similar. [[The Party/The Korrigan\|Korrigan]] agreed, saying a work song could be too dangerous, but something they could hum could work.)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-41/","updated":"2025-08-10T13:28:14.915+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-41/","updated":"2025-08-10T13:36:22.521+01:00"}
 ---
 
 # Session Information
@@ -93,7 +93,7 @@ The priest preached a hopeful but twisted version of the teachings of Ignatius, 
 
 (x::They slowly get up and follow the enslaver into the mines. They soon reached a freshly excavated part where they were given pickaxes, which were chained to their wrists with heavy iron cuffs, and told to mine. As they begin to mine, [[The Party/The Korrigan\|Korrigan]] notices the little girl from the tent barely being able to lift the pickaxe, he approached he to help. But as he reached out his hand, a whip suddenly snapped at it, drawing blood. The salver screamed at [[The Party/The Korrigan\|Korrigan]], telling him to focus on his work.)
 
-(x::While they worked, [[The Party/Halfbie\|Halfbie]] tried to figure out how the antimagic field would work. They surmise that the magic at work felt quite similar to how [[Other Information/Display Tags/The Towers\|the towers]] functioned. It would also have to be very close to the centre of the mines to cover the whole area.)
+(x::While they worked, [[The Party/Halfbie\|Halfbie]] tried to figure out how the antimagic field would work. They surmise that the magic at work felt quite similar to how [[Other Information/The Towers\|The Towers]] functioned. It would also have to be very close to the centre of the mines to cover the whole area.)
 
 (x::After 14 hours of back-breaking work, the slaver shouts, "Right, that's your shift over!!" and unshackles them from their pickaxes. Then, he leads them out of the mines and back into [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]. The man from the tent asks if they would like to see the surface, to which they all agree. Going through a significant checkpoint, they found themselves in an even worse slum as people covered in bruises slept in puddles of their filth, inches away from another slave in the same condition.)
 

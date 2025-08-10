@@ -86,7 +86,6 @@ Humans were the primary fighting force during [[History & Events/The Sundering\|
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera\|Sera]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
 - [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]
