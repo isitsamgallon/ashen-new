@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-06-11T21:32:40.582+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-08-09T11:30:49.742+01:00"}
 ---
 
 ![Screenshot 2025-06-09 215201.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
@@ -9,8 +9,6 @@ The Ashen Gods are known across the realms. Their names are etched into the ston
 their reach, their presence, their undeniable weight- so few truly understand them.
 
 The Ashen Gods are not tidy. They are not moral. They are not concerned with our categories of good and evil. Some call them tricksters, others tyrants, others still, necessary evils or forgotten truths. The more you study them, the less sure you become of who is observing whom.
-
-There are several deities that watch over [[Locations/The Amber Realms\|The Amber Realms]] there is no distinction between the moral standing of these deities, they all do as they want. This means that the inhabitants of  [[Locations/The Amber Realms\|The Amber Realms]] often see these deities as fickle, though this is not the truth as they plan and scheme and often have agendas they wish to fulfil." - extract from [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]].
 
 ### The Pantheon
 

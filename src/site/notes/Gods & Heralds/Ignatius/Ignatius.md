@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-07-20T12:22:00.537+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-08-10T13:28:14.722+01:00"}
 ---
 
 > [!infobox]
@@ -69,7 +69,7 @@ A shard of pure volcanic power said to contain Ignatius's essence, capable of de
 A relic worn by his high priests, granting visions of Ignatius's will and the ability to summon minor fire Elementals.
 
 ### What Faith Means to the Moderates
-The moderates of the faction believe Ignatius will come down and wipe away the bad and give way for good just without so much senseless pain or killing. [[Session Notes/Season 3 - The Worst Diplomates/Session 20#Ignatius's Room\|The priest]] gives the example of the [[History & Events/Grayfall Empire\|Grayfall Empire]] and the [[Other Information/Races/Human\|humans]], the [[Other Information/Races/Dwarves\|Dwarves]] were all slave owners and treated everyone horribly. The [[Other Information/Races/Human\|humans]], led by [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] rose using violence to earn their freedom. e.i. a bad system was replaced by a better one. Another example is the [[Locations/OFC/OFC\|OFC]], there is a large war with humungous loss of life on both sides and yet the [[Locations/OFC/OFC\|OFC]] is a pillar of freedom and equality.
+The moderates of the faction believe Ignatius will come down and wipe away the bad and give way for good just without so much senseless pain or killing. [[Session Notes/Season 3 - The Worst Diplomates/Session 20#Ignatius's Room\|The priest]] gives the example of the [[History & Events/Grayfall Empire\|Grayfall Empire]] and the [[Other Information/Races/Humans\|humans]], the [[Other Information/Races/Dwarves\|Dwarves]] were all slave owners and treated everyone horribly. The [[Other Information/Races/Humans\|humans]], led by [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] rose using violence to earn their freedom. e.i. a bad system was replaced by a better one. Another example is the [[Locations/OFC/OFC\|OFC]], there is a large war with humungous loss of life on both sides and yet the [[Locations/OFC/OFC\|OFC]] is a pillar of freedom and equality.
 
 ### What Faith Means to the Extremists 
 The extremists believe that Ignatius will come down to destroy all evil in the world and make way for good to take its place. This often comes in the form of mass slaughter and destruction. 

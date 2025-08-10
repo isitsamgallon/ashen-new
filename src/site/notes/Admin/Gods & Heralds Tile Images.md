@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","hide":true,"updated":"2025-08-09T11:29:14.799+01:00"}
+{"dg-publish":true,"permalink":"/admin/gods-and-heralds-tile-images/","hide":true,"updated":"2025-08-10T13:34:14.050+01:00"}
 ---
 
 
@@ -18,6 +18,6 @@
 
 ![ChronovorusWeb.png](/img/user/Admin/Attachments/ChronovorusWeb.png)
 
-![[AeloriaWeb 1.png\|AeloriaWeb 1.png]]
+![AeloriaWeb.png](/img/user/Admin/Attachments/AeloriaWeb.png)
 
-![[VaelrithWeb 1.png\|VaelrithWeb 1.png]]
+![VaelrithWeb.png](/img/user/Admin/Attachments/VaelrithWeb.png)
