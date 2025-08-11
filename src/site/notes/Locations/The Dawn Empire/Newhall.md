@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","tags":["Undiscovered"],"updated":"2025-07-31T14:26:34.525+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.781+01:00"}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/edge-of-the-onyx-sands/","tags":["aidenitem"],"updated":"2025-06-14T13:43:14.719+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/edge-of-the-onyx-sands/","tags":["aidenitem"],"updated":"2025-08-11T11:53:32.309+01:00"}
 ---
 
 ### Overview

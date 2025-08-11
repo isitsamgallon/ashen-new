@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/bromli-emberforge/","tags":["NPC"],"updated":"2025-07-05T18:25:14.759+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/bromli-emberforge/","tags":["NPC"],"updated":"2025-08-11T11:53:32.097+01:00"}
 ---
 
 

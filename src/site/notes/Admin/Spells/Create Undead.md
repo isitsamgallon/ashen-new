@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/create-undead/","hide":true,"updated":"2025-08-05T19:49:54.437+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/create-undead/","hide":true,"updated":"2025-08-11T11:53:29.347+01:00"}
 ---
 
 # Create Undead

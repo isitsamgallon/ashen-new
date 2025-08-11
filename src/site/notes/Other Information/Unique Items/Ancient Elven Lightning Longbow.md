@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/ancient-elven-lightning-longbow/","tags":["korriitem","kalitem"],"updated":"2025-08-06T12:03:51.016+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/ancient-elven-lightning-longbow/","tags":["korriitem","kalitem"],"updated":"2025-08-11T11:53:32.306+01:00"}
 ---
 
 ### Overview

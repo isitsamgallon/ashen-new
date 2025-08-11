@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/minatota/","tags":["Discovered"],"updated":"2025-07-31T14:28:11.440+01:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/minatota/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.887+01:00"}
 ---
 
 ### Overview

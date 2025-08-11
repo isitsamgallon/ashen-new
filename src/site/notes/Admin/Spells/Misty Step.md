@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/misty-step/","hide":true,"updated":"2025-08-05T19:49:54.770+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/misty-step/","hide":true,"updated":"2025-08-11T11:53:30.994+01:00"}
 ---
 
 # Misty Step

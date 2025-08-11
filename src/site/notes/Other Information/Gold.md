@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/gold/","updated":"2025-06-10T19:10:49.815+01:00"}
+{"dg-publish":true,"permalink":"/other-information/gold/","updated":"2025-08-11T11:53:32.211+01:00"}
 ---
 
 The currency system that most of [[Locations/The Amber Realms\|The Amber Realms]] uses. 

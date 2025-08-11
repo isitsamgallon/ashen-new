@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/balance-ranch/","tags":["Discovered"],"updated":"2025-07-31T14:15:17.581+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/balance-ranch/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.750+01:00"}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/mage-armor/","hide":true,"updated":"2025-08-05T19:49:54.705+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/mage-armor/","hide":true,"updated":"2025-08-11T11:53:30.961+01:00"}
 ---
 
 # Mage Armor

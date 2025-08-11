@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/alchemy-jug/","updated":"2025-06-13T19:08:46.686+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/alchemy-jug/","updated":"2025-08-11T11:53:32.301+01:00"}
 ---
 
 ### Overview

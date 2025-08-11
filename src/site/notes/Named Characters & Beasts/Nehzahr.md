@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/nehzahr/","tags":["NPC"],"updated":"2025-06-10T19:10:58.461+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/nehzahr/","tags":["NPC"],"updated":"2025-08-11T11:53:32.047+01:00"}
 ---
 
 > [!infobox]

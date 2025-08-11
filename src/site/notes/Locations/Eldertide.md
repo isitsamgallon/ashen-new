@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/eldertide/","updated":"2025-06-11T21:54:29.652+01:00"}
+{"dg-publish":true,"permalink":"/locations/eldertide/","updated":"2025-08-11T11:53:31.664+01:00"}
 ---
 
 ### Overview

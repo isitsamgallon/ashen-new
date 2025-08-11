@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/detect-good-and-evil/","hide":true,"updated":"2025-08-05T19:49:54.452+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/detect-good-and-evil/","hide":true,"updated":"2025-08-11T11:53:29.353+01:00"}
 ---
 
 # Detect Evil and Good

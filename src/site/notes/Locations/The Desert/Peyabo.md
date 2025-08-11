@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/peyabo/","tags":["Undiscovered"],"updated":"2025-07-31T14:30:43.437+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/peyabo/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.823+01:00"}
 ---
 
 ### Overview

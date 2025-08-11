@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/hunter-s-mark/","hide":true,"updated":"2025-08-05T19:49:54.617+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/hunter-s-mark/","hide":true,"updated":"2025-08-11T11:53:30.921+01:00"}
 ---
 
 # Hunter's Mark

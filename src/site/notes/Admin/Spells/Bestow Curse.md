@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/bestow-curse/","hide":true,"updated":"2025-08-05T19:49:54.367+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/bestow-curse/","hide":true,"updated":"2025-08-11T11:53:29.312+01:00"}
 ---
 
 # Bestow Curse

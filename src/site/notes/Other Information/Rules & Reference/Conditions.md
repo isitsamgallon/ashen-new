@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/rules-and-reference/conditions/","updated":"2025-08-06T19:14:31.917+01:00"}
+{"dg-publish":true,"permalink":"/other-information/rules-and-reference/conditions/","updated":"2025-08-11T11:53:32.292+01:00"}
 ---
 
 ## Blinded

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-dawnhaven-crypts/","tags":["Discovered"],"updated":"2025-06-11T21:48:04.176+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-dawnhaven-crypts/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.878+01:00"}
 ---
 
 ### Overview

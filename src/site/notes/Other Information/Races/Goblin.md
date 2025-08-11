@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-08-03T14:53:24.311+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goblin/","updated":"2025-08-11T11:53:32.267+01:00"}
 ---
 
 

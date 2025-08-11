@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/4th-dawn-vs-ehobel-war/","updated":"2025-08-10T12:52:48.389+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/4th-dawn-vs-ehobel-war/","updated":"2025-08-11T11:53:31.573+01:00"}
 ---
 
 A war that ended not long before the start of the story between [[Locations/Ehobel/Ehobel\|Ehobel]] and [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. It was fought on the land that in the modern day is known as The [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. The Dawn refused to defended them and held the line at [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]. This lead to many of the residence of the area to grow distain for The Dawn so they broke ties with it and become the OFC. 

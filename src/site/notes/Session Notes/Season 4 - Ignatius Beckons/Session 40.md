@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-40/","updated":"2025-08-06T12:08:02.909+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-40/","updated":"2025-08-11T11:53:32.483+01:00"}
 ---
 
 # Session Information
 **Session Date:** 1st Jul 2025 
 **Saga**: Season 4 - Ignatius Beckons
-**Attendance**: `=this.attendance`
+**Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 
 After defeating the Angel Under the Well, the party discovered a strange vial filled with shifting magical smoke. Halfbie, driven by curiosity, uncorked it the next morning and fell into a magically induced sleep. Inside the dreamlike realm, they wandered through an ethereal city before meeting Somnora, Goddess of Sleep. The god explained that she had previously aided the party and asked only for lavender as thanks. Upon waking, Halfbie shared their experience, and the party honoured Somnora's request at a dilapidated multifaith church, receiving a boon that allowed them safe rest anywhere.

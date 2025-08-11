@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/mage-hand/","hide":true,"updated":"2025-08-05T19:49:54.707+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/mage-hand/","hide":true,"updated":"2025-08-11T11:53:30.962+01:00"}
 ---
 
 # Mage Hand

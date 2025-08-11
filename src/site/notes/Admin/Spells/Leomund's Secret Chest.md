@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/leomund-s-secret-chest/","hide":true,"updated":"2025-08-05T19:49:54.665+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/leomund-s-secret-chest/","hide":true,"updated":"2025-08-11T11:53:30.934+01:00"}
 ---
 
 # Leomund's Secret Chest

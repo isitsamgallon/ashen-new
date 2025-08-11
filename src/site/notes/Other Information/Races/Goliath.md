@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/goliath/","updated":"2025-08-03T15:01:29.583+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/goliath/","updated":"2025-08-11T11:53:32.270+01:00"}
 ---
 
 

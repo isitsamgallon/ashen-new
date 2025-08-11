@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/eldritch-blast/","hide":true,"updated":"2025-08-05T19:49:54.491+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/eldritch-blast/","hide":true,"updated":"2025-08-11T11:53:29.375+01:00"}
 ---
 
 # Eldritch Blast

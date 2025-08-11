@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/healing-guardian/","updated":"2025-06-10T19:02:19.795+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/healing-guardian/","updated":"2025-08-11T11:53:31.439+01:00"}
 ---
 
 The [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] who acts as healing conduit for the Goddess. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/lightbearers/","updated":"2025-06-10T19:10:49.838+01:00"}
+{"dg-publish":true,"permalink":"/other-information/lightbearers/","updated":"2025-08-11T11:53:32.215+01:00"}
 ---
 
 

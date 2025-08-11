@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/seelie-court/","tags":["Discovered"],"updated":"2025-08-10T11:46:34.685+01:00"}
+{"dg-publish":true,"permalink":"/locations/feywild/seelie-court/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.714+01:00"}
 ---
 
 ### Overview

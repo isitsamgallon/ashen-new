@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/shocking-grasp/","hide":true,"updated":"2025-08-05T19:49:54.901+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/shocking-grasp/","hide":true,"updated":"2025-08-11T11:53:31.060+01:00"}
 ---
 
 # Shocking Grasp

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-05/","updated":"2025-08-06T13:40:27.135+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-05/","updated":"2025-08-11T11:53:32.381+01:00"}
 ---
 
 (x::The journey to [[Locations/Strixhaven\|Strixhaven]] began with trepidation and wonder as [[Other Information/Display Tags/The Party\|the party]] ascended a winding stone staircase carved into the side of a steep cliff. The stairs extended upwards, seemingly into the void, with no visible destination in sight. The researchers accompanying them climbed without hesitation, their confidence reassuring yet unsettling in the surreal landscape. When [[Other Information/Display Tags/The Party\|the party]] reached the top, the world below vanished as if consumed by a misty veil, and before them emerged [[Locations/Strixhaven\|Strixhaven]], the legendary floating city. Suspended on colossal glowing rocks, the city’s architecture seemed to defy gravity itself, an ethereal marvel held aloft by ancient magic.)

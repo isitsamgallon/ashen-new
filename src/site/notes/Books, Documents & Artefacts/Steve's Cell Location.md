@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/steve-s-cell-location/","tags":["Unimportant"],"updated":"2025-06-10T19:00:50.419+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/steve-s-cell-location/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.266+01:00"}
 ---
 
 A note [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] gave to [[The Party/Mordecai Reverence\|Mordecai Reverence]] in  [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]] so [[Other Information/Display Tags/The Party\|The Party]] could break [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] out of prison. Contents:

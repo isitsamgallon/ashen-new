@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-06-10T19:10:49.877+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dwarves/","updated":"2025-08-11T11:53:32.254+01:00"}
 ---
 
 
@@ -49,8 +49,8 @@ No much is known about how the dwarves acted or what they believed in.
 ### Known Dwarves
 - [[Named Characters & Beasts/Historically Significant  Characters/Bromli Emberforge\|Bromli Emberforge]]
 - [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]]
-- [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]
 - [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]
 - [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]]
 - [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]
 

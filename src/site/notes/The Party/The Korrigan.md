@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-08-09T11:40:53.922+01:00"}
+{"dg-publish":true,"permalink":"/the-party/the-korrigan/","updated":"2025-08-11T11:53:32.556+01:00"}
 ---
 
  > [!infobox]
@@ -44,7 +44,7 @@
 > 
 { .block-language-dataview}
  
-   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"<cite>[[The Party/The Korrigan\|The Korrigan]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 44\|Session 44]]</cite>
+   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"<cite>[[The Party/The Korrigan\|The Korrigan]] - [[Session Notes/Season 5 - Freedom Fighters/Session 44\|Session 44]]</cite>
 
 ### Overview  
 Korrigan is a human-fey hybrid and serves as the [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. He is a multi-classed Ranger and Druid recognised for utilising a powerful lightning bow and fey magic. Initially, he joined [[Other Information/Display Tags/The Party\|The Party]] under the name [[The Party/Dead/Kal ‡\|Kal ‡]] but perished during a confrontation with a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Subsequently, he re-joined [[Other Information/Display Tags/The Party\|The Party]] in a new form, initially devoid of most of his memories. Through interactions with reminiscences of his past, he gradually regained a significant portion of his memories. Korrigan shared a close bond with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], one of the few individuals capable of understanding him and discerning when he was untruthful. 

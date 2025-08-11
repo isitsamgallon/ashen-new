@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/blight/","hide":true,"updated":"2025-08-05T19:49:54.381+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/blight/","hide":true,"updated":"2025-08-11T11:53:29.317+01:00"}
 ---
 
 # Blight

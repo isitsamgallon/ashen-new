@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/general-midus/","tags":["NPC"],"updated":"2025-06-10T19:10:58.233+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/general-midus/","tags":["NPC"],"updated":"2025-08-11T11:53:32.136+01:00"}
 ---
 
 

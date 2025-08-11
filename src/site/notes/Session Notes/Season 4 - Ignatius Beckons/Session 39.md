@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-06T12:04:30.578+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-11T11:53:32.480+01:00"}
 ---
 
 # Session Information

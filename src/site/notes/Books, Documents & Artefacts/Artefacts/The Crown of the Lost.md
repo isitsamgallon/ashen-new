@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/the-crown-of-the-lost/","tags":["Artefact"],"updated":"2025-06-10T19:00:50.345+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/the-crown-of-the-lost/","tags":["Artefact"],"updated":"2025-08-11T11:53:31.311+01:00"}
 ---
 
 

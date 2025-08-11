@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-golden-ones/","updated":"2025-06-11T21:39:47.085+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-golden-ones/","updated":"2025-08-11T11:53:31.565+01:00"}
 ---
 
 ### Overview

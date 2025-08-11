@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/calathus/","updated":"2025-08-06T11:57:13.170+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/calathus/","updated":"2025-08-11T11:53:31.958+01:00"}
 ---
 
 ### Overview

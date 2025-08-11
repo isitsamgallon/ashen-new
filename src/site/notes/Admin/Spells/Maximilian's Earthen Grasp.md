@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/maximilian-s-earthen-grasp/","hide":true,"updated":"2025-08-05T19:49:54.737+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/maximilian-s-earthen-grasp/","hide":true,"updated":"2025-08-11T11:53:30.976+01:00"}
 ---
 
 # Maximilian's Earthen Grasp

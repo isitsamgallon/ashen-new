@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/melf-s-minute-meteors/","hide":true,"updated":"2025-08-05T19:49:54.745+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/melf-s-minute-meteors/","hide":true,"updated":"2025-08-11T11:53:30.981+01:00"}
 ---
 
 # Melf's Minute Meteors

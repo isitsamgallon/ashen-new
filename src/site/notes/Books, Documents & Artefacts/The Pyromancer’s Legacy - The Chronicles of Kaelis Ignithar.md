@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-06-30T20:16:52.202+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-pyromancer-s-legacy-the-chronicles-of-kaelis-ignithar/","updated":"2025-08-11T11:53:31.275+01:00"}
 ---
 
 ### Introduction: The Flame’s Origin

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/faerie-fire/","hide":true,"updated":"2025-08-05T19:49:54.510+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/faerie-fire/","hide":true,"updated":"2025-08-11T11:53:30.841+01:00"}
 ---
 
 # Faerie Fire

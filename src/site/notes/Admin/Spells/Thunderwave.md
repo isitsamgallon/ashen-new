@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/thunderwave/","hide":true,"updated":"2025-08-05T19:49:55.058+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/thunderwave/","hide":true,"updated":"2025-08-11T11:53:31.206+01:00"}
 ---
 
 # Thunderwave

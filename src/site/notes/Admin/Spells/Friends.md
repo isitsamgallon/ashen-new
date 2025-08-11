@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/friends/","hide":true,"updated":"2025-08-05T19:49:54.549+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/friends/","hide":true,"updated":"2025-08-11T11:53:30.868+01:00"}
 ---
 
 # Friends

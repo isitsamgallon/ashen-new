@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2025-06-11T20:19:46.011+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2025-08-11T11:53:31.380+01:00"}
 ---
 
 ### Overview

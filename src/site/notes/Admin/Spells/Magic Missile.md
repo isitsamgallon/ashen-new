@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/magic-missile/","hide":true,"updated":"2025-08-05T19:49:54.711+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/magic-missile/","hide":true,"updated":"2025-08-11T11:53:30.967+01:00"}
 ---
 
 # Magic Missile

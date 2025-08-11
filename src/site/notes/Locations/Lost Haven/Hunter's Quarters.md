@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/hunter-s-quarters/","tags":["Discovered"],"updated":"2025-08-09T13:02:47.252+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/hunter-s-quarters/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.741+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
@@ -34,8 +34,8 @@
 | [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive   |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                  | The Slums | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]   | The Slums | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]   | The Slums | Dead    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]] | The Slums | Dead    |
 
 { .block-language-dataview}

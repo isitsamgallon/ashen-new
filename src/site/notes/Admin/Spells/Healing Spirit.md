@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/healing-spirit/","hide":true,"updated":"2025-08-05T19:49:54.599+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/healing-spirit/","hide":true,"updated":"2025-08-11T11:53:30.908+01:00"}
 ---
 
 # Healing Spirit

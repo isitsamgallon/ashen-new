@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/named-characters-and-beasts/","hideInGraph":true,"updated":"2025-06-10T19:10:58.453+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/named-characters-and-beasts/","hideInGraph":true,"updated":"2025-08-11T11:53:32.045+01:00"}
 ---
 
 
@@ -65,7 +65,7 @@
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]]   | Dead    | Adult Dwarf Male         | Dwarven Empire                    | \-                    |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                               | Alive   | \- Inchling \-           | OFC                               | Inchling Village      |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]] | Dead    | Adult Dwarf Male         | Dwarven Empire                    | \-                    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                              | Dead    | Adult Human Female       | Lost Haven                        | hunters area          |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                              | Dead    | Adult Human Female       | Lost Haven                        | Hunters Quarters      |
 | [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]                                                              | Alive   | Adult Human Male         | Ehobel                            | \-                    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]                                                | Dead    | Adult Human Male         | The OFC                           | Blackwall             |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                                             | Alive   | Adult Elf Male           | Ehobel                            | Enelion               |

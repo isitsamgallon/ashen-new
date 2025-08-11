@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/spiritual-weapon/","hide":true,"updated":"2025-08-05T19:49:54.941+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/spiritual-weapon/","hide":true,"updated":"2025-08-11T11:53:31.116+01:00"}
 ---
 
 # Spiritual Weapon

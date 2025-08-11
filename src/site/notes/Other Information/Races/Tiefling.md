@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-08-10T13:28:14.848+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/tiefling/","updated":"2025-08-11T11:53:32.280+01:00"}
 ---
 
 
@@ -47,8 +47,8 @@
 
 ### Known Tieflings
 - [[Named Characters & Beasts/Cindy\|Cindy]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]]

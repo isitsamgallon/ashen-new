@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/melf-s-acid-arrow/","hide":true,"updated":"2025-08-05T19:49:54.740+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/melf-s-acid-arrow/","hide":true,"updated":"2025-08-11T11:53:30.979+01:00"}
 ---
 
 # Melf's Acid Arrow

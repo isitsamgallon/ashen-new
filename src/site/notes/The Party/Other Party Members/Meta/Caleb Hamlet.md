@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/caleb-hamlet/","tags":["Player"],"updated":"2025-08-09T11:36:46.100+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/caleb-hamlet/","tags":["Player"],"updated":"2025-08-11T11:53:32.582+01:00"}
 ---
 
 Plays [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in the campaign. 

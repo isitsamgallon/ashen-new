@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-09T12:48:19.418+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-11T11:53:32.562+01:00"}
 ---
 
 > [!infobox]
@@ -194,7 +194,7 @@ To gain entry into the courtroom, [[Other Information/Display Tags/The Party\|Th
 Korrigan burst into the courtroom, declaring that the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] was planning an attack on the city. His dramatic interruption hastened the trial proceedings, though Steve was still sentenced to execution. As they exited, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] provided a note detailing Steve’s cell location and a time for a planned breakout.
 
 **Quest to [[Locations/The Dawn Empire/Dustwood\|Dustwood]] and [[Locations/The Dawn Empire/Farpost\|Farpost]]:**
-[[Other Information/Display Tags/The Party\|The Party]] met [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], who suggested delivering a note to [[Locations/The Dawn Empire/Farpost\|Farpost]] and gathering reinforcements from [[Locations/The Dawn Empire/Dustwood\|Dustwood]] for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] opened a portal to [[Locations/The Dawn Empire/Dustwood\|Dustwood]], expediting their journey. On the way, Chenris and [[The Party/The Korrigan\|The Korrigan]] struck a deal involving [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]’s soul contract, leading to Chenris learning about [[History & Events/The Ancient Pillars\|The Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
+[[Other Information/Display Tags/The Party\|The Party]] met [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], who suggested delivering a note to [[Locations/The Dawn Empire/Farpost\|Farpost]] and gathering reinforcements from [[Locations/The Dawn Empire/Dustwood\|Dustwood]] for [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] opened a portal to [[Locations/The Dawn Empire/Dustwood\|Dustwood]], expediting their journey. On the way, Chenris and [[The Party/The Korrigan\|The Korrigan]] struck a deal involving [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]’s soul contract, leading to Chenris learning about [[The Ancient Pillars\|The Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
 
 **Encounter with [[Groups & Factions/Merchant Guild\|Merchant Guild]] Caravan:**
 [[Other Information/Display Tags/The Party\|The Party]] encountered a [[Groups & Factions/Merchant Guild\|Merchant Guild]] caravan loaded with weaponry, but interaction was refused. Chenris noted the heavy guard presence and inferred the caravan’s destination was [[Locations/The Dawn Empire/Farpost\|Farpost]].

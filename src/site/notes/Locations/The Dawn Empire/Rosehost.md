@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2025-06-11T21:50:19.255+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.789+01:00"}
 ---
 
 ### Overview

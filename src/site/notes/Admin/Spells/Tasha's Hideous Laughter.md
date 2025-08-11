@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/tasha-s-hideous-laughter/","hide":true,"updated":"2025-08-05T19:49:54.987+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/tasha-s-hideous-laughter/","hide":true,"updated":"2025-08-11T11:53:31.192+01:00"}
 ---
 
 # Tasha's Hideous Laughter

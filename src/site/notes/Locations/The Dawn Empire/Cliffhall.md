@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/cliffhall/","tags":["Discovered"],"updated":"2025-07-31T14:24:37.040+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/cliffhall/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.770+01:00"}
 ---
 
 ### Overview

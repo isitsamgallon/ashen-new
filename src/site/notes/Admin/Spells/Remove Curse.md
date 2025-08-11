@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/remove-curse/","hide":true,"updated":"2025-08-05T19:49:54.876+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/remove-curse/","hide":true,"updated":"2025-08-11T11:53:31.041+01:00"}
 ---
 
 # Remove Curse

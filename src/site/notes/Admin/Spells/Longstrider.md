@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/longstrider/","hide":true,"updated":"2025-08-05T19:49:54.702+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/longstrider/","hide":true,"updated":"2025-08-11T11:53:30.958+01:00"}
 ---
 
 # Longstrider

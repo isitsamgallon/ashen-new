@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/web/","hide":true,"updated":"2025-08-05T19:49:55.044+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/web/","hide":true,"updated":"2025-08-11T11:53:31.222+01:00"}
 ---
 
 # Web

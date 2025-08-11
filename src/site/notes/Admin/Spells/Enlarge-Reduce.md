@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/enlarge-reduce/","hide":true,"updated":"2025-08-06T12:01:43.199+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/enlarge-reduce/","hide":true,"updated":"2025-08-11T11:53:29.380+01:00"}
 ---
 
 # Enlarge/Reduce

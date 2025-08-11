@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/snowport/","tags":["Undiscovered"],"updated":"2025-06-11T21:55:10.743+01:00"}
+{"dg-publish":true,"permalink":"/locations/snowport/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.678+01:00"}
 ---
 
 ### Overview

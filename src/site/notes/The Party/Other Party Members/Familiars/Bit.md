@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-06-10T19:10:33.855+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-08-11T11:53:32.578+01:00"}
 ---
 
 > [!infobox]

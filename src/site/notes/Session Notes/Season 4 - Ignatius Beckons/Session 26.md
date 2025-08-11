@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-26/","updated":"2025-08-10T13:28:14.869+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-26/","updated":"2025-08-11T11:53:32.451+01:00"}
 ---
 
 **Session Date:** 12th Dec 2024 

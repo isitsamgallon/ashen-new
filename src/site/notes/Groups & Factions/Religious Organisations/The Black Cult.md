@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-black-cult/","tags":["Groups"],"updated":"2025-06-11T21:39:32.957+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/religious-organisations/the-black-cult/","tags":["Groups"],"updated":"2025-08-11T11:53:31.564+01:00"}
 ---
 
 ### Overview

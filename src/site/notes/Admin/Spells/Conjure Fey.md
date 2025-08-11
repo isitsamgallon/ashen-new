@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/conjure-fey/","hide":true,"updated":"2025-08-05T19:49:54.425+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/conjure-fey/","hide":true,"updated":"2025-08-11T11:53:29.337+01:00"}
 ---
 
 # Conjure Fey

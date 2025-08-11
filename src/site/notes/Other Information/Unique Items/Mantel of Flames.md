@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/mantel-of-flames/","tags":["morditem"],"updated":"2025-06-14T13:54:08.922+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/mantel-of-flames/","tags":["morditem"],"updated":"2025-08-11T11:53:32.314+01:00"}
 ---
 
 ### Overview

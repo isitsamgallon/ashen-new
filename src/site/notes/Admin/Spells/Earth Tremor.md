@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/earth-tremor/","hide":true,"updated":"2025-08-05T19:49:54.484+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/earth-tremor/","hide":true,"updated":"2025-08-11T11:53:29.372+01:00"}
 ---
 
 # Earth Tremor

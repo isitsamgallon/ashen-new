@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/old-earthgrog/","tags":["Undiscovered"],"updated":"2025-06-11T21:50:10.485+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/old-earthgrog/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.786+01:00"}
 ---
 
 ### Overview
 A place towards the south of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], near [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. It is most well known for being the site for the [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]].
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | [[The Party/Halfbie\|Halfbie]] told [[Other Information/Display Tags/The Party\|the Party]], after their prayer, that the most interesting thing in the area is an old dravern settlement called [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]] and explained how it came up in a few history books [^5] and might hold something interesting. [[Other Information/Display Tags/The Party\|The Party]] soon all agreed, and they set off for [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]].                                                                         |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | They soon reached [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]. It was an old-fashioned mining town swarmed with Automatons similar to [[The Party/Other Party Members/Bruce\|Bruce]]. [[The Party/Halfbie\|Halfbie]] suddenly felt very nostalgic again and immediately approached one and said hi. The Automaton outputted an error. [[The Party/Halfbie\|Halfbie]] then tried to say hi in ancient Dwarvish. The Automaton immediately looked their way and asked if the fighting would soon continue. |
 
 { .block-language-dataview}

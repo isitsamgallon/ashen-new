@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","tags":["LevelUp"],"updated":"2025-08-09T13:03:23.222+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-01/","tags":["LevelUp"],"updated":"2025-08-11T11:53:32.370+01:00"}
 ---
 
 (x:: We start mid combat in [[Gods & Heralds/Chronovorus/The Black Woods\|The Black Woods]] where the weird zombie man summoned [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] after stealing [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]. [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] has two pages so he escaped out through the window. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] misty steps to join Drache. [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]], while trying to defend [[The Party/Dead/Kal ‡\|Kal ‡]] gets impaled by the [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] and is downed. [[The Party/Mordecai Reverence\|Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. )

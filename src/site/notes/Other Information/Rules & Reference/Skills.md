@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/rules-and-reference/skills/","updated":"2025-08-05T19:49:14.666+01:00"}
+{"dg-publish":true,"permalink":"/other-information/rules-and-reference/skills/","updated":"2025-08-11T11:53:32.297+01:00"}
 ---
 
 ## Acrobatics

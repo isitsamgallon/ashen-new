@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/find-steed/","hide":true,"updated":"2025-08-05T19:49:54.534+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/find-steed/","hide":true,"updated":"2025-08-11T11:53:30.855+01:00"}
 ---
 
 # Find Steed

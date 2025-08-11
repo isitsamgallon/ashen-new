@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/note-from-velthis-about-reanimated-skeletons/","tags":["Unimportant"],"updated":"2025-06-10T19:00:50.401+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/note-from-velthis-about-reanimated-skeletons/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.259+01:00"}
 ---
 
 It has come to my attention (again) that reanimated skeletons are being left to wander the halls, chambers, and occasionally the pantry after their tasks are complete. This is unacceptable. While we pride ourselves on our necromantic mastery, leaving discarded constructs lying about is both a safety hazard and a breach of basic sanctum etiquette. Do I need to remind you of the incident with Apprentice Maldin and the "unwashed custodian" skeleton last month? Effective immediately:

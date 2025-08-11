@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/lesser-restoration/","hide":true,"updated":"2025-08-05T19:49:54.672+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/lesser-restoration/","hide":true,"updated":"2025-08-11T11:53:30.938+01:00"}
 ---
 
 # Lesser Restoration

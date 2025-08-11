@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/teria/","tags":["Undiscovered"],"updated":"2025-07-31T14:19:27.264+01:00"}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/teria/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.731+01:00"}
 ---
 
 

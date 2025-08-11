@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/fabricate/","hide":true,"updated":"2025-08-05T19:49:54.503+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/fabricate/","hide":true,"updated":"2025-08-11T11:53:30.839+01:00"}
 ---
 
 # Fabricate

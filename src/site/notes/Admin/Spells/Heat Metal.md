@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/heat-metal/","hide":true,"updated":"2025-08-05T19:49:54.607+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/heat-metal/","hide":true,"updated":"2025-08-11T11:53:30.913+01:00"}
 ---
 
 # Heat Metal
