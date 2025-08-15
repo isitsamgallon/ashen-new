@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-07-30T09:42:30.723+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.113+01:00"}
 ---
 
 > [!infobox]

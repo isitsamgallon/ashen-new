@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/sumene/","tags":["Undiscovered"],"updated":"2025-07-31T14:30:43.430+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/sumene/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.825+01:00"}
 ---
 
 ### Overview

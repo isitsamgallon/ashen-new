@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/adventurers-guild/","tags":["Groups"],"updated":"2025-06-11T21:36:32.721+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/adventurers-guild/","tags":["Groups"],"updated":"2025-08-11T11:53:31.517+01:00"}
 ---
 
 ### Overview

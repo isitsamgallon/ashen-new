@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2025-08-11T11:53:32.088+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2025-08-15T14:29:14.320+01:00"}
 ---
 
-
+> [!infobox]
+> 
+> # 'this.file.name'
+> ![Elven_Cannibal.png](/img/user/Admin/Attachments/Elven_Cannibal.png)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  HQ | The Forests of [[Locations/Ehobel/Ehobel\|Ehobel]] |
+>  Alignment | Chaotic Evil |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
 ### Overview
 [[Other Information/Races/Elves\|Elves]] who had gone mad, most likely due to a curse of unknown origin. They live in the lush rainforests of [[Locations/Ehobel/Ehobel\|Ehobel]] and are known to make resource gathering difficult for other [[Other Information/Races/Elves\|Elves]].
 

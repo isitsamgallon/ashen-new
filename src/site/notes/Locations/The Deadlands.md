@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/","tags":["Undiscovered"],"updated":"2025-07-31T14:13:40.319+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.684+01:00"}
 ---
 
 

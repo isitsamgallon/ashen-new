@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Undiscovered"],"updated":"2025-06-11T21:54:39.796+01:00"}
+{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.665+01:00"}
 ---
 
 ### Overview

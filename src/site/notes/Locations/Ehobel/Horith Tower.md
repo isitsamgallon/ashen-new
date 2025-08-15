@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/horith-tower/","tags":["Undiscovered"],"updated":"2025-07-31T14:28:38.501+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/horith-tower/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.696+01:00"}
 ---
 
 ### Overview

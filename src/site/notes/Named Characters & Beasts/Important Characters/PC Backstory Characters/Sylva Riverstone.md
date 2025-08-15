@@ -1,15 +1,51 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2025-08-11T11:53:32.158+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2025-08-15T14:40:58.877+01:00"}
 ---
 
 
+> [!infobox]
+> 
+> # Sylva Riverstone
+> ![1581111423-144885740 1.png](/img/user/Admin/Attachments/1581111423-144885740%201.png)
+> ###### Basic Information
+> 
+>  Type | Stat |
+> :----: | --- |
+> Race | [[Other Information/Races/Elves\|Elves]] |
+> Nationality | Unknown |
+> Class | Druid |
+>  Subclass | Circle of the Moon |
+>  Age | Late 20s |
+>  Alignment | Neutral Good |
+>  Pronouns | She/Her |
+>  Family | Unknown |
+>  ##### Stats
+> Skill | Score | Mod | Prof |
+> :---: | :---: | :---: | :---: |
+>  STR | 10 | +0 | <input type="checkbox" unchecked> |
+>  DEX | 12 | +1 |  <input type="checkbox" unchecked> |
+>  CON | 14 | +2 | <input type="checkbox" unchecked> |
+>  INT | 13 | +1 | <input type="checkbox" checked>|
+>  WIS | 20 | +5 | <input type="checkbox" checked> |
+>  CHA | 11 | +0 | <input type="checkbox" unchecked> |
+>  
+>Type | Stat |
+>:---: | --- |
+>AC | 12 |
+>Senses | Darkvision |
+>Languages | Celestial, Common, Druidic, Elvish |
+>
+>Wolfen Pets |
+>---|
+>Sylva is followed around by 2 wolfs who help her in battle |
+
 ### Overview
-An old friend of [[The Party/The Korrigan\|The Korrigan]]. Not much is known about them apart form after [[The Party/The Korrigan\|Korrigan]] escaped the [[Groups & Factions/Ivory Crest\|Ivory Crest]] they spent a few years working together to annoy/ hinder animal traffickers near the board or [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Afterwards they split up to go on their own adventures. 
+An old friend of [[The Party/The Korrigan\|The Korrigan]]. Not much is known about them apart form after [[The Party/The Korrigan\|Korrigan]] escaped the [[Groups & Factions/Ivory Crest\|Ivory Crest]] they spent a few years working together to annoy/ hinder animal traffickers near the boarder [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Afterwards they split up to go on their own adventures. 
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 5 - Freedom Fighters/Session 41\|Session 41]] | With their conversation concluded, they entered the fort. It was much emptier than when they last visited, presumably because many of them were at the [[Locations/OFC/OFC\|OFC]]. Walking through the streets, they eventually came across a freshly made marble statue of [[Named Characters & Beasts/Genevieve †\|Genevieve]]. [[The Party/Mordecai Reverence\|Mordecai]] tugged at [[The Party/The Korrigan\|Korrigan]]'s sleeve and asked if he could make some flowers to lay at the statue. [[The Party/The Korrigan\|Korrigan]] sadly explained he couldn't do it at the moment as he didn't have the spell prepared, but [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] could probably. The druid quickly stepped up and cast the spell Plant Growth, causing a field of flowers to bloom around the statue.                                                                                                                                                      |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | With their conversation concluded, they entered the fort. It was much emptier than when they last visited, presumably because many of them were at the [[Locations/OFC/OFC\|OFC]]. Walking through the streets, they eventually came across a freshly made marble statue of [[Named Characters & Beasts/Genevieve †\|Genevieve]]. [[The Party/Mordecai Reverence\|Mordecai]] tugged at [[The Party/The Korrigan\|Korrigan]]'s sleeve and asked if he could make some flowers to lay at the statue. [[The Party/The Korrigan\|Korrigan]] sadly explained he couldn't do it at the moment as he didn't have the spell prepared, but [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] could probably. The druid quickly stepped up and cast the spell Plant Growth, causing a field of flowers to bloom around the statue.                                                                                                                                                      |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | [[Other Information/Display Tags/The Party\|The Party]], still on the [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] with her giant ice spider, hurried to escape from [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. They could hear shouts and screams from within the fort as they rushed to raid for the chaise. While [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/The Korrigan\|Korrigan]] panicked and attempted to devise a plan to get out of this situation, [[The Party/Halfbie\|Halfbie]] quietly took out their [[Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories\|Books, Documents & Artefacts/Artefacts/Tome of Unfinished Stories]] and began casting a spell to rewrite aspects of the world. The spell changed the problem so that the people in the fort were no longer angry with them and were willing to offer a choice.                                                                                                                                                                                                 |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | While leaving [[The Party/Halfbie\|Halfbie]] to get some rest, the other came up with a plan. [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] found an herb commonly used as an anaesthetic during operations. [[The Party/The Korrigan\|Korrigan]] practised the cuts using the claws he had got from his primary savagery ability. [[The Party/Mordecai Reverence\|Mordecai]] was encouraged to make sure [[The Party/Halfbie\|Halfbie]] was okay during the process while helping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva]] recoiled for a split second before leaping into action, summoning a flurry of white-gloved hands made of spectral magic to begin scooping the foul ichor away. Her face was fixed in a mask of horror and determination. Every scoop of the pus dissolved like tar into the soil, hissing and burning the ground. It wasn’t just filth—it was wrong.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

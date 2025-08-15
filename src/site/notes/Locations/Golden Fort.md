@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/golden-fort/","updated":"2025-06-11T21:54:49.348+01:00"}
+{"dg-publish":true,"permalink":"/locations/golden-fort/","updated":"2025-08-11T11:53:31.666+01:00"}
 ---
 
 ### Overview

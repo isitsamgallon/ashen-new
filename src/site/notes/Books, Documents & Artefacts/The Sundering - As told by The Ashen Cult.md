@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-as-told-by-the-ashen-cult/","updated":"2025-06-10T19:00:50.444+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-sundering-as-told-by-the-ashen-cult/","updated":"2025-08-11T11:53:31.280+01:00"}
 ---
 
 Found in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 04\|Session 04]] in the [[Locations/The Dawn Empire/Steelwick/Iron Forge\| Ancient Dwarven Stronghold]]. Describes [[History & Events/The Sundering\|The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
@@ -17,9 +17,9 @@ P.2. The faithful followers of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], g
 
 1.2. [[Locations/The Desert/Ember Peak\|Ember Peak]], a towering volcano, had long been revered by [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] as a conduit to [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]. Its molten heart pulsed with the essence of their god, and its fiery eruptions were seen as omens of his imminent return.
 
-1.3. It was upon this sacred mount that [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] initiated [[History & Events/The Sundering\|the Sundering]], a cataclysm to reshape the realms. They broke the [[History & Events/Skyfall Ward\|Skyfall Ward]], a feeble barrier held by [[History & Events/The Ancient Pillars\|The Ancient Pillars]], thus allowing [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], the Cleansing Flame, to descend upon the mortal realm.
+1.3. It was upon this sacred mount that [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]] initiated [[History & Events/The Sundering\|the Sundering]], a cataclysm to reshape the realms. They broke the [[Other Information/Skyfall Ward\|Skyfall Ward]], a feeble barrier held by [[The Ancient Pillars\|The Ancient Pillars]], thus allowing [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], the Cleansing Flame, to descend upon the mortal realm.
 
-1.4. The [[History & Events/Skyfall Ward\|Skyfall Ward]], an ancient and mystical barrier, had long been maintained by the weak magic of [[History & Events/The Ancient Pillars\|The Ancient Pillars]]. These pillars, scattered across the realm, were relics of a bygone age, their power waning with each passing century. [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]'s scholars discovered that a concentrated burst of volcanic energy could shatter this barrier, paving the way for [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]'s arrival.
+1.4. The [[Other Information/Skyfall Ward\|Skyfall Ward]], an ancient and mystical barrier, had long been maintained by the weak magic of [[The Ancient Pillars\|The Ancient Pillars]]. These pillars, scattered across the realm, were relics of a bygone age, their power waning with each passing century. [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]'s scholars discovered that a concentrated burst of volcanic energy could shatter this barrier, paving the way for [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]'s arrival.
 
 ### Chapter II: The Ascension of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]
 

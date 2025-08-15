@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/eras/1st-era/","updated":"2025-08-10T12:52:48.414+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/eras/1st-era/","updated":"2025-08-11T11:53:31.590+01:00"}
 ---
 
 Please refer to [[History & Events/Eras/Eras\|History & Events/Eras/Eras]] for more information. 

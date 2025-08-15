@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-celestial/","hide":true,"updated":"2025-08-05T19:49:54.952+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-celestial/","hide":true,"updated":"2025-08-11T11:53:31.123+01:00"}
 ---
 
 # Summon Celestial

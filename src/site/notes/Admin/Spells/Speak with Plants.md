@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/speak-with-plants/","hide":true,"updated":"2025-08-05T19:49:54.929+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/speak-with-plants/","hide":true,"updated":"2025-08-11T11:53:31.109+01:00"}
 ---
 
 # Speak with Plants

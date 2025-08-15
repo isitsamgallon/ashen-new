@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/wish/","hide":true,"updated":"2025-08-05T19:49:55.047+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/wish/","hide":true,"updated":"2025-08-11T11:53:31.225+01:00"}
 ---
 
 # Wish

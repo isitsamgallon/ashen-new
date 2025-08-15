@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/","tags":["Undiscovered"],"updated":"2025-07-31T14:28:31.643+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.693+01:00"}
 ---
 
 ### Overview

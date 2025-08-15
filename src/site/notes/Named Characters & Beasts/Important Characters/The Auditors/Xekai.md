@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.173+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"updated":"2025-08-15T14:30:53.506+01:00"}
 ---
 
 > [!infobox]
-> # Mordecai Reverence
+> # Xekai
 > ![Cover image of Xekai.jpg](/img/user/Admin/Attachments/Cover%20image%20of%20Xekai.jpg)
 > ###### Basic Information
 > 

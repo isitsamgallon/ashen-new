@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-11/","updated":"2025-06-11T21:35:12.068+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-11/","updated":"2025-08-11T11:53:32.393+01:00"}
 ---
 
 

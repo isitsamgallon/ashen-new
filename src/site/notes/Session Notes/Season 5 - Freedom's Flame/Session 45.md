@@ -1,0 +1,117 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-45/","updated":"2025-08-15T14:48:40.468+01:00"}
+---
+
+**Session Date:** 13th Aug 2025 
+**Saga**: Season 5 - Freedom's Flame 
+**Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
+
+# Session Summary 
+Korrigan, Drache, and Aidan began the battle at Luminara’s gates, facing heavily armoured [[Groups & Factions/Lost Haven Guards\|Guards]]]] whose defences grew stronger the more they were hurt. The fight was fierce—so much so that Drache was briefly knocked down, a rare sight that rattled Korrigan. Eventually, the trio emerged victorious, battered but alive, and pushed into the deserted city, looting an alchemy shop for healing and utility potions before pressing toward the palace. There, they encountered Malachi, who turned the noble crowd into solid gold before revealing his “surprise”: a hulking golden mech piloted by Sera, the tiefling Korrigan once knew. Mistaking Korrigan for an imposter wearing Kal’s skin, she vowed to kill him—only for a portal to open above, dropping Mordecai and Halfbie into the fray.
+
+Halfbie and Mordecai’s day had started very differently—they awoke in a gilded chamber, their bodies almost entirely turned to gold. Malachi and Xekai entered, chatting casually, and Halfbie recognised the magic as a high-level alchemical transmutation. While Xekai appeared to ignore them, Mordecai taunted him into revealing his cover, prompting him to knock Malachi unconscious and portal the pair to the Healing Halfling, who restored them. After some terse conversation, Xekai returned their bodies to normal, armed them, and dropped them back into the battle with Korrigan’s group, warning that the mech’s crystal was the source of the antimagic field.
+
+Reunited, the party engaged the golden mech in a brutal fight, struggling without their full magical abilities. Mordecai identified the crystal’s location behind thick plating, and with Slyva’s timely arrival to bolster their attacks, they finally destroyed it—restoring magic and defeating Sera in the process. Her death struck Korrigan hard, but he honoured her by forging a sword from her mechanical remains, renewing his vow to kill Malachi. With grim resolve, the party entered the palace together, ready for the confrontation to come.
+
+# Full Session Notes
+(x::[[The Party/The Korrigan\|Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Drache]] stood at the gates to [[Locations/Lost Haven/Luminara\|Luminara]], ready to start the battle. Suddenly, Aidan caught up with them, explaining he had supported the rest of the revolutionaries, but it seemed they could use some help. They both gladly accepted his help. Before they charged in, [[The Party/The Korrigan\|Korrigan]] made a discovery: Their magic was slowly returning. Upon realising this, [[The Party/The Korrigan\|Korrigan]] let out a slow, maniacal laugh. His purple eye glowed with [[Other Information/Races/Fey\|Fey]] potential, and he drew his bow and fired his shot.)  
+
+(x::Their battle w[[Groups & Factions/Lost Haven Guards\|as lon]]g and difficult as the [[Locations/Lost Haven/Lost Haven\|Lost Haven]] Guards stood firm; their strong armour and towering boards made it challenging to damage them. Even when they were able to hurt them, they somehow grew even stronger, absorbing damage better and better while their attacks hit harder. This battle was so harsh that [[The Party/The Korrigan\|Korrigan]] witnessed something he hadn't seen since [[History & Events/The War for the OFC's Freedom\|the war for the OFC's freedom]]: [[The Party/Wurinn Fuuldrusch\|Drache]] being knocked down. Although he got up, [[The Party/The Korrigan\|Korrigan]] had diverted some of his power to keep [[The Party/Wurinn Fuuldrusch\|Drache]] alive, staining the fight further in the guards' favour.)  
+
+(x::Eventually] the group was victorious in their fight, and they stood bloodied and bruised; the guard's corpses lay on the ground in even worse condition, dead. They stood there in silence, trying to catch their breath. The moment was serene, as they stood to a backing track of a slave rebellion. The weight of their responsibility weighs especially heavily on [[The Party/The Korrigan\|Korrigan]].)  
+
+(x::With the gates unguarded, [[The Party/The Korrigan\|Korrigan]] led the way to [[Locations/Lost Haven/Luminara\|Luminara]]. Before crossing the threshold, he looked over his shoulder to check on [[Named Characters & Beasts/Misty\|Misty]] and [[Named Characters & Beasts/Tish\|Tish]], who seemed fine, having stayed on the sidelines during the fight. [[The Party/The Korrigan\|Korrigan]] turned to [[The Party/Wurinn Fuuldrusch\|Drache]], "All right, [[The Party/Wurinn Fuuldrusch\|Drache]], what's the plan? We head straight to the palace? I think we have magic...")  
+
+(x::His voice trailed off, and the antimagic field began to turn on again. Both looked at each other with concern. [[The Party/Wurinn Fuuldrusch\|Drache]] suggested they get a move on and head for the palace, picking up some supplies along the way, gesturing to his numerous wounds left from the fight. They all agreed and crossed into [[Locations/Lost Haven/Luminara\|Luminara]]. It was a ghost town with all the shops abandoned. [[The Party/The Korrigan\|Korrigan]] explained that many nobles run to the palace whenever there is danger. Aidan suggested they look for supplies in some shops.)  
+
+(x::They soon found an alchemy shop that looked to sell some health potions. Slowly opening the door, they found it empty apart from a regular-looking human who seemed to be a form of security for the shop, unrelated to the [[Locations/Lost Haven/Lost Haven\|Lost Haven]] Guards. Thankfully, he was asleep. Nonetheless, they sent in Aidan to grab anything useful. He managed to catch two potions of greater and superior healing, two potions of cure disease, and a potion of [[Admin/Spells/Invisibility\|invisibility]].)  
+
+(x::They grabbed the potions before heading for the palace, drinking some to heal themselves before another inevitable fight with guards or worse. Reaching the gate, they found it full of nobles who, upon seeing them, began screaming in terror. [[The Party/The Korrigan\|Korrigan]] tried to calm them down by explaining they're ministers in another country, but it didn't work as they were dressed in slave clothes and covered in blood.)  
+
+(x::[[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] entered the court stand on a balcony above everyone's heads as their screams continued. His eyes surveyed the crowd, and he seemed calmed by his presence. His eyes meandered until they locked with [[The Party/The Korrigan\|Korrigan]]'s. His disdain was evident even from a distance. [[The Party/The Korrigan\|Korrigan]]'s face twisted into a mischievous smile as he mockingly greeted the king. [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] returned the smirk, saying, "I wondered when you'd be back")  
+
+(x::He then raised his golden arm to the Nobel crowd, and a brilliant golden light shot from his palm, turning everyone in the crowd to gold. [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] explained that he refused to let his people get hurt again. Holding his gaze on [[The Party/The Korrigan\|Korrigan]], he smirked before saying, "I do have a surprise for you, though...")  
+
+(x::"You know what? I'm not into Mad Kings. I'm sorry. It's not my style. I do like playing catch, though. And he shoots an arrow," replied [[The Party/The Korrigan\|Korrigan]], and quickly drew his bow and fired an arrow square at [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]]. He did not react to the arrow's feel on his golden skin.)  
+
+(x::"Pathetic", he said, his voice dripping with spite. "No class, AND you're about to die. I almost feel sorry for you... almost.")  
+
+(x::With a click of his fingers, a pair of side doors swung open as Sara's hulking, golden form entered the courtyard. [[The Party/The Korrigan\|Korrigan]] froze, his jaw gaping, as a singular tear ran over his cheek. Another then followed. His legs gave out as he fell to the floor, unable to hold back the torrent of tears and emotions. Satisfied, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] turned on the spot and returned inside the palace, the doors clanging shut behind him.)  
+
+(x::[[The Party/The Korrigan\|Korrigan]] regained some of his composure when [[The Party/Wurinn Fuuldrusch\|Drache]] touched his shoulder reassuringly. "Sara... Sara, it's me, [[The Party/Dead/Kal ‡\|Kal]]," he managed to call out.)  
+
+(x::He watched in horror as Sara's face was downcast in tears, her robotic voice screamed, "You're wearing his skin. I will kill you!!". Underneath the modulated voice, [[The Party/The Korrigan\|Korrigan]] could hear the voice of his friend apologising and telling him to run.)  
+
+(x::The robot was about to begin its charge when a familiar purple portal opened above them, and two figures dropped to the floor next to them.)  
+
+### Halfbie & Mordecai's POV
+(x::[[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] slowly awoke to find themselves in an exquisite room filled with gold and brilliant white marble furnishings. The room was filled with incredibly lifelike statues of people in various states of fear, tears, and pain. [[The Party/Halfbie\|Halfbie]] commented on how little taste [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] has. However, no words left their mouths. [[The Party/Mordecai Reverence\|Mordecai]] found the same was true for them. They both looked down, and to their horror, their bodies, up to their eyes, were made completely out of gold.)  
+
+(x::Before the two could even begin to panic, a grand door opened, and two figures walked in. One was covered in his usual robes, which [[Other Information/Display Tags/The Party\|the party]] had recognised instantly, and the [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|other]] bore the crown of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. A flicker of hope crossed [[The Party/Mordecai Reverence\|Mordecai]]'s eyes as they recognised [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]].)  
+
+(x::Both confidently entered the room, engaging in friendly chatter. Upon entering, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] instantly locked eyes with [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]], but quickly moved on to the rest of the room, commenting, "I see you've got a few more since last time.")  
+
+(x::[[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] replied with an enthralled smile, excitedly pointing to some of his new favourites in the collection. He gestured at a few, including Slyva, who seemed to have a defiant look on her face. [[The Party/Mordecai Reverence\|Mordecai]] tried to use the [[Admin/Spells/Dispel Magic\|dispel magic]] spell by subtly spelling it; however, the antimagic field appeared already active. In fact, from their vantage point, it seemed like [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was actively trying to ignore them, whether he could hear them or not.)  
+
+(x::Deep within [[The Party/Halfbie\|Halfbie]], knowledge of a past life bubbled to the surface. At [[Locations/Strixhaven\|Strixhaven]], many studied Alchemy. Many of the higher-ranking scholars could transmute metals into other metals, like iron into gold. It was theorised that you could turn living matter to gold, but no one worked it out in [[Locations/Strixhaven\|Strixhaven]]. [[The Party/Halfbie\|Halfbie]] was filled with scientific intrigue, seemingly the only thing keeping [[The Party/Halfbie\|Halfbie]] from falling into panic.)  
+
+(x::[[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] sat at a grand table in the heart of the room. It was, too, made of solid gold. Malchai poured him a cup of tea. Genturing to [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]], he explained that they were the most recent ones; he caught them a few hours ago messing with Sara.)  
+
+(x::[[The Party/Mordecai Reverence\|Mordecai]] suddenly realised that while the antimagic field was active, it hadn't been for long enough to be at full power, allowing them to use the [[Admin/Spells/Message\|message]] spell. They tried to [[Admin/Spells/Message\|message]] [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], but still refused to reply or even react [^1]. The two talked about a range of topics around politics until the topic eventually turned to the rebellion, where [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] said, "We'll have to quell this rebellion as soon as possible. I recommend sending all your guards straight into the quarters." [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] nodded in approval, and once they finished their team, they began leaving the room.)  
+
+(x::[[The Party/Mordecai Reverence\|Mordecai]]'s anger had reached a boiling point watching the two be so friendly and then get up to leave. Even though they knew none could hear them, they still sneered, "you're a coward [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]")  
+
+(x::[[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] stopped in his tracks, the air around him becoming very tense. He turned to [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] and asked, "How does the [[Other Information/Races/Tiefling\|Tiefling]] know your name?" The silence was deafening in the room before it was broken with a long, exasperated sigh from [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]. Before anyone could react, he turned on the spot and punched [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] in the stomach. The force was enough to make the king vomit before passing out.)  
+
+(x::He then slammed the doors shut and marched over to [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]]. "For fucks sake, my cover has been blown in another place." [[The Party/Mordecai Reverence\|Mordecai]] timidly asked for help, and [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] scratched his neck as he inspected their golden forms. He muttered that there wasn't much he could do here, opened a portal beneath them, and jumped in after them.)  
+
+(x::[[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] awoke in an ornate-looking room filled with paper and books in stacks that reached the ceiling. The [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] stood over them, doing her best to fix their golden bodies. It seemed she had already fixed their heads, allowing them to look around and talk. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] sat in the corner watching the scene with a clumb expression. [[The Party/Mordecai Reverence\|Mordecai]] awkwardly said, "I thought we were goners. Um, thank you. Sorry about earlier...Nice digs.")  
+
+(x::The [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] glanced at him as she tried to focus on the magic. [[The Party/Halfbie\|Halfbie]] excitedly watched, trying to figure out how the magic worked, before quickly pestering the halfling to explain it. She frowned at the young wizard for being quiet while they worked. [[The Party/Halfbie\|Halfbie]] apologised, but their stars made by [[Admin/Spells/Prestidigitation\|prestidigitation]] remained like a dog wagging its tail.)  
+
+(x::[[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] finally spoke up, "We don't have much time. You've got to go back down there in a sec.")  
+
+(x::The two nodded. "What are we going to do if we don't have our magic? We can't really do much, " [[The Party/Halfbie\|Halfbie]] asked.)  
+
+(x::[[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] simply stated that they had to return and help the rest of [[Other Information/Display Tags/The Party\|the party]] as best they could. [[The Party/Mordecai Reverence\|Mordecai]] suggested that [[Groups & Factions/The Auditors\|the Auditors]] could help them in their fight, but [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] said it would interfere too much. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] butted in, sarcastically asking if pulling them out of the golden room was interfering too much.)  
+
+(x::"Well, I didn't try to take you out for a friend room, did I?" argued [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]. But Someone had to mess up the plan again. I would've freed you eventually." [[The Party/Mordecai Reverence\|Mordecai]] stared straight at the ground, unable to meet the man's eyes.)  
+
+(x::[[The Party/Halfbie\|Halfbie]] then asked, "So are you [[Admin/Spells/Friends\|friends]] with all the rulers of nations then?" [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] simply remarked that they were a very powerful group.)  
+
+(x::"I never said you were, but like personal relationship with all of them." replied [[The Party/Halfbie\|Halfbie]].)  
+
+(x::"We're [[Admin/Spells/Friends\|friends]] with several high-ranking people in nations," he replied, matter-of-factly.)  
+
+(x::"Is that why you're [[Admin/Spells/Friends\|friends]] with us? Because you know the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] is the whole thing. " asked [[The Party/Mordecai Reverence\|Mordecai]].)  
+
+(x::"We're not friends." [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] replied glumly, "We're more like... work colleagues.")  
+
+(x::Their bodies soon returned to normal, and [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] quickly stood up, telling them that it was time for them to return to the fight. He gave them a set of bows and daggers before opening a portal under them back to [[Locations/Lost Haven/Lost Haven\|Lost Haven]].)  
+
+(x::The two down next to a spurries [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/The Korrigan\|Korrigan]]. [[The Party/Mordecai Reverence\|Mordecai]] quickly explained, "Hello, um, so before we do anything, just letting you know, the crystal in the mech suit, that's the antimagic thing. If you defeat it, you get your magic back.")  
+
+(x::[[The Party/Wurinn Fuuldrusch\|Drache]] seemed overjoyed that the two were alive, and they all joined in a big group hug around [[The Party/The Korrigan\|Korrigan]]. The shock of seeing everyone again brought [[The Party/The Korrigan\|Korrigan]] back. He then realised that Sara was starting to move closer to them. "Well, thank you for hugging me. Sara is coming towards us.")  
+
+(x::[[The Party/Halfbie\|Halfbie]] dismassed his consered and hugged [[The Party/The Korrigan\|Korrigan]] tighter. [[The Party/Mordecai Reverence\|Mordecai]] waved him off, half-jokingly stating, "Yeah, this is how we died. I've been there, done that.")  
+
+(x::"It's not too bad. You get used to it," said [[The Party/Halfbie\|Halfbie]], a bit too seriously for anyone's liking.)  
+
+(x::"Do we need to destroy the crystal that's in, then? " said [[The Party/Wurinn Fuuldrusch\|Drache]]. Hearing that the robot was beatable, he gripped his greataxe and led the charge. [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]] stood back, firing arrows while the rest fought at closer range.)  
+
+(x::After a better look, [[The Party/Mordecai Reverence\|Mordecai]] notices and points out that the crystal is hidden behind a large sheet of gold plating. If they can destroy the crystal, then they can beat it. However, this proved to be easier said than done, as the battle was extremely difficult. [[Other Information/Display Tags/The Party\|The party]]'s magical damage dealer and battle field controller didn't have access to their abilities and weren't very good with a bow.)  
+
+(x::[[The Party/Halfbie\|Halfbie]] was extremely bad at using a bow, missing most of their shots. Notably, halfway through the fight, Slyva joined them, giving them some much-needed firepower and bow experience. Eventually, they got to the crystal and defeated the robot. However, with the robot's defeat, there was nothing keeping Sara alive, and she soon died as well.)  
+
+(x::[[The Party/The Korrigan\|Korrigan]] told [[Other Information/Display Tags/The Party\|the party]] to wait momentarily, explaining that he had promised to kill the king with Sera's sword but no longer had it [^2], so he would have to do the next best thing. He then climbed up to Sara's body and, after a short prayer, fashioned her arm and robotics into a new blade. He held it up to the light and reaffirmed his promise to Sara before jumping down to [[Other Information/Display Tags/The Party\|the party]] with a steeled look of grim determination.)  
+
+(x::[[Other Information/Display Tags/The Party\|The party]] echoed his expression and followed him into the palace.)
+
+# Trivia & Notes
+- Considering that [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] poured [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] a cup of tea and didn't expect him to do it or order a slave to, shows just how high-up/ respected he was with the nations leaders. 
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] judge their choice in tea, as they were using what many would consider to be low quality tea form [[Locations/The Desert/The Desert\|The Desert]].
+
+# Footnotes
+
+[^1]: At the time [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] knew that [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] could hear the golden statues and didn't want to respond. In fact he was secretly trying to communicate to them through [Thieves Cant](https://forgottenrealms.fandom.com/wiki/Thieves%27_cant). Unfortunately neither of them knew the language.
+[^2]: [[The Party/Dead/Kal ‡\|Kal]] scarified his sword during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] to beat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].

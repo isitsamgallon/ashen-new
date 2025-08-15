@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","tags":["Undiscovered"],"updated":"2025-07-05T18:43:35.441+01:00"}
+{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.721+01:00"}
 ---
 
 ### Overview

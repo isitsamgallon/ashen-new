@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-sundering/","updated":"2025-08-10T12:52:48.406+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/the-sundering/","updated":"2025-08-11T11:53:31.582+01:00"}
 ---
 
 250 years ago [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] was able to breach the barrier between the heavenly realms and enter [[Locations/The Amber Realms\|The Amber Realms]] in an event know as [[History & Events/The Sundering\|The Sundering]]. [[History & Events/The Sundering\|The Sundering]] marked the end of the [[History & Events/Eras/6th Era\|6th Era]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2025-07-31T13:57:12.420+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.390+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181520.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181520.png) 

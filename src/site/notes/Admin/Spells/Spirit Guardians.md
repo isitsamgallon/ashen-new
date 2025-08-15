@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/spirit-guardians/","hide":true,"updated":"2025-08-05T19:49:54.936+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/spirit-guardians/","hide":true,"updated":"2025-08-11T11:53:31.111+01:00"}
 ---
 
 # Spirit Guardians

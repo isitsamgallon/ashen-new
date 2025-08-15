@@ -5,7 +5,7 @@
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] |
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] |
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -27,16 +27,16 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Season 5 - Freedom Fighters/Session 44\|Session 44]] | Season 5 - Freedom Fighters | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
-| [[Session Notes/Season 5 - Freedom Fighters/Session 43\|Session 43]] | Season 5 - Freedom Fighters | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
-| [[Session Notes/Season 5 - Freedom Fighters/Session 42\|Session 42]] | Season 5 - Freedom Fighters |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
-| [[Session Notes/Season 5 - Freedom Fighters/Session 41\|Session 41]] | Season 5 - Freedom Fighters |  After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                 |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | Season 5 - Freedom's Flame  | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | Season 5 - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]  | Season 5 - Freedom's Flame  | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]  | Season 5 - Freedom's Flame  |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | Season 5 - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                   |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                        |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] | Season 4 - Ignatius Beckons | Currently still being written                                                                                                                                                                                                                                                                                |
 
 { .block-language-dataview}
 
@@ -89,20 +89,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Homepage\|Homepage]]
-- [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]
-- [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]
-- [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
 - [[History & Events/Eras/Historical Eras\|Historical Eras]]
 - [[Admin/Templates/Eras\|Eras]]
 - [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]
 - [[Other Information/Quotes\|Quotes]]
-- [[Session Notes/Season 5 - Freedom Fighters/Session 44\|Session 44]]
 
 { .block-language-dataview}
 
@@ -112,13 +112,14 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]                                               | August 13, 2025 |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 11, 2025 |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | August 11, 2025 |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 11, 2025 |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                          | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                         | August 11, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | August 11, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | August 15, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | August 11, 2025 |
 | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | August 11, 2025 |
