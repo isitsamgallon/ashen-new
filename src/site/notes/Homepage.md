@@ -27,7 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | Season 5 - Freedom's Flame  | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | Season 5 - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | Season 5 - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]  | Season 5 - Freedom's Flame  | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]  | Season 5 - Freedom's Flame  |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
@@ -89,20 +89,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]
 - [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]
+- [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]
 - [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
 - [[History & Events/Eras/Historical Eras\|Historical Eras]]
 - [[Admin/Templates/Eras\|Eras]]
 - [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]
-- [[Other Information/Quotes\|Quotes]]
 
 { .block-language-dataview}
 
@@ -112,7 +112,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                 | Date of Tagging |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]                                               | August 13, 2025 |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 11, 2025 |
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                          | August 11, 2025 |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 11, 2025 |
@@ -123,11 +122,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | August 11, 2025 |
 | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | August 11, 2025 |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | August 11, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                       | August 11, 2025 |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | August 11, 2025 |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | August 11, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | August 11, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                             | August 11, 2025 |
+| [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]                                                        | August 15, 2025 |
 
 { .block-language-dataview}
 
