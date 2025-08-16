@@ -89,11 +89,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]
-- [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]]
+- [[Admin/Spell Links\|Spell Links]]
+- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
+- [[Named Characters & Beasts/Wartooth\|Wartooth]]
+- [[Named Characters & Beasts/Tangy\|Tangy]]
 
 { .block-language-dataview}
 
@@ -102,7 +102,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 - [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
 - [[History & Events/Eras/Historical Eras\|Historical Eras]]
 - [[Admin/Templates/Eras\|Eras]]
-- [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]
+- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
 
 { .block-language-dataview}
 
@@ -110,24 +110,22 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                                                                 | Date of Tagging |
-| -------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                              | August 11, 2025 |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                                          | August 11, 2025 |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                                        | August 11, 2025 |
-| [[Named Characters & Beasts/Lull\|Lull]]                                                                          | August 11, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | August 11, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                         | August 11, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | August 15, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | August 11, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | August 11, 2025 |
-| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                                   | August 11, 2025 |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                       | August 11, 2025 |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                         | August 11, 2025 |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                   | August 11, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                     | August 11, 2025 |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                             | August 11, 2025 |
-| [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]                                                        | August 15, 2025 |
+| Note                                                                                               | Date of Tagging |
+| -------------------------------------------------------------------------------------------------- | --------------- |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 11, 2025 |
+| [[Named Characters & Beasts/Tish\|Tish]]                                                        | August 11, 2025 |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                      | August 11, 2025 |
+| [[Named Characters & Beasts/Lull\|Lull]]                                                        | August 11, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 11, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 11, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 11, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 11, 2025 |
+| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                 | August 11, 2025 |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 11, 2025 |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 11, 2025 |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 11, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 11, 2025 |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025 |
 
 { .block-language-dataview}
 

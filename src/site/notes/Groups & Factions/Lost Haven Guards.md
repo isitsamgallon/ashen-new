@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/lost-haven-guards/","updated":"2025-08-15T14:48:57.159+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/lost-haven-guards/","updated":"2025-08-16T12:33:26.208+01:00"}
 ---
 
 > [!infobox]
@@ -16,12 +16,24 @@
 >  Current Leader | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] |
 
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
+The [[Locations/Lost Haven/Lost Haven\|Lost Haven]] Guards are a group predominantly comprised of [[Other Information/Races/Goliath\|Goliath]]s. They perform various functions, including bodyguards for the nobles, typical security and watch duties and policing; however, they are best known for their role running the slave camps and acting as slave masters. 
 
+### Equipment 
+The guards are always equipped with similar gear. All wear golden full plate armour and carry an incredibly heavy greataxe, a set of javelins and a utility dagger. The guards who work primarily in the [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] also carry a long whip that they use to punish slaves. 
 
-### Notable Information
+### Attitudes
+#### Slaves
+The guards are known for having a no-nonsense attitude when dealing with the slaves; they're quick to violence and tend to be overly cruel to the slaves, often seeing them as not people. 
 
+A great example of this is when [[Other Information/Display Tags/The Party\|the party]] learn that no matter what, at a specific time in the evening, they will throw away all of the food. This is regardless of whether everyone has had a chance to grab a meal. 
+
+#### Hunters
+While still slaves, the guards will treat them a lot better, going as far as to separate the slaves from them with remarks like "you wouldn't want to be seen associating with 'them', would you?" [^1]
+
+#### Nobels
+The guards treat the nobles with incredible care and concern, most likely because they will be killed if they don't. However, this goes so far that they are hesitant even to fight back if they are actively being killed. They will drop everything if a noble commands them to do something, even if the request is non-standard or out of the blue. 
 
 ### History & Mentions
 | §                                                                      | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -71,3 +83,5 @@
 | [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]] | "Sara burnt down the walls and doors using her kind of fire magic. We got in almost too easily. We carved through the [[Groups & Factions/Lost Haven Guards\|guards]]. There were 500 of us, armed and ready to overthrow the Clown. I mean, we just wanted to be free; we didn't want to be slaves anymore. It's the only solution we came up with. And then we got to the King." [[The Party/The Korrigan\|Korrigan]] struggled to talk as all the memories flooded his mind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 { .block-language-dataview}
+
+[^1]: This is said during [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]].

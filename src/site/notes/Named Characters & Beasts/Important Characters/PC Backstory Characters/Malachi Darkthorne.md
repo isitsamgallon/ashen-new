@@ -1,15 +1,64 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-08-15T12:12:12.524+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-08-16T13:42:22.935+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+>[!infobox]
+> 
+> #  Malachi Darkthorne
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> Type | Stat |
+>  :----: | --- |
+>  Type  | NPC |
+>  Pronouns | He/ Him |
+>  Tiles | King |
+>  Race | [[Other Information/Races/Humans\|Humans]] |
+>  Languages | Common | 
+>  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
+>  Residence | [[Locations/Lost Haven/Luminara\|Luminara]] | 
+>  ###### Status
+>   Type | Stat |
+>  :----: | --- |
+>  Status  | Alive |
+>  Cause of Death | None... yet |
+> ###### Appearances
+>   Type | Stat |
+>  :----: | --- |
+>  First Seen  | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]] |
+>  First Mention | [[Session Notes/Season 4 - Ignatius Beckons/Session 32\|Session 32]] |
+>  Last Scene | N/A |
 ### Overview
-King of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
+Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the primary antagonist of the Freedom's Flame saga. He is an incredibly cruel man with an obsession with all things gold. He is even known for turning people into golden statues who still have the ability to think but not move. 
 
-### Notable Information
+### Description
+#### Appearance
+Malachi is a slender man dressed in luxurious attire, including an ornate crown. He possesses a golden arm and has long, dark hair.
 
+#### Personality
+Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Locations/Lost Haven/Luminara\|Luminara]]. 
 
-### History & Mentions
+He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[The Party/Dead/Kal ‡\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
+
+By far, his most cruel act was taking [[The Party/Dead/Kal ‡\|Kal]]'s best friend, Sara, and turning her into a monstrous cyborg that also acted as the epicentre of the Antimagic field. The machine would constantly electrocute her and force her mind to think and act in specific ways, keeping her in a state of constant fury. 
+
+However, he takes great care of the people of [[Locations/Lost Haven/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
+
+#### Intelligence
+Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 
+
+It is also implied that he is responsible for turning Sara into a cyborg, a feat that would be increasingly difficult for the professors at [[Locations/Strixhaven\|Strixhaven]]. 
+
+### Relationships,
+#### Kal/ Korrigan
+Malachi has a deep hatred towards [[The Party/Dead/Kal ‡\|Kal]] because he started the rebellion, which most likely resulted in the death of many Nobles and the loss of a lot of [[Other Information/Money\|money]] for him. 
+
+#### Xekai
+Before [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]'s relationship with [[Other Information/Display Tags/The Party\|the party]] was revealed, they seemed to be close allies, sharing information and advice and having tea together. 
+
+### History
+Not much is known about Malachi before the slave revolt, or how he came into power. 
+
+### Appearances & Mentions
 | §                                                                      | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]] | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] entered the court stand on a balcony above everyone's heads as their screams continued. His eyes surveyed the crowd, and he seemed calmed by his presence. His eyes meandered until they locked with [[The Party/The Korrigan\|Korrigan]]'s. His disdain was evident even from a distance. [[The Party/The Korrigan\|Korrigan]]'s face twisted into a mischievous smile as he mockingly greeted the king. [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi]] returned the smirk, saying, "I wondered when you'd be back"                                                                                                                                                |

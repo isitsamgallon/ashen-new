@@ -19,8 +19,8 @@
 > | ------------------------------------------------------------------ | ---------------------------- |
 > | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}
@@ -58,9 +58,9 @@ KA1, better known now as [[The Party/Dead/Kal ‡\|Kal ‡]] (or [[The Party/The
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                           | The Slums        | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                         | The Slums        | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                           | The Slums        | Dead    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Luminara         | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                         | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                   | Hunters Quarters | Dead    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]] | Luminara         | Alive   |
 
 { .block-language-dataview}
 
