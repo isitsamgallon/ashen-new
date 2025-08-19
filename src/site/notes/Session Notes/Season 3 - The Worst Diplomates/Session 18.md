@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-08-11T11:53:32.414+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-08-19T12:23:22.656+01:00"}
 ---
 
 
@@ -109,7 +109,6 @@ Chenris goes quite, deep in thought. Mordecai turns away and finally washes the 
 
 (x:: Mordecai explains that if they were going to do it properly they might need to redo the entire [[Gods & Heralds/Chronovorus/The Black Ritual\|ritual]] again since they don't know how it all works. Korrigan asks what [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the haunter]] actually said to Mordecai and reiterates its message. )
 
---Session End--
 
 # Trivia & Notes
 - [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] doesn't appear in this session due to Caleb not being able to join the session due to work. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] simply states that Drache ends up getting trapped in an illusion in a different part of the city and didn't manage to join the group outside the city.

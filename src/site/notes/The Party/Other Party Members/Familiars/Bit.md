@@ -16,9 +16,9 @@
 >  Age | Unknown|
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
->  Family | Unknown parents, [[Uti †\|Uti †]] (Adoptive/ Dead), [[The Party/The Korrigan\|The Korrigan]] (Adoptive)
+>  Family | Unknown parents, [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] (Adoptive/ Dead), [[The Party/The Korrigan\|The Korrigan]] (Adoptive)
 
 ### Overview
-A Small fox with bird wings was found in [[Uti †\|Uti †]]'s cave on [[Locations/Itone Isles\|Itone Isles]]. [[Other Information/Display Tags/The Party\|The Party]] let it out of its cage when found. 
+A Small fox with bird wings was found in [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]'s cave on [[Locations/Itone Isles\|Itone Isles]]. [[Other Information/Display Tags/The Party\|The Party]] let it out of its cage when found. 
 
 ### Trivia

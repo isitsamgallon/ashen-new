@@ -6,7 +6,7 @@ The Era was defined by the fall of the [[History & Events/Grayfall Empire\|Grayf
 
 ### Events From This Era
 - [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
-- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 - [[History & Events/The Cleansing\|The Cleansing]]
+- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 
 { .block-language-dataview}

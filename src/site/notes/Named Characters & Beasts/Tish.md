@@ -1,20 +1,60 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-08-11T11:53:32.075+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-08-19T12:00:42.154+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+>[!infobox]
+> 
+> #  Tish
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> Type | Stat |
+>  :----: | --- |
+>  Type  | NPC |
+>  Pronouns | He/ Him |
+> Occupation | Slave |
+>  Race | [[Other Information/Races/Humans\|Humans]] |
+> Age | Middle aged |
+>  Languages | Common | 
+>  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
+>  Residence | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] (Tent near the entrance of the mines) | 
+>  ###### Status
+>   Type | Stat |
+>  :----: | --- |
+>  Status  | Alive |
+> ###### Appearances
+>   Type | Stat |
+>  :----: | --- |
+>  First Seen  | [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]] |
+>  Last Scene | N/A |
+
 ### Overview
-One of the slaves in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. [[Other Information/Display Tags/The Party\|The Party]] shared a tent with him. he was around in the last slave revolt, lead by [[The Party/Dead/Kal ‡\|Kal ‡]] but did not actively fight
+First met in [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]], Tish was one of the first slaves [[Other Information/Display Tags/The Party\|the party]] met in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. He lived in a tent within the mines of the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]], and compared to most others, he lived in relatively good [[Other Information/Rules & Reference/Conditions\|conditions]]. He notably had a very close bond with [[Named Characters & Beasts/Misty\|Misty]], the person he lives with. 
 
-Tish was not one of the fighters. He was just one of the slaves that was around at that kind of time. He was always pretty anti everything you were doing. (
+### Description
+#### Appearance
+Tish is described as quite a plain-looking person. Like most of the slaves in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], he is constantly covered in dirt and grime and only wears rags. 
 
-### Notable Information
+#### Personality
+When [[Other Information/Display Tags/The Party\|The Party]] first met Tish, he seemed very kind but extremely apathetic. This is most likely due to the guards slowly grinding down his willpower. He was also there for the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], where he watched everyone get crushed and mutilated for engaging in the revolt. 
 
+As he gets to know [[Other Information/Display Tags/The Party\|the party]], it seems like their evolutionary sentiment rubbed off on him. He is seen getting much more involved and even helping [[Other Information/Display Tags/The Party\|the party]] enact their revolt by offering advice and useful information. 
 
-### History & Mentions
+Tish's kindness was evident from the start. As soon as [[Other Information/Display Tags/The Party\|the party]] awoke in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]], he was there to help by offering them advice and answering their barrage of questions. He is also exceptionally kind towards [[Named Characters & Beasts/Misty\|Misty]], often prioritising her safety and comfort over his own. The best example of his kindness and selflessness was when the Church of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] gave [[Other Information/Display Tags/The Party\|the party]] some extra rations. They offered to split some with him, but he initially refused. After they wouldn't take no for an answer, he gave [[Named Characters & Beasts/Misty\|Misty]] a large portion of his.
+
+### Relationships
+#### Misty
+Tish and [[Named Characters & Beasts/Misty\|Misty]] have an almost father-daughter bond, as he clearly cares for her very deeply. It is currently unknown how they came to be so close; they're not related by blood, but it has been implied that she was born into [[Locations/Lost Haven/Siltwater Slums\|the slums]]. 
+
+#### Kal
+It is clear from the beginning, when he was unaware that [[The Party/The Korrigan\|Korrigan]] was Ka1 from the revolt, that he respected him for at least trying to stand up for what was right. However, he hated how difficult the first slave revolt made his life after [[The Party/Dead/Kal ‡\|Kal]]'s alleged death. He thought the name was more trouble than it was worth. 
+
+### History
+Not much was known about Tish before [[Other Information/Display Tags/The Party\|the party]] met him during the Freedom's Flame Saga. However, it was revealed that he was still a slave six years ago, when the first revolution occurred. He was a member of a small faction that refused to get involved. 
+
+### Appearances & Mentions
 | §                                                                      | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]] | With the gates unguarded, [[The Party/The Korrigan\|Korrigan]] led the way to [[Locations/Lost Haven/Luminara\|Luminara]]. Before crossing the threshold, he looked over his shoulder to check on [[Named Characters & Beasts/Misty\|Misty]] and [[Named Characters & Beasts/Tish\|Tish]], who seemed fine, having stayed on the sidelines during the fight. [[The Party/The Korrigan\|Korrigan]] turned to [[The Party/Wurinn Fuuldrusch\|Drache]], "All right, [[The Party/Wurinn Fuuldrusch\|Drache]], what's the plan? We head straight to the palace? I think we have magic..."                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]] | With the gates unguarded, [[The Party/The Korrigan\|Korrigan]] led the way to [[Groups & Factions/Luminara\|Luminara]]. Before crossing the threshold, he looked over his shoulder to check on [[Named Characters & Beasts/Misty\|Misty]] and [[Named Characters & Beasts/Tish\|Tish]], who seemed fine, having stayed on the sidelines during the fight. [[The Party/The Korrigan\|Korrigan]] turned to [[The Party/Wurinn Fuuldrusch\|Drache]], "All right, [[The Party/Wurinn Fuuldrusch\|Drache]], what's the plan? We head straight to the palace? I think we have magic..."                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]] | After helping make the Molotov cocktails, [[Named Characters & Beasts/Misty\|Misty]] drew a detailed map of [[Locations/Lost Haven/Siltwater Slums\|the slums]], and [[Named Characters & Beasts/Tish\|Tish]] pointed out choke points they could use. [[The Party/The Korrigan\|Korrigan]] turned to Aiden, pointing at the wall where the bow and armour were, and asked him to sneak down to grab them. Aiden nodded, sneaked off, and quickly returned, having not been spotted.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]] | [[The Party/The Korrigan\|Korrigan]] looks at [[Named Characters & Beasts/Tish\|Tish]] and asks if he has any opinions on this. [[Named Characters & Beasts/Tish\|Tish]], looking tired but determined, simply states, "I think it's a [[The Party/Other Party Members/Familiars/Bit\|bit]] late for being passive. I think at this point we have to fight."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]] | They ca[[Groups & Factions/Lost Haven Guards\|rried]] on through [[Locations/Lost Haven/Siltwater Slums\|the slums]], noticing that the surprise had worn off and the [[Groups & Factions/Lost Haven Guards\|guards]] were starting to fight back and kill slaves. They wondered if one should stay behind and help armoured people up. [[Named Characters & Beasts/Tish\|Tish]] reassuringly puts a hand on [[The Party/The Korrigan\|Korrigan]]'s shoulder before nominating himself to help the slaves organise. "Aiden and i have got it from here"                                                                                                                                                                                                                                                                                                                                                                                                                               |

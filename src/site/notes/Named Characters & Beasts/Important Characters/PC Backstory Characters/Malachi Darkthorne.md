@@ -15,7 +15,7 @@
 >  Race | [[Other Information/Races/Humans\|Humans]] |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
->  Residence | [[Locations/Lost Haven/Luminara\|Luminara]] | 
+>  Residence | [[Groups & Factions/Luminara\|Luminara]] | 
 >  ###### Status
 >   Type | Stat |
 >  :----: | --- |
@@ -35,13 +35,13 @@ Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the p
 Malachi is a slender man dressed in luxurious attire, including an ornate crown. He possesses a golden arm and has long, dark hair.
 
 #### Personality
-Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Locations/Lost Haven/Luminara\|Luminara]]. 
+Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Groups & Factions/Luminara\|Luminara]]. 
 
 He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[The Party/Dead/Kal ‡\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
 
 By far, his most cruel act was taking [[The Party/Dead/Kal ‡\|Kal]]'s best friend, Sara, and turning her into a monstrous cyborg that also acted as the epicentre of the Antimagic field. The machine would constantly electrocute her and force her mind to think and act in specific ways, keeping her in a state of constant fury. 
 
-However, he takes great care of the people of [[Locations/Lost Haven/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
+However, he takes great care of the people of [[Groups & Factions/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
 
 #### Intelligence
 Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 

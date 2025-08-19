@@ -89,20 +89,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Other Information/Display Tags/The Towers\|The Towers]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]]
 - [[Admin/Spell Links\|Spell Links]]
 - [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
 - [[Named Characters & Beasts/Wartooth\|Wartooth]]
-- [[Named Characters & Beasts/Tangy\|Tangy]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Display Tags/The Towers\|The Towers]]
 - [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]
 - [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
 - [[History & Events/Eras/Historical Eras\|Historical Eras]]
 - [[Admin/Templates/Eras\|Eras]]
-- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
 
 { .block-language-dataview}
 
@@ -120,10 +120,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 11, 2025 |
-| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                 | August 11, 2025 |
 | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 11, 2025 |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 11, 2025 |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 11, 2025 |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 11, 2025 |
+| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                 | August 11, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 11, 2025 |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025 |
 

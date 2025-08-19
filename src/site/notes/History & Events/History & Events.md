@@ -5,10 +5,10 @@
 A list of all the historical events that we are aware of:
 - [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
 - [[History & Events/The Sundering\|The Sundering]]
-- [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/Grayfall Empire\|Grayfall Empire]]
-- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
+- [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
+- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
 - [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]
 
 { .block-language-dataview}

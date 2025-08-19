@@ -49,7 +49,7 @@ Inchlings are known for being quite naïve and unaware of the wider world around
 - [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]
 - [[Named Characters & Beasts/Dill Billington\|Dill Billington]]
 - [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]
-- [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]
 - [[Named Characters & Beasts/Sage Billington\|Sage Billington]]
+- [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]
 
 { .block-language-dataview}

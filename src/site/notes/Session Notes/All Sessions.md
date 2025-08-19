@@ -1,6 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/all-sessions/","updated":"2025-08-11T11:53:32.207+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/all-sessions/","updated":"2025-08-19T11:58:52.631+01:00"}
 ---
+
+The Ashen Campaign is divided into multiple Sagas to help keep everything organised and understandable. They appear as follows:
+
+# Echoes of the Ethertwist
+This is the opening Saga, which introduces us to the world and its basic characters, like the Gods and Harps, and the various nations and histories that will guide the story going forward. Echoes of the Ethertwist mostly follows the players as they form [[Other Information/Display Tags/The Party\|the Fatebreakers]] and hunt down [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the Ethertwist Haunter]], a [[Gods & Heralds/Herald\|herald]] of [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]. Unfortunately, [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] hadn't started note-taking yet, so notes on this part of the campaign are sparse. This Saga began in [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] and ended in [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 01\|Session 01]]. 
+
+### Saga Summary
+
+
+# The War For The [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]'s Freedom
+This Saga marks the first time [[Other Information/Display Tags/The Party\|the party]] has been able to leave the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. They went to gather allies in a long-brewing war against [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]]. The Saga ends in a climactic final battle with [[Other Information/Display Tags/The Party\|the party]] against the empire's emperors, Galen Verix, and his two generals, [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]] and a resurrected Caden Steelbreaker.
+
+### Saga Summary
+This Saga began with the assassination of Caden Steelbreaker, which threw the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] into chaos and set [[Other Information/Display Tags/The Party\|the party]] on a desperate quest for allies against the looming threat of [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]]. Their journey was marked by profound loss, strange discoveries in an ancient dwarven city, and fraught diplomatic efforts in [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]], all while being manipulated by the mysterious Auditor, [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]], who was revealed to be behind the initial assassination.
+
+The Saga culminated in [[Other Information/Display Tags/The Party\|the party]] being ensnared by criminal contracts and personal vendettas, forcing a dramatic prison break with [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]'s aid. This alliance set the stage for the impending war, where [[Other Information/Display Tags/The Party\|the party]]'s strategic brilliance, specifically [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]'s plan to neutralise [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]]'s navy, led to a decisive victory and secured the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]'s freedom.
+
 
 | File                                                                                 | Part                                     | Summary                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

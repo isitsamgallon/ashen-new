@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-26/","updated":"2025-08-11T11:53:32.451+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-26/","updated":"2025-08-19T12:31:53.339+01:00"}
 ---
 
 **Session Date:** 12th Dec 2024 
-**Web Vault Link:** https://www.ashencampaign.xyz/session-notes/session-26/
+
 
 # Session Summary
 The group stood at the edge of the crater left by [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]’s destruction, struggling to process the loss of Chenris Tallfellow, who had sacrificed himself to save them. Their grief was interrupted when [[The Party/The Korrigan\|Korrigan]] spotted something small falling from the sky. Acting quickly, he summoned his fey companion, [[The Party/Other Party Members/Familiars/Zephyr\|Zephyr]], to retrieve it. To their astonishment, the falling object turned out to be an elven figure named [[The Party/Halfbie\|Halfbie]], who landed screaming in terror. Despite the absurdity of their arrival, [[The Party/Halfbie\|Halfbie]]’s purple eyes marked them as Fey, igniting [[The Party/The Korrigan\|Korrigan]]’s curiosity and suspicion.

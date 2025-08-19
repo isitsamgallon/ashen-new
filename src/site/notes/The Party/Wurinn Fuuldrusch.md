@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-11T11:53:32.558+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-19T11:57:42.728+01:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 >  Alignment | Lawful Good |
 >  Pronouns | He/ Him |
 >  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]](lover) |
->  Player | [[[Caleb Hamlet\|[Caleb Hamlet]] |
+>  Player | [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
 > :---: | :---: | :---: | :---: |

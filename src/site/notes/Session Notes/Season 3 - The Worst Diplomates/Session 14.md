@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-11T11:53:32.397+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-19T12:19:18.211+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Chenris and Korrigan sneak out early to investigate The Tower of Ishnmel. They l
 
 (x::For some reason, Chenris is in charge of directions and gets everyone lost in the forests where they're attacked by [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]. Everyone tries to reason with it, but to no avail until chenris speaks in Elvish and they get some broken responses. Korrigan manages to charm the cannibal, and Chenris convinces it to take them out of the forest. As the party moves more, [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] arrive, and they get chased by hunters. Everyone runs away. The charmed cannibal returns to the path, where he is compensated with a health potion.)
 
-(x::The party encountered [[Locations/Ehobel/Saleh Tower\|Saleh Tower]], one of [[The Ancient Pillars\|The Ancient Pillars]]. Chenris and Korrigan are eager to investigate, making [[The Party/Mordecai Reverence\|Mordecai Reverence]] suspicious. They discover that this tower's crystal doesn't have a power source and is powered by incantations.)
+(x::The party encountered [[Locations/Ehobel/Saleh Tower\|Saleh Tower]], one of [[History & Events/The Ancient Pillars\|The Ancient Pillars]]. Chenris and Korrigan are eager to investigate, making [[The Party/Mordecai Reverence\|Mordecai Reverence]] suspicious. They discover that this tower's crystal doesn't have a power source and is powered by incantations.)
 
 (x::As they are leaving, Korrigan subtly casts [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the tower and gets a small response from something mysterious. After they've left, Mordecai confronts Korrigan about him and Chris's weirdness and reveals that he thinks there is a beast at the centre of the world whose tendrils allow the towers to work.)
 

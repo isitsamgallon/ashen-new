@@ -8,7 +8,7 @@
 - [x] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]  [completion:: 2025-07-31]
 - [ ] Go to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan\|The Korrigan]]'s business.
 - [x] Travel to [[Locations/Itone Isles\|Itone Isles]] ✅ 2024-12-24
-	- [x] Learn more about [[Uti †\|Uti †]]. ✅ 2024-12-24
+	- [x] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]. ✅ 2024-12-24
 	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] ✅ 2024-12-24
 	- [x] Learn about [[Books, Documents & Artefacts/Artefacts/Sword of Whispers\|Sword of Whispers]] ✅ 2024-12-24
 - [ ] Enact the rest of the [[Other Information/OFC Plans\|OFC Plans]].

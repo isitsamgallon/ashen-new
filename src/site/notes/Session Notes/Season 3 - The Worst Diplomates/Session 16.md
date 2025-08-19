@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-16/","updated":"2025-08-11T11:53:32.410+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-16/","updated":"2025-08-19T12:21:20.812+01:00"}
 ---
 
 
@@ -22,10 +22,10 @@ Finally Chenris asks about a potential trade deal with the [[Locations/OFC/Organ
 
 (x:: The group fills in Mordecai and Aidan what happen inside and the plot to break [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]] out. Chenris pulls Mordecai aside and ask him to help infiltrate the castle since he has certain skills that could be helpful with distractions. Mordecai agrees but ask if he thinks Mordecai is stupid and Chenris just says yes. )
 
-# Mordecai, Aidan and Korrigan's POV
+### Mordecai, Aidan and Korrigan's POV
 (x:: Korrigan casts [Pass Without Trace](https://www.dndbeyond.com/spells/2201-pass-without-trace) and they find a window to climb through but as they get into the room Mordecai's costume bag makes a massive sound because of the outfit has bells on it. With a guard coming to investigate Mordecai puts the costume on and jumps out the window and tries to act confused. They successfully trick the guard into thinking they're arew a jester and put on a show to distract them so the others can sneak [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]] out without anyone knowing. They put Chenris' [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]] in her room to make it sound like she is till in there and make sure people don't discover too early. Everyone gets out and no one knows what has happened. They go to meet up with Chenris and Drache.)
 
-# Chenris' POV
+### Chenris' POV
 (x:: Chenris decides to go see [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] to ask questions about [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] and his disappearance. Ebis isn't able to help with a lot of details but points him in the right direction to find out more. After this, Chenris leans in and asks about him transforming in to [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]]. Ebis denies knowing anything about this but after some pushing he gets up locks the door and transforms into the leader of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]], then quickly into Suicide bomber from the airship. He then switches back into to Ebis, unlocks the door and says "And no one will believe you". Chenris tries to calmly walk out and as soon as he is out of earshot of Ebis he runs like hell to his books to to figure out what he just saw. )
 
 (x:: He run past the group with [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]], who've never seen him run so fast before and when they catch up they asks what is room. Chenris is in full conspiracy theory mode as he is putting together pieces and tries to explain what he saw. Korrigan checks his mind and finds that not just chenris but everyones minds have been read, but it is unclear when they were read. They go outside for fresh air. )
