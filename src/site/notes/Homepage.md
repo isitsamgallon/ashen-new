@@ -27,23 +27,23 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | Season 5 - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | Season 5 - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]  | Season 5 - Freedom's Flame  | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]  | Season 5 - Freedom's Flame  |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | Season 5 - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | Season 4 - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | Season 4 - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | Season 4 - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | Season 4 - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                   |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]] | Season 4 - Ignatius Beckons | Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.                                                                                        |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]  | 5th Saga - Freedom's Flame  | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | 5th Saga - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | 5th Saga - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]  | 5th Saga - Freedom Fighters | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]  | 5th Saga - Freedom's Flame  |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | 5th Saga - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | 4th Saga - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | 4th Saga - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | 4th Saga - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 37\|Session 37]] | 4th Saga - Ignatius Beckons | The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.                                                                   |
 
 { .block-language-dataview}
 
 ### Information Revealed Out of Sessions
 | §                                                                                                                               | Information                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]                                                         | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed that the [harengon](https://forgottenrealms.fandom.com/wiki/Harengon) is now dead and dragons in the image are [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]] and [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] - not [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]] like what was originally suspected.                                                                                              |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]                                                         | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed that the [harengon](https://forgottenrealms.fandom.com/wiki/Harengon) is now dead and dragons in the image are [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|The Black Dragon]] and [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] - not [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]] like what was originally suspected.                                                                                      |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]]                                                         | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed before the session that we had seen the [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] symbol recently                                                                                                                                                                                                                                                      |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 26\|Session 26]]                                                         | The airship at the start was from the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] holding [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] ship from [[Locations/The Desert/The Desert\|The Desert]]                                                                                                                                                                                      |
 | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                                                       | [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that [[Named Characters & Beasts/Genevieve †\|Genevieve †]]'s long lifespan was a result of a crystal mentioned to be in her office. He was trying to direct [[Other Information/Display Tags/The Party\|The Party]] to investigate further but they became fixated on the find her her lover instead. Before he could get them back on track they became incredibly drunk and awoke in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. |
@@ -89,20 +89,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Other Information/Display Tags/The Towers\|The Towers]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne\|Malachi Darkthorne]]
-- [[Admin/Spell Links\|Spell Links]]
-- [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]
-- [[Named Characters & Beasts/Wartooth\|Wartooth]]
+- [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
+- [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]
+- [[Named Characters & Beasts/Lull\|Lull]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]
+- [[Admin/Tom To Do List\|Tom To Do List]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Other Information/Display Tags/The Towers\|The Towers]]
-- [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]
-- [[History & Events/Eras/Historical Eras\|Historical Eras]]
-- [[Admin/Templates/Eras\|Eras]]
+- [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 26\|Session 26]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]
+- [[Other Information/The Ancient Pillars\|The Ancient Pillars]]
+- [[Other Information/Creature Sizes\|Creature Sizes]]
 
 { .block-language-dataview}
 
@@ -112,20 +112,19 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                               | Date of Tagging |
 | -------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 11, 2025 |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                        | August 11, 2025 |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                      | August 11, 2025 |
-| [[Named Characters & Beasts/Lull\|Lull]]                                                        | August 11, 2025 |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]                             | August 29, 2025 |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 19, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 11, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 11, 2025 |
 | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 11, 2025 |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 11, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 11, 2025 |
-| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]]                                 | August 11, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 11, 2025 |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 11, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 29, 2025 |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                           | August 19, 2025 |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025 |
+| [[Groups & Factions/Luminara\|Luminara]]                                                        | August 19, 2025 |
 
 { .block-language-dataview}
 

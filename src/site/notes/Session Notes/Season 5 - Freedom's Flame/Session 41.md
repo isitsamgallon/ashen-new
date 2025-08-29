@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-41/","updated":"2025-08-19T12:11:45.627+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-41/","updated":"2025-08-19T16:58:47.772+01:00"}
 ---
 
 **Session Date:** 8th Jul 2025 
-**Saga**: Season 5 - Freedom's Flame
+**Saga**: 5th Saga - Freedom's Flame
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 

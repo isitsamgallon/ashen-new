@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-11T11:53:32.562+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-08-19T16:47:33.068+01:00"}
 ---
 
 > [!infobox]
@@ -41,8 +41,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
 
@@ -224,7 +224,7 @@ After deliberation, [[Other Information/Display Tags/The Party\|The Party]] deci
 [[Other Information/Display Tags/The Party\|The Party]] enjoyed a luxurious stay in the minister's rooms, complete with 24/7 baths. They overslept, and during the night, Aidan stole Chenris’s cloak, prompting a confrontation. Chenris, angered, led to a discussion about [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the Ethertwist Haunter]]. Aidan downplayed the issue, heading to the council room where [[Named Characters & Beasts/Genevieve †\|Genevieve †]] awaited.
 
 **[[Named Characters & Beasts/Genevieve †\|Genevieve †]]’s Frustration and War Strategy:**
-[[Named Characters & Beasts/Genevieve †\|Genevieve †]] expressed fury over [[Other Information/Display Tags/The Party\|The Party]]’s oversleeping and the chaotic presence of various forces within [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]. Chenris presented a comprehensive strategy: creating an impassable storm to thwart a sea attack, positioning trolls for a pincer maneuver, and using fairies to transform soldiers into dinosaurs for additional firepower. [[Named Characters & Beasts/Genevieve †\|Genevieve †]] approved the plan, and [[Other Information/Display Tags/The Party\|The Party]] boarded [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]] for the front lines. Mordecai delivered a stirring speech, with Chenris enhancing through Thaumaturgy.
+[[Named Characters & Beasts/Genevieve †\|Genevieve †]] expressed fury over [[Other Information/Display Tags/The Party\|The Party]]’s oversleeping and the chaotic presence of various forces within [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]. Chenris presented a comprehensive strategy: creating an impassable storm to thwart a sea attack, positioning trolls for a pincer maneuver, and using fairies to transform soldiers into dinosaurs for additional firepower. [[Named Characters & Beasts/Genevieve †\|Genevieve †]] approved the plan, and [[Other Information/Display Tags/The Party\|The Party]] boarded [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|The Black Dragon]] for the front lines. Mordecai delivered a stirring speech, with Chenris enhancing through Thaumaturgy.
 
 ---
 

@@ -15,6 +15,7 @@
 | [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]                                                                   | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]]                                                      | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]                                                                     | Unknown/Unclear              | Unknown/Unclear             |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                                                                          | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                                    | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                                           | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                                           | The Tulan Fort               | The Tulan Fort              |
@@ -24,10 +25,10 @@
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | Lost Haven                   | The Slums                   |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                                                | OFC                          | Steelwick                   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]                                           | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/The Auditors/The Black Dragon\|The Black Dragon]]                                                      | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                                        | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | Lost Haven                   | The Slums                   |
+| [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                                                                            | Itone                        | Uti's Cave                  |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                                     | The Dawn Empire              | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                                            | Unknown/Unclear              | Unknown/Unclear             |
 
