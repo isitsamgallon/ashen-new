@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-46/","updated":"2025-08-31T18:00:44.239+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-08-31T18:03:21.050+01:00"}
 ---
 
 # Session Information

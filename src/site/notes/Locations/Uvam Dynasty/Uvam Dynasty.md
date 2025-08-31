@@ -39,8 +39,8 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 | File                                                                                                                                                       | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Yokotori  | \-     |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]               | Yokotori  | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Alive  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
 | [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                                              | Minatota  | Alive  |
