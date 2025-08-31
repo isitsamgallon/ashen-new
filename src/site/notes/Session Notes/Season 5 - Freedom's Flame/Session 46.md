@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-46/","updated":"2025-08-31T17:03:48.828+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-5-freedom-s-flame/session-46/","updated":"2025-08-31T18:00:44.239+01:00"}
 ---
 
 # Session Information
@@ -90,7 +90,7 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::Seeing that [[The Party/Mordecai Reverence\|Mordecai]] wouldn't return to their bed, he decided to follow the [[Other Information/Races/Tiefling\|tiefling]] and ensure nothing bad happened, dispersing the rest of the physicians as he followed.)  
 
-(x::DFrache and [[The Party/Halfbie\|Halfbie]] were finalising their preparations. [[The Party/Wurinn Fuuldrusch\|Drache]] offered a silent prayer for the safety of [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s soul, which was met with faint laughter on the wind. However, [[The Party/Wurinn Fuuldrusch\|Drache]] didn't notice, as when his prayer was finished, a doctor rushed over to them and, between panting breaths, explained that [[The Party/Mordecai Reverence\|Mordecai]] had awoken. For the first time since the [[Groups & Factions/The Emerald Fort\|emerald fort]], [[The Party/Halfbie\|Halfbie]] looked geneieunly happy again as they rushed at full pace to find their friend.)  
+(x::Drache and [[The Party/Halfbie\|Halfbie]] were finalising their preparations. [[The Party/Wurinn Fuuldrusch\|Drache]] offered a silent prayer for the safety of [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s soul, which was met with faint laughter on the wind. However, [[The Party/Wurinn Fuuldrusch\|Drache]] didn't notice, as when his prayer was finished, a doctor rushed over to them and, between panting breaths, explained that [[The Party/Mordecai Reverence\|Mordecai]] had awoken. For the first time since the [[Groups & Factions/The Emerald Fort\|emerald fort]], [[The Party/Halfbie\|Halfbie]] looked geneieunly happy again as they rushed at full pace to find their friend.)  
 
 (x::They soon found [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Viktor Malkovich\|Viktor]], and [[The Party/Halfbie\|Halfbie]] happily jumped at [[The Party/Mordecai Reverence\|Mordecai]] and wrapped their arms around his neck in a big hug. [[The Party/Wurinn Fuuldrusch\|Drache]] wasn't far behind him, following up with an enormous bear hug around the two of them.)  
 
