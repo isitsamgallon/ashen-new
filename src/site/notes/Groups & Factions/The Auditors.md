@@ -22,8 +22,8 @@
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                     | Male   | Adult | Black Dragon |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Adult | Red Dragon   |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Adult | Gold Dragon  |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                       | Female | Adult | Red Dragon   |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human        |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]                       | Female | Adult | Red Dragon   |
 > 
 { .block-language-dataview}
 

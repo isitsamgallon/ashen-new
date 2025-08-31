@@ -117,8 +117,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Other Information/Unique Items/Viktor's Cloak\|Viktor's Cloak]]                               | August 30, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 29, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 29, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 30, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 30, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 30, 2025 |
 | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 30, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 30, 2025 |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 30, 2025 |

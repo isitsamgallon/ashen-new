@@ -59,8 +59,8 @@ KA1, better known now as [[The Party/Dead/Kal †\|Kal †]] (or [[The Party/Dea
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
 
 { .block-language-dataview}
 
