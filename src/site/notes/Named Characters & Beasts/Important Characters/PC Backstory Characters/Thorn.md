@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.161+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2025-08-29T22:44:56.343+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-Seemingly someone [[The Party/The Korrigan\|The Korrigan]] used to know in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], credited as an author of [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
+Seemingly someone [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] used to know in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], credited as an author of [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
 
 ### History & Mentions
 | §                                                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

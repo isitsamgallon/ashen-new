@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-08-19T12:23:22.656+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-18/","updated":"2025-08-29T22:44:57.104+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Back at camp, tensions flare as the group deals with the fallout from the illusi
 # Full Session Notes
 After the event of the last session, [[Other Information/Display Tags/The Party\|The Party]] reach the gates of [[Locations/Ehobel/Caalona\|Caalona]]. however, the city appears differently depending what people are wanting and needing at the time. here is what they see 
 - [[The Party/Aiden Knight\|Aiden Knight]] - Aidan is quite hurt and needs a place to sit down and think through what happen when he healed his horse with magic towards the end of [[Session Notes/Season 3 - The Worst Diplomates/Session 17\|Session 17]]. This results in him seeing the city has full of hot springs and massage parlours. 
-- [[The Party/The Korrigan\|The Korrigan]] - Korrigan is extremely drained and has no spell slot left, making his priority to find away to regain his magic. This results in him seeing the city being full of mana potion wells and stores.
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] - Korrigan is extremely drained and has no spell slot left, making his priority to find away to regain his magic. This results in him seeing the city being full of mana potion wells and stores.
 - [[The Party/Mordecai Reverence\|Mordecai Reverence]] - Mordecai is currently on an adrenalin high from sprouting wings in combat and dying twice. This results in the city appearing to have many aerial obstacle course and what look like theme park rides.
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - Chenris is currently reeling on the fact that the [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] had the ability to regenerate and needs to figure out how. This results in the city being full of hooded robes figures with books and many signs that say "Magical Cannibal School" on them. 
 

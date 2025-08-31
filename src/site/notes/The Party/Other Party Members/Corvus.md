@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2025-08-16T13:08:35.530+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2025-08-29T22:44:58.201+01:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Unknown|
 ### Overview
-Corvus is Corvum that [[Other Information/Display Tags/The Party\|The Party]] found living in [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] when they accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to investigate the city. He was originally spotted by [[The Party/The Korrigan\|The Korrigan]] hiding in the dark, Corvus was very weary of them since he originally moved to the city to get away from the people of the surface who made too much noise. Eventually, Korrigan convinced him to travel with [[Other Information/Display Tags/The Party\|The Party]] as it seemed like the Stronghold was going be raided soon by more researchers and the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] and that they could help them move out. He has been travelling as a [[Groups & Factions/Companions\|Companions]] ever since, although he doesn't talk much
+Corvus is Corvum that [[Other Information/Display Tags/The Party\|The Party]] found living in [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]] when they accompanied [[Locations/Strixhaven\|Strixhaven]] researchers to investigate the city. He was originally spotted by [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] hiding in the dark, Corvus was very weary of them since he originally moved to the city to get away from the people of the surface who made too much noise. Eventually, Korrigan convinced him to travel with [[Other Information/Display Tags/The Party\|The Party]] as it seemed like the Stronghold was going be raided soon by more researchers and the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] and that they could help them move out. He has been travelling as a [[Groups & Factions/Companions\|Companions]] ever since, although he doesn't talk much
 
 ### Appearances & Mentions
 | §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

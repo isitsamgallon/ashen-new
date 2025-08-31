@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-19T12:19:18.211+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-29T22:44:56.950+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@ The Party is in Nas Anor, where Kal Korrigan suggests Aidan Knight sell his dagg
 Chenris and Korrigan sneak out early to investigate The Tower of Ishnmel. They learn about the tower's unique history and its construction by Niaross and Ashira Yelris. Korrigan meditates at the tree's roots, communicating with the entity Terathra, but the connection is cut short as he exhausts his magic. Meanwhile, Mordecai, Drache, and Aidan wake up to find their companions missing and rush to the tower. They find Korrigan nearly unconscious and Chenris dismissive of his condition, leading to a tense confrontation as Mordecai realizes the gravity of the situation.
 
 # Full Session Notes
-(x::[[Other Information/Display Tags/The Party\|The Party]] are in [[Locations/Ehobel/Nas Anor\|Nas Anor]] and [[The Party/The Korrigan\|The Korrigan]] says it might be an interesting idea for [[Aidan Knight\|Aidan Knight]] to try selling his dagger and then returning it when they get away safely. Aidan is up for the idea, so they go to a [[Groups & Factions/Halos Emporium\|Halos Emporium]] and sell the dagger for 50g. Afterwards, [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] sells some Wyvern poison for 55g. With that done, the party head out for [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]].)
+(x::[[Other Information/Display Tags/The Party\|The Party]] are in [[Locations/Ehobel/Nas Anor\|Nas Anor]] and [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] says it might be an interesting idea for [[Aidan Knight\|Aidan Knight]] to try selling his dagger and then returning it when they get away safely. Aidan is up for the idea, so they go to a [[Groups & Factions/Halos Emporium\|Halos Emporium]] and sell the dagger for 50g. Afterwards, [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] sells some Wyvern poison for 55g. With that done, the party head out for [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]].)
 
 (x::For some reason, Chenris is in charge of directions and gets everyone lost in the forests where they're attacked by [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]. Everyone tries to reason with it, but to no avail until chenris speaks in Elvish and they get some broken responses. Korrigan manages to charm the cannibal, and Chenris convinces it to take them out of the forest. As the party moves more, [[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]] arrive, and they get chased by hunters. Everyone runs away. The charmed cannibal returns to the path, where he is compensated with a health potion.)
 

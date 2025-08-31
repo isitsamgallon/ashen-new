@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-08/","updated":"2025-08-11T11:53:32.384+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-08/","updated":"2025-08-29T22:44:56.848+01:00"}
 ---
 
 
@@ -17,7 +17,7 @@ As they near the Uvam Dynasty, Mordecai confesses he is wanted in Minatota, wher
 
 (x:: [[Other Information/Display Tags/The Party\|The Party]] unknowingly enter a sex club after trying to find information on [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]. After Drache accidentally buys an extremely expensive drink for the place, [[Other Information/Display Tags/The Party\|The Party]] learn the wizard had been spotted at nightclub called the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] and is known to hang out with a person called [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]. Mordecai goes pale when learning this. Mordecai has a sip of a really strong drink for courage, warns everyone to try and stick together as the club was designed to isolate and rob people.) Unfortunately thew club was much more disorientating than expected and [[Other Information/Display Tags/The Party\|The Party]] is split up almost immediately. Here are the vents of the club:
 - [[The Party/Aiden Knight\|Aiden Knight]], is charmed and kidnapped by a Teifling 
-- [[The Party/The Korrigan\|The Korrigan]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
 - Drache and Chenris try to find Mordecai.
 - Mordecai gives money to an old friend who looks ROUGH because they’re clearly being abused by Arwen.
 - Aidan comes to being tied to a bed with all his equipment stolen and the [[Other Information/Races/Tiefling\|tiefling]] informing an old man that “they’d found another one for him” and he knocks Aidan out cold.

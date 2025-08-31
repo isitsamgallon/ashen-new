@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-08-11T11:53:32.578+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-08-29T22:44:58.202+01:00"}
 ---
 
 > [!infobox]
@@ -16,7 +16,7 @@
 >  Age | Unknown|
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
->  Family | Unknown parents, [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] (Adoptive/ Dead), [[The Party/The Korrigan\|The Korrigan]] (Adoptive)
+>  Family | Unknown parents, [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] (Adoptive/ Dead), [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] (Adoptive)
 
 ### Overview
 A Small fox with bird wings was found in [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]'s cave on [[Locations/Itone Isles\|Itone Isles]]. [[Other Information/Display Tags/The Party\|The Party]] let it out of its cage when found. 

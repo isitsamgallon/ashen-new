@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2025-08-11T11:53:32.037+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2025-08-30T10:53:26.572+01:00"}
 ---
 
 
 ### Overview
-A part of a small level 1 adventuring party made up of completely [[Other Information/Races/Halflings\|Halflings]]. They were encountered on the [[Locations/Verdant Spine\|Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[The Party/Dead/Kal ‡\|Kal ‡]]. 
+A part of a small level 1 adventuring party made up of completely [[Other Information/Races/Halflings\|Halflings]]. They were encountered on the [[Locations/Verdant Spine\|Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[The Party/Dead/Kal †\|Kal †]]. 
 
 ### Party Members 
 - [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]
@@ -12,7 +12,7 @@ A part of a small level 1 adventuring party made up of completely [[Other Inform
 - [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]
 
 ### Notable Informationok about the fight with the wyvern painting him and his party in a much better light. The book was also written in such a way that [[Other Information/Display Tags/The Party\|The Party]] were made to look pathetic. 
-- After [[The Party/The Korrigan\|The Korrigan]] 's rebirth, he eventually found Merek while staying in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] and took him to the [[Locations/Feywild/Feywild\|Feywild]] s to strike some fear into him and to make Merek owe him. He then used this favour to force Merek to investigate was was the traitor and messed up [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]].
+- After [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] 's rebirth, he eventually found Merek while staying in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] and took him to the [[Locations/Feywild/Feywild\|Feywild]] s to strike some fear into him and to make Merek owe him. He then used this favour to force Merek to investigate was was the traitor and messed up [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]].
 - Through magic, Merek was then able to identify [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] as the traitor. 
 
 ### History & Mentions

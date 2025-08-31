@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-00/","updated":"2025-08-11T11:53:32.371+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-00/","updated":"2025-08-30T10:53:26.647+01:00"}
 ---
 
 Session Summaries may include some mistakes. Please be careful :)
@@ -19,7 +19,7 @@ The guild offered three quests, and the group chose to investigate [[Locations/O
 Drache, driven by his earlier resolve, placed the doll into the skeleton’s outstretched hand, triggering a radiant burst of golden light that engulfed the room. As the light faded, the group felt a surge of newfound strength and determination. Their harrowing journey through the ruins not only deepened their bond but also prepared them for the greater challenges that lay ahead, offering a glimmer of hope amid the darkness of their surroundings.
 
 ### 3rd Session
-As dawn approached, the flames roared unabated, transforming the once-quiet forest into a blazing inferno that cast a grim shadow over [[Other Information/Display Tags/The Party\|the party]]’s escape. The caravan had narrowly avoided catastrophe, thanks to the combined efforts of Drache’s leadership, [[The Party/Dead/Kal ‡\|Kal ‡]] ’s relentless labour, and the group’s coordinated defence against the goblins. Yet, the cost of their survival weighed heavily on them. Kal’s accidental ignition of the fire haunted his thoughts, his earlier confidence replaced by guilt and self-doubt. The merchants, though shaken, expressed their gratitude for [[Other Information/Display Tags/The Party\|the party]]’s protection despite the devastation left in their wake.
+As dawn approached, the flames roared unabated, transforming the once-quiet forest into a blazing inferno that cast a grim shadow over [[Other Information/Display Tags/The Party\|the party]]’s escape. The caravan had narrowly avoided catastrophe, thanks to the combined efforts of Drache’s leadership, [[The Party/Dead/Kal †\|Kal †]] ’s relentless labour, and the group’s coordinated defence against the goblins. Yet, the cost of their survival weighed heavily on them. Kal’s accidental ignition of the fire haunted his thoughts, his earlier confidence replaced by guilt and self-doubt. The merchants, though shaken, expressed their gratitude for [[Other Information/Display Tags/The Party\|the party]]’s protection despite the devastation left in their wake.
 
 (x:: Chenris remained silent as they pressed onward, his mind burdened by fragmented memories of his dream and the haunting revelations it had uncovered. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] ’s words echoed in his thoughts, cutting deeper than any wound from the goblins. Mordecai, ever attuned to the emotional undercurrents around him, kept a watchful eye on the elf, refraining from prying but ready to offer his irreverent support when needed. Meanwhile, Drache’s steadfast presence provided a sense of stability to the group, even as his stern admonishments reminded them of the dangers of carelessness in their chaotic lives.)
 

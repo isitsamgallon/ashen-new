@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.881+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.869+01:00"}
 ---
 
 Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies
@@ -20,4 +20,4 @@ Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\
 > 
 > Next was a simple room that had a door in it with the following written above it "OTTFFSS - What comes next?" the answer was "E" because it was **O**ne, **T**wo, **T**hree, **F**our, **F**ive, **S**ix, **S**even, **EIGHT**. 
 > 
-> Finally the group accounted a room where massive constructs were shovelling lava into a machine. [[The Party/The Korrigan\|Korrigan]] noticed mid-fight that the constructs were powered by lava as well, allowing [[Other Information/Display Tags/The Party\|The Party]] to defeat them without anyone dying. to get to the next room there was a massive lava moat to cross. after some time [[Other Information/Display Tags/The Party\|The Party]] realised there was a water pipe above them they could shoot to make the lava solid. 
+> Finally the group accounted a room where massive constructs were shovelling lava into a machine. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] noticed mid-fight that the constructs were powered by lava as well, allowing [[Other Information/Display Tags/The Party\|The Party]] to defeat them without anyone dying. to get to the next room there was a massive lava moat to cross. after some time [[Other Information/Display Tags/The Party\|The Party]] realised there was a water pipe above them they could shoot to make the lava solid. 

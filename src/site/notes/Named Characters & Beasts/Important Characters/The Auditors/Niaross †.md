@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.167+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2025-08-29T22:44:56.349+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Known as The Grand Architect, he is a  member of the mysterious group called [[G
 They were later revealed to be Uti † and lived on the [[Locations/Itone Isles\|Itone Isles]] guarding the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]] from the likes of [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]. They were sworn to kill anyone who entered the island to make sure Ebis couldn't sneak on. They were later killed by [[Other Information/Display Tags/The Party\|The Party]] when they travelled to [[Locations/Itone Isles\|Itone]] to learn more about [[Gods & Heralds/Aetherion/Terathra\|Terathra]]. 
 
 ### Uti
-Uti is a dragon and allegedly the last person to ever talk to [[Gods & Heralds/Aetherion/The Golden Being\|The Golden Being]] before [[The Party/The Korrigan\|The Korrigan]] made contact with it. They were first named Uti and described in the book called [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]] where it said she lived in from a far-off land called [[Locations/Itone Isles\|Itone Isles]]. 
+Uti is a dragon and allegedly the last person to ever talk to [[Gods & Heralds/Aetherion/The Golden Being\|The Golden Being]] before [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] made contact with it. They were first named Uti and described in the book called [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]] where it said she lived in from a far-off land called [[Locations/Itone Isles\|Itone Isles]]. 
 
 ### Notable Information
 - They were first mentioned in [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]] in a very negative light. This was most likely due to him creating [[Other Information/The Towers\|The Towers]] that used to hold back the Gods - including [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-08-11T11:53:31.877+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-08-29T22:44:55.847+01:00"}
 ---
 
 ### Overview
@@ -15,4 +15,4 @@ Dawnhaven is situated at the northwesternmost point of [[Locations/The Dawn Empi
 - An [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]
 
 ### Trivia
-- When [[The Party/The Korrigan\|The Korrigan]] used to be a member of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] and operated in and around Dawnhaven.
+- When [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] used to be a member of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] and operated in and around Dawnhaven.

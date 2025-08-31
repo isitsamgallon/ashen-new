@@ -86,7 +86,7 @@ Of course, many fey could not be classified into any larger group beyond being r
 - [[Named Characters & Beasts/Beasts & Animals/Man-Eating Horse\|Man-Eating Horse]]
 - [[Named Characters & Beasts/King Oberon\|King Oberon]]
 - [[Named Characters & Beasts/Queen Titania\|Queen Titania]]
-- [[The Party/The Korrigan\|The Korrigan]]
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
 
 { .block-language-dataview}
 

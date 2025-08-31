@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.390+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2025-08-30T10:53:26.299+01:00"}
 ---
 
 ![Screenshot 2025-06-09 181520.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181520.png) 
@@ -23,6 +23,6 @@ Despite its serene beauty, the library exudes an unsettling aura. Whispers drift
 The shelves themselves defy mortal understanding. Some are impossibly tall, extending upward into ceilings that fade into a starry void. Others are compact and intimate, shaped like spirals or crescents, encouraging personal discovery. There are sections where books float freely, orbiting around glowing pedestals, while others are stacked neatly in glass cases that open only at the touch of the worthy.
 
 ### Notable Information 
-- The library has appeared to [[Other Information/Display Tags/The Party\|The Party]] multiple times throughout the campaign. It first appeared when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was transported there when [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] was trying to bargain with them to fix the situation they were in when [[The Party/Dead/Kal ‡\|Kal ‡]] was turned into a suicide bomber by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]].
+- The library has appeared to [[Other Information/Display Tags/The Party\|The Party]] multiple times throughout the campaign. It first appeared when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was transported there when [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] was trying to bargain with them to fix the situation they were in when [[The Party/Dead/Kal †\|Kal †]] was turned into a suicide bomber by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]].
 - It next appeared in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]], where the whole party first met [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] and officially introduced herself and Levelled up [[Other Information/Display Tags/The Party\|The Party]].
 - The library later appeared to [[The Party/Halfbie\|Halfbie]] when they were about to die and they struck a deal to merge memories with Chenris. 

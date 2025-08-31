@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-08-11T11:53:32.376+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-08-30T10:53:26.668+01:00"}
 ---
 
-The party enter a room to find a bed a few levers, [[The Party/Dead/Kal ‡\|Kal ‡]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
+The party enter a room to find a bed a few levers, [[The Party/Dead/Kal †\|Kal †]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
 
 In the cavern was a huge statue of a dwarvern king/lord separated from the group by a large ravine with a very rickety, old bridge. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] peered down into the darkness of the ravine and found out that there was a shit ton of explosives underneath the bridge. No one was surprised.
 

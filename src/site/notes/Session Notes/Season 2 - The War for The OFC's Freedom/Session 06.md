@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-11T11:53:32.401+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-2-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-29T22:44:56.843+01:00"}
 ---
 
 
-[[The Party/Mordecai Reverence\|Mordecai Reverence]] woke up in [[Locations/The Dawn Empire/The Dawn Empire\|the dawn empire]] , [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] still absolutely drunk while the rest of the party nursed rather severe hangovers. [[The Party/The Korrigan\|The Korrigan]] is acting suspicious, some of his memories had started to return and tries to get everyone to stay in the adventurers guild so Drache stays with him to make sure he’s doing okay. The rest of the party (Mordecai, [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Aiden Knight\|Aiden Knight]]) go and explore the city, with Drache requesting them find somewhere with good food.
+[[The Party/Mordecai Reverence\|Mordecai Reverence]] woke up in [[Locations/The Dawn Empire/The Dawn Empire\|the dawn empire]] , [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] still absolutely drunk while the rest of the party nursed rather severe hangovers. [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] is acting suspicious, some of his memories had started to return and tries to get everyone to stay in the adventurers guild so Drache stays with him to make sure he’s doing okay. The rest of the party (Mordecai, [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Aiden Knight\|Aiden Knight]]) go and explore the city, with Drache requesting them find somewhere with good food.
 
 The trio run into a very professional looking looking guild with recruiters outside. The [[Groups & Factions/Ivory Crest\|Ivory Crest]] claim to be a good organisation dedicated to freeing slaves and helping the poor but interests Chenris by also saying there’s a signing bonus of 500 gold. Mordecai is generally being a menace and Chenris pretends to actually not know who he is and goes in to try and get more money.
 

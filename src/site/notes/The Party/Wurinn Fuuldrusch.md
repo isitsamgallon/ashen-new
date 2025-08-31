@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-19T11:57:42.728+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-30T10:57:12.027+01:00"}
 ---
 
 
@@ -62,13 +62,13 @@ Drache was originally from and loyal to [[Groups & Factions/The Tulan Fort\|The 
 | §                                       | Quote                                                                                                                                                                                 |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Other Information/Quotes\|Quotes]] | "Thank you... Wife?" [[The Party/Mordecai Reverence\|Mordecai Reverence]] to [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                          |
-| [[Other Information/Quotes\|Quotes]] | _kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/The Korrigan\|The Korrigan]]                                                                                                                |
+| [[Other Information/Quotes\|Quotes]] | _kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]                                                                                                          |
 | [[Other Information/Quotes\|Quotes]] | "I heard you're looking for a stud." - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                  |
 | [[Other Information/Quotes\|Quotes]] | "I will not be challenged by a twink" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                 |
 | [[Other Information/Quotes\|Quotes]] | "what a time to be a narc" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                            |
 | [[Other Information/Quotes\|Quotes]] | "Ah yes…book…" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                                        |
 | [[Other Information/Quotes\|Quotes]] | "History is written in blood" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                         |
-| [[Other Information/Quotes\|Quotes]] | "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/The Korrigan\|Korrigan]]                                                                               |
+| [[Other Information/Quotes\|Quotes]] | "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/Dead/Kal The Korrigan †\|Korrigan]]                                                                         |
 | [[Other Information/Quotes\|Quotes]] | "Yes I am rubbing Aidan off" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                          |
 | [[Other Information/Quotes\|Quotes]] | "I am big and fast" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                                   |
 | [[Other Information/Quotes\|Quotes]] | "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it." - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                             |
@@ -80,9 +80,9 @@ Drache was originally from and loyal to [[Groups & Factions/The Tulan Fort\|The 
 ### Trivia
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] has died many times having to roleplay characters Drache is flirting with.
-- According to [[The Party/The Korrigan\|The Korrigan]] Drache's scales are salty and freezing
+- According to [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] Drache's scales are salty and freezing
 - Drache may not be able to spell his own name. (he may be mildly dyslexic but is in denial)
-- He is currently indoctrinated by the [[Groups & Factions/Ivory Crest\|Ivory Crest]] misled by their ideals of supposedly "freeing slaves" and "helping the poor" However [[The Party/The Korrigan\|The Korrigan]] informed [[Other Information/Display Tags/The Party\|The Party]] they are a thieves guild and he is now magically bound to them.
+- He is currently indoctrinated by the [[Groups & Factions/Ivory Crest\|Ivory Crest]] misled by their ideals of supposedly "freeing slaves" and "helping the poor" However [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] informed [[Other Information/Display Tags/The Party\|The Party]] they are a thieves guild and he is now magically bound to them.
 - He currently wields an obsidian great-sword, gained from [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] himself after fighting his animated corpse at the council building. 
 - He frequently has to carry Mordecai as he has become injured or incapacitated on many occasions, including being an incredible lightweight regarding alcohol.
 - Drache gained a dope ass bowler hat from a random encounter with goblins dancing around a fire after chenris repaired the worn-out hat they provided him.

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","updated":"2025-08-11T11:53:32.231+01:00"}
+{"dg-publish":true,"permalink":"/other-information/the-party-s-to-do-list/","updated":"2025-08-29T22:44:56.750+01:00"}
 ---
 
 - [ ] Kill with [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] 
 - [ ] Deal with the Dwarves of [[Locations/Fort Moldan\|Fort Moldan]]
 - [ ] Create a trade deal between the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] and [[Locations/Ehobel/Ehobel\|Ehobel]].
 - [x] Deal with the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]  [completion:: 2025-07-31]
-- [ ] Go to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and finish [[The Party/The Korrigan\|The Korrigan]]'s business.
+- [ ] Go to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and finish [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s business.
 - [x] Travel to [[Locations/Itone Isles\|Itone Isles]] ✅ 2024-12-24
 	- [x] Learn more about [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]]. ✅ 2024-12-24
 	- [x] Find [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]] ✅ 2024-12-24

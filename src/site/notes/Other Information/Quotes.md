@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-08-11T11:53:32.226+01:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-08-31T17:05:12.861+01:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -12,20 +12,20 @@ A collection Quotes said during DND Sessions.
 (x:: "![✨](https://discord.com/assets/10cfdf082083ea92.svg)![🌈](https://discord.com/assets/03c45c83ae57ae76.svg) Racism ![🌈](https://discord.com/assets/03c45c83ae57ae76.svg)![✨](https://discord.com/assets/10cfdf082083ea92.svg)")
 (x::"Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x::"Leave me alone, im traumatised" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
-(x::"'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/The Korrigan\|Korrigan]])
-(x::_kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/The Korrigan\|The Korrigan]])
-(x::“Rawr” - [[The Party/The Korrigan\|Korrigan]])
-(x::AFTER OUR ROMANTIC TRIP! - Korrigan storming out of the court room -  [[The Party/The Korrigan\|Korrigan]])
-(x::"Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/The Korrigan\|Korrigan]])
-(x::"as long as you don't do red-face" -  [[The Party/The Korrigan\|Korrigan]])
-(x::"we are a meal deal" -  [[The Party/The Korrigan\|Korrigan]])
-(x::"Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do" -  [[The Party/The Korrigan\|Korrigan]])
+(x::"'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::_kisses [[The Party/Wurinn Fuuldrusch\|Drache]]_ “mmmm salty” - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
+(x::“Rawr” - [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::AFTER OUR ROMANTIC TRIP! - Korrigan storming out of the court room -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::"Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::"as long as you don't do red-face" -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::"we are a meal deal" -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
+(x::"Do you know why the smartest people end up working for the worst people? It's because they are better at rationalising the wrong things they do" -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
 (x::"I heard you're looking for a stud." - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::"I will not be challenged by a twink" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::"what a time to be a narc" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::"Ah yes…book…" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::  "History is written in blood" - [[The Party/Wurinn Fuuldrusch\|Drache]])
-(x::  "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/The Korrigan\|Korrigan]])
+(x::  "I'll whisper sweet nothings in your ear" - [[The Party/Wurinn Fuuldrusch\|Drache]] to [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
 (x::  "Yes I am rubbing Aidan off" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::  "I am big and fast" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::  "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it." - [[The Party/Wurinn Fuuldrusch\|Drache]])
@@ -36,8 +36,8 @@ A collection Quotes said during DND Sessions.
 (x:: "We are not friends" - as [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] DIES IN FRONT ON HIM)
 (x:: "I am definitely proposing the library" _boing_ - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]])
 (x:: "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]])
-(x:: "this is a shiv...stab." - [[The Party/The Korrigan\|The Korrigan]])
-(x:: "I don't do realism, I am a fairy man" - [[The Party/The Korrigan\|The Korrigan]])
+(x:: "this is a shiv...stab." - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
+(x:: "I don't do realism, I am a fairy man" - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
 
 # Players
 (x::"Racist people don’t discriminate [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2025-08-11T11:53:31.377+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2025-08-29T22:44:55.543+01:00"}
 ---
 
 ### Overview
@@ -43,7 +43,7 @@ I cannot remember when I stopped writing this. I do not remember beginning. They
 ### Currently known heralds:
 - [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] - [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] 
 - [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] - [[Gods & Heralds/Somnora/Somnora\|Somnora]] (Theorised)
-- [[The Party/The Korrigan\|The Korrigan]] - [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] - [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
 - [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]] - [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
 
 

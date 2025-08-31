@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-08-11T11:53:32.220+01:00"}
+{"dg-publish":true,"permalink":"/other-information/ofc-plans/","updated":"2025-08-29T22:44:56.664+01:00"}
 ---
 
 These are intended as outline of how [[Other Information/Display Tags/The Party\|The Party]] intend to rule the land once they start to regather their money. it was first laid out in [[Session Notes/Season 3 - The Worst Diplomates/Session 12\|Session 12]].
@@ -62,7 +62,7 @@ Minister of Intelligence; [[The Party/Aiden Knight\|Aiden Knight]]
 - **Initiates**: Trainees hand selected from the recruitment system that show aptitude in stealth/agility/deception etc. Officers and above can also send recommendations for hire if they find someone who shows potential (A potential way to reform criminals)
 
 # Environment 
-Minister of Agriculture & Environment; [[The Party/The Korrigan\|The Korrigan]] 
+Minister of Agriculture & Environment; [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] 
 
 **R.A.W.R. Rejuvenation of Agricultural Wonders and Resources**
 

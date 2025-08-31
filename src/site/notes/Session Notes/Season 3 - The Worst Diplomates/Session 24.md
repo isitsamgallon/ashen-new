@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-24/","updated":"2025-08-11T11:53:32.431+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-3-the-worst-diplomates/session-24/","updated":"2025-08-29T22:44:57.301+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Continuing to the Wyvern Cave, Korrigan hesitated, overcome by traumatic memorie
 # Full Session Notes
 (x:: After the infiltration of [[Groups & Factions/The Tulan Fort\|The Tulan Fort]], [[Other Information/Display Tags/The Party\|The Party]] took a few days to rest and heal their injuries. Unfortunately, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] 's injuries were much more serious than originally thought, and she wouldn't be able to travel for a while and needed bed rest. Hearing this, [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] informs the party that he'll stay behind and make sure she is safe and will catch up with them when she can travel again. [[The Party/Aiden Knight\|Aiden Knight]], for his part, left at night, leaving a note explaining he had gone off to investigate something and would join the party later. )
 
-(x:: [[The Party/Mordecai Reverence\|Mordecai Reverence]] was desperate to leave [[Locations/Uvam Dynasty/Yakawa\|Yakawa]] (and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]) as soon as possible and urged [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/The Korrigan\|The Korrigan]] to pack their belongings quickly so they could leave by the next morning. The morning they set to leave, Mordecai has a quick conversation with Emmeline. They use [Cure Wounds](https://www.dndbeyond.com/spells/cure-wounds) to help her healing speed up and say, "Drache is quite possibly one of the last genuinely good men in this world, and if anything were to happen to him, then I have no idea what we could do. Please keep him safe while we're gone")
+(x:: [[The Party/Mordecai Reverence\|Mordecai Reverence]] was desperate to leave [[Locations/Uvam Dynasty/Yakawa\|Yakawa]] (and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]) as soon as possible and urged [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] to pack their belongings quickly so they could leave by the next morning. The morning they set to leave, Mordecai has a quick conversation with Emmeline. They use [Cure Wounds](https://www.dndbeyond.com/spells/cure-wounds) to help her healing speed up and say, "Drache is quite possibly one of the last genuinely good men in this world, and if anything were to happen to him, then I have no idea what we could do. Please keep him safe while we're gone")
 
 "He's alright, I guess," She said sarcastically 
 

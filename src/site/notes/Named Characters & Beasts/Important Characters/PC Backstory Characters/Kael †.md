@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2025-08-11T11:53:32.144+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2025-08-30T10:53:26.500+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-[[The Party/Dead/Kal ‡\|Kal ‡]] friend
+[[The Party/Dead/Kal †\|Kal †]] friend
 
 ### Notable Information
 

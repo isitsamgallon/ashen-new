@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/boogaloo/","tags":["NPC"],"updated":"2025-08-11T11:53:32.084+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/boogaloo/","tags":["NPC"],"updated":"2025-08-29T22:44:55.951+01:00"}
 ---
 
 
 ### Overview
-The name of the horse that [[The Party/The Korrigan\|The Korrigan]] befriends in [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]].
+The name of the horse that [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] befriends in [[Session Notes/Season 3 - The Worst Diplomates/Session 21\|Session 21]].
 
 ### History & Mentions
 | §                                                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
