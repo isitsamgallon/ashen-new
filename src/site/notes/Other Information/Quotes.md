@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-08-31T17:05:12.861+01:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-08-31T20:22:23.606+01:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -9,7 +9,7 @@ A collection Quotes said during DND Sessions.
 (x:: "I’m shitting myself" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x:: "Thank you... Wife?" [[The Party/Mordecai Reverence\|Mordecai Reverence]] to [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x:: "I am the most guardiets guard" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
-(x:: "![✨](https://discord.com/assets/10cfdf082083ea92.svg)![🌈](https://discord.com/assets/03c45c83ae57ae76.svg) Racism ![🌈](https://discord.com/assets/03c45c83ae57ae76.svg)![✨](https://discord.com/assets/10cfdf082083ea92.svg)")
+(x:: "![✨](https://discord.com/assets/10cfdf082083ea92.svg)![🌈](https://discord.com/assets/03c45c83ae57ae76.svg) Racism ![🌈](https://discord.com/assets/03c45c83ae57ae76.svg)![✨](https://discord.com/assets/10cfdf082083ea92.svg)" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x::"Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x::"Leave me alone, im traumatised" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x::"'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/Dead/Kal The Korrigan †\|Korrigan]])
@@ -38,6 +38,7 @@ A collection Quotes said during DND Sessions.
 (x:: "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]])
 (x:: "this is a shiv...stab." - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
 (x:: "I don't do realism, I am a fairy man" - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
+(x:: "I am a doctor, not an autist" - [[The Party/Viktor Malkovich\|Viktor Malkovich]])
 
 # Players
 (x::"Racist people don’t discriminate [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
@@ -63,5 +64,5 @@ A collection Quotes said during DND Sessions.
 (x:: "There is a chance…he did do a murder" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]])
 (x:: “He’s gonna touch me up” - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as [[Named Characters & Beasts/Beasts & Animals/Man-Eating Horse\|Man-Eating Horse]])
 (x::"We no kill people, we good people. Just enslave ![🥰](https://discord.com/assets/10b67e5181089c99.svg)" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as a member of the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]])
-(x "His tail becomes girthy" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
+(x:: "His tail becomes girthy" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (q:: "[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] only does gay rolls" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])

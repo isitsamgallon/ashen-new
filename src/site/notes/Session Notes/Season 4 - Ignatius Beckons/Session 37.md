@@ -105,7 +105,7 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "I believe you mentioned it briefly, but you were quite mysterious about the details. You shared that you're from there and hinted at having killed several people but didn't elaborate much. I'm still not sure about the whole story." She answered.
 
-(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Other Information/Races/Humans\|Humans]] and i can summon it!!" explained [[The Party/Dead/Kal The Korrigan †\|Korrigan]] excitedly.)
+(x::"I ask because I can't remember. Part of my deal involved unfinished business at [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. I made the deal to go back and finish that unfinished business I've lost. In return, I am [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] [[Gods & Heralds/Herald\|Herald]], and I do some really funny stuff - like, did you see the horse?! Its always angry and wants to eat [[Humans\|Humans]] and i can summon it!!" explained [[The Party/Dead/Kal The Korrigan †\|Korrigan]] excitedly.)
 
 "I did see the horse. I do remember you used to talk about your sleep. You used to see stuff about A revolution against some king or something and see your dad. She said.
 
@@ -147,7 +147,7 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 [^3]: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] later revealed that [[The Party/Halfbie\|Halfbie]] didn't really know what Geologist was and was most likely something that came from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 
-[^4]: Everyone looks at [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] due to [[The Party/Dead/Kal †\|Kal †]] setting fire to a forest in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] when [[Other Information/Display Tags/The Party\|The Party]] was attacked by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]. NOTE: [[The Party/Halfbie\|Halfbie]] is unaware of this at the time.
+[^4]: Everyone looks at [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] due to [[Kal †\|Kal †]] setting fire to a forest in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] when [[Other Information/Display Tags/The Party\|The Party]] was attacked by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]. NOTE: [[The Party/Halfbie\|Halfbie]] is unaware of this at the time.
 
 [^5]: This is in reference to [[The Party/Halfbie\|Halfbie]] giving away that information in a deal with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] in [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session Notes/Season 4 - Ignatius Beckons/Session 36]]
 

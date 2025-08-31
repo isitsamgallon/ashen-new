@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-A ruined town that [[Other Information/Display Tags/The Party\|The Party]] explores as a part of a quest given by the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]. This is also where [[Other Information/Display Tags/The Party\|The Party]] first meets [[The Party/Dead/Kal †\|Kal]] †. 
+A ruined town that [[Other Information/Display Tags/The Party\|The Party]] explores as a part of a quest given by the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]]. This is also where [[Other Information/Display Tags/The Party\|The Party]] first meets [[Kal †\|Kal]] †. 
 
 ### History & Mentions
 | § | Interactions |

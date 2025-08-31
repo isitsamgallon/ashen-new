@@ -4,7 +4,7 @@
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-[[The Party/Dead/Kal †\|Kal †]]'s teacher was murdered during the rebellion
+[[Kal †\|Kal †]]'s teacher was murdered during the rebellion
 
 ### Notable Information
 

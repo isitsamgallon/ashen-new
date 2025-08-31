@@ -38,7 +38,7 @@ Reunited, the party engaged the golden mech in a brutal fight, struggling withou
 
 (x::With a click of his fingers, a pair of side doors swung open as Sara's hulking, golden form entered the courtyard. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] froze, his jaw gaping, as a singular tear ran over his cheek. Another then followed. His legs gave out as he fell to the floor, unable to hold back the torrent of tears and emotions. Satisfied, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi]] turned on the spot and returned inside the palace, the doors clanging shut behind him.)  
 
-(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] regained some of his composure when [[The Party/Wurinn Fuuldrusch\|Drache]] touched his shoulder reassuringly. "Sara... Sara, it's me, [[The Party/Dead/Kal †\|Kal]]," he managed to call out.)  
+(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] regained some of his composure when [[The Party/Wurinn Fuuldrusch\|Drache]] touched his shoulder reassuringly. "Sara... Sara, it's me, [[Kal †\|Kal]]," he managed to call out.)  
 
 (x::He watched in horror as Sara's face was downcast in tears, her robotic voice screamed, "You're wearing his skin. I will kill you!!". Underneath the modulated voice, [[The Party/Dead/Kal The Korrigan †\|Korrigan]] could hear the voice of his friend apologising and telling him to run.)  
 
@@ -114,4 +114,4 @@ Reunited, the party engaged the golden mech in a brutal fight, struggling withou
 # Footnotes
 
 [^1]: At the time [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] knew that [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] could hear the golden statues and didn't want to respond. In fact he was secretly trying to communicate to them through [Thieves Cant](https://forgottenrealms.fandom.com/wiki/Thieves%27_cant). Unfortunately neither of them knew the language.
-[^2]: [[The Party/Dead/Kal †\|Kal]] scarified his sword during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] to beat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].
+[^2]: [[Kal †\|Kal]] scarified his sword during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] to beat [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].

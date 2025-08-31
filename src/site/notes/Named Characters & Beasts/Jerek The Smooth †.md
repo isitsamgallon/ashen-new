@@ -4,7 +4,7 @@
 
 
 ### Overview
-A part of a small level 1 adventuring party made up of completely [[Other Information/Races/Halflings\|Halflings]]. They were encountered on the [[Locations/Verdant Spine\|Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[The Party/Dead/Kal †\|Kal †]]. Jerek also died during this fight.
+A part of a small level 1 adventuring party made up of completely [[Other Information/Races/Halflings\|Halflings]]. They were encountered on the [[Locations/Verdant Spine\|Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[Kal †\|Kal †]]. Jerek also died during this fight.
 
 ### Party Members 
 - [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]

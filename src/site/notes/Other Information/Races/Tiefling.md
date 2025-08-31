@@ -28,7 +28,7 @@
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |
->  Skin Colour(s) | Same as [[Other Information/Races/Humans\|Humans]], plus shades of red |
+>  Skin Colour(s) | Same as [[Humans\|Humans]], plus shades of red |
 >  Hair Colour(s) | Red, brown, black, dark blue, purple |
 >  Eye Colour(s) | Black, gold, red, silver, or white (solid color, with no sclera or pupil) |
 >  Average Height | 4′11″‒6′ (150‒180 cm) |

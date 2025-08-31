@@ -10,7 +10,7 @@
 > 
 > | Type | Stat |
 > | :----: | --- |
-> | Race | [[Other Information/Races/Humans\|Humans]] |
+> | Race | [[Humans\|Humans]] |
 > | Nationality | Unknown |
 > | Class | Wizard |
 > | Subclass | Order Of Scribes |

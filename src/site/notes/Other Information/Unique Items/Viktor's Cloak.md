@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/viktor-s-cloak/","tags":["viktoritem"],"updated":"2025-08-30T13:02:12.182+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/viktor-s-cloak/","tags":["viktoritem"],"updated":"2025-08-31T20:49:43.659+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+![CarrionShroud.png](/img/user/Admin/Attachments/CarrionShroud.png)
 ### Overview
-
+A ruffled cloak of dull vulture feathers and down, lined with black fabric and connected with a vulture skull shaped clasp.
 
 ### Item Description
 

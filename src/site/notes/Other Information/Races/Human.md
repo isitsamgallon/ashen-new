@@ -107,7 +107,6 @@ Humans were the primary fighting force during [[History & Events/The Sundering\|
 - [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]
 - [[Named Characters & Beasts/Tish\|Tish]]
 - [[The Party/Aiden Knight\|Aiden Knight]]
-- [[The Party/Dead/Kal †\|Kal †]]
 - [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]
 
 { .block-language-dataview}

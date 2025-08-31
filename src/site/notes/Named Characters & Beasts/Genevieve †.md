@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-Genevieve was the former leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]], being 334 years old when she died whilst being [[Other Information/Races/Humans\|Humans]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. 
+Genevieve was the former leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] and a known [[Other Information/Perpetual\|Perpetual]], being 334 years old when she died whilst being [[Humans\|Humans]]. Before her death, she ran the fort for over 200 years but her family have controlled the fort for 1000s of years. 
 
 She fought in [[History & Events/The Sundering\|The Sundering]] as a part of [[Groups & Factions/The Coalition\|The Coalition]] and was considered a fair leader, but extremely [[Other Information/Money\|money]]-driven. 
 

@@ -4,7 +4,7 @@
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-[[The Party/Dead/Kal †\|Kal †]] friend
+[[Kal †\|Kal †]] friend
 
 ### Notable Information
 

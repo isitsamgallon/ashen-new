@@ -17,7 +17,7 @@ The OFC finally won true independence from [[Locations/The Dawn Empire/The Dawn 
 - Council that runs most other affairs that are not linked to the ministers departments.
 
 # Laws & Legislation 
-- The party want to stop the use of [[Other Information/Credits\|Credits]] and move to the more common stand of Gold as their national currency to allow for the ease of trade and immigration. This could be achieved my forgiving Credit debt and/or issuing a credit buy back scheme 
+- The party want to stop the use of [[Credits\|Credits]] and move to the more common stand of Gold as their national currency to allow for the ease of trade and immigration. This could be achieved my forgiving Credit debt and/or issuing a credit buy back scheme 
 - The party would like to open up trade routes with the following countries:
 	- [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
 	- [[Locations/Ehobel/Ehobel\|Ehobel]]

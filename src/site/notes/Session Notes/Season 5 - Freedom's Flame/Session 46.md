@@ -47,13 +47,13 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::[[The Party/Halfbie\|Halfbie]]/Chenis' eyes began to well up as they watched their best friend die slowly in front of them.)  
 
-(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] quickly stopped his laughter and faced his [[Admin/Spells/Friends\|friends]]. "Hey, hey, it's okay," he said softly. [[The Party/Dead/Kal †\|Kal]] Truly did die on that mountain. I was just his rage given form without it, without my purpose... I will soon fade.)  
+(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] quickly stopped his laughter and faced his [[Admin/Spells/Friends\|friends]]. "Hey, hey, it's okay," he said softly. [[Kal †\|Kal]] Truly did die on that mountain. I was just his rage given form without it, without my purpose... I will soon fade.)  
 
 (x::The rot was making its way up his arm towards his face as he fell to one knee and grabbed [[The Party/Mordecai Reverence\|Mordecai]] for stability. He told them with all sincerity that he needed to ensure evil in the world was burned away. [[The Party/Mordecai Reverence\|Mordecai]] nodded with conviction. He then turned to [[The Party/Halfbie\|Halfbie]], instructing them to trust in [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] as he was the best teacher and the best friend.)  
 
 (x::Tears flooded [[The Party/Halfbie\|Halfbie]]'s face as [[The Party/Dead/Chenris Tallfellow ‡\|chenris]] and Halfbie spoke in union, saying they loved him and vowed to live for him. "This battle may not have made you feel brave, it may noit have even made you famous, but it id give you one thing: freedom")  
 
-(x::"It is everything I want in the world; it's the reason I fought. At the end of the day, [[The Party/Dead/Kal †\|Kal]] is a [[Admin/Spells/Message\|message]] to all that freedom is possible if you fight for it. Thank you for fighting with everyone," said [[The Party/Dead/Kal The Korrigan †\|Korrigan]] weakly, the skin of her face slowly falling off.)  
+(x::"It is everything I want in the world; it's the reason I fought. At the end of the day, [[Kal †\|Kal]] is a [[Admin/Spells/Message\|message]] to all that freedom is possible if you fight for it. Thank you for fighting with everyone," said [[The Party/Dead/Kal The Korrigan †\|Korrigan]] weakly, the skin of her face slowly falling off.)  
 
 (x::Turning to [[The Party/Wurinn Fuuldrusch\|Drache]], [[The Party/Dead/Kal The Korrigan †\|Korrigan]] spoke softly, "You were like a father to me. Despite what she expected of me, I've always tried to do my best. I want to hurt a lot of people right now. I don't know what to do with those feelings. But then I think of you.")  
 
@@ -61,7 +61,7 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::Turning to Slyva, he gave her a heartfelt thank you. She responded with silence and a kiss on the forehead, knowing that any more would leave her in tears.)  
 
-(x::With that, [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s body gave up and crumpled into dust. With that, a wild purple portal opened, and a mad woman with wiry golden hair floated out of it. [[The Party/Halfbie\|Halfbie]] and Aidan instantly recognised her as [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Before they even had the time to consider the implications that a god could enter the material plane, she summoned [[The Party/Dead/Kal †\|Kal]]'s soul from what was left of [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s body, causing a purple ball of light to float up to her.)  
+(x::With that, [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s body gave up and crumpled into dust. With that, a wild purple portal opened, and a mad woman with wiry golden hair floated out of it. [[The Party/Halfbie\|Halfbie]] and Aidan instantly recognised her as [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Before they even had the time to consider the implications that a god could enter the material plane, she summoned [[Kal †\|Kal]]'s soul from what was left of [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s body, causing a purple ball of light to float up to her.)  
 
 (x::She gave the ball of light, explaining that this made it easier for her, slammed it into the ground, and muttered under her breath, "And now for your punishment." She then floated back through her portal to her domain.)  
 
@@ -80,7 +80,7 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::Soon, they gained enough confidence to leave their room and eat something while walking around the palace. They learnt that the slaves drove away the rest of the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]], but now there were riots on the streets as some tried their best to put together a governing body to sort out what would happen in the near future. One of the first things they did was go to the museum and recover all of their stuff, donning their robe woven with magical circuits and, most importantly, their spell book.)  
 
-(x::Finally, they started preparing for [[Other Information/Display Tags/The Party\|the party]] to head off on their next adventure, wherever that might be. During their preparations, they found [[The Party/Dead/Kal †\|Kal]]'s bow. They traced the intricate eleven carvings in the soft, well-cared fore wood and silently slung it on their back, not to be used but to remember their friend.)  
+(x::Finally, they started preparing for [[Other Information/Display Tags/The Party\|the party]] to head off on their next adventure, wherever that might be. During their preparations, they found [[Kal †\|Kal]]'s bow. They traced the intricate eleven carvings in the soft, well-cared fore wood and silently slung it on their back, not to be used but to remember their friend.)  
 
 (x::[[The Party/Wurinn Fuuldrusch\|Drache]] fared better and helped people rebuild and even commission a statue of the rebellion's symbol to be made out of some of the gold taken from [[Locations/Lost Haven/Luminara\|Luminara]]. And soon the symbol of a mouse with antlers was erected at the heart of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] [^1].)  
 
@@ -117,7 +117,7 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 
 # Trivia & Notes
-- (o:: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed out of session how the Antimagic Field worked. Essentially [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] had reengineered [[Other Information/The Towers\|The Tower]] to force all magic in the affect area to go through it rather than  just straight from [[Locations/The Realm of Mana\|The Realm of Mana]] to the material plane. He could then hook into [[Other Information/The Towers\|the tower]] and control which spell happened and what didn't. this is also how he was able to hear [[The Party/Mordecai Reverence\|Mordecai]] speak while they were turned into [[Other Information/Gold\|gold]] as he could understand all magical communication happening within [[Other Information/The Towers\|the tower]]'s reach.)
+- (o:: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed out of session how the Antimagic Field worked. Essentially [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] had reengineered [[Other Information/The Towers\|The Tower]] to force all magic in the affect area to go through it rather than  just straight from [[Locations/The Realm of Mana\|The Realm of Mana]] to the material plane. He could then hook into [[Other Information/The Towers\|the tower]] and control which spell happened and what didn't. this is also how he was able to hear [[The Party/Mordecai Reverence\|Mordecai]] speak while they were turned into [[gold\|gold]] as he could understand all magical communication happening within [[Other Information/The Towers\|the tower]]'s reach.)
 - This is was [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s [[Gods & Heralds/Herald\|Herald]] form looks like: ![The korrigan Herald.png](/img/user/Admin/Attachments/The%20korrigan%20Herald.png)
 
 # Footnotes

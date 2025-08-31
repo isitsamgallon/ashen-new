@@ -12,7 +12,7 @@
 >  Type  | NPC |
 >  Pronouns | He/ Him |
 >  Tiles | King |
->  Race | [[Other Information/Races/Humans\|Humans]] |
+>  Race | [[Humans\|Humans]] |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
 >  Residence | [[Groups & Factions/Luminara\|Luminara]] | 
@@ -37,9 +37,9 @@ Malachi is a slender man dressed in luxurious attire, including an ornate crown.
 #### Personality
 Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Groups & Factions/Luminara\|Luminara]]. 
 
-He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[The Party/Dead/Kal †\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
+He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[Kal †\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
 
-By far, his most cruel act was taking [[The Party/Dead/Kal †\|Kal]]'s best friend, Sara, and turning her into a monstrous cyborg that also acted as the epicentre of the Antimagic field. The machine would constantly electrocute her and force her mind to think and act in specific ways, keeping her in a state of constant fury. 
+By far, his most cruel act was taking [[Kal †\|Kal]]'s best friend, Sara, and turning her into a monstrous cyborg that also acted as the epicentre of the Antimagic field. The machine would constantly electrocute her and force her mind to think and act in specific ways, keeping her in a state of constant fury. 
 
 However, he takes great care of the people of [[Groups & Factions/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
 
@@ -50,7 +50,7 @@ It is also implied that he is responsible for turning Sara into a cyborg, a feat
 
 ### Relationships,
 #### Kal/ Korrigan
-Malachi has a deep hatred towards [[The Party/Dead/Kal †\|Kal]] because he started the rebellion, which most likely resulted in the death of many Nobles and the loss of a lot of [[Other Information/Money\|money]] for him. 
+Malachi has a deep hatred towards [[Kal †\|Kal]] because he started the rebellion, which most likely resulted in the death of many Nobles and the loss of a lot of [[Other Information/Money\|money]] for him. 
 
 #### Xekai
 Before [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]'s relationship with [[Other Information/Display Tags/The Party\|the party]] was revealed, they seemed to be close allies, sharing information and advice and having tea together. 
