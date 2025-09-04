@@ -27,8 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 48\|Session 48]]                             | \-                          | \-                                                                                                                                                                                                                                                                                                           |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 47\|Session 47]]  | \-                          | \-                                                                                                                                                                                                                                                                                                           |
+| [[Session Notes/Session 47\|Session 47]]                             | \-                          | \-                                                                                                                                                                                                                                                                                                           |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]  | 5th Saga - Freedom's Flame  | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.                 |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | 5th Saga - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | 5th Saga - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
@@ -37,6 +36,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | 5th Saga - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | 4th Saga - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | 4th Saga - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | 4th Saga - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
 
 { .block-language-dataview}
 
@@ -90,20 +90,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/Session 48\|Session 48]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 47\|Session 47]]
+- [[Session Notes/Session 47\|Session 47]]
 - [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
 - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
 - [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
+- [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Session Notes/Session 48\|Session 48]]
-- [[Session Notes/Season 5 - Freedom's Flame/Session 47\|Session 47]]
+- [[Session Notes/Session 47\|Session 47]]
 - [[Other Information/Races/Drow\|Drow]]
 - [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
 - [[Other Information/Unique Items/Viktor's Cloak\|Viktor's Cloak]]
+- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
 
