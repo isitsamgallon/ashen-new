@@ -13,5 +13,6 @@ The Big Cheese, architect of our own destruction or simply 'The DM'
 | [[Other Information/Quotes\|Quotes]] | "There is a chance…he did do a murder" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]]                                                                          |
 | [[Other Information/Quotes\|Quotes]] | “He’s gonna touch me up” - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as [[Named Characters & Beasts/Beasts & Animals/Man-Eating Horse\|Man-Eating Horse]]                                                                                             |
 | [[Other Information/Quotes\|Quotes]] | "We no kill people, we good people. Just enslave ![🥰](https://discord.com/assets/10b67e5181089c99.svg)" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as a member of the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] |
+| [[Other Information/Quotes\|Quotes]] | "His tail becomes girthy" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]]                                                                                                                    |
 
 { .block-language-dataview}

@@ -56,8 +56,9 @@ Viktor is a travelling doctor. His features are slightly vampiric with sharp jaw
 Viktor's backstory hasn't been revealed yet. 
 
 ### Quotes
-| § | Quote |
-| - | ----- |
+| §                                       | Quote                                                 |
+| --------------------------------------- | ----------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "I am a doctor, not an autist" - [[The Party/Viktor Malkovich\|Viktor Malkovich]] |
 
 { .block-language-dataview}
 

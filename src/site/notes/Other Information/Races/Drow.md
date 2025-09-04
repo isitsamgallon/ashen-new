@@ -5,7 +5,7 @@
 
  >[!infobox]
 > 
-> #  `=this.file.name`
+> #  Drow
 > ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### 5th Edition Statistics
 > 
@@ -50,7 +50,7 @@ Drow , also known as dark elves, deep elves, night elves, under-elves, and the D
 ### History
 
 
-### ### Known `=this.file.name`
+### ### Known Drow
 
 { .block-language-dataview}
 
