@@ -18,11 +18,11 @@
 >   | File                                                                                                  | Gender | Age   | Race         |
 > | ----------------------------------------------------------------------------------------------------- | ------ | ----- | ------------ |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]         | Male   | Adult | Human        |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] | Female | Adult | Halfling     |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                     | Male   | Adult | Black Dragon |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Adult | Red Dragon   |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Adult | Gold Dragon  |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human        |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Adult | Red Dragon   |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] | Female | Adult | Halfling     |
 > 
 { .block-language-dataview}
 

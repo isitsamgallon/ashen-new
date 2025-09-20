@@ -132,6 +132,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/Morak Hold\|Morak Hold]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Strixhaven\|Strixhaven]]
+- [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]
 
 { .block-language-dataview}
 

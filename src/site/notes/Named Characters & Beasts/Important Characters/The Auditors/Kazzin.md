@@ -9,7 +9,6 @@ This is the black dragon that [[Named Characters & Beasts/Important Characters/T
 ### Appearances & Mentions
 | §                                               | Interactions |
 | ----------------------------------------------- | ------------ |
-| [[Session Notes/Session 48\|Session 48]]     | \-           |
 | [[Session Notes/Session 47\|Session 47]]     | \-           |
 | [[Session Notes/All Sessions\|All Sessions]] | \-           |
 

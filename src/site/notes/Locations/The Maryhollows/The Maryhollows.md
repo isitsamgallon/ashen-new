@@ -10,10 +10,7 @@ Known for being a nation that is completely made up businesses. [[Named Characte
 
 
 ### History & Mentions
-| §                                               | Interactions |
-| ----------------------------------------------- | ------------ |
-| [[Session Notes/Session 48\|Session 48]]     | \-           |
-| [[Session Notes/Session 47\|Session 47]]     | \-           |
-| [[Session Notes/All Sessions\|All Sessions]] | \-           |
+| § | Interactions |
+| - | ------------ |
 
 { .block-language-dataview}
