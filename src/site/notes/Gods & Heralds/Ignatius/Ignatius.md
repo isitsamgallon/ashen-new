@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-08-11T11:53:31.420+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-09-20T14:55:10.822+01:00"}
 ---
 
 > [!infobox]
@@ -16,7 +16,7 @@
 > | Typcial Alignment | Evil |
 > | Pronouns | He/ Him |
 > | Celestial Realm | [[Gods & Heralds/Ignatius/The Crucible Eternal\|The Crucible Eternal]] |
-> | Herald(s)| [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] |
+> | Herald(s)| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]], [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]]? |
 
 > "AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose Armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 
@@ -53,9 +53,6 @@ This ritual, central to [[Groups & Factions/Religious Organisations/The Ashen Cu
 Held annually at [[Locations/The Desert/Ember Peak\|Ember Peak]], this gathering of Followers includes sermons by the cult's leaders and Ceremonies invoking Ignatius's name. It is a night of Fiery displays, prayers, and oaths of loyalty to [[History & Events/The Cleansing\|the Cleansing]] Flame.
 
 #### The Scorched Pledge
-{ #ddc57d}
-
-
 Devotees inscribe sacred symbols onto their skin using Heated brands, signifying their unyielding dedication to Ignatius. These marks, known as the Seals of Purification, are considered signs of divine favour.
 
 ### Artifacts & Relics

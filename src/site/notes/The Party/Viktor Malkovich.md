@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2025-08-31T20:53:42.222+01:00"}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2025-09-13T20:59:44.174+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race |  Drow |
+>  Race |  [[Other Information/Races/Drow\|Drow]] |
 >  Nationality | [[Locations/The Deadlands\|The Deadlands]] |
 >  Class | Cleric |
 >  Subclass | The Grave Domain |
@@ -44,7 +44,7 @@
 > "I am a doctor, not an autist" <cite>[[The Party/Viktor Malkovich\|Viktor Malkovich]] -  [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]</cite>
 
 ### Overview
-Hailing from the bleak expanse of the Dead Lands, Viktor Malcovich is a 144-year-old drow with a reputation steeped in mystery and unorthodox cures. A wandering physician and arcane apothecary, he offers his services to kingdoms and clandestine orders alike, specialising in afflictions that defy conventional medicine. Whether it be a village plagued by necrotic rot, a noble cursed with bloodthirst, or an outbreak tied to forgotten magics. Viktor does his best to cure the needy .
+Hailing from the bleak expanse of [[Locations/The Deadlands\|The Deadlands]]ands, Viktor Malcovich is a 144-year-old [[Other Information/Races/Drow\|drow]] with a reputation steeped in mystery and unorthodox cures. A wandering physician and arcane apothecary, he offers his services to kingdoms and clandestine orders alike, specialising in afflictions that defy conventional medicine. Whether it be a village plagued by necrotic rot, a noble cursed with bloodthirst, or an outbreak tied to forgotten magics. Viktor does his best to cure the needy .
 
 ### Personality
 Viktor has appeared to be a kind and caring doctor. 

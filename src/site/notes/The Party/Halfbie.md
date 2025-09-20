@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-08-11T11:53:32.551+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-09-20T17:34:26.037+01:00"}
 ---
 
 
@@ -42,7 +42,7 @@
 > 
 { .block-language-dataview}
 
-> "Stew and noodles are real goodddddddd" <cite>Halfbie - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]]</cite>
+> "Looking in the mirror I see three faces staring back at me. None of them belong to me. Two of them are gods, and the other is dead. The worst part is that I don't know which I hate more: the fact that there are three faces that aren't mine or that I am no longer included in my own reflection." <cite>Halfbie - [[Session Notes/Session 48\|Session 48]]</cite>
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. 

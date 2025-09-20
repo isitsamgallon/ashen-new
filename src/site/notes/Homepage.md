@@ -27,7 +27,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 47\|Session 47]]                             | \-                          | \-                                                                                                                                                                                                                                                                                                           |
+| [[Session Notes/Session 48\|Session 48]]                             | 6th Saga - Name Pending     | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Session 47\|Session 47]]                             | 6th Saga - Name Pending     | The session is still being written by Tom.                                                                                                                                                                                                                                                                   |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]  | 5th Saga - Freedom's Flame  | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.                 |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | 5th Saga - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | 5th Saga - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
@@ -36,7 +37,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | 5th Saga - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | 4th Saga - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
 | [[Session Notes/Season 4 - Ignatius Beckons/Session 39\|Session 39]] | 4th Saga - Ignatius Beckons | The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.                                                                                                           |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 38\|Session 38]] | 4th Saga - Ignatius Beckons | Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.                                                                                |
 
 { .block-language-dataview}
 
@@ -72,8 +72,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
@@ -91,19 +91,19 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 ### Recently Modified
 - [[Session Notes/Session 47\|Session 47]]
-- [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
-- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
-- [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]
+- [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]
+- [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
+- [[Session Notes/Session 48\|Session 48]]
+- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/Session 48\|Session 48]]
 - [[Session Notes/Session 47\|Session 47]]
 - [[Other Information/Races/Drow\|Drow]]
 - [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
 - [[Other Information/Unique Items/Viktor's Cloak\|Viktor's Cloak]]
-- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
 
@@ -111,21 +111,22 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                                               | Date of Tagging |
-| -------------------------------------------------------------------------------------------------- | --------------- |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 29, 2025 |
-| [[Other Information/Races/Drow\|Drow]]                                                          | August 31, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 29, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 29, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 30, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 30, 2025 |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 30, 2025 |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 30, 2025 |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 30, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 30, 2025 |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                           | August 19, 2025 |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025 |
-| [[Groups & Factions/Luminara\|Luminara]]                                                        | August 30, 2025 |
+| Note                                                                                               | Date of Tagging    |
+| -------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/Session 48\|Session 48]]                                                        | September 13, 2025 |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 29, 2025    |
+| [[Other Information/Races/Drow\|Drow]]                                                          | August 31, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 30, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 30, 2025    |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 30, 2025    |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 30, 2025    |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 30, 2025    |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 30, 2025    |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                           | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025    |
+| [[Groups & Factions/Luminara\|Luminara]]                                                        | August 30, 2025    |
 
 { .block-language-dataview}
 
