@@ -108,7 +108,7 @@ A bond unbroken, forevermore.
 Come, speak to me, share your tale,
 For in your words, life’s truths prevail."
 
-(x:: [[The Party/Dead/Kal The Korrigan †\|Korrigan]] confessed that [[Named Characters & Beasts/Important Characters/The Auditors/Uti †\|Uti †]] had been killed and updated the being on everything that had happened since they last spoke. [[Gods & Heralds/Aetherion/Terathra\|Terathra]]'s response:)
+(x:: [[The Party/Dead/Kal The Korrigan †\|Korrigan]] confessed that [[Uti †\|Uti †]] had been killed and updated the being on everything that had happened since they last spoke. [[Gods & Heralds/Aetherion/Terathra\|Terathra]]'s response:)
 
 > [!quote] 
 Oh, [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Uti]], a flame now quenched by fate,
