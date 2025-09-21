@@ -74,8 +74,8 @@
 | [[The Party/Halfbie\|Halfbie]]                                                                                | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                          | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None              | Companion    | In The Party | Itone           | Uti's Cave      |
-| [[The Party/Viktor Malkovich\|Viktor Malkovich]]                                                              | \-                | \-           | In The Party | \-              | \-              |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                            | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
+| [[The Party/Viktor Malkovich\|Viktor Malkovich]]                                                              | \-                | \-           | In The Party | \-              | \-              |
 
 { .block-language-dataview}
  
