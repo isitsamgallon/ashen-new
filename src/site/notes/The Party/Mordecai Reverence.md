@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-08-29T22:44:58.198+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-09-21T20:59:36.830+01:00"}
 ---
 
 
 > [!infobox]
 > # Mordecai Reverence
-> ![MordProfilePic.jpg|cover hsmall](/img/user/Admin/Attachments/MordProfilePic.jpg)
+> ![MordProfilePic.jpg](/img/user/Admin/Attachments/MordProfilePic.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -17,7 +17,7 @@
 >  Age | 23 |
 >  Alignment | Neutral Good |
 >  Pronouns | He/ They |
->  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), Unnamed Father, Unnamed Siblings |
+>  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Mother), [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]] (Father) Unnamed Siblings |
 >  Player | [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
@@ -72,4 +72,4 @@ Mordecai's magical abilities manifested unexpectedly in childhood, resulting in 
 ### Trivia
 * Mordecai's miniature figure is modelled after the female character design from Eldritch Foundry, as the male models did not meet his desired aesthetic criteria.
 * A series of misunderstandings led to fans associating Mordecai with Chenris despite their mutual reluctance.
-* Mordecai is confirmed to perform in drag and has occasionally dressed [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in drag costumes.
+* Mordecai is confirmed to perform in drag and has occasionally dressed [[The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in drag costumes.

@@ -27,7 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 49\|Session 49]]                             | 6th Saga - Name Pending     | The session is still being written by Sam.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Session 49\|Session 49]]                             | 6th Saga - Name Pending     | The party grappled with the OFC’s fragile finances, turning to the Tome of Unfinished Stories to conjure wealth, only to attract dangerous visitors. Their scheme ended in disaster when Scorch Dustblood defeated them, leaving them wounded and empty-handed.                                              |
 | [[Session Notes/Session 48\|Session 48]]                             | 6th Saga - Name Pending     | The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.                             |
 | [[Session Notes/Session 47\|Session 47]]                             | 6th Saga - Name Pending     | The session is still being written by Tom.                                                                                                                                                                                                                                                                   |
 | [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]  | 5th Saga - Freedom's Flame  | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.                 |
@@ -69,12 +69,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------- |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
-| [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
+| [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
@@ -91,19 +91,19 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 ### Recently Modified
 - [[Session Notes/Session 49\|Session 49]]
-- [[Session Notes/Season 3 - The Worst Diplomates/Session 26\|Session 26]]
-- [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
-- [[Session Notes/Session 48\|Session 48]]
-- [[The Party/Halfbie\|Halfbie]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
+- [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]
+- [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]
+- [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]
 - [[Session Notes/Session 49\|Session 49]]
 - [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]
 - [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]
-- [[Session Notes/Session 48\|Session 48]]
-- [[Session Notes/Session 47\|Session 47]]
 
 { .block-language-dataview}
 
@@ -111,25 +111,28 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                                               | Date of Tagging    |
-| -------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/Session 49\|Session 49]]                                                        | September 21, 2025 |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                            | August 29, 2025    |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                           | August 19, 2025    |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]               | August 11, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]         | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]       | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]       | August 30, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] | August 30, 2025    |
-| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]             | September 20, 2025 |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                         | September 20, 2025 |
-| [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]                                  | September 20, 2025 |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                       | August 30, 2025    |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                     | August 30, 2025    |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                 | August 30, 2025    |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                   | August 30, 2025    |
-| [[Other Information/Races/Drow\|Drow]]                                                          | August 31, 2025    |
-| [[Groups & Factions/Luminara\|Luminara]]                                                        | August 30, 2025    |
+| Note                                                                                                                                           | Date of Tagging    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                        | August 29, 2025    |
+| [[Other Information/Races/Drow\|Drow]]                                                                                                      | August 31, 2025    |
+| [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]                                                                            | September 23, 2025 |
+| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                         | September 20, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                     | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                   | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]] | September 22, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                   | August 30, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                             | August 30, 2025    |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                     | September 20, 2025 |
+| [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]                                                                            | September 23, 2025 |
+| [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]                                                                              | September 20, 2025 |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                                                   | August 30, 2025    |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                 | August 30, 2025    |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                                             | August 30, 2025    |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                               | August 30, 2025    |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                       | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                           | August 11, 2025    |
+| [[Groups & Factions/Luminara\|Luminara]]                                                                                                    | August 30, 2025    |
+| [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]                                                                                   | September 23, 2025 |
 
 { .block-language-dataview}
 

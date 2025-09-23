@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-08-31T20:22:23.606+01:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-09-21T22:20:14.345+01:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -39,6 +39,7 @@ A collection Quotes said during DND Sessions.
 (x:: "this is a shiv...stab." - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
 (x:: "I don't do realism, I am a fairy man" - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
 (x:: "I am a doctor, not an autist" - [[The Party/Viktor Malkovich\|Viktor Malkovich]])
+(x:: "I understand you want that tiefling bussy" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] )
 
 # Players
 (x::"Racist people don’t discriminate [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
@@ -66,3 +67,4 @@ A collection Quotes said during DND Sessions.
 (x::"We no kill people, we good people. Just enslave ![🥰](https://discord.com/assets/10b67e5181089c99.svg)" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] as a member of the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]])
 (x:: "His tail becomes girthy" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (q:: "[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] only does gay rolls" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
+(x:: "youre not entirely sure the cause of death...but the 20 stab wounds are pretty damning" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
