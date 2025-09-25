@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-08-11T11:53:32.244+01:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-09-25T18:20:59.200+01:00"}
 ---
 
 ### Player Characters
@@ -15,14 +15,14 @@
 		<p>Wizard/Artificer</p> 
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
-		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/MordProfilePic.jpg?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/MordProfilePicNEW.jpeg?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/the-party/mordecai-reverence/">Mordecai Reverence</a>
 		<p>Sorcerer/Bard</p>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
-		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/KorriganProfilePicWeb.png?raw=true"/>
-		<a href="https://www.ashencampaign.xyz/the-party/the-korrigan/">The Korrigan</a>
-		<p>Ranger/Druid</p> 
+		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ViktorConcept.png?raw=true"/>
+		<a href="https://www.ashencampaign.xyz/the-party/viktor-malkovich/">Viktor Malkovich</a>
+		<p>Cleric</p> 
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
 		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/DracheWeb.png?raw=true"/>
@@ -59,11 +59,12 @@
 		<p>Cleric</p> 
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: left;align-items:left;">
-		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ImagePlaceholder.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/1581111423-144885740%201.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/">Sylva Riverstone</a>
 		<p>Druid</p> 
 	</div>
 </div>
+
 
 ### Current Party
 | File                                                                                                             | Class             | Role         | Status       | Home Nation     | Home Town       |

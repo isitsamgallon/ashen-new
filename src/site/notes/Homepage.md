@@ -90,11 +90,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Other Information/Display Tags/The Party\|The Party]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]
+- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]]
-- [[Session Notes/Season 4 - Ignatius Beckons/Session 36\|Session 36]]
-- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
 
 { .block-language-dataview}
 
@@ -131,8 +131,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | August 30, 2025    |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                                                         | August 30, 2025    |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | August 30, 2025    |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 | [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]                                                                                               | September 23, 2025 |
 
