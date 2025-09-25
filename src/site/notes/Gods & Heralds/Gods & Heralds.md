@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-08-11T11:53:31.374+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-09-25T18:17:10.060+01:00"}
 ---
 
 ![Screenshot 2025-06-09 215201.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
@@ -14,39 +14,39 @@ The Ashen Gods are not tidy. They are not moral. They are not concerned with our
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
 	<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/AeloriaWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/AeloriaWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/aeloria/aeloria/">Aeloria</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ChronovorusWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ChronovorusWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/chronovorus/chronovorus/">Chronovorus</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/EldrosWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/EldrosWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/eldros/eldros/">Eldros</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IgnatiusWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IgnatiusWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/ignatius/ignatius/">Ignatius</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/LorwynWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/LorwynWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/lorwyn/lorwyn/">Lorwyn</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/LyIraWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/LyIraWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/lyria/lyria/">Lyria</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/SeraphinaWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/SeraphinaWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/seraphina/seraphina/">Seraphina</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/SommnoraWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/SommnoraWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/somnora/somnora/">Somnora</a>
 	</div>
 		<div style="display: flex; flex-direction: column; justify-content: center;align-items:center;">
-		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/VaelrithWeb%201.png?raw=true"/>
+		<img style="padding: 10px; border-radius: 15px;width:230px;height:153.33px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/VaelrithWeb.png?raw=true"/>
 		<a href="https://www.ashencampaign.xyz/gods-and-heralds/vaelrith/vaelrith/">Vaelrith</a>
 	</div>
 </div>
