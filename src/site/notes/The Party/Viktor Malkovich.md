@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2025-09-13T20:59:44.174+01:00"}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2025-09-25T17:33:02.860+01:00"}
 ---
 
 

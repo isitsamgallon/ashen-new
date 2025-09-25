@@ -26,7 +26,7 @@
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                                                | OFC                          | Steelwick                   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]]                                           | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]                                                        | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornwood\|Theodore Thornwood]]         | Uvam Dynasty                 | Yokotori                    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | Uvam Dynasty                 | Yokotori                    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | Lost Haven                   | The Slums                   |
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                                                     | The Dawn Empire              | Dawnhaven                   |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                                                                            | Unknown/Unclear              | Unknown/Unclear             |

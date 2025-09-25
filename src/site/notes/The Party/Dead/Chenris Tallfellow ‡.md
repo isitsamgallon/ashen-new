@@ -41,8 +41,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
 

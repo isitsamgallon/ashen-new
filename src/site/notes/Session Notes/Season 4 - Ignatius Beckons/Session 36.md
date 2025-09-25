@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-36/","updated":"2025-08-29T22:44:57.782+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-36/","updated":"2025-09-25T18:00:35.012+01:00"}
 ---
 
 **Session Date:** 14th Apr 2025

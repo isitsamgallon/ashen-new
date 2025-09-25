@@ -1,8 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.183+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2025-09-25T18:09:20.128+01:00"}
 ---
 
+>[!infobox]
+> 
+> #  Claribelle Reverence †
+> ![IMG_3614.jpeg](/img/user/Admin/Attachments/IMG_3614.jpeg)
+> ###### General Information
+> Type | Stat |
+>  :----: | --- |
+>  Type  | NPC |
+>  Pronouns | She/ Her |
+> Race | [[Other Information/Races/Tiefling\|Tiefling]] |
+> Age | 30s/ 40s |
+>  Languages | Common, Infernal | 
+>  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] | 
+>  Residence | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] | 
+>  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]] (Husband), [[The Party/Mordecai Reverence\|Mordecai Reverence]] (Child), [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]] (Son), Unnamed Siblings |
+>  ###### Status
+>   Type | Stat |
+>  :----: | --- |
+>  Status  | Dead |
+>  
 
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
 Not much is known about this woman apart from when [[The Party/Mordecai Reverence\|Mordecai Reverence]] first used his magic, he accidentally cast a fireball and blew up his family home, killing his mother and brother. 
 

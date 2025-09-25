@@ -66,12 +66,12 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
 | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]                                                | Dawnhaven             | Unknown |
 | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead    |
-| [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
+| [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
+| [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead    |
 | [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
 | [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
-| [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
 
 { .block-language-dataview}
 

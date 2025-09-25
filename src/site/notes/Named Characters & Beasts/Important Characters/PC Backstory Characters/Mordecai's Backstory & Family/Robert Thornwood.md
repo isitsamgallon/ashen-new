@@ -1,6 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2025-09-22T19:23:41.042+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2025-09-25T18:10:40.141+01:00"}
 ---
+
+>[!infobox]
+> 
+> #  Robert Thornwood
+>![IMG_3613.jpeg](/img/user/Admin/Attachments/IMG_3613.jpeg)
+> ###### General Information
+> Type | Stat |
+>  :----: | --- |
+>  Type  | NPC |
+>  Pronouns | He/ Him |
+> Occupation | Leader of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military & cultural exchange with [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] (Current),Leader of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] (Left Position) |
+>  Race | [[Other Information/Races/Human\|Human]] |
+> Age | 20s |
+>  Languages | Common | 
+>  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] | 
+>  Residence | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] | 
+>  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Wife), [[The Party/Mordecai Reverence\|Mordecai Reverence]] (Child), [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]] (Son), Unnamed Siblings |
+>  ###### Status
+>   Type | Stat |
+>  :----: | --- |
+>  Status  | Alive |
+> ###### Appearances
+>   Type | Stat |
+>  :----: | --- |
+>  First Seen  | [[Session Notes/Season 4 - Ignatius Beckons/Session 34\|Session 34]] |
+>  Last seen | [[Session Notes/Session 49\|Session 49]] |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview

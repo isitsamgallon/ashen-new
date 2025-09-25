@@ -27,9 +27,9 @@
 > | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>   |
 > 
