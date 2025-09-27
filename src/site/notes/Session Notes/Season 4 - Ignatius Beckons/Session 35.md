@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-08-29T22:44:57.739+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-4-ignatius-beckons/session-35/","updated":"2025-09-27T12:55:01.605+01:00"}
 ---
 
 **Session Date:** 26th Mar 2025 
@@ -21,7 +21,7 @@ They all decided they hadn’t gone exploring at night in a long time and wanted
 
 The [[The Party/Dead/Kal The Korrigan †\|Korrigan]] now found himself in a small, one-room house with four new pale faces staring back at him. The one holding him explained that the bat must have been injured, as it walked over to them, and its wings appeared broken. The three boys and one girl in the room rushed off to find medical supplies for the 'bat.' The one holding him began barking orders to the others to fetch specific items, calling them by name: [[Named Characters & Beasts/Cosmo\|Cosmo]], [[Named Characters & Beasts/Calathus\|Calathus]], and [[Named Characters & Beasts/Veranius\|Veranius]]. Still in bat form, [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] tried to explain that he wasn’t a real bat; he just hadn’t mastered wild shaping yet. However, the person holding him didn’t understand and did their best to reassure him that everything would be okay.
 
-Feeling guilty, the [[The Party/Dead/Kal The Korrigan †\|Korrigan]] finally reverted to his humanoid form and sat in one of the nearby chairs. The atmosphere instantly grew tense as the others in the room appeared frightened. With his normal senses and better lighting, [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] quickly realized why their pale skin should have been a warning; the fangs confirmed it. All these children were vampires, and they were terrified that [[Humans\|Humans]] would slaughter them.
+Feeling guilty, the [[The Party/Dead/Kal The Korrigan †\|Korrigan]] finally reverted to his humanoid form and sat in one of the nearby chairs. The atmosphere instantly grew tense as the others in the room appeared frightened. With his normal senses and better lighting, [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] quickly realized why their pale skin should have been a warning; the fangs confirmed it. All these children were vampires, and they were terrified that [[Other Information/Races/Human\|Human]] would slaughter them.
 
 The rest of [[Other Information/Display Tags/The Party\|the party]] grew concerned when [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] did not return from the bush and cautiously went to investigate. While [[The Party/Mordecai Reverence\|Mordecai]] Reverence and [[The Party/Wurinn Fuuldrusch\|Drache]] attempted to figure out what had happened, [[The Party/Halfbie\|Halfbie]] dressed up as a 1960s noir detective using various spells and began to investigate with a spyglass. After some time, [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]] found the same clues and even discovered a dead rabbit. [[The Party/Mordecai Reverence\|Mordecai]] then spotted a small cottage with light streaming out from its boarded windows.
 

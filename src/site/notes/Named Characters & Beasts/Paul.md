@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/paul/","tags":["NPC"],"updated":"2025-08-11T11:53:32.053+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/paul/","tags":["NPC"],"updated":"2025-09-27T12:55:01.120+01:00"}
 ---
 
 ### Overview
-A [[Humans\|Humans]] who runs the mines under [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]. he seems to be quite a mischievous character as the first thing he did with [[Other Information/Display Tags/The Party\|the party]] was send them on a wild goose chase around the mines. He is currently quite concerned about the future of his town now that [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] has disappeared. 
+A [[Other Information/Races/Human\|Human]] who runs the mines under [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]. he seems to be quite a mischievous character as the first thing he did with [[Other Information/Display Tags/The Party\|the party]] was send them on a wild goose chase around the mines. He is currently quite concerned about the future of his town now that [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]] has disappeared. 
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |

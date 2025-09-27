@@ -90,18 +90,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Homepage\|Homepage]]
-- [[Gallery\|Gallery]]
-- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
-- [[Admin/Gallery Images\|Gallery Images]]
-- [[Other Information/Races/Races\|Races]]
+- [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
+- [[Session Notes/Session 49\|Session 49]]
+- [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]
+- [[Locations/Lost Haven/Luminara\|Luminara]]
+- [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]
 
 { .block-language-dataview}
 
 ### Recently Created
 - [[Admin/Gallery Images\|Gallery Images]]
 - [[Gallery\|Gallery]]
-- [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]
+- [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]
 - [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]
 - [[Session Notes/Session 49\|Session 49]]
 
@@ -113,28 +113,23 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                                    | August 29, 2025    |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                                    | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
-| [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]                                                                                        | September 23, 2025 |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | September 20, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 25, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | September 25, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
-| [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]                                                                                        | September 23, 2025 |
-| [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]                                                                                          | September 20, 2025 |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                                                               | August 30, 2025    |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | August 30, 2025    |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                                                         | August 30, 2025    |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | August 30, 2025    |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
-| [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]                                                                                               | September 23, 2025 |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 
 { .block-language-dataview}
 

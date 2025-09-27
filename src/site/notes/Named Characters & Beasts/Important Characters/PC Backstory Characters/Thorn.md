@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2025-08-29T22:44:56.343+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2025-09-27T12:42:51.430+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

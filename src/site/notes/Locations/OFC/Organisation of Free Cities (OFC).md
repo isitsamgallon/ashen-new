@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.761+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-09-27T12:55:00.810+01:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Humans\|Humans]] |
+>  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] & Other Lords |
 >  Current Leader | [[Other Information/Display Tags/The Party\|The Party]] |
 >  ##### Cities & Towns 
@@ -75,7 +75,6 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
-| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
@@ -84,6 +83,7 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
+| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 
 { .block-language-dataview}
 

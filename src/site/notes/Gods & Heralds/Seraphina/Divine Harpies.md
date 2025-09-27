@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/divine-harpies/","updated":"2025-09-27T13:18:26.986+01:00"}
+---
+
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
+### Overview
+Harpys are [[Gods & Heralds/Herald\|Herald]]s of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]].
+
+### History
+Long ago, the Harpies were not aligned with any god and were generally considered a weak race. Eventually, they began to be hunted to the brink of extinction. For some unknown reason, [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] decided to intervene and made the entire race her [[Gods & Heralds/Herald\|Herald]]s. Due to their new status as [[Gods & Heralds/Herald\|Herald]]s, they are now unable to procreate, which means their population cannot increase. However, they also cannot die of old age. As a result, in the rare event that a Harpy is killed, they are lost forever.
+
+### Appearances & Mentions
+| §                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Session 49\|Session 49]] | He was admiring his work until he heard a strange noise from the nearby forest. Went to investigate and along a trail he came across a group of Harpies standing over the mangled corpse of another [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]], something he knew would have been incredibly difficult to do, knowing their status as heralds of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]. he tentatively approached the situation before one called out to him.                                                                       |
+| [[Session Notes/Session 49\|Session 49]] | "Hey..." said [[The Party/Wurinn Fuuldrusch\|Drache]] calmly, raising his hands in a gesture to mean no [[Admin/Spells/Harm\|harm]]."I just wanted to get an idea of what's going on here. I mean, this looks awful. But I just you know we saw a [[Gods & Heralds/Seraphina/Divine Harpies\|harpy]] flying about earlier, and they were in the middle of a fight with something, and I wonder if that's added anything to do with this."                                                                                                        |
+| [[Session Notes/Session 49\|Session 49]] | The [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]] seemed unaware of how long this time frame was due to their immortality, which caused [[The Party/Wurinn Fuuldrusch\|Drache]] to explain that his race typically lived for 80 years, so he would not even get to 1 millennium to do a task. The [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]] almost laughed, saying it was barely a blink for them before letting out a shriek that signalled the rest of the harpies to disperse and for [[The Party/Wurinn Fuuldrusch\|Drache]] to leave them be. |
+
+{ .block-language-dataview}

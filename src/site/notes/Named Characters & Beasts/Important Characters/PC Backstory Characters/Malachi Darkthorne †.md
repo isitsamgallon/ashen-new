@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-08-30T12:59:20.101+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-09-27T12:55:00.941+01:00"}
 ---
 
 >[!infobox]
@@ -12,7 +12,7 @@
 >  Type  | NPC |
 >  Pronouns | He/ Him |
 >  Tiles | King |
->  Race | [[Humans\|Humans]] |
+>  Race | [[Other Information/Races/Human\|Human]] |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
 >  Residence | [[Groups & Factions/Luminara\|Luminara]] | 

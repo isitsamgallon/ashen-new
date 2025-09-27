@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2025-08-30T12:59:15.158+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2025-09-27T13:12:04.821+01:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 > [!infobox]
 > 
@@ -21,26 +21,27 @@
 > Groups | [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] |
 
 ### Overview
+The Siltwater Slums is the slave district of [[Locations/Lost Haven/Lost Haven\|Lost Haven]], the majority of the slaves are miners but some exist as blacksmiths, hunters etc. Conditions in the slums are incredibly poor.
 
 ### Society
 #### Leadership
+The Slums were ran by the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] with the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] running the [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
 
 #### Demographics
+Mixed races, nothing of note.
 
 #### Notable Residents
 | File                                                                                         | Home Town | Status  |
 | -------------------------------------------------------------------------------------------- | --------- | ------- |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                  | The Slums | Dead    |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive   |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                  | The Slums | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]   | The Slums | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]   | The Slums | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]] | The Slums | Dead    |
+| [[Named Characters & Beasts/Tish\|Tish]]                                                  | The Slums | Dead    |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]   | The Slums | Alive   |
 
 { .block-language-dataview}
-
-### Other Information
 
 ### History & Mentions
 | §                                                                      | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-08-31T15:27:05.020+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-09-27T12:55:01.130+01:00"}
 ---
 
 >[!infobox]
@@ -12,7 +12,7 @@
 >  Type  | NPC |
 >  Pronouns | He/ Him |
 > Occupation | Slave |
->  Race | [[Humans\|Humans]] |
+>  Race | [[Other Information/Races/Human\|Human]] |
 > Age | Middle aged |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 

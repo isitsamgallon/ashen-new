@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"updated":"2025-08-11T11:53:32.130+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"updated":"2025-09-27T12:55:00.907+01:00"}
 ---
 
 
 ### Overview
-Ashira is the previous Emperor of [[Locations/Ehobel/Ehobel\|Ehobel]], reigning during the time of [[History & Events/The Sundering\|The Sundering]], fighting with [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]. After the war, she found herself in a love triangle with Caden and Galen. She ultimately falls for Caden, but relationships between [[Humans\|Humans]] and [[Other Information/Races/Elves\|Elves]] are considered, so she promises to love Caden forever in secret.
+Ashira is the previous Emperor of [[Locations/Ehobel/Ehobel\|Ehobel]], reigning during the time of [[History & Events/The Sundering\|The Sundering]], fighting with [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]. After the war, she found herself in a love triangle with Caden and Galen. She ultimately falls for Caden, but relationships between [[Other Information/Races/Human\|Humans]] and [[Other Information/Races/Elves\|Elves]] are considered, so she promises to love Caden forever in secret.
 
 ### Death
 Soon after she returned to [[Locations/Ehobel/Ehobel\|Ehobel]], she was known to leave the palace constantly at night and only return in the early morning, looking incredibly drained. Over time, she became so weak that she passed away. Before she died, she gave birth to a daughter called [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]].

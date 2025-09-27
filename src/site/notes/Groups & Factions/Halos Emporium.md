@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/halos-emporium/","tags":["Groups"],"updated":"2025-08-11T11:53:31.529+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/halos-emporium/","tags":["Groups"],"updated":"2025-09-27T13:04:30.817+01:00"}
 ---
 
-A chain of magic shops found throughout [[Locations/The Amber Realms\|The Amber Realms]]. They sell everything an adventuring party could need out in the wilderness. Often stocking basic magic items, weapons and potions and only hires [[Other Information/Races/Halflings\|halflings]].
+A chain of general & magic stores found throughout [[Locations/The Amber Realms\|The Amber Realms]]. They sell everything an adventuring party could need out in the wilderness. Often stocking basic magic items, weapons and potions and only hires [[Other Information/Races/Halflings\|halflings]]. It was founded by [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]].
 
 ### History & Mentions
 | §                                                                                    | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-49/","updated":"2025-09-23T19:11:51.962+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/session-49/","updated":"2025-09-27T13:18:31.651+01:00"}
 ---
 
 # Session Information
@@ -43,13 +43,13 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::While this was happening, [[The Party/Wurinn Fuuldrusch\|Drache]] went to the back of the city to find [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s old garden, hoping to keep it alive in the man's honour. He fashioned a grave for himself and then began tending to the plants in the area. He picked up a water can and watered everything, nd it seemed to instantly grow and get a lot healthier, which confused [[The Party/Wurinn Fuuldrusch\|Drache]]. Still, he assumed it was some [[Other Information/Races/Fey\|Fey]] water left over from [[The Party/Dead/Kal The Korrigan †\|Korrigan]].)  
 
-(x::He was admiring his work until he heard a strange noise from the nearby forest. Went to investigate and along a trail he came across a group of Harpies standing over the mangled corpse of another [[Gods & Heralds/Seraphina/Holly Harpies\|Harpy]], something he knew would have been incredibly difficult to do, knowing their status as heralds of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]. he tentatively approached the situation before one called out to him.)  
+(x::He was admiring his work until he heard a strange noise from the nearby forest. Went to investigate and along a trail he came across a group of Harpies standing over the mangled corpse of another [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]], something he knew would have been incredibly difficult to do, knowing their status as heralds of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]. he tentatively approached the situation before one called out to him.)  
 
 (x::"You mortal," its voice boomed, " you have no business here, leave.")  
 
 (x::One of the two on the ground next to the body spoke. [[The Party/Wurinn Fuuldrusch\|Drache]]'s eyes were drawn to the sound of flapping wings, discovering a group of Harpies flying above.)  
 
-(x::"Hey..." said [[The Party/Wurinn Fuuldrusch\|Drache]] calmly, raising his hands in a gesture to mean no [[Admin/Spells/Harm\|harm]]."I just wanted to get an idea of what's going on here. I mean, this looks awful. But I just you know we saw a [[Gods & Heralds/Seraphina/Holly Harpies\|harpy]] flying about earlier, and they were in the middle of a fight with something, and I wonder if that's added anything to do with this.")  
+(x::"Hey..." said [[The Party/Wurinn Fuuldrusch\|Drache]] calmly, raising his hands in a gesture to mean no [[Admin/Spells/Harm\|harm]]."I just wanted to get an idea of what's going on here. I mean, this looks awful. But I just you know we saw a [[Gods & Heralds/Seraphina/Divine Harpies\|harpy]] flying about earlier, and they were in the middle of a fight with something, and I wonder if that's added anything to do with this.")  
 
 (x::"You speak for a town of [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]?")  
 
@@ -69,7 +69,7 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::"Still much better than two or three millennia!")  
 
-(x::The [[Gods & Heralds/Seraphina/Holly Harpies\|Harpy]] seemed unaware of how long this time frame was due to their immortality, which caused [[The Party/Wurinn Fuuldrusch\|Drache]] to explain that his race typically lived for 80 years, so he would not even get to 1 millennium to do a task. The [[Gods & Heralds/Seraphina/Holly Harpies\|Harpy]] almost laughed, saying it was barely a blink for them before letting out a shriek that signalled the rest of the harpies to disperse and for [[The Party/Wurinn Fuuldrusch\|Drache]] to leave them be.)  
+(x::The [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]] seemed unaware of how long this time frame was due to their immortality, which caused [[The Party/Wurinn Fuuldrusch\|Drache]] to explain that his race typically lived for 80 years, so he would not even get to 1 millennium to do a task. The [[Gods & Heralds/Seraphina/Divine Harpies\|Harpy]] almost laughed, saying it was barely a blink for them before letting out a shriek that signalled the rest of the harpies to disperse and for [[The Party/Wurinn Fuuldrusch\|Drache]] to leave them be.)  
 
 (x::[[The Party/Halfbie\|Halfbie]] soon built the legs and a wand for [[The Party/Mordecai Reverence\|Mordecai]]. He worked with [[The Party/Viktor Malkovich\|Viktor]] to create a pair of prosthetics made of wood and with the prestigitation spell built into them. They were programmed to make a spark every time [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert]] took a step, but for the first 8 hours, he was the only one not to notice.)  
 
@@ -111,9 +111,9 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::"Ah, yes, either way, it's strange I fell drawn to you..." Halos' voice trailed off.)  
 
-(x::[[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] admitted he felt the same, almost a brotherly connection to the man. They both pondered in silence before Halos handed over the bag of [[Other Information/Money\|gold]]. The man then turned to leave. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] offered some help, but Halos was fine, as some [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|kind man]] made purple portals in the corridor to help everyone get home.)  
+(x::[[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] admitted he felt the same, almost a brotherly connection to the man. They both pondered in silence before [[Named Characters & Beasts/Halos Goodbarrel\|Halos]] handed over the bag of [[Other Information/Money\|gold]]. The man then turned to leave. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] offered some help, but [[Named Characters & Beasts/Halos Goodbarrel\|Halos]] was fine, as some [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|kind man]] made purple portals in the corridor to help everyone get home.)  
 
-(x::"Indeed, anyway, I'm going through my portal now. So, Oh, I wish you well on your [[Other Information/Money\|money]]-gathering scheme. 3000 [[Other Information/Money\|gold]] is not really a bother for me," said Halos as he turned to leave, "Ifyou ever in the need for For a good good old chinwag And some good old halfling beer come find me in [[Locations/The Maryhollows/The Maryhollows\|the Maryhollows]].")  
+(x::"Indeed, anyway, I'm going through my portal now. So, Oh, I wish you well on your [[Other Information/Money\|money]]-gathering scheme. 3000 [[Other Information/Money\|gold]] is not really a [[Named Characters & Beasts/Halos Goodbarrel\|bothe]]r for me," said Halos as he turned to leave, "Ifyou ever in the need for For a good good old chinwag And some good old halfling beer come find me in [[Locations/The Maryhollows/The Maryhollows\|the Maryhollows]].")  
 
 (x::"I might take you up on that. Something makes me want to, you know, unleash on the necrotic energies down a weird cave system with you... strange.")  
 

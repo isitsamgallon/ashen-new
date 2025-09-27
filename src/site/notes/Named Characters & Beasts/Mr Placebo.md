@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2025-09-20T17:29:29.716+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2025-09-27T12:55:01.086+01:00"}
 ---
 
 >[!infobox]

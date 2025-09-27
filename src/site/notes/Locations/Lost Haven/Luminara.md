@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2025-08-30T12:59:15.152+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2025-09-27T13:12:25.480+01:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

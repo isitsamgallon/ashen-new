@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2025-08-29T22:44:56.494+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2025-09-27T12:55:01.024+01:00"}
 ---
 
 >[!infobox]
@@ -12,7 +12,7 @@
 >  Type  | NPC |
 >  Pronouns | She/ Her |
 > Occupation | Slave |
->  Race | [[Humans\|Humans]] |
+>  Race | [[Other Information/Races/Human\|Human]] |
 > Age | Teenager (14) |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 

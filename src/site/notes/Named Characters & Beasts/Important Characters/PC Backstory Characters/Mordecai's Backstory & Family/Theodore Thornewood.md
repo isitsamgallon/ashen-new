@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2025-09-25T18:09:43.377+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2025-09-27T12:55:00.985+01:00"}
 ---
 
 >[!infobox]

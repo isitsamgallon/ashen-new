@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-08-11T11:53:32.276+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-09-27T12:55:01.319+01:00"}
 ---
 
 
@@ -40,7 +40,7 @@ Skin Colour(s) | Pale to dark brown |
 >  Based on | [Smurfs](https://en.wikipedia.org/wiki/The_Smurfs) |
 
 ### Overview
-A race of tiny [[Humans\|Humans]] s native to the lands of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. They're so small that puddles are considered massive lakes or ponds and they're known for living in mushrooms.
+A race of tiny [[Other Information/Races/Human\|Human]] s native to the lands of the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. They're so small that puddles are considered massive lakes or ponds and they're known for living in mushrooms.
 
 ### Attitudes & Beliefs
 Inchlings are known for being quite naïve and unaware of the wider world around them as walking between trees could take them days. Inchlings are also known for living in a [Communistic Society](https://en.wikipedia.org/wiki/Communism)

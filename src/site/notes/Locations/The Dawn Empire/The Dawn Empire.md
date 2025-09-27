@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.792+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-09-27T12:55:00.845+01:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | [[Humans\|Humans]] |
+>  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] |
 >  ##### Notable NPCs
@@ -54,7 +54,6 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
 | [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
 | [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | Alive   |
 | [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
 | [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
 | [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
@@ -72,6 +71,7 @@ The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]
 | [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
 | [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
 | [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
+| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | Alive   |
 
 { .block-language-dataview}
 

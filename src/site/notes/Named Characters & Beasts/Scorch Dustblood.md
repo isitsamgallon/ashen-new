@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/scorch-dustblood/","tags":["NPC"],"updated":"2025-09-23T18:01:07.074+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/scorch-dustblood/","tags":["NPC"],"updated":"2025-09-27T13:09:12.435+01:00"}
 ---
 
 >[!infobox]
@@ -11,12 +11,12 @@
 >  :----: | --- |
 >  Type  | NPC |
 >  Pronouns | He/ Him |
-> Occupation |  |
->  Race | |
-> Age |  |
+> Occupation | The Dustbloods |
+>  Race | Fire Genasi |
+> Age | Middle Aged |
 >  Languages | Common | 
->  Nationality |  | 
->  Residence |  | 
+>  Nationality | [[Locations/The Desert/The Desert\|The Desert]] | 
+>  Residence | The Dustblood Estate | 
 >  ###### Status
 >   Type | Stat |
 >  :----: | --- |
@@ -24,28 +24,26 @@
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
->  First Seen  |  |
->  Last Scene |  |
+>  First Seen  | [[Session Notes/Session 49\|Session 49]] |
+>  Last Scene | [[Session Notes/Session 49\|Session 49]] |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
 ### Overview
-
+A member of the infamous Dustblood Family in [[Locations/The Desert/The Desert\|the desert]]. 
 
 ### Description
 #### Appearance
-
+Not Enough Information
 
 #### Personality
-
+Scorch had a very violent personally, being quick to anger and violence. 
 
 ### Relationships
-#### 
-
-#### 
+#### [[The Party/Viktor Malkovich\|Viktor Malkovich]] 
+Viktor seems to have had some form interaction with them on his travels but not much is known beyond that. 
 
 ### History
-
+Not Enough Information
 
 ### Appearances & Mentions
 | §                                           | Interactions                                                                                                                                                                                                                                                                                                                                         |
