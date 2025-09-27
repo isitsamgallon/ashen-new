@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-09-25T18:17:10.060+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"updated":"2025-09-27T12:24:24.130+01:00"}
 ---
 
-![Screenshot 2025-06-09 215201.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
+![Screenshot 2025-06-09 215201.png|Centre](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
 
 ### Overview
 The Ashen Gods are known across the realms. Their names are etched into the stones of ancient sanctuaries and spoken in the rituals of cities both great and forgotten. Their symbols adorn crests, tombs, and the whispered corners of everyday life. And yet- despite

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-08-11T11:53:32.598+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-09-27T12:39:33.004+01:00"}
 ---
 
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] |
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -90,11 +90,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Gallery Images\|Gallery Images]]
+- [[Homepage\|Homepage]]
 - [[Gallery\|Gallery]]
+- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
+- [[Admin/Gallery Images\|Gallery Images]]
 - [[Other Information/Races/Races\|Races]]
-- [[Other Information/Races/Human\|Human]]
-- [[Other Information/Display Tags/The Party\|The Party]]
 
 { .block-language-dataview}
 
@@ -113,26 +113,26 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                                    | August 29, 2025    |
+| [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]                                                                                        | September 23, 2025 |
 | [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | September 20, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | August 29, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 25, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | September 25, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]]                                                                                        | September 23, 2025 |
-| [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]                                                                                          | September 20, 2025 |
 | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]                                                                                               | August 30, 2025    |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | August 30, 2025    |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                                                                                         | August 30, 2025    |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | August 30, 2025    |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]]                                                                                    | August 29, 2025    |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 | [[Gods & Heralds/Seraphina/Holly Harpies\|Holly Harpies]]                                                                                               | September 23, 2025 |
 

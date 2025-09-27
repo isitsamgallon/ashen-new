@@ -1,41 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","updated":"2025-09-27T11:11:49.639+01:00"}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2025-09-27T12:37:23.032+01:00"}
 ---
 
 <div class="responsive">  
   <div class="gallery">  
-    <a target="_blank" href="img_5terre.jpg">  
-      <img src="img_5terre.jpg" alt="Cinque Terre">  
+    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/FacesStareBack.png?raw=true">  
+      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/FacesStareBack.png?raw=true" alt="Uh oh, where is the image?? hmmm">  
     </a>  
-    <div class="desc">Add a description of the image here</div>  
+    <div class="desc">"The Faces That Stare Back"</div>  
   </div>  
 </div>  
   
 <div class="responsive">  
   <div class="gallery">  
-    <a target="_blank" href="img_forest.jpg">  
-      <img src="img_forest.jpg" alt="Forest">  
+    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/Kal%20The%20korrigan.png?raw=true">  
+      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/Kal%20The%20korrigan.png?raw=true" alt="Uh oh, where is the image?? hmmm">  
     </a>  
-    <div class="desc">Add a description of the image here</div>  
+    <div class="desc">"Kal The Korrigan"</div>  
   </div>  
 </div>  
   
 <div class="responsive">  
   <div class="gallery">  
-    <a target="_blank" href="img_lights.jpg">  
-      <img src="img_lights.jpg" alt="Northern Lights">  
+    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/The%20korrigan%20Herald.png?raw=true">  
+      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/The%20korrigan%20Herald.png?raw=true" alt="Uh oh, where is the image?? hmmm">  
     </a>  
-    <div class="desc">Add a description of the image here</div>  
-  </div>  
-</div>  
-  
-<div class="responsive">  
-  <div class="gallery">  
-    <a target="_blank" href="img_mountains.jpg">  
-      <img src="img_mountains.jpg" alt="Mountains">  
-    </a>  
-    <div class="desc">Add a description of the image here</div>  
+    <div class="desc">"Kal The Herald"</div>  
   </div>  
 </div>  
   
 <div class="clearfix"></div>
+<div class="responsive">  
+  <div class="gallery">  
+    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/halfbie%202.png?raw=true">  
+      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/halfbie%202.png?raw=true" alt="Uh oh, where is the image?? hmmm">  
+    </a>  
+    <div class="desc">"Halfbie's Introduction"</div>  
+  </div>  
+</div>
+
+
+
+

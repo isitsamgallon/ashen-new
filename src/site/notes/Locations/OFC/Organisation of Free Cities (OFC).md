@@ -72,10 +72,10 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
