@@ -8,5 +8,6 @@ Editor for The Archive, they also play [[The Party/Dead/Kal The Korrigan †\|Ka
 | §                                       | Quote                                                  |
 | --------------------------------------- | ------------------------------------------------------ |
 | [[Other Information/Quotes\|Quotes]] | "That is a dex save from the house" - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] |
+| [[Other Information/Quotes\|Quotes]] | "Any angelic hole is a goal" - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]        |
 
 { .block-language-dataview}

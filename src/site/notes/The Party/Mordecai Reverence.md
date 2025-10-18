@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-09-27T12:55:01.706+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-10-18T16:37:26.184+01:00"}
 ---
 
 
@@ -77,7 +77,7 @@ Mordecai is a performer at heart, every aspect of their personality meticulously
 - Burning alive
 
 ### Physical Description
-Mordecai Reverence is always adorned in whatever finery he has been able to afford over the years, favouring gold jewellery and royal purple fabrics that compliment his red complexion. Their long dark hair has gold threads and cuffs encircling different strands. He wears a lot of makeup, favouring the brighter colours as almost a mask to aid his persona he meticulously formed over the years. The only thing genuine about them would be his cloak, clearly old however well maintained. The colour faded to a dull brown, however each hole was meticulously stitched. Though he is clearly fiendish, his eyes are oddly [[Other Information/Races/Human\|Human]].
+Mordecai Reverence is always adorned in whatever finery he has been able to afford over the years, favouring gold jewellery and royal purple fabrics that compliment his red complexion. Their long dark hair has gold threads and cuffs encircling different strands. He wears a lot of makeup, favouring the brighter colours as almost a mask to aid his persona he meticulously formed over the years. The only thing genuine about them would be his cloak, clearly old however well maintained. The colour faded to a dull brown, however each hole was meticulously stitched. Though he is clearly fiendish, his eyes are oddly [[Other Information/Races/Human\|human]].
 
 ### Relations 
 #### [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]/ [[The Party/Halfbie\|Halfbie]]
@@ -92,7 +92,7 @@ Drache is the man Mordecai aspires to be in the future: Kind, understanding and 
 When Mord first met Kal, friction was immediately prevalent in their relationship. Once Kal lost all their memories and came back as Korrigan, their relationship deepened, without the pressure
 
 ### Backstory 
-In [[Other Information/Races/Tiefling\|tiefling]] lore, there is a 1 in 3 chance of producing a [[Other Information/Races/Tiefling\|tiefling]] when you breed with a [[Other Information/Races/Human\|Human]]. This is common knowledge amongst [[Other Information/Races/Tiefling\|tiefling]] but [[Other Information/Races/Human\|humans]]…don’t care enough to learn.
+In [[Other Information/Races/Tiefling\|tiefling]] lore, there is a 1 in 3 chance of producing a [[Other Information/Races/Tiefling\|tiefling]] when you breed with a [[Other Information/Races/Human\|human]]. This is common knowledge amongst [[Other Information/Races/Tiefling\|tiefling]] but [[Other Information/Races/Human\|humans]]…don’t care enough to learn.
 
 Mordecai had two older brother, both [[Other Information/Races/Human\|humans]] destined to be fighters. They were brutish like their barbarian father, built to attack and destroy. They were well loved by their father, whose spitting image they were, and deeply cared about by their mother.
 
@@ -104,7 +104,7 @@ As Mord got older, his brothers slowly learnt that they were allowed to be cruel
 
 Then came the fateful day he lost control, he was only 13. His brothers found the boy, blue skinned and hiding under his mothers red cloak in an attempt to hide his wild magic accident from the night before. [[Theodore Thornwood\|Theodore]] (the eldest) and Niall (the middle child) found him cowering and sneered at how pathetic the [[Other Information/Races/Tiefling\|tiefling]] boy who was not their brother but an imposter. They closed in on him, taunting him that their mother was not home to help him this time. They started their attack as he cried out for them to stop, though this only encouraged them. He screamed and cried from his blue lips, fear choking his throat as he did the only thing he could think of. An orb erupted from his hands, electrical energy fizzing between the boys. Yet all magic came at a price. Mordecai’s eyes rolled back as he rose from the ground, purple magic engulfing him before a [[Admin/Spells/Fireball\|fireball]] thrust him back into the floor.
 
-As a [[Other Information/Races/Tiefling\|tiefling]] the fire only stung but his two [[Other Information/Races/Human\|Human]] brothers were badly burnt. He grabbed his mother’s cloak and ran as the fire surged behind him. What happened next he will always remember in slow motion, running into his mother as the flames roared behind him. The panic and horror in her eyes as she ran into the house to rescue her sons. How she emerged with Theo just as the structural integrity of the house started to fail. His father screaming Niall’s name. Her running in to rescue him. The house tumbling down.
+As a [[Other Information/Races/Tiefling\|tiefling]] the fire only stung but his two [[Other Information/Races/Human\|human]] brothers were badly burnt. He grabbed his mother’s cloak and ran as the fire surged behind him. What happened next he will always remember in slow motion, running into his mother as the flames roared behind him. The panic and horror in her eyes as she ran into the house to rescue her sons. How she emerged with Theo just as the structural integrity of the house started to fail. His father screaming Niall’s name. Her running in to rescue him. The house tumbling down.
 
 His scream. His father screaming his wife’s name. Them all turning on him. His father’s promise that he would never stop hunting him, the cuckoo in his nest. That it was all his fault.
 

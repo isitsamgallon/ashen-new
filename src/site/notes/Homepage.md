@@ -25,18 +25,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Sessions
-| Session                                                                 | Saga                        | Summary                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Session Notes/Session 49\|Session 49]]                             | 6th Saga - Name Pending     | The party grappled with the OFC’s fragile finances, turning to the Tome of Unfinished Stories to conjure wealth, only to attract dangerous visitors. Their scheme ended in disaster when Scorch Dustblood defeated them, leaving them wounded and empty-handed.                                              |
-| [[Session Notes/Session 48\|Session 48]]                             | 6th Saga - Name Pending     | The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.                             |
-| [[Session Notes/Session 47\|Session 47]]                             | 6th Saga - Name Pending     | The session is still being written by Tom.                                                                                                                                                                                                                                                                   |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]  | 5th Saga - Freedom's Flame  | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.                 |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]]  | 5th Saga - Freedom's Flame  | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]  | 5th Saga - Freedom's Flame  | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]]  | 5th Saga - Freedom's Flame  | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]]  | 5th Saga - Freedom's Flame  |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
-| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]]  | 5th Saga - Freedom's Flame  | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
-| [[Session Notes/Season 4 - Ignatius Beckons/Session 40\|Session 40]] | 4th Saga - Ignatius Beckons | Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.                                                                                                         |
+| Session                                                                | Saga                       | Summary                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Session Notes/Session 50\|Session 50]]                            | \-                         | The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.                                           |
+| [[Session Notes/Session 49\|Session 49]]                            | 6th Saga - Name Pending    | The party grappled with the OFC’s fragile finances, turning to the Tome of Unfinished Stories to conjure wealth, only to attract dangerous visitors. Their scheme ended in disaster when Scorch Dustblood defeated them, leaving them wounded and empty-handed.                                              |
+| [[Session Notes/Session 48\|Session 48]]                            | 6th Saga - Name Pending    | The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.                             |
+| [[Session Notes/Session 47\|Session 47]]                            | 6th Saga - Name Pending    | The session is still being written by Tom.                                                                                                                                                                                                                                                                   |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]] | 5th Saga - Freedom's Flame | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.                 |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 45\|Session 45]] | 5th Saga - Freedom's Flame | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                                 |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]] | 5th Saga - Freedom's Flame | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                                          |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 43\|Session 43]] | 5th Saga - Freedom's Flame | The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist. |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 42\|Session 42]] | 5th Saga - Freedom's Flame |  Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.                                                                                         |
+| [[Session Notes/Season 5 - Freedom's Flame/Session 41\|Session 41]] | 5th Saga - Freedom's Flame | After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.                                                                                                  |
 
 { .block-language-dataview}
 
@@ -90,20 +90,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
-- [[Session Notes/Session 49\|Session 49]]
-- [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]
-- [[Locations/Lost Haven/Luminara\|Luminara]]
-- [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]
+- [[Session Notes/Session 50\|Session 50]]
+- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
+- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/Session 50\|Session 50]]
 - [[Admin/Gallery Images\|Gallery Images]]
 - [[Gallery\|Gallery]]
 - [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]
 - [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]
-- [[Session Notes/Session 49\|Session 49]]
 
 { .block-language-dataview}
 

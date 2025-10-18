@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-09-21T22:20:14.345+01:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-10-17T21:24:31.649+01:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -40,6 +40,7 @@ A collection Quotes said during DND Sessions.
 (x:: "I don't do realism, I am a fairy man" - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]])
 (x:: "I am a doctor, not an autist" - [[The Party/Viktor Malkovich\|Viktor Malkovich]])
 (x:: "I understand you want that tiefling bussy" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] )
+(x:: "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]])
 
 # Players
 (x::"Racist people don’t discriminate [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
@@ -68,3 +69,4 @@ A collection Quotes said during DND Sessions.
 (x:: "His tail becomes girthy" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (q:: "[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] only does gay rolls" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (x:: "youre not entirely sure the cause of death...but the 20 stab wounds are pretty damning" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
+(x:: "Any angelic hole is a goal" - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]])

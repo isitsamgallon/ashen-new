@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-00/","updated":"2025-08-30T10:53:26.647+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/season-1-echoes-of-the-ethertwist/session-00/","updated":"2025-10-17T22:29:10.120+01:00"}
 ---
 
 Session Summaries may include some mistakes. Please be careful :)

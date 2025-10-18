@@ -59,6 +59,7 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 | §                                       | Quote                                                                  |
 | --------------------------------------- | ---------------------------------------------------------------------- |
 | [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] |
+| [[Other Information/Quotes\|Quotes]] | "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]]                 |
 
 { .block-language-dataview}
 
