@@ -4,7 +4,7 @@
 
 
 ### Overview
-A member of [[Groups & Factions/The Auditors\|The Auditors]], first appeared [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]
+A member of [[Groups & Factions/The Auditors\|The Auditors]], first appeared [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]]
 
 ### Notable Information
 

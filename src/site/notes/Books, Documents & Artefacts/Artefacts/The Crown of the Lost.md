@@ -8,4 +8,4 @@ An ornate gold crown was found in a ruined castle in the [[Locations/Itone Isles
 
 ### Notable Information 
 - The crown is now useless 
-- it was originally found in [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]
+- it was originally found in [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]]

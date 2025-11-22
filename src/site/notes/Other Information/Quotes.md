@@ -5,7 +5,7 @@
 A collection Quotes said during DND Sessions. 
 
 # Characters
-(x::"Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]])
+(x::"Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/04 Ignatius Beckons/Session 30\|Session 30]])
 (x:: "I’m shitting myself" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 (x:: "Thank you... Wife?" [[The Party/Mordecai Reverence\|Mordecai Reverence]] to [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x:: "I am the most guardiets guard" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])

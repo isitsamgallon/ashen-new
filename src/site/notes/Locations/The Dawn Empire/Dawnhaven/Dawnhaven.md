@@ -5,7 +5,7 @@
 ### Overview
 Dawnhaven is the capital city of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the residence of Emperor Galen Verix. The city appears prosperous, featuring well-constructed and attractive buildings. However, as [[Other Information/Display Tags/The Party\|The Party]] ventures off the main streets, the disparity in wealth becomes increasingly apparent.
 
-Dawnhaven is situated at the northwesternmost point of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. However, it disappeared at the end of [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]] due to an incredibly complex spell cast by [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] and [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]]. Its current location remains unknown.
+Dawnhaven is situated at the northwesternmost point of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. However, it disappeared at the end of [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]] due to an incredibly complex spell cast by [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]] and [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]]. Its current location remains unknown.
 
 ### Known Locations & Affiliations
 - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|The Emperor]]'s Palace 

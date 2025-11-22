@@ -24,5 +24,5 @@ The shelves themselves defy mortal understanding. Some are impossibly tall, exte
 
 ### Notable Information 
 - The library has appeared to [[Other Information/Display Tags/The Party\|The Party]] multiple times throughout the campaign. It first appeared when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] was transported there when [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] was trying to bargain with them to fix the situation they were in when [[Kal †\|Kal †]] was turned into a suicide bomber by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]].
-- It next appeared in [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 09\|Session 09]], where the whole party first met [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] and officially introduced herself and Levelled up [[Other Information/Display Tags/The Party\|The Party]].
+- It next appeared in [[Session Notes/02 The War for The OFC's Freedom/Session 09\|Session 09]], where the whole party first met [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] and officially introduced herself and Levelled up [[Other Information/Display Tags/The Party\|The Party]].
 - The library later appeared to [[The Party/Halfbie\|Halfbie]] when they were about to die and they struck a deal to merge memories with Chenris. 

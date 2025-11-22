@@ -31,7 +31,7 @@
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
->  First Seen  | [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]] |
+>  First Seen  | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] |
 >  
 >Fey Spellcasting |
 >---|
@@ -40,7 +40,7 @@
 
 
 ### Overview
-For a long time [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] did not have a [[Gods & Heralds/Herald\|Herald]] until she intervened in the death of an adventurer named [[The Party/Dead/Kal The Korrigan †\|Kal]]. She made a deal with him which allowed him to return to life as long as he completed her conditions. After Kal's Second death in [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]] in the fight against [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]], Lorwyn took Kal's soul, punishing him for not creating a portal to the feywilds and turned him into her full time [[Gods & Heralds/Herald\|Herald]].
+For a long time [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] did not have a [[Gods & Heralds/Herald\|Herald]] until she intervened in the death of an adventurer named [[The Party/Dead/Kal The Korrigan †\|Kal]]. She made a deal with him which allowed him to return to life as long as he completed her conditions. After Kal's Second death in [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] in the fight against [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]], Lorwyn took Kal's soul, punishing him for not creating a portal to the feywilds and turned him into her full time [[Gods & Heralds/Herald\|Herald]].
 
 ### Notable Information 
-- Their first victim was [[Named Characters & Beasts/Misty\|Misty]] when he kidnapped her at the end of [[Session Notes/Season 5 - Freedom's Flame/Session 46\|Session 46]]
+- Their first victim was [[Named Characters & Beasts/Misty\|Misty]] when he kidnapped her at the end of [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]]

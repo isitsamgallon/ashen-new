@@ -50,7 +50,7 @@
 { .block-language-dataview}
 
 
-> "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 27\|Session 27]]</cite>
+> "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]]</cite>
 
 ### Overview
 Mordecai Reverence is a [[Other Information/Races/Tiefling\|Tiefling]] sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within [[Other Information/Display Tags/The Party\|the party]]. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. 
@@ -142,4 +142,4 @@ Mord stole a large chunk of the club’s [[Other Information/Money\|money]] whil
 * A series of misunderstandings led to fans associating Mordecai with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] despite their mutual reluctance.
 * Mordecai is confirmed to perform in drag and has occasionally dressed [[The Korrigan\|The Korrigan]] and [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] in drag costumes.
 
-[^1]: This occurred in [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]. 
+[^1]: This occurred in [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]. 

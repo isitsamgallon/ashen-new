@@ -47,14 +47,14 @@
 > 
 { .block-language-dataview}
  
-   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"<cite>[[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] - [[Session Notes/Season 5 - Freedom's Flame/Session 44\|Session 44]]</cite>
+   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"<cite>[[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] - [[Session Notes/05  Freedom's Flame/Session 44\|Session 44]]</cite>
 
 ### Overview  
 Korrigan is a human-fey hybrid and serves as the [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. He is a multi-classed Ranger and Druid recognised for utilising a powerful lightning bow and fey magic. Initially, he joined [[Other Information/Display Tags/The Party\|The Party]] under the name [[Kal †\|Kal †]] but perished during a confrontation with a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Subsequently, he re-joined [[Other Information/Display Tags/The Party\|The Party]] in a new form, initially devoid of most of his memories. Through interactions with reminiscences of his past, he gradually regained a significant portion of his memories. Korrigan shared a close bond with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], one of the few individuals capable of understanding him and discerning when he was untruthful. 
 
 ### Kal
 #### Overview
-Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/Season 1 - Echoes of the Ethertwist/Session 00\|Session 00]] when [[Other Information/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Lost Haven/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 
+Kal was a human Rogue/ Ranger Multi-class that joined the party on [[Session Notes/01 Echoes of the Ethertwist/Session 00\|Session 00]] when [[Other Information/Display Tags/The Party\|The Party]] were exploring the ruins of [[Locations/OFC/Balance Ranch\|Balance Ranch]]. He is originally from [[Locations/Lost Haven/Lost Haven\|Lost Haven]], but was known to have spent a long time in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. He was known for his incredible skills with a bow and love for money. Quite often seen as very innocent to the world, Kal was incredibly secretive about his past and what he used to do. 
 
 Kal was eventually killed by a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]], near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] where his soul was soon taken by [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] and a deal was struck for Kal to come back as her [[Gods & Heralds/Herald\|Herald]]. Once resurrected as [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]], the party found him wandering the streets of Steelwick with most of his memories missing. Was played by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]].
 

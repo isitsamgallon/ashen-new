@@ -73,5 +73,5 @@ A hand mirror that reveals the true feelings of anyone gazing into it. Many a je
 { .block-language-dataview}
 
 ### Trivia
-- [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] created her much later in the campaign and then never had the chance to reveal her until [[Session Notes/Season 4 - Ignatius Beckons/Session 33\|Session 33]], when everyone was taken by surprise.
+- [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] created her much later in the campaign and then never had the chance to reveal her until [[Session Notes/04 Ignatius Beckons/Session 33\|Session 33]], when everyone was taken by surprise.
 - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] was especially surprised by her revel as he had a God in his own separate campaign called Lyira. 

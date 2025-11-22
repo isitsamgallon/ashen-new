@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-09-23T19:07:06.357+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-11-22T09:35:30.783+00:00"}
 ---
 
 > [!infobox]
@@ -48,7 +48,7 @@
 
 
 
- > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."<cite>[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - [[Session Notes/Season 3 - The Worst Diplomates/Session 25\|Session 25]]</cite>
+ > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."<cite>[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]</cite>
 
 
 ### Overview
@@ -394,7 +394,7 @@ Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
 - Chenris and Drache have a card game they always play when the rest of [[Other Information/Display Tags/The Party\|The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
 - Chenris is known to have an absolutely horrible sense of direction. Often times [[Other Information/Display Tags/The Party\|The Party]] will say they want to go somewhere and chenris will confidently walk in the opposite direction. He often tried to play it off as he was testing them due to his pride. Mordecai has defaulted to putting some kind of lead on chenris so he can't just randomly walk in a direction.
 	- Rowan has pointed out that Chenris' lack of direction is inspired by [Zoro from One Piece ](https://onepiece.fandom.com/wiki/Roronoa_Zoro), however this isn't true. [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] forgot about that and thought it would be funny at the time. he has since made it a bit more like Zoro's directional skills.
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] had been planning Chenris' betrayal during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] for months before it was finally revealed to the party during [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10\|Session Notes/Season 2 - The War for The OFC's Freedom/Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] had been planning Chenris' betrayal during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] for months before it was finally revealed to the party during [[Session Notes/02 The War for The OFC's Freedom/Session 10\|Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
 - The reason why Chenris' note has a lot more time put into it is that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] uses it as a summary of all their adventures as well to keep [[Locations/Strixhaven\|Strixhaven]] relevant in the background. 
 
 

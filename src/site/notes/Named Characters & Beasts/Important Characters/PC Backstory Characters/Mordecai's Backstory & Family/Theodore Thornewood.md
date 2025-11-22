@@ -25,8 +25,8 @@
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
->  First Seen  | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] |
->  Last seen | [[Session Notes/Season 4 - Ignatius Beckons/Session 35\|Session 35]] |
+>  First Seen  | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]] |
+>  Last seen | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]] |
 >  
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

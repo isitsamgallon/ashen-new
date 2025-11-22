@@ -37,12 +37,12 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > 
 { .block-language-dataview}
 
-> "Looking in the mirror I see three faces staring back at me. None of them belong to me. Two of them are gods, and the other is dead. The worst part is that I don't know which I hate more: the fact that there are three faces that aren't mine or that I am no longer included in my own reflection." <cite>Halfbie - [[Session Notes/Session 48\|Session 48]]</cite>
+> "Looking in the mirror I see three faces staring back at me. None of them belong to me. Two of them are gods, and the other is dead. The worst part is that I don't know which I hate more: the fact that there are three faces that aren't mine or that I am no longer included in my own reflection." <cite>Halfbie - [[Session Notes/06 Urban Legends/Session 48\|Session 48]]</cite>
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. 
@@ -58,7 +58,7 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 ### Quotes
 | §                                       | Quote                                                                  |
 | --------------------------------------- | ---------------------------------------------------------------------- |
-| [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/Season 4 - Ignatius Beckons/Session 30\|Session 30]] |
+| [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/04 Ignatius Beckons/Session 30\|Session 30]] |
 | [[Other Information/Quotes\|Quotes]] | "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]]                 |
 
 { .block-language-dataview}

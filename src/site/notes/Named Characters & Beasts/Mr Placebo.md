@@ -24,8 +24,8 @@
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
->  First Seen  | [[Session Notes/Session 48\|Session 48]] |
->  Last Scene | [[Session Notes/Session 48\|Session 48]]  |
+>  First Seen  | [[Session Notes/06 Urban Legends/Session 48\|Session 48]] |
+>  Last Scene | [[Session Notes/06 Urban Legends/Session 48\|Session 48]]  |
 
 
 ### Overview
@@ -33,8 +33,8 @@ A wizard found in the mages guild of [[Locations/OFC/Blackwall/Blackwall\|Blackw
 
 
 ### Appearances & Mentions
-| §                                           | Interactions                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 48\|Session 48]] | His name was [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]], and his office was down the corridor. Many in [[Other Information/Display Tags/The Party\|the party]] exchanged nervous glances as this was the corridor with [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]], the mad wizard. Halfnbie entered the doctor's office and was greeted by a long, crazed man with long, wiry, white hair. The man looked up and shouted, then spoke, "Oh hello, Sonny. Sit your ass down. How can I help?" |
+| §                                                            | Interactions                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/06 Urban Legends/Session 48\|Session 48]] | His name was [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]], and his office was down the corridor. Many in [[Other Information/Display Tags/The Party\|the party]] exchanged nervous glances as this was the corridor with [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]], the mad wizard. Halfnbie entered the doctor's office and was greeted by a long, crazed man with long, wiry, white hair. The man looked up and shouted, then spoke, "Oh hello, Sonny. Sit your ass down. How can I help?" |
 
 { .block-language-dataview}

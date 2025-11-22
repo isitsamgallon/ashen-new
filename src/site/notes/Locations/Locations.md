@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-08-11T11:53:31.674+01:00"}
+{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-11-22T09:44:26.345+00:00"}
 ---
 
 # Overview
 Below is a lost of all locations found within the campaign. The Majority of the campaign takes place in [[Locations/The Amber Realms\|The Amber Realms]].
 
-# Verdant Peninsula
+# [[Locations/Verdant Peninsula\|Verdant Peninsula]]
 ### [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
 | §                                                               | City Type             |
 | --------------------------------------------------------------- | --------------------- |
