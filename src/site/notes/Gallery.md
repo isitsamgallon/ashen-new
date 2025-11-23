@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2025-11-23T20:20:53.069+00:00"}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2025-11-23T20:26:16.084+00:00"}
 ---
 
 <div class="responsive">  
@@ -48,10 +48,10 @@
 </div>
 <div class="responsive">  
   <div class="gallery">  
-    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IMG_0309.jpg?raw=true">  
-      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IMG_0309.jpg?raw=true" alt="Uh oh, where is the image?? hmmm">  
+    <a target="_blank" href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IMG_4834.jpg?raw=true">  
+      <img src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/IMG_4834.jpg?raw=true">  
     </a>  
-    <div class="desc">"Chenris' Introduction"</div>  
+    <div class="desc">"Seifer Moment"</div>  
   </div>  
 </div>
 

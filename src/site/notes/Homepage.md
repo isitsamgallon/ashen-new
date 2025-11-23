@@ -90,8 +90,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Gallery Images\|Gallery Images]]
 - [[Gallery\|Gallery]]
+- [[Admin/Gallery Images\|Gallery Images]]
 - [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
 - [[Locations/Locations\|Locations]]
