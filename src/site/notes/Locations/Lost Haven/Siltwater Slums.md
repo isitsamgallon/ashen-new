@@ -33,13 +33,13 @@ Mixed races, nothing of note.
 #### Notable Residents
 | File                                                                                         | Home Town | Status  |
 | -------------------------------------------------------------------------------------------- | --------- | ------- |
+| [[Named Characters & Beasts/Tish\|Tish]]                                                  | The Slums | Dead    |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive   |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                  | The Slums | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]   | The Slums | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]   | The Slums | Dead    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]] | The Slums | Dead    |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive   |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                  | The Slums | Dead    |
 
 { .block-language-dataview}
 
