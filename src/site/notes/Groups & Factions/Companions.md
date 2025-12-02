@@ -10,10 +10,10 @@ The name is given to the group of people that travel with [[Other Information/Di
 | ---------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------------------------- |
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                 | Cleric  | Companion | <ul><li>Missing</li></ul> |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] | Druid   | Companion | In The Party              |
-| [[The Party/Other Party Members/Corvus\|Corvus]]                                                              | Unknown | Companion | Travelling                |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                      | Fighter | Companion | Travelling                |
-| [[The Party/Other Party Members/Bruce\|Bruce]]                                                                | Paladin | Companion | Travelling                |
 | [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None    | Companion | In The Party              |
+| [[The Party/Other Party Members/Bruce\|Bruce]]                                                                | Paladin | Companion | Travelling                |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                      | Fighter | Companion | Travelling                |
+| [[The Party/Other Party Members/Corvus\|Corvus]]                                                              | Unknown | Companion | Travelling                |
 
 { .block-language-dataview}
 

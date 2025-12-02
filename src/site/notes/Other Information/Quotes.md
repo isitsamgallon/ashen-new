@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-10-17T21:24:31.649+01:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-12-02T18:04:27.943+00:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -70,3 +70,4 @@ A collection Quotes said during DND Sessions.
 (q:: "[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] only does gay rolls" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (x:: "youre not entirely sure the cause of death...but the 20 stab wounds are pretty damning" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (x:: "Any angelic hole is a goal" - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]])
+(x::"James gave us a Chekhov's gun, and it must be fired!" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]. )

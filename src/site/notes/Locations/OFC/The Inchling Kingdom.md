@@ -13,8 +13,8 @@ The Inchling Kingdom is a tiny kingdom found in the forests near [[Locations/OFC
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]         | Alive  |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]           | Alive  |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]] | Dead   |
-| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]     | Alive  |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]           | Alive  |
+| [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]     | Alive  |
 
 { .block-language-dataview}
 

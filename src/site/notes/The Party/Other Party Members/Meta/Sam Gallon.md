@@ -11,5 +11,6 @@ Primary Editor and Creator of This Archive. Also played [[The Party/Dead/Chenris
 | [[Other Information/Quotes\|Quotes]] | "So we put a bunch of undead bankers with lutes in a tavern... ITS DEATH METAL" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
 | [[Other Information/Quotes\|Quotes]] | "unconscious people don't want to be punched" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]                                   |
 | [[Other Information/Quotes\|Quotes]] | "Ohhh like in hair spray!?" - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] when [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] is talking about MLK jr        |
+| [[Other Information/Quotes\|Quotes]] | "James gave us a Chekhov's gun, and it must be fired!" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].                         |
 
 { .block-language-dataview}
