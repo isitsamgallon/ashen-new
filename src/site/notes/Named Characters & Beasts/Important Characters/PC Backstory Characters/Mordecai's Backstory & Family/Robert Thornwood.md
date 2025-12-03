@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2025-11-22T11:56:47.407+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2025-12-03T17:30:13.405+00:00"}
 ---
 
 >[!infobox]
@@ -11,12 +11,12 @@
 >  :----: | --- |
 >  Type  | NPC |
 >  Pronouns | He/ Him |
-> Occupation | Leader of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military & cultural exchange with [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] (Current),Leader of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] (Left Position) |
+> Occupation | Leader of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military & cultural exchange with [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] (Current),Leader of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] (Previous) |
 >  Race | [[Other Information/Races/Human\|Human]] |
-> Age | 20s |
+> Age | 40/50s |
 >  Languages | Common | 
 >  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] | 
->  Residence | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] | 
+>  Residence | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] | 
 >  Family | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] (Wife), [[The Party/Mordecai Reverence\|Mordecai Reverence]] (Child), [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]] (Son), Unnamed Siblings |
 >  ###### Status
 >   Type | Stat |
@@ -25,15 +25,32 @@
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
->  First Seen  | [[Session Notes/04 Ignatius Beckons/Session 34\|Session 34]] |
+>  First Seen  | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]] |
 >  Last seen | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
-
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-[[The Party/Mordecai Reverence\|Mordecai Reverence]] 's father 
+Robert is [[The Party/Mordecai Reverence\|Mordecai]]'s biological father and was the main reason [[The Party/Mordecai Reverence\|Mordecai]] was unable and fearful about returning to the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Since his defeat in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]], he has taken up residence in the OFC after being kicked out of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]].
 
-### Notable Information
+### Description
+#### Appearance
+Robert is an average-sized [[Other Information/Races/Human\|human]] covered in battle scars. He is missing many of his limbs, including a leg, an arm and some fingers. All of which have been replaced by prosthetics.
 
+#### Personality
+Robert has a cold and cruel personality, especially towards his son, [[The Party/Mordecai Reverence\|Mordecai]]. He enjoys war and being unkind to those around him that he sees as weak, or even worse, weak-willed. He can be incredibly spiteful and prideful, often to his own detriment.
+
+Having worked in the military, or because of his Spiteful personality, he is incredibly strict, especially around how people address him. he does not care for people calling him Robert or any other nickname and insists that people refer to him at minimum as Mr Thornwood.
+
+##### Mordecai
+Before [[The Party/Mordecai Reverence\|Mordecai]]'s magic randomly activated, he seemed to be fine with [[The Party/Mordecai Reverence\|Mordecai]], if a little disappointed that [[The Party/Mordecai Reverence\|Mordecai]] didn't take to the blade as well as their siblings had. However, after the incident, Robert blamed [[The Party/Mordecai Reverence\|Mordecai]] for actively killing his wife and youngest children. He never attempted to find out what actually happened. he ruthlessly hunted [[The Party/Mordecai Reverence\|Mordecai]] out of Uvam and set up specific patrols to make sure [[The Party/Mordecai Reverence\|Mordecai]] could never return without being killed or in fear.
+
+Immediately after his defeat, he was bitter and spiteful that his child had not only beaten him unfairly, but also kept him alive. He desired to die a warrior's death and saw [[The Party/Mordecai Reverence\|Mordecai]]'s mercy as not only weak but disrespectful of how way of life.
+
+Now that he lives in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]], he is the leader of the military force and takes great pleasure in mocking and annoying [[The Party/Mordecai Reverence\|Mordecai]]. His favourite way to try to convince [[The Party/Mordecai Reverence\|Mordecai]] that they aren't much better than him
+
+##### The Party
+Robert doesn't have many strong opinions about [[Other Information/Display Tags/The Party\|the Party]]'s members, except that he loathes being under their command rather than the other way around.
+
+- He seems to have great respect for [[The Party/Wurinn Fuuldrusch\|Drache]] and for people who served in the military.
+- He seems to be ok with [[The Party/Halfbie\|Halfbie]], mainly because they seem to respect him, calling him Mr Thornwood at all times (even without being asked). Halfbe also doesn't seem to shy away from being called a 'butcher' or 'murder' like the other members of their Party, which is a quality he admires in himself and his people.
 
 ### History & Mentions
 | §                                                            | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

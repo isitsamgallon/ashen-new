@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-48/","updated":"2025-11-22T09:36:32.011+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-48/","updated":"2025-12-03T17:37:58.191+00:00"}
 ---
 
 # Session Information
@@ -202,12 +202,4 @@ Barely escaping the collapsing building, the party regrouped on the streets, wou
 (x::"My plan is more about revenge; it doesn't matter now. We'll talk later. For now, it seems your party is getting annoyed at you.")
 
 (x::They stood there trying to process what had just happened, unsure how to proceed.)
-
-
-
-
-# Trivia & Notes
-- 
-
-# Footnotes
 

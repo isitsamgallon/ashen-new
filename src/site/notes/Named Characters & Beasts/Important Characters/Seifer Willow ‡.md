@@ -1,12 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/seifer-willow/","tags":["NPC","Important"],"updated":"2025-09-20T17:30:09.027+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/seifer-willow/","tags":["NPC","Important"],"updated":"2025-12-03T17:32:59.641+00:00"}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
-### Overview
-One of the chief tacticians for [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] 's army during [[History & Events/The Sundering\|The Sundering]]. She faced off against [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/General Midus †\|General Midus †]] many times during the way. She was said to be a brutal commander who would sacrifice anything to achieve her lord's goals. At one point, she was said to use massive fiery explosions that destroyed not only [[Groups & Factions/The Coalition\|The Coalition]] 's forces but also her [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] forces. She devised a plan to lure [[Groups & Factions/The Coalition\|The Coalition]] forces into a trap. Her [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] huddled closely around her, forming a living shield of fiery death. As [[Groups & Factions/The Coalition\|The Coalition]] army encircled them, Seifer unleashed the full power of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], sacrificing herself and her comrades to obliterate the enemy. She was later revealed to be alive inside [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]] on [[Locations/Itone Isles\|Itone Isles]]. She now possesses [[The Party/Mordecai Reverence\|Mordecai Reverence]] after they touch the crown.
+>[!infobox]
+> 
+> #  Seifer Willow ‡
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> Type | Stat |
+>  :----: | --- |
+>  Type  | NPC |
+>  Pronouns | She/ Her |
+> Occupation | General in [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Army (Previous)|
+>  Race | [[Other Information/Races/Human\|Human]] |
+> Age | 100s of Years Old |
+>  Languages | Common | 
+>  Nationality | [[Locations/The Desert/The Desert\|The Desert]] | 
+>  Residence | [[The Party/Mordecai Reverence\|Mordecai Reverence]]'s Mind | 
+> Family | [[Named Characters & Beasts/Kaelin †\|Kaelin †]] (Girlfriend) | 
+>  ###### Status
+>   Type | Stat |
+>  :----: | --- |
+>  Status  | Dead (Previously), Possession of another body (Current) |
+> ###### Appearances
+>   Type | Stat |
+>  :----: | --- |
+>  First Seen  | [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]] |
+>  Last Scene |  |
 
-[[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]] responsible for the torching of [[Locations/The Desert/Emberfall\|Emberfall]]
+### Overview
+Seifer was previously a high-ranking Tactician and General in [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Army during [[History & Events/The Sundering\|the Sundering]]. She died during a particular fierce battle during the war. Many of her followers venerated her and even put her on a par with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. This constant belief manifested as her soul gaining greater powers. She was eventually sealed inside a crown kept on [[Locations/Itone Isles\|Itone]], until Moredcai touched it and she came to possess them. 
+
+### Description
+#### Appearance
+Seifer was briefly described in [[Session Notes/04 Ignatius Beckons/Session 32\|Session 32]] as a medium-sized woman with dark hair and skin, wearing long beige robes.
+
+#### Personality
+Seifer was quite manipulative, making it difficult to track down his true personality. 
+
+To [[The Party/Mordecai Reverence\|Mordecai]], they often come across as a fair and wise leader who sometimes opts for violence quicker than they would. There are many instances where he gave incredibly sound advice that helped [[The Party/Mordecai Reverence\|Mordecai]] and the rest of [[Other Information/Display Tags/The Party\|the Party]] survive. More recently, she even opened up about her life before [[History & Events/The Sundering\|the Sundering]] and how her family was massacred by the infamous Dustblood Family. 
+
+To the rest of [[Other Information/Display Tags/The Party\|the Party]], she often appears as a cold, calculating, and violent person, obliterating her opponents to nothing more than a crisp, then holding [[The Party/Mordecai Reverence\|Mordecai]] hostage to ensure no one finds out what happened. 
+
+### History
+She faced off against [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/General Midus †\|General Midus †]] many times on the way. She was said to be a brutal commander who would sacrifice anything to achieve her lord's goals. At one point, she was told to use massive fiery explosions that destroyed not only [[Groups & Factions/The Coalition\|The Coalition]]'s forces but also her [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] forces. She devised a plan to lure [[Groups & Factions/The Coalition\|The Coalition]] forces into a trap. Her [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] huddled closely around her, forming a living shield of fiery death. As [[Groups & Factions/The Coalition\|The Coalition]] army encircled them, Seifer unleashed the full power of [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], sacrificing herself and her comrades to obliterate the enemy. 
+Seifer Willow ‡ was responsible for the torching of [[Locations/The Desert/Emberfall\|Emberfall]].
 
 ### History & Mentions
 | §                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

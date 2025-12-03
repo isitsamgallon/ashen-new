@@ -72,8 +72,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
@@ -90,11 +90,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/06 Urban Legends/Session 52\|Session 52]]
-- [[Other Information/Quotes\|Quotes]]
-- [[Gallery\|Gallery]]
-- [[Admin/Gallery Images\|Gallery Images]]
 - [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
+- [[Session Notes/06 Urban Legends/Session 50\|Session 50]]
+- [[Session Notes/06 Urban Legends/Session 48\|Session 48]]
+- [[Session Notes/06 Urban Legends/Session 49\|Session 49]]
+- [[Session Notes/All Sessions\|All Sessions]]
 
 { .block-language-dataview}
 
@@ -102,7 +102,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 - [[Session Notes/06 Urban Legends/Session 52\|Session 52]]
 - [[Other Information/House Rules\|House Rules]]
 - [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
-- [[Named Characters & Beasts/Kaelin\|Kaelin]]
+- [[Named Characters & Beasts/Kaelin †\|Kaelin †]]
 - [[Session Notes/06 Urban Legends/Session 50\|Session 50]]
 
 { .block-language-dataview}
@@ -115,16 +115,13 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
-| [[Named Characters & Beasts/Kaelin\|Kaelin]]                                                                                                            | November 16, 2025  |
-| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]                                                                     | September 20, 2025 |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | November 22, 2025  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |

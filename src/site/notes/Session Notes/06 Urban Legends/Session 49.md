@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2025-11-22T09:36:41.151+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2025-12-03T17:37:26.719+00:00"}
 ---
 
 # Session Information
@@ -163,12 +163,12 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::While this happened, [[The Party/Mordecai Reverence\|Mordecai]] suddenly felt their hand move towards their dagger, and an outraged [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] commanded [[The Party/Mordecai Reverence\|Mordecai]] to kill Scorch. [[The Party/Mordecai Reverence\|Mordecai]] tried to ask why, but [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] was so enraged by this person's presence that they could do nothing but scream in anger.)  
 
-(x::Chneris and [[The Party/Wurinn Fuuldrusch\|Drache]] tried to defuse the situation, but Scorch was already mad and ready to kill them all and anyone they held close. [[[[The Party\|[[Other Information/Display Tags/The Party\|The Party]]]] got ready for a fight. [[[[Chenris Tallfellow ‡\|Chenris]] Tallfellow ‡|[[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]]] was halfway through chanting a spell when a flash of blades suddenly appeared, cutting deep into their skin hundreds of times. After that, the battle was a blur as the unprepared party was beaten one by one.)  
+(x::Chneris and [[The Party/Wurinn Fuuldrusch\|Drache]] tried to defuse the situation, but Scorch was already mad and ready to kill them all and anyone they held close. [[Other Information/Display Tags/The Party\|The Party]] got ready for a fight. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]  was halfway through chanting a spell when a flash of blades suddenly appeared, cutting deep into their skin hundreds of times. After that, the battle was a blur as the unprepared party was beaten one by one.)  
 
-(x::They awoke some time later to [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] and many medical professionals treating their wounds as best they could. Much to [[[[Halfbie\|[[Halfbie]]]]'s dismay, the [[Other Information/Money\|gold]] was all gone except for one last bag that Scorch left in [[[[The Party\|[[The Party]]]]'s unconscious bodies.)
+(x::They awoke some time later to [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]] and many medical professionals treating their wounds as best they could. Much to [[The Party/Halfbie\|Halfbie]]'s dismay, the [[Other Information/Money\|gold]] was all gone except for one last bag that Scorch left in [[Other Information/Display Tags/The Party\|The Party]]'s unconscious bodies.)
 
 # Trivia & Notes
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]] where both character that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] used in a oneshot togther where they became a fun chaotic duo that spent most of their time drunk and messing with the rest of [[The Party]].
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]] where both character that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] used in a oneshot togther where they became a fun chaotic duo that spent most of their time drunk and messing with the rest of [[Other Information/Display Tags/The Party\|The Party]].
 
 # Footnotes
 [^1]: This confirmed a theory that [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] died in a hunting accident some time ago and was being puppet by [[Groups & Factions/The Necromantic Circle of Dawnhaven\|The Necromantic Circle of Dawnhaven]] to keep the peace. This theory is fueled by a text found in their lair in [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]], [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Found Here]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-51/","updated":"2025-11-22T13:27:33.393+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-51/","updated":"2025-12-03T17:38:11.036+00:00"}
 ---
 
 # Session Information
@@ -196,17 +196,3 @@ Meanwhile, Mordecai and Drache met with Robert Thornwood, who agreed to act as t
 (x::[[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Wurinn Fuuldrusch\|Drache]] shared a look of bewilderment before grabbing [[The Party/Halfbie\|Halfbie]] and rushing out of the room before Winterbor could get to them. [[The Party/Halfbie\|Halfbie]] later explained how it all happened and explained the preparation they had done while more and [[The Party/Wurinn Fuuldrusch\|Drache]] were away.)
 
 (x::They also showed them. One of the things they had been working on while playing card games with Winterbor. They escorted them to the council rooms where [[Named Characters & Beasts/Merek The Wise\|Merek the wise]] had left his books. The pile remained untouched because no one knew what to do with it. [[The Party/Halfbie\|Halfbie]] retrieved their spellbook and began casting [[Admin/Spells/Fabricate\|Fabricate]], using the book as material to create canvas and umpty paper that the town could use as stationery and stock to sell. With that done, they started to prepare for their raid on the [[Locations/Golden Fort\|golden fort]].)
-
-
-
-
-
-
-
-
-
-# Trivia & Notes
-- 
-
-# Footnotes
-

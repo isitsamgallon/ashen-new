@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2025-11-22T09:33:19.463+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2025-12-03T17:38:05.592+00:00"}
 ---
 
 # Session Information
@@ -219,17 +219,4 @@ Leaving Seraphina’s realm, the party crossed back over the ancient bridge. Dur
 (x::Before the last feeding, my mother was taken. She bleated with joy as they led her away, but fell silent when they took her further from the door. The atmosphere was heavy with dread as the feedings became less frequent. The sanctuary's inhabitants grew thinner and thinner as food supplies dwindled. Eventually, I was the only one left, and soon it would be my turn to be taken away. They led me through a street filled with people crying in pain, their stomachs empty and their beds occupied only by memories. I was taken into a room where the floors were red, and my older brothers and sisters hung from the walls.)  
 
 (x::That was when I realised there was no sky. I wanted to mourn, but I soon realised that dead bodies do not cry. I now hung as nothing more than meat, rotting in a sanctuary that had been forgotten to time.)
-
-
-
-
-
-
-
-
-
-# Trivia & Notes
-- 
-
-# Footnotes
 
