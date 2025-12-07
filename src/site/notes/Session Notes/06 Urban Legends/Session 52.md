@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-52/","updated":"2025-12-02T18:09:23.956+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-52/","updated":"2025-12-07T10:59:26.971+00:00"}
 ---
 
 # Session Information
@@ -86,7 +86,7 @@ Back at the edge of the forest, the threat Halfbie sensed proved very real. Snow
 
 (x::[[The Party/Wurinn Fuuldrusch\|Drache]] entered the door and breathed in the smell of charcoal, Ale, and hearty food. The familiar smells finally relaxed him after a long day. Sitting at the bar, he ordered a local ale and enjoyed the bar snacks. Sitting there, he wondered if there was anyone who could help him and [[Other Information/Display Tags/The Party\|the Party]] navigate their way around the area. Looking at the rest of the Tavern, many of the people there were clearly identifiable as sailors and hunters. While waiting for the other, he decided to ask around and see if anyone could help them.)
 
-(x::Approaching one of the hunters, he asked if they could tell him about navigating through the forests around [[Locations/Snowport\|Snowport]]. The hunters explained that if you wanted to travel, there were two options: walk along the coast and risk being robbed by [[Groups & Factions/The Golden Fleet\|the golden fleet]], or walk through the forest. However, without a knowledgeable guide, they wouldn't last more than a day before they got lost and died, or were 'attacked by the...wildlife')
+(x::Approaching one of the hunters, he asked if they could tell him about navigating through the forests around [[Locations/Snowport\|Snowport]]. [[Named Characters & Beasts/Ringo\|The Hunter]] explained that if you wanted to travel, there were two options: walk along the coast and risk being robbed by [[Groups & Factions/The Golden Fleet\|the golden fleet]], or walk through the forest. However, without a knowledgeable guide, they wouldn't last more than a day before they got lost and died, or were 'attacked by the...wildlife')
 
 (x::[[The Party/Wurinn Fuuldrusch\|Drache]] asked how much [[Other Information/Money\|gold]] it cost to hire a hunter to take them through the woods. The man looked around him before saying, "Whereabouts are you going?")
 
@@ -100,7 +100,7 @@ Back at the edge of the forest, the threat Halfbie sensed proved very real. Snow
 
 (x::"That might be a bit much, we're still searching for fortune at the moment, although if successful, that would be doable.")
 
-(x::The hnter called to the bartender, asking for a private room to talk for a moment. The man behind the bar nodded to a small side room they could use. The hunter beckoned him inside, holding the door open for [[The Party/Wurinn Fuuldrusch\|Drache]]. Once inside, with the door closed, the hunter drew a dagger, pointing it at the [[Other Information/Races/Dragonborn\|dragonborn]].)
+(x::The hnter called to the bartender, asking for a private room to talk for a moment. The man behind the bar nodded to a small side room they could use. [[Named Characters & Beasts/Ringo\|The Hunter]] beckoned him inside, holding the door open for [[The Party/Wurinn Fuuldrusch\|Drache]]. Once inside, with the door closed, the hunter drew a dagger, pointing it at the [[Other Information/Races/Dragonborn\|dragonborn]].)
 
 (x::"Now we are you going?" he said threateningly.)
 
@@ -114,7 +114,7 @@ Back at the edge of the forest, the threat Halfbie sensed proved very real. Snow
 
 (x::"The [[Locations/Golden Fort\|Golden Fort]]", [[The Party/Wurinn Fuuldrusch\|Drache]] said matter-of-factly.)
 
-(x::The hunter's knife wavered for a second. The shock proved too great as he slammed the knife on a table and sat with his head in his hands for a moment.)
+(x::[[Named Characters & Beasts/Ringo\|The Hunter]]'s knife wavered for a second. The shock proved too great as he slammed the knife on a table and sat with his head in his hands for a moment.)
 
 (x::"So you're taking on the [[Locations/Golden Fort\|golden fort]] then?" the hunter said, head still in hands.)
 
