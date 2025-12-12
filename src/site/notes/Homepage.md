@@ -90,11 +90,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Other Information/Creature Sizes\|Creature Sizes]]
 - [[Session Notes/06 Urban Legends/Session 53\|Session 53]]
 - [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]]
 - [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
 - [[Named Characters & Beasts/Ringo\|Ringo]]
-- [[Locations/Snowport\|Snowport]]
 
 { .block-language-dataview}
 
