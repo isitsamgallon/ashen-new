@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-53/","updated":"2025-12-12T17:30:50.507+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-53/","updated":"2025-12-12T17:34:41.284+00:00"}
 ---
 
 # Session Information
 **Session Date:** 6th Dec 2025 
-**Saga**: 6th Saga - Urban Legends
+**Saga**: 6th Saga - Urban Legends 
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 
