@@ -17,15 +17,15 @@
 >   | File                                                                       | Discovery Status               |
 > | -------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>   |
@@ -71,8 +71,8 @@ At least four wars have occurred between the two empires, with the [[History & E
 | [[Named Characters & Beasts/Pour\|Pour]]                                                                                     | Ishnmel   | Alive   |
 | [[Named Characters & Beasts/Ms. Adrei\|Ms. Adrei]]                                                                           | \-        | Alive   |
 | [[Named Characters & Beasts/Illusion Master\|Illusion Master]]                                                               | Caalona   | Alive   |
-| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Grom\|Grom]]                                                                                     | \-        | Unknown |
+| [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] | Ishnmel   | Dead    |
 | [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]                                             | Enelion   | Alive   |
 | [[Named Characters & Beasts/Beasts & Animals/Mannnnnn †\|Mannnnnn †]]                                                        | \-        | Dead    |
 

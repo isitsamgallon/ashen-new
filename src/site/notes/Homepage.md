@@ -27,6 +27,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                         | Saga                       | Summary                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/06 Urban Legends/Session 54\|Session 54]]    | 6th Saga - Urban Legends   | The session is still being written by Sam.                                                                                                                                                                                                                                                   |
 | [[Session Notes/06 Urban Legends/Session 53\|Session 53]]    | 6th Saga - Urban Legends   | The party secured Ringo’s guidance and prepared new spells before venturing into the cursed woods, where Halfbie’s confidence was shaken and danger mounted. Their journey was cut short when they were ambushed by undead hunters and a giant, ending the session mid-combat.               |
 | [[Session Notes/06 Urban Legends/Session 52\|Session 52]]    | 6th Saga - Urban Legends   | The party arrived in remote Snowport, where playful chaos turned quickly to horror and danger—from summoned fish, haunted houses, and treacherous hunters to undead ambushers in the woods. With new threats lurking in the blizzard, their northern journey has only just begun.            |
 | [[Session Notes/06 Urban Legends/Session 51\|Session 51]]    | 6th Saga - Urban Legends   | The party prepared for a daring assault on the Golden Fort, securing allies, gathering intelligence, and confronting personal demons along the way. By the session’s end, plans were set, tensions eased, and the Fatebreakers stood ready to begin their boldest operation yet.             |
@@ -36,7 +37,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/06 Urban Legends/Session 47\|Session 47]]    | 6th Saga - Urban Legends   | The session is still being written by Tom.                                                                                                                                                                                                                                                   |
 | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] | 5th Saga - Freedom's Flame | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall. |
 | [[Session Notes/05  Freedom's Flame/Session 45\|Session 45]] | 5th Saga - Freedom's Flame | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                 |
-| [[Session Notes/05  Freedom's Flame/Session 44\|Session 44]] | 5th Saga - Freedom's Flame | Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.                                          |
 
 { .block-language-dataview}
 
@@ -69,12 +69,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------- |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
-| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
@@ -90,20 +90,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
+- [[Named Characters & Beasts/Ringo\|Ringo]]
 - [[Session Notes/06 Urban Legends/Session 53\|Session 53]]
 - [[Other Information/Creature Sizes\|Creature Sizes]]
 - [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]]
-- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
-- [[Named Characters & Beasts/Ringo\|Ringo]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
 - [[Named Characters & Beasts/Ringo\|Ringo]]
 - [[Session Notes/06 Urban Legends/Session 53\|Session 53]]
 - [[Session Notes/06 Urban Legends/Session 52\|Session 52]]
 - [[Other Information/House Rules\|House Rules]]
-- [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
 
 { .block-language-dataview}
 
@@ -113,21 +113,22 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/06 Urban Legends/Session 54\|Session 54]]                                                                                               | December 21, 2025  |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
-| [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
+| [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 
 { .block-language-dataview}
 

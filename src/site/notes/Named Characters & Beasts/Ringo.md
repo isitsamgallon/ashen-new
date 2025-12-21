@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2025-12-07T11:03:20.946+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2025-12-21T22:40:08.222+00:00"}
 ---
 
 >[!infobox]
@@ -67,7 +67,7 @@ He is a very gruff and stern man who doesn't want to talk very often.
 
 { .block-language-dataview}
 
-**(Current HP: 14)**
+**(Current HP: 9)**
 
 ```statblock
 name: Hunter Ally
