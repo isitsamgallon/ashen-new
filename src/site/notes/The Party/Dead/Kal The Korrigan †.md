@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2025-12-12T17:19:17.924+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2025-12-22T12:05:48.637+00:00"}
 ---
 
 > [!important]+ This note contains information regarding the dead player character known as "Kal The Korrigan"

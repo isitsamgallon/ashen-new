@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-52/","updated":"2025-12-07T10:59:26.971+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-52/","updated":"2025-12-22T13:34:36.455+00:00"}
 ---
 
 # Session Information
 **Session Date:** 28th Nov 2025 
-**Saga**: 6th Saga - Urban Legends
+**Saga**: 7th Saga - Winter Warriors
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 

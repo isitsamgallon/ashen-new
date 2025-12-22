@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-53/","updated":"2025-12-21T20:44:45.328+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-53/","updated":"2025-12-22T13:34:25.310+00:00"}
 ---
 
 # Session Information
 **Session Date:** 6th Dec 2025 
-**Saga**: 6th Saga - Urban Legends 
+**Saga**: 7th Saga - Winter Warriors 
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 
@@ -31,9 +31,9 @@ Combat erupted as the undead hunters vanished into invisibility, leaving the par
 
 (x::As [[Named Characters & Beasts/Ringo\|the Hunter]]  watched them all clean themselves off, he whispered, "Bloody foreigners" under his breath, something that all but [[The Party/Wurinn Fuuldrusch\|Drache]] heard. None addressed it, caring more about hearing the man out rather than his boring racism. He began making his case as they sat down. They all agreed it was a fair deal, especially since we knew about the [[Locations/Golden Fort\|golden fort]]. He confirmed this, but stressed that he would not engage with the raid itself and would try his best to help with some of the planning. He admitted that he only worked as a guard for the front gates that opened for the boats, so the inner workings of other parts of the fort weren't very well known to him.)
 
-(x::They cheered their drinks to confirm the deal before [[The Party/Halfbie\|halfbie]] mentioned that, before heading off, it would be good for them to get some sleep and rest up after their fight with the zombies in the forests. At hearing this, [[Named Characters & Beasts/Ringo\|the Hunter]] 's ears pricked up.)
+(x::They cheered their drinks to confirm the deal before [[The Party/Halfbie\|halfbie]] mentioned that, before heading off, it would be good for them to get some sleep and rest up after their fight with the [[Groups & Factions/the Deathless Clan\|zombies]] in the forests. At hearing this, [[Named Characters & Beasts/Ringo\|the Hunter]] 's ears pricked up.)
 
-(x::"Zombies? decribe 'em for me." he barked.)
+(x::"[[Groups & Factions/the Deathless Clan\|Zombies]]? decribe 'em for me." he barked.)
 
 (x::[[The Party/Halfbie\|Halfbie]] took their time to explain the encounter they had earlier. [[Named Characters & Beasts/Ringo\|the Hunter]]  explained that they were a known entity, most likely cursed a long time ago. Many Hunters in the area had become quite good at fighting back and even learnt how to kill them most effectively. It was now [[The Party/Halfbie\|halfbie]]'s turn to become interested, as they enquired as to how to kill them. [[Named Characters & Beasts/Ringo\|the Hunter]]  explained that if you killed/ damaged their bodies enough, then soon they wouldn't get up again, and they would stay down.)
 
