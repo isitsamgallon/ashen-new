@@ -22,7 +22,7 @@
 >  Average Lifespan | 1000s |
 >  Language(s) | [Common](https://forgottenrealms.fandom.com/wiki/Common "Common"), [Elven](https://forgottenrealms.fandom.com/wiki/Elven_language "Elven language") (the [drow dialect](https://forgottenrealms.fandom.com/wiki/Drow_language "Drow language")), [Undercommon](https://forgottenrealms.fandom.com/wiki/Undercommon "Undercommon"), [Drow Sign Language](https://forgottenrealms.fandom.com/wiki/Drow_Sign_Language "Drow Sign Language") |
 >  Vision | Darkvision |
->  Homeland | [[Locations/The Deadlands\|The Deadlands]] |
+>  Homeland | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >
 >##### Appearance
 > Type | Stat |

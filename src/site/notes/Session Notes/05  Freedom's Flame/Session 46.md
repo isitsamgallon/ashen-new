@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-08-31T18:03:21.050+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-12-30T10:13:07.775+00:00"}
 ---
 
 # Session Information
@@ -102,7 +102,7 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::Leaving the museum and heading for the main gate, [[The Party/Mordecai Reverence\|Mordecai]] asked where Slyva was, to which [[The Party/Halfbie\|Halfbie]] explained that, apparently, when she went to get a doctor, she never returned, and someone saw her leaving quickly, never to be seen again.)  
 
-(x::Along the way, [[The Party/Viktor Malkovich\|Viktor]] revealed that he was a native of [[Locations/The Deadlands\|the Deadlands]], and an excited [[The Party/Halfbie\|Halfbie]] asked if he knew of Name Poisons, as they had recently come across one that killed someone named [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]. Unfortunately, [[The Party/Viktor Malkovich\|Viktor]] was familiar with Name Positions but not with any of the details surrounding them.)  
+(x::Along the way, [[The Party/Viktor Malkovich\|Viktor]] revealed that he was a native of [[Locations/The Deadlands/The Deadlands\|The Deadlands]], and an excited [[The Party/Halfbie\|Halfbie]] asked if he knew of Name Poisons, as they had recently come across one that killed someone named [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]. Unfortunately, [[The Party/Viktor Malkovich\|Viktor]] was familiar with Name Positions but not with any of the details surrounding them.)  
 
 (x::They all decided it was best to travel to the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]] before continuing their journey. [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/Mordecai Reverence\|Mordecai]] began planning the route. [[The Party/Halfbie\|Halfbie]] suddenly had a thought, grabbed the device that [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]] had given them, and clicked the button. Soon, the [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]] appeared before them, and [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim]] greeted them politely in one of his many bodies. [[The Party/Viktor Malkovich\|Viktor]] was incredibly confused as [[The Party/Halfbie\|Halfbie]] and [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim]] quickly caught him up to speed.)  
 

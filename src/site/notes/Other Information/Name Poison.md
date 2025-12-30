@@ -4,9 +4,9 @@
 
 
 ### Overview
-A Type of poison derived from [[Locations/The Deadlands\|The Deadlands]] which acts as an incredibly fast acting and deadly poison for the person the poison is made to kill. 
+A Type of poison derived from [[Locations/The Deadlands/The Deadlands\|The Deadlands]] which acts as an incredibly fast acting and deadly poison for the person the poison is made to kill. 
 
-It is made from the sap of a 'Dead Tree', a tree species native to [[Locations/The Deadlands\|The Deadlands]] and various enchantment magics and glyphs.
+It is made from the sap of a 'Dead Tree', a tree species native to [[Locations/The Deadlands/The Deadlands\|The Deadlands]] and various enchantment magics and glyphs.
 
 ### Victims
 - [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]

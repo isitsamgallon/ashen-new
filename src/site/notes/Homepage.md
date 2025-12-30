@@ -228,20 +228,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Homepage\|Homepage]]
-- [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]
-- [[Locations/The Dawn Empire/Rosehost\|Rosehost]]
-- [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]
-- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
+- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
+- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
+- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]
-- [[Other Information/Unique Items/Hunter's Arrows\|Hunter's Arrows]]
-- [[Groups & Factions/the Deathless Clan\|the Deathless Clan]]
-- [[Groups & Factions/The Hunter's Society\|The Hunter's Society]]
-- [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
+- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
+- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
+- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
 
 { .block-language-dataview}
 

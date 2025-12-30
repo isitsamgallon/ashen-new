@@ -125,14 +125,26 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]
+- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
 - [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 - [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]
+- [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]
+- [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]]
+- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
+- [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]
+- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
+- [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]
+- [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]
 - [[Locations/Morak Hold\|Morak Hold]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Strixhaven\|Strixhaven]]
+- [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
 - [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]
 
 { .block-language-dataview}
@@ -158,6 +170,5 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 ### Off Continent
 - [[Locations/Eldertide\|Eldertide]]
 - [[Locations/Iron Plains\|Iron Plains]]
-- [[Locations/The Deadlands\|The Deadlands]]
 
 { .block-language-dataview}
