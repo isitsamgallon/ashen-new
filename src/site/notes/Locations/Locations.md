@@ -103,6 +103,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Unknown    |
 | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Unknown    |
 | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Unknown    |
+| [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Building   |
 | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Unknown    |
 | [[Locations/The Desert/Sumene\|Sumene]]                                         | Unknown    |
 | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Unknown    |
@@ -125,6 +126,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
 - [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]
 - [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
@@ -140,6 +142,8 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]
 - [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]
 - [[Locations/Morak Hold\|Morak Hold]]
+- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
+- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Strixhaven\|Strixhaven]]
 - [[Locations/The Deadlands/The Deadlands\|The Deadlands]]

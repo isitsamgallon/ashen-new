@@ -228,20 +228,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
+- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
+- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
+- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
 - [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
-- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
-- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
-- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
-- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
+- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
+- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
+- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
 - [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
-- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
-- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
-- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
-- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
 
 { .block-language-dataview}
 
