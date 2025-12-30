@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-54/","updated":"2025-12-22T13:34:10.323+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-54/","updated":"2025-12-30T11:33:03.057+00:00"}
 ---
 
 # Session Information
