@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered"],"updated":"2025-09-27T13:10:39.045+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered"],"updated":"2025-12-30T11:05:39.003+00:00"}
 ---
 
 
 > [!infobox]
 > 
 > # Lost Haven
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![Lost Haven.png](/img/user/Admin/Attachments/Lost%20Haven.png)
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | None |
+>  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | Unknown  |
->  Current Leader | [[Malachi Darkthorne\|Malachi Darkthorne]] |
+>  Previous  Leader | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] |
+>  Current Leader | Unknown/ None |
 >  ##### Cities & Towns 
 >   | File                                                               | Discovery Status             |
 > | ------------------------------------------------------------------ | ---------------------------- |
@@ -26,11 +27,11 @@
 { .block-language-dataview}
 
 ### Overview
-A nation found to the East of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the birthplace of [[The Party/Dead/Kal The Korrigan †\|Kal]]. Lost haven is both the name of the nation and the city. the majority of the nation is made up of [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] where a large slave population is housed and forced to mine coal and iron for the nation. The ruling class and the area where the noble's live is called [[Locations/Lost Haven/Luminara\|Luminara]]. 
+A nation found to the East of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the birthplace of [[The Party/Dead/Kal The Korrigan †\|KA1]]. Lost haven is both the name of the nation and the city. the majority of the nation is made up of [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] where a large slave population is housed and forced to mine coal and iron for the nation. The ruling class and the area where the noble's live is called [[Locations/Lost Haven/Luminara\|Luminara]]. 
 
 ### Society
 #### [[Locations/Lost Haven/Luminara\|Luminara]]
-Acting as the name of both the group and the city, Luminara is where the Nobel's live. They're all shown to live in lavish luxury with comfortable clothes, food and slaves for their every beck and call. Many of them are unnecessarily cruel to their slaves and those who live in the slums. They ruled by the king, [[Malachi Darkthorne\|Malachi Darkthorne]].
+Acting as the name of both the group and the city, Luminara is where the Nobel's live. They're all shown to live in lavish luxury with comfortable clothes, food and slaves for their every beck and call. Many of them are unnecessarily cruel to their slaves and those who live in the slums. They ruled by the king, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne]].
 
 #### The [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]
 A large salve camp where people a kidnapped and forced to work in the mines or hunt food for the nobles. The Camp is ran by the guards with and iron fist, but [[Groups & Factions/Goblin Mafia\|Goblin Mafia]] also seem to have a lot of power and influence.
@@ -45,9 +46,9 @@ Due to [[Locations/Ehobel/Ehobel\|Ehobel]]'s relation with slavery and other int
 - The location of one of [[Other Information/The Towers\|The Towers]]
 
 ### History
-6 years before the start of the campaign, a slave called [[Kal ‡\|KA1]] Started the Lost Haven Slave Revolt after his mentor, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] was murdered by the king. His rebellion nearly worked but the guards got the upper hand and pushed the slaves back. The majority of his friends were soon killed and he was thought to be killed when the king stabbed him in the chest and through him into the ocean.
+6 years before the start of the campaign, a slave called [[The Party/Dead/Kal The Korrigan †\|KA1]] Started the Lost Haven Slave Revolt after his mentor, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]] was murdered by the king. His rebellion nearly worked but the guards got the upper hand and pushed the slaves back. The majority of his friends were soon killed and he was thought to be killed when the king stabbed him in the chest and through him into the ocean.
 
-KA1, better known now as [[Kal ‡\|Kal ‡]] (or [[The Korrigan\|The Korrigan]]), survived the attack and later returned with [[Other Information/Display Tags/The Party\|The Party]] to free all of the slaves and to destroy Lost Haven's Tower.
+KA1, better known now as [[The Party/Dead/Kal The Korrigan †\|Kal]] (or [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]), survived the attack and later returned with [[Other Information/Display Tags/The Party\|The Party]] to free all of the slaves and to destroy Lost Haven's Tower.
 
 ### NPCs From The Lost Haven
 | File                                                                                                                     | Home Town        | Status  |
@@ -58,9 +59,9 @@ KA1, better known now as [[Kal ‡\|Kal ‡]] (or [[The Korrigan\|The Korrigan]]
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                               | The Slums        | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead    |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Alive   |
 
 { .block-language-dataview}
 

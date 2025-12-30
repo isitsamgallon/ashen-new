@@ -260,11 +260,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]]
 - [[Homepage\|Homepage]]
 - [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]]
-- [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
-- [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
-- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
 
 { .block-language-dataview}
 
