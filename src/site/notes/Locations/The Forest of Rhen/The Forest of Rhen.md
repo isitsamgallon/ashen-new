@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/the-forest-of-rhen/","tags":["Undiscovered"],"updated":"2025-12-30T10:30:25.161+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/the-forest-of-rhen/","tags":["Undiscovered"],"updated":"2025-12-30T10:45:50.459+00:00"}
 ---
 
 > [!infobox]
@@ -16,11 +16,11 @@
 >  ##### Cities & Towns 
 >   | File                                                                   | Discovery Status               |
 > | ---------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 ### Overview

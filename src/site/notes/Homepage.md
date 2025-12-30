@@ -228,20 +228,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
-- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
-- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
-- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
-- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
+- [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+- [[Locations/The Desert/The Desert\|The Desert]]
+- [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
+- [[Locations/The Merrihollows/Pennymead\|Pennymead]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Locations/The Merrihollows/Pennymead\|Pennymead]]
+- [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
+- [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
 - [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
 - [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
-- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
-- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
-- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
 
 { .block-language-dataview}
 

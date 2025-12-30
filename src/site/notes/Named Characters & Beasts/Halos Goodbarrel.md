@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-09-27T13:03:47.989+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-12-30T10:41:56.352+00:00"}
 ---
 
 >[!infobox]
@@ -15,7 +15,7 @@
 >  Race | [[Other Information/Races/Halflings\|Halflings]] |
 > Age | Old |
 >  Languages | Common | 
->  Nationality | [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]] | 
+>  Nationality | [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]] | 
 >  Residence | Unknown | 
 >  ###### Status
 >   Type | Stat |

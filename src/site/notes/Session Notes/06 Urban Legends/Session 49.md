@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2025-12-03T17:37:26.719+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2025-12-30T10:41:56.609+00:00"}
 ---
 
 # Session Information
@@ -113,7 +113,7 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::[[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] admitted he felt the same, almost a brotherly connection to the man. They both pondered in silence before Halos handed over the bag of [[Other Information/Money\|gold]]. The man then turned to leave. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] offered some help, but Halos was fine, as some [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|kind man]] made purple portals in the corridor to help everyone get home.)  
 
-(x::"Indeed, anyway, I'm going through my portal now. So, Oh, I wish you well on your [[Other Information/Money\|money]]-gathering scheme. 3000 [[Other Information/Money\|gold]] is not really a bother for me," said Halos as he turned to leave, "Ifyou ever in the need for For a good good old chinwag And some good old halfling beer come find me in [[Locations/The Maryhollows/The Maryhollows\|the Maryhollows]].")  
+(x::"Indeed, anyway, I'm going through my portal now. So, Oh, I wish you well on your [[Other Information/Money\|money]]-gathering scheme. 3000 [[Other Information/Money\|gold]] is not really a bother for me," said Halos as he turned to leave, "Ifyou ever in the need for For a good good old chinwag And some good old halfling beer come find me in [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]].")  
 
 (x::"I might take you up on that. Something makes me want to, you know, unleash on the necrotic energies down a weird cave system with you... strange.")  
 

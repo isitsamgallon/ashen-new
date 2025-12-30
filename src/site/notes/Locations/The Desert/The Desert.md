@@ -1,7 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-desert/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.830+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-desert/","tags":["Undiscovered"],"updated":"2025-12-30T10:45:36.358+00:00"}
 ---
 
+> [!infobox]
+> 
+> # The Desert
+> ![The Desert.png](/img/user/Admin/Attachments/The%20Desert.png)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown  |
+>  Current Leader | None |
+>  ##### Cities & Towns 
+>   | File                                                                               | Discovery Status               |
+> | ---------------------------------------------------------------------------------- | ------------------------------ |
+> | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | <ul><li>Undiscovered</li></ul> |
+> 
+{ .block-language-dataview}
 ### Overview
 A large desert is found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]] and [[Locations/Ehobel/Ehobel\|Ehobel]]. This Desert is home to [[Locations/The Desert/Ember Peak\|Ember Peak]], where [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] was first able to enter [[Locations/The Amber Realms\|the Amber Realms]], thanks to [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]. 
 

@@ -130,6 +130,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]
 - [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
+- [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
 - [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 - [[Locations/Itone Isles\|Itone Isles]]
@@ -142,6 +143,8 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]
 - [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]
 - [[Locations/Morak Hold\|Morak Hold]]
+- [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
+- [[Locations/The Merrihollows/Pennymead\|Pennymead]]
 - [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
 - [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
 - [[Locations/Snowport\|Snowport]]
@@ -149,7 +152,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
 - [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
 - [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
-- [[Locations/The Maryhollows/The Maryhollows\|The Maryhollows]]
+- [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
 
 { .block-language-dataview}
 

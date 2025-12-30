@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Undiscovered"],"updated":"2025-12-30T10:17:46.998+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Undiscovered"],"updated":"2025-12-30T10:47:00.278+00:00"}
 ---
 
 > [!infobox]
@@ -16,14 +16,13 @@
 >  ##### Cities & Towns 
 >   | File                                                                  | Discovery Status               |
 > | --------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Deadlands/The Deadlands\|The Deadlands]]           | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]] | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]       | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]     | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]     | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 
