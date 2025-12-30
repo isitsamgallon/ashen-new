@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-09-27T12:39:33.004+01:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T09:30:35.945+00:00"}
 ---
 
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -16,13 +16,47 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 > 
 > We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
 
-
-<iframe src="https://app.kanka.io/w/322252/maps/108114/explore" width="100%" height="800">
-  <p>Your browser does not support iframes.</p>
-</iframe>
- 
-
-
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4096 3072">
+  <image width="4096" height="3072" xlink:href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg?raw=true/path/to/image"></image> <a xlink:href="https://www.ashencampaign.xyz/locations/golden-fort/">
+    <rect x="355" y="415" fill="#fff" opacity="0" width="170" height="129"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/groups-and-factions/the-golden-fleet/">
+    <rect x="320" y="575" fill="#fff" opacity="0" width="302" height="185"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/ehobel/">
+    <rect x="328" y="928" fill="#fff" opacity="0" width="238" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/jub-s-tribe/jub-s-tribe/">
+    <rect x="30" y="773" fill="#fff" opacity="0" width="217" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/snowport/">
+    <rect x="800" y="501" fill="#fff" opacity="0" width="228" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/fort-moldan/">
+    <rect x="1148" y="55" fill="#fff" opacity="0" width="242" height="185"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/atnas-workshop/">
+    <rect x="305" y="0" fill="#fff" opacity="0" width="332" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/saleh-tower/">
+    <rect x="575" y="1532" fill="#fff" opacity="0" width="100" height="93"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/yren/">
+    <rect x="560" y="1138" fill="#fff" opacity="0" width="71" height="85"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/vulwin-slave-company/">
+    <rect x="524" y="1416" fill="#fff" opacity="0" width="166" height="50"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/goldpass-bridge/">
+    <rect x="796" y="1536" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a>
+</svg>
 
 ### Sessions
 | Session                                                         | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                             |
@@ -90,11 +124,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
+- [[Locations/The Amber Realms\|The Amber Realms]]
 - [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
 - [[Session Notes/06 Urban Legends/Session 52\|Session 52]]
 - [[Session Notes/06 Urban Legends/Session 53\|Session 53]]
-- [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
-- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
 
@@ -124,10 +158,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 
 { .block-language-dataview}
 

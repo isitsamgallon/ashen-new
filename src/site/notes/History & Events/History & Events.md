@@ -3,16 +3,16 @@
 ---
 
 A list of all the historical events that we are aware of:
-- [[History & Events/The Sundering\|The Sundering]]
 - [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
-- [[History & Events/Skyfall Ward\|Skyfall Ward]]
-- [[History & Events/Grayfall Empire\|Grayfall Empire]]
-- [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
-- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
+- [[History & Events/Skyfall Ward\|Skyfall Ward]]
+- [[History & Events/The Sundering\|The Sundering]]
+- [[History & Events/The Cleansing\|The Cleansing]]
+- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 - [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]
 - [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
 - [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]
+- [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
 
 { .block-language-dataview}
 
