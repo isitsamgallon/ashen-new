@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2025-12-30T10:43:39.898+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:32.243+00:00"}
 ---
 
 > [!infobox]
 > 
 >  # The Merrihollows
->![The Merrihollows.png](/img/user/Admin/Attachments/The%20Merrihollows.png)
+> ![The Merrihollows.png](/img/user/Admin/Attachments/The%20Merrihollows.png)
 > ###### Basic Information
 > 
 >  Type | Info |

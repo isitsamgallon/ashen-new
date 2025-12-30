@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T10:11:18.649+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T10:59:48.490+00:00"}
 ---
 
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -18,7 +18,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4096 3072">
   <image width="4096" height="3072" xlink:href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg?raw=true/path/to/image"></image> <a xlink:href="https://www.ashencampaign.xyz/locations/golden-fort/">
-     <rect x="355" y="415" fill="#fff" opacity="0" width="170" height="129"></rect>
+    <rect x="355" y="415" fill="#fff" opacity="0" width="170" height="129"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/groups-and-factions/the-golden-fleet/">
     <rect x="320" y="575" fill="#fff" opacity="0" width="302" height="185"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/ehobel/">
@@ -115,12 +115,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
     <rect x="1710" y="678" fill="#fff" opacity="0" width="658" height="157"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/caalona/">
     <rect x="327" y="1333" fill="#fff" opacity="0" width="118" height="93"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/the-forest-of-rhen/">
+    <rect x="2210" y="1907" fill="#fff" opacity="0" width="423" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/lost-haven/lost-haven/">
+    <rect x="2394" y="1577" fill="#fff" opacity="0" width="256" height="230"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-desert/longsands-bridge/">
+    <rect x="1466" y="2513" fill="#fff" opacity="0" width="124" height="140"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-desert/camp-sophia/">
     <rect x="1363" y="2708" fill="#fff" opacity="0" width="100" height="100"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-desert/broken-ember-throne/">
@@ -147,7 +147,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
     <rect x="2777" y="1650" fill="#fff" opacity="0" width="490" height="100"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/itone-isles/">
     <rect x="2010" y="0" fill="#fff" opacity="0" width="436" height="207"></rect>
-  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-maryhollows/the-maryhollows/">
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-merrihollows/the-merrihollows/">
     <rect x="3596" y="797" fill="#fff" opacity="0" width="484" height="116"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/strixhaven/">
     <rect x="1760" y="1644" fill="#fff" opacity="0" width="318" height="344"></rect>
@@ -159,6 +159,38 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
     <rect x="920" y="1478" fill="#fff" opacity="0" width="134" height="77"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/uvam-dynasty/yakawa/">
     <rect x="1067" y="1600" fill="#fff" opacity="0" width="114" height="79"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/celui-d-origine/">
+    <rect x="2662" y="1927" fill="#fff" opacity="0" width="135" height="65"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/la-luxure-d-abysse/">
+    <rect x="2911" y="1744" fill="#fff" opacity="0" width="132" height="65"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/l-ombre-depravee/">
+    <rect x="2700" y="1747" fill="#fff" opacity="0" width="136" height="110"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/ashbourne-hollow/">
+    <rect x="3996" y="2800" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/sildrune/">
+    <rect x="3683" y="2547" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/rabenfeld/">
+    <rect x="2620" y="2748" fill="#fff" opacity="0" width="170" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/the-last-watch/">
+    <rect x="2293" y="2176" fill="#fff" opacity="0" width="153" height="110"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-forest-of-rhen/fort-hiegard/">
+    <rect x="1953" y="2144" fill="#fff" opacity="0" width="170" height="133"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-merrihollows/oakbarrow/">
+    <rect x="3623" y="980" fill="#fff" opacity="0" width="167" height="117"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/la-troisieme-fille/">
+    <rect x="3335" y="1810" fill="#fff" opacity="0" width="165" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/la-baroud-d-honneur/">
+    <rect x="2997" y="1917" fill="#fff" opacity="0" width="157" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/la-garde-de-nuit/">
+    <rect x="3207" y="1865" fill="#fff" opacity="0" width="118" height="75"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/le-vole-du-diable/">
+    <rect x="3050" y="1802" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-deadlands/le-deuxieme-fils/">
+    <rect x="2857" y="1973" fill="#fff" opacity="0" width="110" height="55"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-merrihollows/pennymead/">
+    <rect x="3953" y="1040" fill="#fff" opacity="0" width="143" height="136"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-merrihollows/goldburrow/">
+    <rect x="3807" y="886" fill="#fff" opacity="0" width="190" height="110"></rect>
   </a>
 </svg>
 
@@ -228,11 +260,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
+- [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]]
 - [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
-- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
-- [[Locations/The Desert/The Desert\|The Desert]]
 - [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
-- [[Locations/The Merrihollows/Pennymead\|Pennymead]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
 
 { .block-language-dataview}
 

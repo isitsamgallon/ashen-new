@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/la-baroud-d-honneur/","tags":["Undiscovered"],"updated":"2025-12-30T10:23:13.987+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/la-baroud-d-honneur/","tags":["Undiscovered"],"updated":"2025-12-30T10:57:26.560+00:00"}
 ---
 
 ### Overview
