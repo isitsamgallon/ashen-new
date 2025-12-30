@@ -1,8 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T10:59:48.490+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T11:55:06.514+00:00"}
 ---
 
-![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
+  <image width="3000" height="1100" xlink:href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ObsidianBannercopy2.png?raw=true"></image> <a xlink:href="https://www.ashencampaign.xyz/the-party/wurinn-fuuldrusch/">
+    <rect x="413" y="168" fill="#fff" opacity="0" width="407" height="590"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/the-party/dead/kal-the-korrigan/">
+    <rect x="851" y="171" fill="#fff" opacity="0" width="408" height="589"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/the-party/halfbie/">
+    <rect x="1290" y="169" fill="#fff" opacity="0" width="410" height="585"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/the-party/mordecai-reverence/">
+    <rect x="1728" y="168" fill="#fff" opacity="0" width="420" height="592"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/the-party/aiden-knight/">
+    <rect x="2174" y="168" fill="#fff" opacity="0" width="404" height="592"></rect>
+  </a>
+</svg>
 
 # Quick Links
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
@@ -260,11 +272,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Admin/Gallery Images\|Gallery Images]]
+- [[Homepage\|Homepage]]
 - [[Locations/Locations\|Locations]]
 - [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
 - [[Admin/Sam's Play Ground\|Sam's Play Ground]]
-- [[Locations/Itone Isles\|Itone Isles]]
-- [[Locations/The Amber Realms\|The Amber Realms]]
 
 { .block-language-dataview}
 
