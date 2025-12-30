@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-11-22T09:44:26.345+00:00"}
+{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-12-30T11:43:19.852+00:00"}
 ---
 
 # Overview
@@ -124,35 +124,49 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 { .block-language-dataview}
 
+### [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+| §                                                                      | City Type     |
+| ---------------------------------------------------------------------- | ------------- |
+| [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Small Village |
+| [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | Castle        |
+| [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Small Village |
+| [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | Small Village |
+| [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Building      |
+
+{ .block-language-dataview}
+
+### [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
+| §                                                                       | City Type       |
+| ----------------------------------------------------------------------- | --------------- |
+| [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | Unknown/Unclear |
+| [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | Unknown/Unclear |
+| [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | Unknown/Unclear |
+| [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | Unknown/Unclear |
+| [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | Unknown/Unclear |
+| [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | Unknown/Unclear |
+| [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | Unknown/Unclear |
+| [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | Unknown/Unclear |
+
+{ .block-language-dataview}
+### [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
+| §                                                        | City Type  |
+| -------------------------------------------------------- | ---------- |
+| [[Locations/The Merrihollows/Goldburrow\|Goldburrow]] | Large Town |
+| [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]   | Large Town |
+| [[Locations/The Merrihollows/Pennymead\|Pennymead]]   | Large Town |
+
+{ .block-language-dataview}
+
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
-- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
-- [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]
-- [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
-- [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
 - [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
 - [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]
-- [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]
-- [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]]
-- [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]
-- [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]
-- [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]
-- [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]
-- [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]
 - [[Locations/Morak Hold\|Morak Hold]]
-- [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
-- [[Locations/The Merrihollows/Pennymead\|Pennymead]]
-- [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]
-- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Strixhaven\|Strixhaven]]
-- [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
-- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
-- [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]
-- [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
 
 { .block-language-dataview}
 

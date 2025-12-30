@@ -260,11 +260,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Locations/Locations\|Locations]]
 - [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
 - [[Admin/Sam's Play Ground\|Sam's Play Ground]]
 - [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/The Amber Realms\|The Amber Realms]]
-- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 
 { .block-language-dataview}
 
