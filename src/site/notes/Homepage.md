@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T09:30:35.945+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T09:54:12.244+00:00"}
 ---
 
 ![ObsidianBannercopy2.png](/img/user/Admin/Attachments/ObsidianBannercopy2.png)
@@ -18,7 +18,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4096 3072">
   <image width="4096" height="3072" xlink:href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg?raw=true/path/to/image"></image> <a xlink:href="https://www.ashencampaign.xyz/locations/golden-fort/">
-    <rect x="355" y="415" fill="#fff" opacity="0" width="170" height="129"></rect>
+   <rect x="355" y="415" fill="#fff" opacity="0" width="170" height="129"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/groups-and-factions/the-golden-fleet/">
     <rect x="320" y="575" fill="#fff" opacity="0" width="302" height="185"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/ehobel/">
@@ -31,22 +31,22 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
     <rect x="1148" y="55" fill="#fff" opacity="0" width="242" height="185"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/atnas-workshop/">
     <rect x="305" y="0" fill="#fff" opacity="0" width="332" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
-  </a><a xlink:href="#">
-    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/irs-thalor/">
+    <rect x="30" y="1313" fill="#fff" opacity="0" width="230" height="119"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/ishnmel/ishnmel/">
+    <rect x="436" y="1646" fill="#fff" opacity="0" width="184" height="112"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/enelion/enelion/">
+    <rect x="667" y="1279" fill="#fff" opacity="0" width="110" height="81"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/horith-tower/">
+    <rect x="511" y="1014" fill="#fff" opacity="0" width="100" height="96"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/renabel/">
+    <rect x="394" y="1194" fill="#fff" opacity="0" width="100" height="85"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/nas-anor/">
+    <rect x="698" y="1505" fill="#fff" opacity="0" width="122" height="53"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/jassin-slave-company/">
+    <rect x="224" y="1612" fill="#fff" opacity="0" width="154" height="64"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/cyran-slave-company/">
+    <rect x="227" y="1070" fill="#fff" opacity="0" width="159" height="73"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/saleh-tower/">
     <rect x="575" y="1532" fill="#fff" opacity="0" width="100" height="93"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/yren/">
@@ -54,7 +54,67 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/vulwin-slave-company/">
     <rect x="524" y="1416" fill="#fff" opacity="0" width="166" height="50"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/goldpass-bridge/">
-    <rect x="796" y="1536" fill="#fff" opacity="0" width="100" height="100"></rect>
+    <rect x="743" y="1563" fill="#fff" opacity="0" width="173" height="50"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="#">
+    <rect x="0" y="0" fill="#fff" opacity="0" width="100" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/groups-and-factions/the-emerald-fort/">
+    <rect x="2227" y="1415" fill="#fff" opacity="0" width="295" height="138"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/oceanvale/">
+    <rect x="1745" y="1416" fill="#fff" opacity="0" width="218" height="99"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/oak's-rest//">
+    <rect x="2021" y="1452" fill="#fff" opacity="0" width="176" height="83"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/newhall/">
+    <rect x="1693" y="895" fill="#fff" opacity="0" width="82" height="52"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/the-all-father-temple/">
+    <rect x="1405" y="887" fill="#fff" opacity="0" width="218" height="84"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/ironfalls/">
+    <rect x="1868" y="1016" fill="#fff" opacity="0" width="168" height="97"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/steelwick/steelwick/">
+    <rect x="1747" y="1216" fill="#fff" opacity="0" width="216" height="50"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/rosehost/">
+    <rect x="2082" y="1014" fill="#fff" opacity="0" width="130" height="67"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/olde-earthgrog/">
+    <rect x="1416" y="1424" fill="#fff" opacity="0" width="178" height="69"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/dustwood/">
+    <rect x="1472" y="1164" fill="#fff" opacity="0" width="134" height="93"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/farpost/">
+    <rect x="1191" y="1223" fill="#fff" opacity="0" width="131" height="86"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/dusthall/">
+    <rect x="1603" y="1527" fill="#fff" opacity="0" width="145" height="65"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/dawnhaven/dawnhaven/">
+    <rect x="1603" y="325" fill="#fff" opacity="0" width="277" height="162"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/cliffhall/">
+    <rect x="1501" y="1055" fill="#fff" opacity="0" width="78" height="56"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/baytown/">
+    <rect x="2235" y="928" fill="#fff" opacity="0" width="147" height="100"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-dawn-empire/the-dawn-empire/">
+    <rect x="1710" y="678" fill="#fff" opacity="0" width="658" height="157"></rect>
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/ehobel/caalona/">
+    <rect x="327" y="1333" fill="#fff" opacity="0" width="118" height="93"></rect>
   </a>
 </svg>
 
@@ -125,19 +185,19 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 ### Recently Modified
 - [[Homepage\|Homepage]]
-- [[Locations/The Amber Realms\|The Amber Realms]]
-- [[Session Notes/06 Urban Legends/Session 51\|Session 51]]
-- [[Session Notes/06 Urban Legends/Session 52\|Session 52]]
-- [[Session Notes/06 Urban Legends/Session 53\|Session 53]]
+- [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]
+- [[Locations/The Dawn Empire/Rosehost\|Rosehost]]
+- [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]
+- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]
 - [[Other Information/Unique Items/Hunter's Arrows\|Hunter's Arrows]]
 - [[Groups & Factions/the Deathless Clan\|the Deathless Clan]]
 - [[Groups & Factions/The Hunter's Society\|The Hunter's Society]]
 - [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
-- [[Named Characters & Beasts/Ringo\|Ringo]]
 
 { .block-language-dataview}
 

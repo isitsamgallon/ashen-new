@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-09-27T12:55:00.845+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-dawn-empire/","tags":["Discovered"],"updated":"2025-12-30T09:38:44.479+00:00"}
 ---
 
 > [!infobox]
@@ -12,7 +12,7 @@
 > :----: | --- |
 >  Primary Race | [[Other Information/Races/Human\|Human]] |
 >  Founder | [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] |
->  Current Leader | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] |
+>  Current Leader | [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] (Puppeteered by [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]) |
 >  ##### Notable NPCs
 >   - [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]
 > - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
@@ -41,37 +41,36 @@
 > | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]                               | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 
 ### Overview
-The home nation of the Humans in [[Locations/The Amber Realms\|The Amber Realms]] and led by [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|The Emperor]], [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the Dwarves in what came to be known as [[History & Events/The Cleansing\|The Cleansing]] led by his ancestor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]]. The Dawn was one of the magic factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period The Dawn had a very good relationship with [[Locations/Ehobel/Ehobel\|Ehobel]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
-
-
+The home nation of the [[Other Information/Races/Human\|Humans]] in [[Locations/The Amber Realms\|The Amber Realms]] and led by [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|The Emperor]], [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the [[Other Information/Races/Dwarves\|Dwarves]] in what came to be known as [[History & Events/The Cleansing\|The Cleansing]] led by his ancestor [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]]. The Dawn was one of the magic factions that made up [[Groups & Factions/The Coalition\|The Coalition]] during [[History & Events/The Sundering\|The Sundering]]. During this period The Dawn had a very good relationship with [[Locations/Ehobel/Ehobel\|Ehobel]] after many wars. However, sometime after [[History & Events/The Sundering\|the Sundering]], the nations began to despise each other again, causing [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]].
 
 ### NPCs From The Dawn
-| File                                                                                                                              | Home Town             | Status  |
-| --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive   |
-| [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | Alive   |
-| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead    |
-| [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive   |
-| [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive   |
-| [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead    |
-| [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive   |
-| [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive   |
-| [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead    |
-| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive   |
-| [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]                                                | Dawnhaven             | Unknown |
-| [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead    |
-| [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive   |
-| [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive   |
-| [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead    |
-| [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive   |
-| [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive   |
-| [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive   |
+| File                                                                                                                              | Home Town             | Status           |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------- |
+| [[Named Characters & Beasts/Tangy\|Tangy]]                                                                                     | The All Father Temple | Alive            |
+| [[Named Characters & Beasts/Serek The Quick\|Serek The Quick]]                                                                 | Dawnhaven             | Alive            |
+| [[Named Characters & Beasts/Paul\|Paul]]                                                                                       | Old Earthgrog         | Alive            |
+| [[Named Characters & Beasts/Mistrel †\|Mistrel †]]                                                                             | Steelwick             | Dead             |
+| [[Named Characters & Beasts/Merek The Wise\|Merek The Wise]]                                                                   | Steelwick             | Alive            |
+| [[Named Characters & Beasts/Mau\|Mau]]                                                                                         | Dawnhaven             | Alive            |
+| [[Named Characters & Beasts/Malin\|Malin]]                                                                                     | The All Father Temple | Alive            |
+| [[Named Characters & Beasts/Lord Ulan †\|Lord Ulan †]]                                                                         | Steelwick             | Dead             |
+| [[Named Characters & Beasts/Lil Boat Boy\|Lil Boat Boy]]                                                                       | Baytown               | Alive            |
+| [[Named Characters & Beasts/Just Jack\|Just Jack]]                                                                             | Newhall               | Alive            |
+| [[Named Characters & Beasts/Jerek The Smooth †\|Jerek The Smooth †]]                                                           | Dawnhaven             | Dead             |
+| [[Named Characters & Beasts/Important Characters/Velthis\|Velthis]]                                                            | Dawnhaven             | Alive            |
+| [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †\|Redmund Verix †]] | Dawnhaven             | Dead             |
+| [[Named Characters & Beasts/Derek The Brave\|Derek The Brave]]                                                                 | Steelwick             | Alive            |
+| [[Named Characters & Beasts/Deputy Bridges\|Deputy Bridges]]                                                                   | Newhall               | Alive            |
+| [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]                                                               | Dawnhaven             | Dead             |
+| [[Named Characters & Beasts/Captain Junior\|Captain Junior]]                                                                   | Dustwood              | Alive            |
+| [[Named Characters & Beasts/Captain Brookes\|Captain Brookes]]                                                                 | Newhall               | Alive            |
+| [[Named Characters & Beasts/Boris Johnson\|Boris Johnson]]                                                                     | Steelwick             | Alive            |
+| [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]                                                | Dawnhaven             | It's Complicated |
 
 { .block-language-dataview}
 

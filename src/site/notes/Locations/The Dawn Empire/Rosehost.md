@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.789+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2025-12-30T09:50:46.526+00:00"}
 ---
 
 ### Overview
 A small town in [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
-
 
 ### History & Mentions
 | §                                                               | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

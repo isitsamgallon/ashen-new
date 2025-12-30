@@ -35,6 +35,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | Dwarven Nation |
 | [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | Large Town     |
 | [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | Large Town     |
+| [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]                               | Small Town     |
 | [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | City           |
 | [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | Large Town     |
 | [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | Small Town     |
