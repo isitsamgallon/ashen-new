@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2025-12-30T11:04:45.324+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2026-01-10T13:45:04.302+00:00"}
 ---
 
-> [!important]+ This note contains information regarding the dead player character known as "Kal The Korrigan"
-> For information regarding [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]] click the link here. 
+> [!Recite] Similar names
+>  This note contains information regarding the dead player character known as "Kal The Korrigan".  For information regarding [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]] click the link here. 
  
  > [!infobox]
 > 
@@ -47,7 +47,8 @@
 > 
 { .block-language-dataview}
  
-   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"<cite>[[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] - [[Session Notes/05  Freedom's Flame/Session 44\|Session 44]]</cite>
+   > [!Quote|author] Kal The Korrigan <br>[[Session Notes/05  Freedom's Flame/Session 44\|Session 44]]
+   > "MY NAME IS KA1 THE KORRIGAN, HERALD OF LORWYN - AND YOU WILL NOW KNOW FEAR!!"
 
 ### Overview  
 Korrigan is a human-fey hybrid and serves as the [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. He is a multi-classed Ranger and Druid recognised for utilising a powerful lightning bow and fey magic. Initially, he joined [[Other Information/Display Tags/The Party\|The Party]] under the name [[Kal †\|Kal †]] but perished during a confrontation with a Wyvern on the [[Locations/Verdant Spine\|Verdant Spine]] near [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. Subsequently, he re-joined [[Other Information/Display Tags/The Party\|The Party]] in a new form, initially devoid of most of his memories. Through interactions with reminiscences of his past, he gradually regained a significant portion of his memories. Korrigan shared a close bond with [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], one of the few individuals capable of understanding him and discerning when he was untruthful. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2025-09-20T17:34:26.037+01:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-01-10T13:47:35.553+00:00"}
 ---
 
 
@@ -37,12 +37,13 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > 
 { .block-language-dataview}
 
-> "Looking in the mirror I see three faces staring back at me. None of them belong to me. Two of them are gods, and the other is dead. The worst part is that I don't know which I hate more: the fact that there are three faces that aren't mine or that I am no longer included in my own reflection." <cite>Halfbie - [[Session Notes/06 Urban Legends/Session 48\|Session 48]]</cite>
+  > [!Quote|author] Halfbie <br>[[Session Notes/06 Urban Legends/Session 48\|Session 48]]
+  > "Looking in the mirror I see three faces staring back at me. None of them belong to me. Two of them are gods, and the other is dead. The worst part is that I don't know which I hate more: the fact that there are three faces that aren't mine or that I am no longer included in my own reflection." 
 
 ### Overview
 An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party\|The Party]], claiming that he had seen them in their dreams. They first appeared to [[Other Information/Display Tags/The Party\|The Party]] in their spring form and personality. 

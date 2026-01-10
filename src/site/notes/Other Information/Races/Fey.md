@@ -83,10 +83,10 @@ Of course, many fey could not be classified into any larger group beyond being r
 - [Yuki-on-na](https://forgottenrealms.fandom.com/wiki/Yuki-on-na "Yuki-on-na")
 
 ### ### Known Fey
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
 - [[Named Characters & Beasts/Beasts & Animals/Man-Eating Horse\|Man-Eating Horse]]
 - [[Named Characters & Beasts/King Oberon\|King Oberon]]
 - [[Named Characters & Beasts/Queen Titania\|Queen Titania]]
-- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
 
 { .block-language-dataview}
 

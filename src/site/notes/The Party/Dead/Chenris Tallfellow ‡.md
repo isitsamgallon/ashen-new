@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2025-11-22T09:35:30.783+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-01-10T13:45:25.698+00:00"}
 ---
+
+>[!Recite]   Note
+>This is a very long note as [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] started playing with the idea that [[Locations/Strixhaven\|Strixhaven]] was possible keeping an eye on him so this is the dossier that they held on him. 
 
 > [!infobox]
 > 
@@ -46,10 +49,8 @@
 > 
 { .block-language-dataview}
 
-
-
- > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."<cite>[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] - [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]</cite>
-
+ > [!Quote|author] Chenris Tallfellow <br>[[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
+> “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."
 
 ### Overview
 Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].

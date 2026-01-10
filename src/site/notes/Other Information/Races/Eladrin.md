@@ -62,8 +62,8 @@ The abilities that fey eladrin possessed were dependent on the season towards wh
 - Winter eladrin entered that state when distressed by sadness. They irradiated their melancholy, sapping the will to act from all creatures around them. They could innately cast spells such as cone of cold, fog cloud, gust of wind, and ice storm.
 
 ### ### Known Eladrin
-- [[Named Characters & Beasts/Jessamine †\|Jessamine †]]
 - [[The Party/Halfbie\|Halfbie]]
+- [[Named Characters & Beasts/Jessamine †\|Jessamine †]]
 
 { .block-language-dataview}
 

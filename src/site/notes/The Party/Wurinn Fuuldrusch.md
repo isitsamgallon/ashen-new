@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2025-08-30T10:57:12.027+01:00"}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2026-01-10T13:49:22.298+00:00"}
 ---
 
 
@@ -36,13 +36,14 @@
 >Languages | Common, Draconic|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > - [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
+> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > 
 { .block-language-dataview}
 
 
-> "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."<cite>Drache - [[Session 28\|Session 28]]</cite>
+  > [!Quote|author] Wurinn Fuuldrusch <br>[[Session 28\|Session 28]]
+  >  "That doesn't really matter; all that does is that I live what little time I have in this world the best way I can."
 
 ### Overview
 Wurinn Fuuldrusch, or more commonly known as 'Drache', is a white [[Other Information/Races/Dragonborn\|Dragonborn]]. It is currently unknown where he is originally from, but he spent the majority of his life serving in [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]. He is a Barbarian/ Paladin multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for being honest and good to fault and is often seen as the party's moral compass. He is also physically the strongest out of the party, often being left to do most physical activities. 

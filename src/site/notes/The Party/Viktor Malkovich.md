@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2025-12-22T12:06:56.439+00:00"}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-01-10T13:49:00.670+00:00"}
 ---
 
 
@@ -41,7 +41,8 @@
 { .block-language-dataview}
 
 
-> "I am a doctor, not an autist" <cite>[[The Party/Viktor Malkovich\|Viktor Malkovich]] -  [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]]</cite>
+  > [!Quote|author] Viktor Malkovich <br>[[Session Notes/05  Freedom's Flame/Session 46\|Session 46]]
+  >  "I am a doctor, not an autist"
 
 ### Overview
 Hailing from the bleak expanse of [[Locations/The Deadlands/The Deadlands\|The Deadlands]], Viktor Malcovich is a 144-year-old [[Other Information/Races/Drow\|drow]] with a reputation steeped in mystery and unorthodox cures. A wandering physician and arcane apothecary, he offers his services to kingdoms and clandestine orders alike, specialising in afflictions that defy conventional medicine. Whether it be a village plagued by necrotic rot, a noble cursed with bloodthirst, or an outbreak tied to forgotten magics. Viktor does his best to cure the needy .

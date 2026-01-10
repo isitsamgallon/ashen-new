@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2025-10-18T16:37:26.184+01:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-01-10T13:51:51.057+00:00"}
 ---
 
 
@@ -50,7 +50,8 @@
 { .block-language-dataview}
 
 
-> "I don't want to be alone!"<cite>[[The Party/Mordecai Reverence\|Mordecai Reverence]] - [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]]</cite>
+  > [!Quote|author] Mordecai Reverence <br>[[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]]
+  >  "I don't want to be alone!"
 
 ### Overview
 Mordecai Reverence is a [[Other Information/Races/Tiefling\|Tiefling]] sorcerer-bard multi-class character originating from the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. He is a prominent member of [[Other Information/Display Tags/The Party\|The Party]], recognised for his dramatic flair and innate magical abilities. Mordecai often serves as both the focal point of the group's charm and a source of tension within [[Other Information/Display Tags/The Party\|the party]]. Notably, they have an aversion to fire magic, coupled with a talent for theatrical improvisation, which distinguishes them during their adventures. 
@@ -83,7 +84,7 @@ Mordecai Reverence is always adorned in whatever finery he has been able to affo
 #### [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]/ [[The Party/Halfbie\|Halfbie]]
 Mordecai saw a lot of himself in Chenris. He felt like if he could devote his time to bettering Chenris then that means there was hope for them too. Naturally this caused much friction with the other member of the party in a very brotherly way that’s incredibly annoying however surprisingly effective. Once Chenris had sacrificed himself for the rest of the party’s benefit [^1], Mordecai then understood the true difference between them- selfishness runs through their core and they couldn’t fathom doing what Chenris did for them all. The guilt that followed consumed him. 
 
-When Halfbie turned up, the wound was still raw and they immediately took a dislike to them. He was convinced that Halfbie was hiding something from them and was adamant that they would never take Chenris’ place within the party. As time wore on, Mordecai has reluctantly grown to care about the boy, realising that Halfbie truly doesn’t understand what is going on within their own body and how scary that must be for them. Their seemingly toxic positivity was simply childish naivety and now it is gone…they miss it.
+When Halfbie turned up, the wound was still raw and they immediately took a dislike to them. He was convinced that Halfbie was hiding something from them and was adamant that they would never take Chenris’ place within the party. As time wore on,  Mordecai has reluctantly grown to care about the boy, realising that Halfbie truly doesn’t understand what is going on within their own body and how scary that must be for them. Their seemingly toxic positivity was simply childish naivety and now it is gone…they miss it.
 
 #### [[The Party/Wurinn Fuuldrusch\|Wurinn 'Drache' Fuuldrusch]]
 Drache is the man Mordecai aspires to be in the future: Kind, understanding and willing to know exactly where and when he screwed up and attempt his all to fix it - no matter the personal cost. Mordecai knows they will never be like him but still strives for Drache’s approval any way he can. Drache became Mordecai’s father figure, a guiding light when all he knew previously was darkness. Without him, Mordecai would simply be a lost cause, allowing the darkness to steer him off the path of redemption he so craves

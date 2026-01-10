@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2025-08-16T13:08:44.441+01:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-01-10T13:46:21.852+00:00"}
 ---
 
 
@@ -44,7 +44,8 @@
 { .block-language-dataview}
 
 
- > "..."  <cite>Aidan Knight</cite>
+  > [!Quote|author] Aidan Knight <br>
+  > "..." 
 
 ### Overview
 Aiden Knight is a human rogue and warlock, notable for his multi-class abilities in the realms of both stealth and arcane magic. He is a member of a party involved in the unfolding narrative of time distortion, initially coming to their attention during a significant temporal anomaly.  

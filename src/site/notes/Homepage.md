@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-30T11:55:06.514+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-01-10T14:00:44.104+00:00"}
 ---
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
@@ -20,13 +20,6 @@
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
-
-> [!tip] Useful Tip - Daggers
-> † denotes that this character is dead.
-> 
-> ‡ denotes that the circumstances around this character's death are strange or unusual.
-> 
-> We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4096 3072">
   <image width="4096" height="3072" xlink:href="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/ZoomedOutMapOfAmberRealms.jpg?raw=true/path/to/image"></image> <a xlink:href="https://www.ashencampaign.xyz/locations/golden-fort/">
@@ -256,15 +249,15 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven\|Strixhaven]]                                               | July 31, 2025 |
 
@@ -272,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Gallery Images\|Gallery Images]]
 - [[Homepage\|Homepage]]
-- [[Locations/Locations\|Locations]]
-- [[Session Notes/06 Urban Legends/Session 54\|Session 54]]
-- [[Admin/Sam's Play Ground\|Sam's Play Ground]]
+- [[Gallery\|Gallery]]
+- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
 
 ### Recently Created
 - [[Locations/The Merrihollows/Pennymead\|Pennymead]]
-- [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
 - [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
+- [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
 - [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
-- [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]
+- [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]]
 
 { .block-language-dataview}
 
@@ -297,23 +290,28 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 
 { .block-language-dataview}
+>[!Recite]  Get the most out of DND
+> As always, you should talk to [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] if you have any ideas or thoughts relating to the campaign. **NEVER** keep secrets from the DM. This is a collaborative storytelling game, and it only works well if the storyteller knows what's happening. They might even be able to make it happen better than you expected. 
 
-### Other Information 
-Most tables are actually database query searches and will automatically update when new information is added. DM [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] if you have any suggestions on possible searches.
+> [!tip] Useful Tip - Daggers
+> † denotes that this character is dead.
+> 
+> ‡ denotes that the circumstances around this character's death are strange or unusual.
+> 
+> We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
 
-As always, you should talk to [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] if you have any ideas or thoughts relating to the campaign. **NEVER** keep secrets from the DM. This is a collaborative storytelling game, and it only works well if the storyteller knows what's happening. They might even be able to make it happen better than you expected. 
