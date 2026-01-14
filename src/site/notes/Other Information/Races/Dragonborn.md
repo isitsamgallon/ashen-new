@@ -42,7 +42,7 @@ Humanoid dragons species Despite having no ancestral links to true dragons, the 
 Dragonborn had a well-known dedication to honour, but how deeply rooted this trait was remains debatable. However, all dragonborn tended to view all living things, even hated enemies, as deserving of courtesy and respect. To dragonborn, honour was more than a word and was often considered more important than life itself. Cowardice was not simply undesirable among dragonborn, it was considered outright repulsive.
 
 ### Known Dragonborns
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
 - [[Named Characters & Beasts/Commander Arez †\|Commander Arez †]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
 
 { .block-language-dataview}

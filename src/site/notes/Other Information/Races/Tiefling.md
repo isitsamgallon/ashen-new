@@ -46,11 +46,11 @@
 
 
 ### Known Tieflings
-- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
 - [[Named Characters & Beasts/Cindy\|Cindy]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]
+- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
 
 { .block-language-dataview}
