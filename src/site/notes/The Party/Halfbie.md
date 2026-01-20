@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-01-10T13:47:35.553+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-01-16T19:42:05.163+00:00"}
 ---
 
 
-> [!infobox]
+> [!infobox|wikipedia]
 > 
 > # Halfbie
 > ![halfbie 2.png](/img/user/Admin/Attachments/halfbie%202.png)
@@ -57,10 +57,11 @@ An enigmatic wizard who seems to know [[Other Information/Display Tags/The Party
 **Spring:** They have green hair with eye-level bangs and face-framing pieces on either side that stretch down to their chin, with the rest of their hair being tied back into a long ponytail that reaches halfway down their back. They wear nice clothes that have been dressed down in various ways, for example, the sleeves are rolled up and the top buttons of the shirt are undone as they find it easier to move in. They also wear quite colourful clothing, reflecting their bright personality.
 
 ### Quotes
-| §                                       | Quote                                                                  |
-| --------------------------------------- | ---------------------------------------------------------------------- |
-| [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/04 Ignatius Beckons/Session 30\|Session 30]] |
-| [[Other Information/Quotes\|Quotes]] | "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]]                 |
+| §                                       | Quote                                                                       |
+| --------------------------------------- | --------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "Stew and noodles are real goodddddddd" - [[The Party/Halfbie\|Halfbie]] - [[Session Notes/04 Ignatius Beckons/Session 30\|Session 30]]      |
+| [[Other Information/Quotes\|Quotes]] | "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]]                      |
+| [[Other Information/Quotes\|Quotes]] | "why do you think Halfbie is still a virgin? he cant lose" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
 
 { .block-language-dataview}
 

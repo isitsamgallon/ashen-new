@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2025-12-02T18:04:27.943+00:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2026-01-20T22:39:07.893+00:00"}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -41,6 +41,7 @@ A collection Quotes said during DND Sessions.
 (x:: "I am a doctor, not an autist" - [[The Party/Viktor Malkovich\|Viktor Malkovich]])
 (x:: "I understand you want that tiefling bussy" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] )
 (x:: "I do be the father of the god of death" - [[The Party/Halfbie\|Halfbie]])
+(x::"I kinda learnt that sometimes your brain says 'I can fix him' And in reality Maybe that's just a bit of toxic yaoi" - [[The Party/Mordecai Reverence\|Mordecai Reverence]])
 
 # Players
 (x::"Racist people don’t discriminate [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
@@ -70,4 +71,6 @@ A collection Quotes said during DND Sessions.
 (q:: "[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] only does gay rolls" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (x:: "youre not entirely sure the cause of death...but the 20 stab wounds are pretty damning" - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]])
 (x:: "Any angelic hole is a goal" - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]])
+(x::"why do you think Halfbie is still a virgin? he cant lose" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
+(x::"can viktor banish people... but not with their clothes 😉 " - [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]])
 (x::"James gave us a Chekhov's gun, and it must be fired!" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]. )

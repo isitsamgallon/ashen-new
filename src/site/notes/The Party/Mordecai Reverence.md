@@ -135,6 +135,7 @@ Mord stole a large chunk of the club’s [[Other Information/Money\|money]] whil
 | [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                                                                                                         |
 | [[Other Information/Quotes\|Quotes]] | "Leave me alone, im traumatised" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                                                                                                                                                                 |
 | [[Other Information/Quotes\|Quotes]] | "'suck my tiny, tiny dick' - [[The Party/Mordecai Reverence\|Mordecai]], 'I use wild shape' - [[The Party/Dead/Kal The Korrigan †\|Korrigan]]                                                                                                                                      |
+| [[Other Information/Quotes\|Quotes]] | "I kinda learnt that sometimes your brain says 'I can fix him' And in reality Maybe that's just a bit of toxic yaoi" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                                                                             |
 
 { .block-language-dataview}
 

@@ -20,10 +20,10 @@
 > | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 

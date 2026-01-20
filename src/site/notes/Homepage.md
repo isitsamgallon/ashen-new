@@ -202,6 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                         | Saga                       | Summary                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/06 Urban Legends/Session 55\|Session 55]]    | \-                         | The session is still being written by Sam.                                                                                                                                                                                                                                                                |
 | [[Session Notes/06 Urban Legends/Session 54\|Session 54]]    | 7th Saga - Winter Warriors | The party barely survived a devastating ambush by cursed hunters and a giant, saved only by desperate healing and Chenris’ catastrophic fire magic. Victorious but shaken, they uncovered troubling hints about the Hunter Society and settled into an uneasy camp, aware that greater dangers lie ahead. |
 | [[Session Notes/06 Urban Legends/Session 53\|Session 53]]    | 7th Saga - Winter Warriors | The party secured Ringo’s guidance and prepared new spells before venturing into the cursed woods, where Halfbie’s confidence was shaken and danger mounted. Their journey was cut short when they were ambushed by undead hunters and a giant, ending the session mid-combat.                            |
 | [[Session Notes/06 Urban Legends/Session 52\|Session 52]]    | 7th Saga - Winter Warriors | The party arrived in remote Snowport, where playful chaos turned quickly to horror and danger—from summoned fish, haunted houses, and treacherous hunters to undead ambushers in the woods. With new threats lurking in the blizzard, their northern journey has only just begun.                         |
@@ -211,7 +212,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/06 Urban Legends/Session 48\|Session 48]]    | 6th Saga - Urban Legends   | The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.                          |
 | [[Session Notes/06 Urban Legends/Session 47\|Session 47]]    | 6th Saga - Urban Legends   | The session is still being written by Tom.                                                                                                                                                                                                                                                                |
 | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] | 5th Saga - Freedom's Flame | The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.              |
-| [[Session Notes/05  Freedom's Flame/Session 45\|Session 45]] | 5th Saga - Freedom's Flame | In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.                              |
 
 { .block-language-dataview}
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[The Amber News\|The Amber News]]
-- [[Homepage\|Homepage]]
-- [[Gallery\|Gallery]]
-- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[Session Notes/06 Urban Legends/Session 55\|Session 55]]
+- [[Other Information/Quotes\|Quotes]]
+- [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]]
+- [[The Party/Halfbie\|Halfbie]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/06 Urban Legends/Session 55\|Session 55]]
 - [[The Amber News\|The Amber News]]
 - [[Locations/The Merrihollows/Pennymead\|Pennymead]]
 - [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
 - [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]
-- [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]
 
 { .block-language-dataview}
 
@@ -288,8 +288,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
+| [[Session Notes/06 Urban Legends/Session 55\|Session 55]]                                                                                               | January 20, 2026   |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
@@ -297,10 +300,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 

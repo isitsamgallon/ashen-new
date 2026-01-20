@@ -18,9 +18,9 @@
 >  ##### Cities & Towns 
 >   | File                                                               | Discovery Status             |
 > | ------------------------------------------------------------------ | ---------------------------- |
-> | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li></ul> |
-> | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul> |
+> | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul> |
 > | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul> |
 > 

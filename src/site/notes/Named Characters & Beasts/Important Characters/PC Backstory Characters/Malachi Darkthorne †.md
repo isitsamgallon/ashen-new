@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2025-12-30T11:02:37.910+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-01-16T19:46:58.361+00:00"}
 ---
 
->[!infobox]
+>[!infobox|wikipedia]
 > 
 > #  Malachi Darkthorne †
 > ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
@@ -19,8 +19,8 @@
 >  ###### Status
 >   Type | Stat |
 >  :----: | --- |
->  Status  | Alive |
->  Cause of Death | None... yet |
+>  Status  | Dead |
+>  Cause of Death | [[Other Information/Display Tags/The Party\|The Party]] |
 > ###### Appearances
 >   Type | Stat |
 >  :----: | --- |
