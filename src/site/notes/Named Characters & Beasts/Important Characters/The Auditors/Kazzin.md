@@ -9,7 +9,6 @@ This is the black dragon that [[Named Characters & Beasts/Important Characters/T
 ### Appearances & Mentions
 | §                                                            | Interactions |
 | ------------------------------------------------------------ | ------------ |
-| [[Session Notes/06 Urban Legends/Session 55\|Session 55]] | \-           |
 | [[Session Notes/06 Urban Legends/Session 47\|Session 47]] | \-           |
 | [[Session Notes/All Sessions\|All Sessions]]              | \-           |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/leomund-s-tiny-hut/","hide":true,"updated":"2025-08-11T11:53:30.936+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/leomund-s-tiny-hut/","hide":true,"updated":"2026-01-22T17:31:50.710+00:00"}
 ---
 
 # Leomund's Tiny Hut

@@ -23,7 +23,7 @@
 
 
 ### Overview
-First mentioned [[Named Characters & Beasts/Ringo\|Ringo]] in [[Session Notes/06 Urban Legends/Session 54\|Session 54]], it is presumed to be some form of union or group of exclusive made up of hunters to support other hunters. 
+First mentioned [[Named Characters & Beasts/Ringo\|Ringo]] in [[Session Notes/07 Winter Warriors/Session 54\|Session 54]], it is presumed to be some form of union or group of exclusive made up of hunters to support other hunters. 
 
 ### Notable Information
 [[Groups & Factions/The Hunter's Society\|The Hunter's Society]] notably is the only group that has the ability to get [[Other Information/Unique Items/Hunter's Arrows\|Hunter's Arrows]], the only weapons that are able to permanently kill members of [[Groups & Factions/the Deathless Clan\|the Deathless Clan]]
