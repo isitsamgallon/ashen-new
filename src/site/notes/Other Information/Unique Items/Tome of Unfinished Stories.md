@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-A book at [[The Party/Halfbie\|Halfbie]] manged to obtain from a [[Locations/Strixhaven\|Strixhaven]] magic shop. They manged to get the book for free by telling the shop keeper they could travel with the book and research its affects and get a big discount. the shopkeeper agree. when they left the shop [[The Party/Halfbie\|Halfbie]]  then rewrote history to say they got the book for free. They have to return it [[Locations/Strixhaven\|Strixhaven]] in 6 months unless they rewrite history again. 
+A book at [[The Party/Halfbie\|Halfbie]] manged to obtain from a [[Locations/Strixhavem/Strixhaven\|Strixhaven]] magic shop. They manged to get the book for free by telling the shop keeper they could travel with the book and research its affects and get a big discount. the shopkeeper agree. when they left the shop [[The Party/Halfbie\|Halfbie]]  then rewrote history to say they got the book for free. They have to return it [[Locations/Strixhavem/Strixhaven\|Strixhaven]] in 6 months unless they rewrite history again. 
 
 ### Item Description
 Once per day, you may write a name in the book and learn a random fact about that person (chosen by the DM).

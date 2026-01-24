@@ -8,7 +8,7 @@ Chenris now has The Pages to keep them away from both the ghost and [[Gods & Her
 
 Kal ties up Steve with some rope and attaches it to an arrow & shoots it at Drache who pulls him towards the rest of the team outside the house. He a not racist for once when he wakes up!! 
 
-(x:: Chenris Spiritual Weapon to distract [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the haunter]] and give everyone time to get out. Everyone runs for the clearing and gets out of The Not World. Kal burns the house down which summons a bunch of White Robed mages from [[Locations/Strixhaven\|Strixhaven]], who look at Chenris with distain before putting out the fire.)
+(x:: Chenris Spiritual Weapon to distract [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|the haunter]] and give everyone time to get out. Everyone runs for the clearing and gets out of The Not World. Kal burns the house down which summons a bunch of White Robed mages from [[Locations/Strixhavem/Strixhaven\|Strixhaven]], who look at Chenris with distain before putting out the fire.)
 
 --Long Rest--
 

@@ -10,7 +10,7 @@ It's very unlikely anyone who fought in [[History & Events/The Sundering\|The Su
 - They wouldn't be chosen by any Gods as they helped build [[Other Information/The Towers\|The Towers]] which weakened all god's abilities
 
 ### Other Information 
-An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven\|Strixhaven]]
+An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
 
 (Recovered from a series of loose pages stitched together with silver wire. Ink blotting increases throughout.)
 

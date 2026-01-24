@@ -16,7 +16,7 @@
 
 (x:: Trying to figure and what the hell is going on with korrigan. They decide that they are next going to the library to read what they can on [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]] - it is revealed that she is a deity and might've had a hand in whatever is going on with Korrigan. )
 
-thinking that this is a bit too much the decide to go on a quest to explore and mysterious door that was recently dug up in the local mines. They go to the designated meeting place to find 3 researchers in white robes and bird/banner crest on it. They are from [[Locations/Strixhaven\|Strixhaven]] and have been invited to investigate this door. Chenris tries is his best to hid his face under his cloak they don't recognise him - Mordecai notices. 
+thinking that this is a bit too much the decide to go on a quest to explore and mysterious door that was recently dug up in the local mines. They go to the designated meeting place to find 3 researchers in white robes and bird/banner crest on it. They are from [[Locations/Strixhavem/Strixhaven\|Strixhaven]] and have been invited to investigate this door. Chenris tries is his best to hid his face under his cloak they don't recognise him - Mordecai notices. 
 
 The party realises that the  researchers have VERY similar energy to Chenris and they pretty much admit that the party is just cannon fodder while they did the real work. Mordecai is in a bad mood so when notices chenris at the back of the group hiding he calls out chenris's namer to see what happens. Luckily the researchers didn't hear. 
 

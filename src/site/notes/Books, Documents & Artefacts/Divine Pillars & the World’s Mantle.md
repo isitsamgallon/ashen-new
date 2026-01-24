@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books-documents-and-artefacts/divine-pillars-and-the-world-s-mantle/","updated":"2025-08-29T22:44:55.481+01:00"}
 ---
 
-A book that [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] secretly read while [[Other Information/Display Tags/The Party\|The Party]] was in [[Locations/Strixhaven\|Strixhaven]]. He was looking for information about [[Other Information/The Towers\|The Towers]] and how they function. This was mostly likely because of his pact with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Here is a summary of the book, taken from [[Other Information/Display Tags/The Ashen Book\|The Ashen Book]]:
+A book that [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] secretly read while [[Other Information/Display Tags/The Party\|The Party]] was in [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. He was looking for information about [[Other Information/The Towers\|The Towers]] and how they function. This was mostly likely because of his pact with [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. Here is a summary of the book, taken from [[Other Information/Display Tags/The Ashen Book\|The Ashen Book]]:
 
 ### The Book
 The text began with the story of The Primordial Divinity, [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]—[[Gods & Heralds/Aetherion/The All-Father\|The All-Father]], who existed before all else. It spoke of how, upon his death, [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]'s soul fractured, fragments of his soul manifested as gods, born from his emotions—Anger, Sadness, Hatred, Compassion, and many more—forming a pantheon that ruled over the realms.

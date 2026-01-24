@@ -3,7 +3,7 @@
 ---
 
 >[!Recite]   Note
->This is a very long note as [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] started playing with the idea that [[Locations/Strixhaven\|Strixhaven]] was possible keeping an eye on him so this is the dossier that they held on him. 
+>This is a very long note as [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] started playing with the idea that [[Locations/Strixhavem/Strixhaven\|Strixhaven]] was possible keeping an eye on him so this is the dossier that they held on him. 
 
 > [!infobox]
 > 
@@ -14,7 +14,7 @@
 >  Type | Stat |
 > :----: | --- |
 >  Race | Half-Eladrin |
->  Nationality | [[Locations/Strixhaven\|Strixhaven]] |
+>  Nationality | [[Locations/Strixhavem/Strixhaven\|Strixhaven]] |
 >  Class | Cleric/ Artificer |
 >  Subclass | Death Domain/ None Selected |
 >  Age | 21 |
@@ -44,8 +44,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
 
@@ -53,7 +53,7 @@
 > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."
 
 ### Overview
-Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
+Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
 
 ### Personality
 Chenris is a know-it-all magic user with a pension to talk down to people who aren't as smart as him. This has often led him to clash with his fellow party member [[The Party/Mordecai Reverence\|Mordecai Reverence]], as Mordecai wasn't book smart and preferred to talk to people instead. Chenris seems to know a lot about a wide and varied range of topics, If he doesn't know about something, he's very good at researching and knowing just where to look in a library to learn about the topic. However, there are some weird gaps in his knowledge - like how to walk in the right direction. Sarcasm often goes over his head and he often doesn't get sex jokes.
@@ -70,12 +70,12 @@ Later on, Leotoris was one of the stewards on a field trip to a local dungeon. C
 
 ### Dossier Reports on Chenris Tallfellow
 **Background Overview:**
-In response to recent sightings of Chenris Tallfellow within the [[Locations/Strixhaven\|Strixhaven]] campus, I have initiated a comprehensive dossier report to illuminate his history before and during his tenure at [[Locations/Strixhaven\|Strixhaven]] University.
+In response to recent sightings of Chenris Tallfellow within the [[Locations/Strixhavem/Strixhaven\|Strixhaven]] campus, I have initiated a comprehensive dossier report to illuminate his history before and during his tenure at [[Locations/Strixhavem/Strixhaven\|Strixhaven]] University.
 
 **Family Background:**
-Chenris Tallfellow's upbringing unfolded within the residential confines of [[Locations/Strixhaven\|Strixhaven]], marking the continuation of a storied lineage once steeped in Eladrin nobility. However, the Tallfellow family's illustrious legacy was tarnished by --REDACTED--
+Chenris Tallfellow's upbringing unfolded within the residential confines of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], marking the continuation of a storied lineage once steeped in Eladrin nobility. However, the Tallfellow family's illustrious legacy was tarnished by --REDACTED--
 
-**Transition to [[Locations/Strixhaven\|Strixhaven]]:**
+**Transition to [[Locations/Strixhavem/Strixhaven\|Strixhaven]]:**
 --REDACTED-- endeavoured to instil in Chenris the customs and traditions of Eladrin high society, including etiquette and martial training, in a bid to --REDACTED--
 
 **Academic Journey:**
@@ -92,21 +92,21 @@ The trajectory of Chenris's academic career was irreversibly altered by the unti
 Professor Leotoris's final directive to Chenris, coupled with the stark reality of mortality, catalyzed a profound existential crisis within the young mage. Faced with the impermanence of life and driven by a desperate quest for longevity, Chenris clandestinely delved into forbidden necromantic lore, breaching the sacred confines of the restricted section.
 
 **Consequences & Expulsion:**
-Regrettably, Chenris's unauthorized pursuit of forbidden knowledge compelled decisive action. In adherence to our institutional regulations, I made the difficult decision to expel Chenris from [[Locations/Strixhaven\|Strixhaven]] University. His subsequent banishment from the realm of mortal academia underscores the severity of his transgression and the enduring repercussions of his actions.
+Regrettably, Chenris's unauthorized pursuit of forbidden knowledge compelled decisive action. In adherence to our institutional regulations, I made the difficult decision to expel Chenris from [[Locations/Strixhavem/Strixhaven\|Strixhaven]] University. His subsequent banishment from the realm of mortal academia underscores the severity of his transgression and the enduring repercussions of his actions.
 
 **Conclusion:**
-Chenris Tallfellow's academic journey, marked by familial discord, intellectual fervor, and tragic loss, illuminates the complex interplay of ambition and consequence within our esteemed institution. While his expulsion signifies a departure from the hallowed halls of [[Locations/Strixhaven\|Strixhaven]], the legacy of his tumultuous tenure serves as a cautionary tale and a testament to the enduring pursuit of knowledge amidst the tapestry of magical academia.
+Chenris Tallfellow's academic journey, marked by familial discord, intellectual fervor, and tragic loss, illuminates the complex interplay of ambition and consequence within our esteemed institution. While his expulsion signifies a departure from the hallowed halls of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], the legacy of his tumultuous tenure serves as a cautionary tale and a testament to the enduring pursuit of knowledge amidst the tapestry of magical academia.
 
-[[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]], Archmage and Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics.
+[[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]], Archmage and Headmaster of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], Academy of Magics.
 
 #### Report on Chenris Tallfellow (Vol. I)
 **Subject Overview:**
-Chenris Tallfellow, a once-promising student of [[Locations/Strixhaven\|Strixhaven]], has recently embarked on a tumultuous journey, forming connections with a disparate group of adventurers. This report aims to document key events and interactions surrounding Chenris since his departure from the academy.
+Chenris Tallfellow, a once-promising student of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], has recently embarked on a tumultuous journey, forming connections with a disparate group of adventurers. This report aims to document key events and interactions surrounding Chenris since his departure from the academy.
 
 ---
 
 **New Associations:**
-Chenris swiftly integrated into a diverse adventuring party upon leaving [[Locations/Strixhaven\|Strixhaven]]. His companions include [[The Party/Mordecai Reverence\|Mordecai Reverence]], a troubled individual wielding magic and music; Wurinn "drache" fuuldrusch, a straightforward yet amiable barbarian; Kal, a rogue driven by financial pursuits; and Aidan Knight, an enigmatic rogue with peculiar access to small-scale chronomancy.
+Chenris swiftly integrated into a diverse adventuring party upon leaving [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. His companions include [[The Party/Mordecai Reverence\|Mordecai Reverence]], a troubled individual wielding magic and music; Wurinn "drache" fuuldrusch, a straightforward yet amiable barbarian; Kal, a rogue driven by financial pursuits; and Aidan Knight, an enigmatic rogue with peculiar access to small-scale chronomancy.
 
 **Troublesome Beginnings:**
 Chenris's journey commenced in the vicinity of the OFC, a region associated with the troubled Dawn Empire. Shortly after his arrival, he fell victim to a cult, only to escape captivity alongside his newfound comrades.
@@ -120,13 +120,13 @@ Chenris's decision to withhold the truth regarding his lingering attachment to a
 ---
 
 **Conclusion & Recommendations:**
-Chenris Tallfellow's journey beyond [[Locations/Strixhaven\|Strixhaven]] has proven eventful and fraught with challenges. As Archmage and Headmaster, I recommend monitoring developments closely. The unresolved issue from his past and his deviation from the prescribed ritual may have repercussions yet to manifest. It is imperative to keep abreast of Chenris's activities and their potential impact on both his personal growth and the stability of our magical realm.
+Chenris Tallfellow's journey beyond [[Locations/Strixhavem/Strixhaven\|Strixhaven]] has proven eventful and fraught with challenges. As Archmage and Headmaster, I recommend monitoring developments closely. The unresolved issue from his past and his deviation from the prescribed ritual may have repercussions yet to manifest. It is imperative to keep abreast of Chenris's activities and their potential impact on both his personal growth and the stability of our magical realm.
 
-[[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]], Archmage and Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics.
+[[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]], Archmage and Headmaster of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], Academy of Magics.
 
 #### Report on Chenris Tallfellow (Vol. II)
 **Subject Overview:**
-This dossier serves as the second report on the activities of Chenris Tallfellow, a former promising student at [[Locations/Strixhaven\|Strixhaven]], Academy of Magic. Given his increasingly erratic behavior and entanglements with dangerous entities, it is vital to maintain an updated record of his actions for potential intervention in the event of an emergency. This report outlines his recent ventures, including covert operations, encounters with forbidden magic, and the unsettling developments surrounding his association with the [[Groups & Factions/Ivory Crest\|Ivory Crest]] and other clandestine groups.
+This dossier serves as the second report on the activities of Chenris Tallfellow, a former promising student at [[Locations/Strixhavem/Strixhaven\|Strixhaven]], Academy of Magic. Given his increasingly erratic behavior and entanglements with dangerous entities, it is vital to maintain an updated record of his actions for potential intervention in the event of an emergency. This report outlines his recent ventures, including covert operations, encounters with forbidden magic, and the unsettling developments surrounding his association with the [[Groups & Factions/Ivory Crest\|Ivory Crest]] and other clandestine groups.
 
 ---
 
@@ -142,8 +142,8 @@ During an expedition to a wyvern’s lair, the subject retrieved ancient dwarvis
 **Involvement in Korrigan’s Transformation**
 Subject became fixated on studying the entity known as "Korrigan" (a transformed version of Kal), engaging in extensive research into the connection between Korrigan and the deity [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]. His behavior during this period suggests an unhealthy detachment from human emotion, treating the transformed Kal as a research subject rather than a comrade.
 
-**Encounters with [[Locations/Strixhaven\|Strixhaven]] Researchers**
-During an expedition in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]], the subject encountered researchers affiliated with [[Locations/Strixhaven\|Strixhaven]]. Notably, he made attempts to conceal his identity from them, suggesting underlying issues of guilt or fear regarding his academic standing. Despite Mordecai’s provocations, the subject’s identity remained hidden.
+**Encounters with [[Locations/Strixhavem/Strixhaven\|Strixhaven]] Researchers**
+During an expedition in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]], the subject encountered researchers affiliated with [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. Notably, he made attempts to conceal his identity from them, suggesting underlying issues of guilt or fear regarding his academic standing. Despite Mordecai’s provocations, the subject’s identity remained hidden.
 
 **Failed Negotiations and Loss of Credibility**
 Subject displayed poor negotiation skills while attempting to trade luxury goods with the Adventurer’s Guild. His tendency to overvalue his position and knowledge of magic detracts from his ability to effectively handle mundane matters, casting doubt on his leadership capabilities during missions.
@@ -166,7 +166,7 @@ In a subsequent encounter within the criminal underworld, subject’s behavior b
 Chenris Tallfellow exhibits an exceptional aptitude for magic and learning, with a natural inclination toward the pursuit of arcane knowledge. However, his emotional detachment and obsessive tendencies have led to frequent clashes with his companions and an increased risk of mission failure. His disregard for social conventions and personal safety when magical knowledge is at stake has resulted in strained relationships within the group, as well as numerous instances of poor decision-making in high-stakes environments. Further psychological evaluation is recommended to assess his long-term viability as an adventurer.
 
 #### Report on Chenris Tallfellow (Vol. III)
-This report provides a comprehensive update on Chenris Tallfellow's recent actions and activities, following his previous report. [[Other Information/Display Tags/The Party\|The Party]] encountered various challenges, including an assassination attempt and a dangerous cult, before continuing their journey to [[Locations/Ehobel/Ehobel\|Ehobel]]. Chenris, once a promising student at [[Locations/Strixhaven\|Strixhaven]], has displayed increasingly unstable behavior and involvement in hazardous situations, necessitating an up-to-date record for emergency reference. 
+This report provides a comprehensive update on Chenris Tallfellow's recent actions and activities, following his previous report. [[Other Information/Display Tags/The Party\|The Party]] encountered various challenges, including an assassination attempt and a dangerous cult, before continuing their journey to [[Locations/Ehobel/Ehobel\|Ehobel]]. Chenris, once a promising student at [[Locations/Strixhavem/Strixhaven\|Strixhaven]], has displayed increasingly unstable behavior and involvement in hazardous situations, necessitating an up-to-date record for emergency reference. 
 
 ---
 
@@ -262,10 +262,10 @@ It is in his obsession with towers like [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishn
 ---
 
 **Conclusion**
-Chenris Tallfellow’s journey thus far has become an ever-darkening reflection of the student I once knew at [[Locations/Strixhaven\|Strixhaven]]. His brilliant mind, once a beacon of potential, now veers into dangerous territory—obsession, manipulation, and a disregard for the well-being of others. I will continue these reports in greater detail, as each step he takes seems to lead him further down a perilous path. The question remains: will Chenris realize the cost of his decisions before it is too late, or will his thirst for knowledge consume him entirely, along with those unfortunate enough to be caught in his wake? 
+Chenris Tallfellow’s journey thus far has become an ever-darkening reflection of the student I once knew at [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. His brilliant mind, once a beacon of potential, now veers into dangerous territory—obsession, manipulation, and a disregard for the well-being of others. I will continue these reports in greater detail, as each step he takes seems to lead him further down a perilous path. The question remains: will Chenris realize the cost of his decisions before it is too late, or will his thirst for knowledge consume him entirely, along with those unfortunate enough to be caught in his wake? 
 
 Archmage [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]  
-Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
+Headmaster of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], Academy of Magics
 
 #### Report on Chenris Tallfellow (Vol. V)
 There is an unexpected solace in the matter of this report—an easing of my long-standing concerns about Chenris Tallfellow. While his recent endeavors have been punctuated by alarming tendencies, this latest chapter reveals faint glimmers of restraint and self-awareness. The city of **[[Locations/Ehobel/Caalona\|Caalona]]** presented an extraordinary challenge—its illusions tailored to exploit the deepest desires of its visitors, creating a potent trap that could easily have consumed anyone with unresolved inner turmoil. Yet, amidst this chaotic experience, Chenris displayed a degree of caution and skepticism that had long been absent.
@@ -298,7 +298,7 @@ Chenris’ inquiry into **[[Named Characters & Beasts/Historically Significant 
 Chenris, rattled, fled the scene—a rare moment of vulnerability for one so often in control of his emotions. His later attempts to make sense of the encounter were marked by uncharacteristic panic, and when **Korrigan** used magic to delve into Chenris’ mind, the revelation that their thoughts had been probed at some unknown point left the entire group shaken.
 
 **[[Locations/Ehobel/Caalona\|Caalona]]’s Illusory Deception**
-Upon their arrival, [[Other Information/Display Tags/The Party\|The Party]] was greeted by **[[Locations/Ehobel/Caalona\|Caalona]]**, a city notorious to the mages at [[Locations/Strixhaven\|Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[Aidan Knight\|Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[The Korrigan\|The Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
+Upon their arrival, [[Other Information/Display Tags/The Party\|The Party]] was greeted by **[[Locations/Ehobel/Caalona\|Caalona]]**, a city notorious to the mages at [[Locations/Strixhavem/Strixhaven\|Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[Aidan Knight\|Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[The Korrigan\|The Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
 
 Chenris, however, was drawn to something more sinister. His recent fixation on the regenerative powers of the **[[Named Characters & Beasts/Beasts & Animals/Elven Cannibals\|Elven Cannibals]]** led him to envision a “Magical Cannibal School,” where robed scholars eagerly handed him forbidden knowledge. Though alarming, this vision showcased Chenris’ obsessive need for knowledge—a trait that remains both his greatest asset and deepest flaw.
 
@@ -369,7 +369,7 @@ As Chenris and his party prepared to leave [[Locations/OFC/Blackwall/Blackwall\|
 The line between curiosity and obsession is thin, and I fear that Chenris is beginning to blur that line. His once-bright potential is now shadowed by the weight of the knowledge he seeks. I will continue to monitor his progress, though I fear that his journey may lead him into dangerous waters, where even I may not be able to reach him.
 
 Archmage [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]  
-Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
+Headmaster of [[Locations/Strixhavem/Strixhaven\|Strixhaven]], Academy of Magics
 
 #### Report on Chenris Tallfellow (Vol. VI)
 [IN PROGRESS]
@@ -396,6 +396,6 @@ Headmaster of [[Locations/Strixhaven\|Strixhaven]], Academy of Magics
 - Chenris is known to have an absolutely horrible sense of direction. Often times [[Other Information/Display Tags/The Party\|The Party]] will say they want to go somewhere and chenris will confidently walk in the opposite direction. He often tried to play it off as he was testing them due to his pride. Mordecai has defaulted to putting some kind of lead on chenris so he can't just randomly walk in a direction.
 	- Rowan has pointed out that Chenris' lack of direction is inspired by [Zoro from One Piece ](https://onepiece.fandom.com/wiki/Roronoa_Zoro), however this isn't true. [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] forgot about that and thought it would be funny at the time. he has since made it a bit more like Zoro's directional skills.
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] and [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] had been planning Chenris' betrayal during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] for months before it was finally revealed to the party during [[Session Notes/02 The War for The OFC's Freedom/Session 10\|Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
-- The reason why Chenris' note has a lot more time put into it is that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] uses it as a summary of all their adventures as well to keep [[Locations/Strixhaven\|Strixhaven]] relevant in the background. 
+- The reason why Chenris' note has a lot more time put into it is that [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] uses it as a summary of all their adventures as well to keep [[Locations/Strixhavem/Strixhaven\|Strixhaven]] relevant in the background. 
 
 

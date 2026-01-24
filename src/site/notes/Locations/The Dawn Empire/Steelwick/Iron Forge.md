@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.869+01:00"}
 ---
 
-Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies
+Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhavem/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies
 
 > [!Ancient Dwarven Stronghold Puzzles]
 > The first room has puzzle in it. there a 4 pedestals , each with a coloured gem on it. Further into the room were more pedestals this time with riddles on them.. the riddles are as following:

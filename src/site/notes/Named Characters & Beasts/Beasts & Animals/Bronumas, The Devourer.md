@@ -24,7 +24,7 @@
 >Languages | Celestial, Draconic, Abyssal, Telepathy |
 
 ### Overview
-During [[Other Information/Display Tags/The Party\|the party]]'s second trip to [[Locations/Strixhaven\|Strixhaven]], they ended up getting very drunk at a frat party. At the time [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s summons, [[The Party/Other Party Members/Familiars/Bit\|Bit]] and [[The Party/Other Party Members/Familiars/Bobs\|Bobs]], had been killed in a recent battle and required resummoning. unfortunately he attempted this while drunk at the party and while blacked out he accidentally summoned a demon that he married. 
+During [[Other Information/Display Tags/The Party\|the party]]'s second trip to [[Locations/Strixhavem/Strixhaven\|Strixhaven]], they ended up getting very drunk at a frat party. At the time [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s summons, [[The Party/Other Party Members/Familiars/Bit\|Bit]] and [[The Party/Other Party Members/Familiars/Bobs\|Bobs]], had been killed in a recent battle and required resummoning. unfortunately he attempted this while drunk at the party and while blacked out he accidentally summoned a demon that he married. 
 
 Once he woke up the next day Bronumas was happy to see their husband and couldn't wait for the wedding and honeymoon. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] immediately broke off the engagement, much to Bronumas distain and threatened to have their brother beat up [[Other Information/Display Tags/The Party\|the party]]. 
 

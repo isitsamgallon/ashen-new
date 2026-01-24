@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-a Cloak [[The Party/Mordecai Reverence\|Mordecai Reverence]] bought in a [[Locations/Strixhaven\|Strixhaven]] magic shop. its a long black mantel which gives off and intense heat which burns any who get too close
+a Cloak [[The Party/Mordecai Reverence\|Mordecai Reverence]] bought in a [[Locations/Strixhavem/Strixhaven\|Strixhaven]] magic shop. its a long black mantel which gives off and intense heat which burns any who get too close
 
 ### Item Description
 When an enemy lands physical attack on the wear. They must roll dexterity saving throw equal to the wears spell save DC. On a failed save they take 1d6 fire damage. 

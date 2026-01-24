@@ -17,9 +17,9 @@
 > | Age | Unknown |
 > | Alignment | Unknown |
 > | Pronouns | He/ Him |
-> | Faction | [[Locations/Strixhaven\|Strixhaven]] |
+> | Faction | [[Locations/Strixhavem/Strixhaven\|Strixhaven]] |
 ### Overview
-A old [[Locations/Strixhaven\|Strixhaven]] research famous for recording and categorising [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]. His was word was eventually collated into [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]] by [[Named Characters & Beasts/Nehzahr\|Nehzahr]].
+A old [[Locations/Strixhavem/Strixhaven\|Strixhaven]] research famous for recording and categorising [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]. His was word was eventually collated into [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]] by [[Named Characters & Beasts/Nehzahr\|Nehzahr]].
 
 
 ### History & Mentions

@@ -4,7 +4,7 @@
 
 
 ### On Cults
-An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven\|Strixhaven]]
+An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
 
 Cults devoted to the Ashen Gods are as varied and  contradictory as the deities they revere. They emerge in both the margins and centre's of society, taking root in places where doctrine falters and mystery thrives. Some are ancient orders with codified rites and crumbling temples; others are little more than fevered mobs, whispering to bones and shadow.
 

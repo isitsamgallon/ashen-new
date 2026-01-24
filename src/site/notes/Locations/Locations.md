@@ -159,6 +159,18 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Locations/Strixhavem/Faculty of Arcane Warfare & Defensive Arts\|Faculty of Arcane Warfare & Defensive Arts]]
+- [[Locations/Strixhavem/Faculty of Bardic Arts & Resonant Magic\|Faculty of Bardic Arts & Resonant Magic]]
+- [[Locations/Strixhavem/Faculty of Chronomancy & Temporal Studies\|Faculty of Chronomancy & Temporal Studies]]
+- [[Locations/Strixhavem/Faculty of Divination, Fate & Causality\|Faculty of Divination, Fate & Causality]]
+- [[Locations/Strixhavem/Faculty of Foundational Arcane Sciences\|Faculty of Foundational Arcane Sciences]]
+- [[Locations/Strixhavem/Faculty of Illusion, Mind & Perception\|Faculty of Illusion, Mind & Perception]]
+- [[Locations/Strixhavem/Faculty of Magical Society & Governance\|Faculty of Magical Society & Governance]]
+- [[Locations/Strixhavem/Faculty of Magical Theory & Research\|Faculty of Magical Theory & Research]]
+- [[Locations/Strixhavem/Faculty of Natural & Living Magic\|Faculty of Natural & Living Magic]]
+- [[Locations/Strixhavem/Faculty of Necrology & Esoteric Studies (Officially Discontinued)\|Faculty of Necrology & Esoteric Studies (Officially Discontinued)]]
+- [[Locations/Strixhavem/Faculty of Planar & Divine Studies\|Faculty of Planar & Divine Studies]]
+- [[Locations/Strixhavem/Faculty of Spellcraft & Arcane Engineering\|Faculty of Spellcraft & Arcane Engineering]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
 - [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
@@ -166,7 +178,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]
 - [[Locations/Morak Hold\|Morak Hold]]
 - [[Locations/Snowport\|Snowport]]
-- [[Locations/Strixhaven\|Strixhaven]]
+- [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
 
 { .block-language-dataview}
 

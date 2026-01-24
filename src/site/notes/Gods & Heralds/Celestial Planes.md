@@ -3,7 +3,7 @@
 ---
 
 
-An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven\|Strixhaven]]
+An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
 
 The sky is not where the heavens begin. That was my first mistake. Or perhaps my third. The Celestial Planes are not above us- they are behind things. Behind time, behind thought. Behind the noise of reality if you press your ear to it hard enough.
 

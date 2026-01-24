@@ -89,7 +89,7 @@ Barely escaping the collapsing building, the party regrouped on the streets, wou
 
 (x::Giving up on the spell, [[The Party/Viktor Malkovich\|Viktor]] asked Halfbioe if they could give them more information about what was bothering them so much. [[The Party/Halfbie\|Halfbie]] explained that their main worry was that they didn't even have control over their bodies.)
 
-(x::[[The Party/Mordecai Reverence\|Mordecai]] asked if they had ever talked to [[The Party/Dead/Chenris Tallfellow ‡\|chenris]], to which [[The Party/Halfbie\|Halfbie]] explained that apart from that time at [[Locations/Strixhaven\|Strixhaven]], they had never spoken to the man.)
+(x::[[The Party/Mordecai Reverence\|Mordecai]] asked if they had ever talked to [[The Party/Dead/Chenris Tallfellow ‡\|chenris]], to which [[The Party/Halfbie\|Halfbie]] explained that apart from that time at [[Locations/Strixhavem/Strixhaven\|Strixhaven]], they had never spoken to the man.)
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] explained that it seemed like [[The Party/Halfbie\|Halfbie]] and [[The Party/Dead/Chenris Tallfellow ‡\|chenris]] needed to have a big conversation about consent, like the one they and [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] had had. "Taking over someone else's body, that is not originally yours. It can be highly stressful, obviously. Extremely stressful sometimes, and there needs to be boundaries put in place, so if there is a situation where you are trouble is isn't as bad.")
 

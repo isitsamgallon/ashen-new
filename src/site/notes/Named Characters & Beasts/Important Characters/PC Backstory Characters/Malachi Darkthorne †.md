@@ -44,9 +44,9 @@ By far, his most cruel act was taking [[Kal †\|Kal]]'s best friend, Sara, and 
 However, he takes great care of the people of [[Groups & Factions/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
 
 #### Intelligence
-Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 
+Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhavem/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 
 
-It is also implied that he is responsible for turning Sara into a cyborg, a feat that would be increasingly difficult for the professors at [[Locations/Strixhaven\|Strixhaven]]. 
+It is also implied that he is responsible for turning Sara into a cyborg, a feat that would be increasingly difficult for the professors at [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. 
 
 ### Relationships,
 #### Kal/ Korrigan

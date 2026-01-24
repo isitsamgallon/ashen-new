@@ -12,7 +12,7 @@ The name given to the group that teamed up to fight [[Gods & Heralds/Ignatius/Ig
 - [[Named Characters & Beasts/Genevieve †\|Genevieve †]] of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]
 - [[Groups & Factions/The Tulan Fort\|The Tulan Fort]]
 - [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
-- [[Locations/Strixhaven\|Strixhaven]]
+- [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
 
 ### History & Mentions
 | §                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
