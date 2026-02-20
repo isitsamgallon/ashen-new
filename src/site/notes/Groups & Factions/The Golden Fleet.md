@@ -1,6 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2025-08-11T11:53:31.547+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2026-02-20T13:57:22.224+00:00"}
 ---
+
+> [!infobox]
+>  # The Golden Fleet
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### Basic Information
+> 
+> | Type | Info |
+> | :----: | --- |
+> | Headquarters | The Golden Fort |
+> | Alignment | Lawful Evil |
+> | Founder | Captain Red Beard |
+> | Current Leader | Captain Red Beard |
+> | Influence | Global |
+>  ##### Key Members
+>   | File                                                                  | Gender | Age     | Race    |
+> | --------------------------------------------------------------------- | ------ | ------- | ------- |
+> | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human   |
+> | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]       | Female | Adult   | Human   |
+> | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown |
+> | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown |
+> | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown |
+> | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]   | Female | Unknown | Unknown |
+> | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]             | Male   | Unknown | Unknown |
+> | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]               | Male   | Unknown | Unknown |
+> 
+{ .block-language-dataview}
+
+#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
 ### Overview
 A fleet of pirates, a very old fleet that owns immeasurable riches. They control the seas and especially the area around [[Locations/Snowport\|Snowport]]. The captain of the fleet is known as [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]].

@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Templates/New NPC\|New NPC]]
-- [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]
-- [[Session Notes/07 Winter Warriors/Session 56\|Session 56]]
-- [[Named Characters & Beasts/Ringo\|Ringo]]
-- [[Locations/Strixhavem/Faculty of Spellcraft & Arcane Engineering\|Faculty of Spellcraft & Arcane Engineering]]
+- [[Named Characters & Beasts/Lux Calder\|Lux Calder]]
+- [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]
+- [[Groups & Factions/Groups & Factions\|Groups & Factions]]
+- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
+- [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]
-- [[Session Notes/07 Winter Warriors/Session 56\|Session 56]]
-- [[Locations/Strixhavem/Faculty of Spellcraft & Arcane Engineering\|Faculty of Spellcraft & Arcane Engineering]]
-- [[Locations/Strixhavem/Faculty of Planar & Divine Studies\|Faculty of Planar & Divine Studies]]
-- [[Locations/Strixhavem/Faculty of Natural & Living Magic\|Faculty of Natural & Living Magic]]
+- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
+- [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]
+- [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]
+- [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]
+- [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]
 
 { .block-language-dataview}
 
@@ -290,6 +290,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
+| [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]                                                                                                    | February 20, 2026  |
+| [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]                                                                                                  | February 20, 2026  |
+| [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]                                                                                        | February 20, 2026  |
+| [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]                                                                                                | February 20, 2026  |
+| [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]                                                                                            | February 20, 2026  |
+| [[Named Characters & Beasts/Lux Calder\|Lux Calder]]                                                                                                    | February 20, 2026  |
 | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]                                                                                            | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
@@ -303,6 +309,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
+| [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 
 { .block-language-dataview}

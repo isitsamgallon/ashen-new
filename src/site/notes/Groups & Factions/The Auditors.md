@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2025-08-11T11:53:31.539+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2026-02-20T13:47:27.307+00:00"}
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@
 > 
 >  Type | Info |
 > :----: | --- |
->  HQ | HQ |
+>  HQ | - |
 >  Alignment | Neutral(?) |
 >  Founder | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] (?) |
