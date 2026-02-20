@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/veranius/","tags":["NPC"],"updated":"2025-11-22T09:35:49.214+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/veranius/","tags":["NPC"],"updated":"2026-02-20T15:45:20.325+00:00"}
 ---
 
 ### Overview

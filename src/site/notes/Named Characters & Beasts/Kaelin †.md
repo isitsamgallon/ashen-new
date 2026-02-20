@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2025-12-03T17:32:02.499+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2026-02-20T15:45:18.901+00:00"}
 ---
 
 >[!infobox]

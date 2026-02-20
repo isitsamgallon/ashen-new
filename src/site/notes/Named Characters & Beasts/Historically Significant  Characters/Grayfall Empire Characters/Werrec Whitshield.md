@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/werrec-whitshield/","tags":["NPC"],"updated":"2025-08-11T11:53:32.128+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/werrec-whitshield/","tags":["NPC"],"updated":"2026-02-20T15:45:15.750+00:00"}
 ---
 
 

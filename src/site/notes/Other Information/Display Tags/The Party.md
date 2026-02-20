@@ -70,11 +70,11 @@
 | File                                                    | Class             | Role         | Status       | Home Nation     | Home Town       |
 | ------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Ringo\|Ringo]]           | Ranger            | Companion    | In The Party | Snowport        | Snowport        |
+| [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
-| [[The Party/Viktor Malkovich\|Viktor Malkovich]]     | Cleric            | Party Member | In The Party | The Deadlands   | Unknown/Unclear |
-| [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
+| [[The Party/Viktor Malkovich\|Viktor Malkovich]]     | Cleric            | Party Member | In The Party | The Deadlands   | Unknown/Unclear |
 
 { .block-language-dataview}
  

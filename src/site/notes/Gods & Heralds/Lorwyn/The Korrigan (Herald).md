@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2025-08-31T21:31:05.156+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2026-02-20T15:39:46.023+00:00"}
 ---
 
 > [!important]+ This note contains information regarding the Herald known as "The Korrigan"
@@ -29,10 +29,10 @@
 >  :----: | --- |
 >  Status  | Active |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] |
->  
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
 >Fey Spellcasting |
 >---|
 >Spells cast by Korrigan are done with fey magic, they all have a magenta mist surrounding them |

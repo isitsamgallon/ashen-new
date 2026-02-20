@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2025-09-27T12:55:01.086+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2026-02-20T15:45:19.445+00:00"}
 ---
 
 >[!infobox]
@@ -22,10 +22,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/06 Urban Legends/Session 48\|Session 48]] |
->  Last Scene | [[Session Notes/06 Urban Legends/Session 48\|Session 48]]  |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span>-</span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
 
 
 ### Overview

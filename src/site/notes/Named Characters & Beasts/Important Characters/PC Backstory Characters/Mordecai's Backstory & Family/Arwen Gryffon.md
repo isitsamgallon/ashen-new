@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2025-09-23T18:41:13.162+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2026-02-20T15:51:15.668+00:00"}
 ---
+
+> [!infobox]
+> #  Arwen Gryffon
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | He/ Him |
+> | Occupation | Pimp |
+> | Associated Groups | N/A |
+> | Race | Half-Elf |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | Uvam Dynasty | 
+> | Residence | Minatota | 
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  [[Session Notes/02 The War for The OFC's Freedom/Session 08\|Session 08]] |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
 
 Arwen is a very obese half-elf, who was first mentioned by [[Named Characters & Beasts/Cindy\|Cindy]] and is the owner of the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. In his office, there are many pictures of [[The Party/Mordecai Reverence\|Mordecai Reverence]] with his eye cut out. There are many dead [[Other Information/Races/Tiefling\|Tiefling]]s under the pictures, written above them, presumably in their blood "Mordecai stole my heart". 
 

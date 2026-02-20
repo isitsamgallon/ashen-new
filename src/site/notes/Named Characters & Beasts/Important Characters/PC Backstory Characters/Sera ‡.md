@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2025-08-29T22:44:56.248+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.298+00:00"}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

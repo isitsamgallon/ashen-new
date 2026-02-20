@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2025-08-15T14:29:14.320+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2026-02-20T15:45:14.075+00:00"}
 ---
 
 > [!infobox]

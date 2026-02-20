@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-02-20T14:38:11.729+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-02-20T15:40:45.238+00:00"}
 ---
 
 > [!infobox]
@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Seen  |  |
-> | Last Scene |  |
+> | First Mention  |  <span><span>-</span></span> |
+> | Last Mention |  <span><span>-</span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 

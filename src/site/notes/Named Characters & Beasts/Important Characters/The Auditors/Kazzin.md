@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/kazzin/","tags":["NPC","Important"],"updated":"2025-08-19T18:10:29.697+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/kazzin/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.579+00:00"}
 ---
 
 
@@ -10,6 +10,5 @@ This is the black dragon that [[Named Characters & Beasts/Important Characters/T
 | §                                                            | Interactions |
 | ------------------------------------------------------------ | ------------ |
 | [[Session Notes/06 Urban Legends/Session 47\|Session 47]] | \-           |
-| [[Session Notes/All Sessions\|All Sessions]]              | \-           |
 
 { .block-language-dataview}

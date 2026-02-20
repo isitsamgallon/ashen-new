@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tangy/","tags":["NPC"],"updated":"2025-08-16T13:08:45.920+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tangy/","tags":["NPC"],"updated":"2026-02-20T15:45:20.398+00:00"}
 ---
 
 

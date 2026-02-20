@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-01-10T14:00:44.104+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-02-20T15:37:54.469+00:00"}
 ---
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
@@ -17,7 +17,7 @@
 </svg>
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions 1\|All Sessions 1]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -247,15 +247,15 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
-| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Named Characters & Beasts/Lux Calder\|Lux Calder]]
-- [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]
-- [[Groups & Factions/Groups & Factions\|Groups & Factions]]
-- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
-- [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]
+- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
+- [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]
 
 { .block-language-dataview}
 
@@ -292,25 +292,25 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]                                                                                                    | February 20, 2026  |
 | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]                                                                                                  | February 20, 2026  |
-| [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]                                                                                        | February 20, 2026  |
 | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]                                                                                                | February 20, 2026  |
+| [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]                                                                                        | February 20, 2026  |
 | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]                                                                                            | February 20, 2026  |
 | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]                                                                                                    | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]                                                                                            | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | September 27, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | August 29, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | August 30, 2025    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | September 27, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | September 25, 2025 |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | August 30, 2025    |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | September 20, 2025 |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

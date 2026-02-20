@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2025-12-03T17:38:05.592+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2026-02-20T15:20:32.438+00:00"}
 ---
 
 # Session Information
@@ -18,7 +18,7 @@ Leaving Seraphina’s realm, the party crossed back over the ancient bridge. Dur
 
 (x::[[The Party/Wurinn Fuuldrusch\|Drache]] tried to comfort his party mate to no avail, as it just made Halfie rant about how it would have been fine if [[The Party/Viktor Malkovich\|someone]] hadn't decided to antagonise [[Named Characters & Beasts/Scorch Dustblood\|Scorch Dustblood]]. The two were interrupted as a loud crackle of thunder could be heard from [[The Party/Viktor Malkovich\|Viktor]]'s bed as he opened a thunder door and teleported away.)  
 
-(x::[[The Party/Halfbie\|Halfbie]] rubbed their eyes before handing off most of the remaining [[Other Information/Money\|gold]] to Keith, instructing him to drop it off in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]'s vault for safekeeping. Tentatively stretching, [[The Party/Halfbie\|Halfbie]] conceded, "Well, at least there isn't some form of evil presence within the city so we can actually use this time to relax and heal properly")  
+(x::[[The Party/Halfbie\|Halfbie]] rubbed their eyes before handing off most of the remaining [[Other Information/Money\|gold]] to [[Named Characters & Beasts/Keith Horrigan\|Keith]], instructing him to drop it off in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]'s vault for safekeeping. Tentatively stretching, [[The Party/Halfbie\|Halfbie]] conceded, "Well, at least there isn't some form of evil presence within the city so we can actually use this time to relax and heal properly")  
 
 (x::[[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/Mordecai Reverence\|Mordecai]] shared a worried glance before the [[Other Information/Races/Dragonborn\|dragonborn]] explained, "While I was on my walk, I found out there was actually a dark presence in the city. It was what I was returning to tell everyone before we got mixed up in your [[Other Information/Money\|money]]-making scheme." [[The Party/Halfbie\|Halfbie]] let our dreyer sigh before [[The Party/Wurinn Fuuldrusch\|Drache]] continued, "I found a group of Harpies who told me about the presence, it was so strange as they were all standing around a dead Harpie. One thing led to naother, and now we have a week to figure this out")  
 

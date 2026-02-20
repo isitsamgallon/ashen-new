@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/boris-johnson/","tags":["NPC"],"updated":"2025-08-11T11:53:31.956+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/boris-johnson/","tags":["NPC"],"updated":"2026-02-20T15:45:14.285+00:00"}
 ---
 
 

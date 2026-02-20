@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2025-09-27T12:55:00.914+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2026-02-20T15:45:16.376+00:00"}
 ---
 
 > [!infobox]

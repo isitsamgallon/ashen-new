@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lux-calder/","tags":["NPC"],"updated":"2026-02-20T14:39:58.839+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lux-calder/","tags":["NPC"],"updated":"2026-02-20T15:41:00.544+00:00"}
 ---
 
 > [!infobox]
@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Seen  |  |
-> | Last Scene |  |
+> | First Mention  |  <span><span>-</span></span> |
+> | Last Scene |  <span><span>-</span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 

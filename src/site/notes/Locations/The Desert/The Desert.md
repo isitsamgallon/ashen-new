@@ -16,8 +16,8 @@
 >  ##### Cities & Towns 
 >   | File                                                                               | Discovery Status               |
 > | ---------------------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | <ul><li>Discovered</li></ul>   |
+> | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul> |

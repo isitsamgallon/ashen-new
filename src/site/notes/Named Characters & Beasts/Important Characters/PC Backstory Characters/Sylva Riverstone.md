@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2025-12-22T12:04:26.068+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2026-02-20T15:45:17.456+00:00"}
 ---
 
 

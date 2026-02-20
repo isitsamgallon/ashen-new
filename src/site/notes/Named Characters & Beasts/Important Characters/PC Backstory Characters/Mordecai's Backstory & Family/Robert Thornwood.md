@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2025-12-03T17:30:13.405+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.016+00:00"}
 ---
 
 >[!infobox]
@@ -23,10 +23,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]] |
->  Last seen | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
+> | Last Scene |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
 ### Overview
 Robert is [[The Party/Mordecai Reverence\|Mordecai]]'s biological father and was the main reason [[The Party/Mordecai Reverence\|Mordecai]] was unable and fearful about returning to the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Since his defeat in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]], he has taken up residence in the OFC after being kicked out of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]].
 

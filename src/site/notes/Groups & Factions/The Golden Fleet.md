@@ -17,12 +17,12 @@
 >  ##### Key Members
 >   | File                                                                  | Gender | Age     | Race    |
 > | --------------------------------------------------------------------- | ------ | ------- | ------- |
-> | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human   |
 > | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]       | Female | Adult   | Human   |
+> | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human   |
 > | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown |
 > | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown |
-> | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown |
 > | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]   | Female | Unknown | Unknown |
+> | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown |
 > | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]             | Male   | Unknown | Unknown |
 > | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]               | Male   | Unknown | Unknown |
 > 

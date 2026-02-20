@@ -1,6 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2025-09-20T17:33:47.707+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2026-02-20T15:49:52.484+00:00"}
 ---
+
+> [!infobox]
+> #  Ebis Daro
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | Unknown |
+> | Occupation | BBEG (?) |
+> | Associated Groups | Unknown |
+> | Race | Human |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | Unknown/Unclear | 
+> | Residence | Unknown/Unclear | 
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 35.md" data-href="Session Notes/04 Ignatius Beckons/Session 35.md" href="Session Notes/04 Ignatius Beckons/Session 35.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 35</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview

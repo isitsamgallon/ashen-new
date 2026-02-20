@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2025-09-27T12:55:01.130+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tish/","tags":["NPC"],"updated":"2026-02-20T15:45:20.280+00:00"}
 ---
 
 >[!infobox]
@@ -22,10 +22,10 @@
 >  :----: | --- |
 >  Status  | Dead |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/05  Freedom's Flame/Session 41\|Session 41]] |
->  Last seen | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
 
 ### Overview
 First met in [[Session Notes/05  Freedom's Flame/Session 41\|Session 41]], Tish was one of the first slaves [[Other Information/Display Tags/The Party\|the party]] met in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. He lived in a tent within the mines of the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]], and compared to most others, he lived in relatively good [[Other Information/Rules & Reference/Conditions\|conditions]]. He notably had a very close bond with [[Named Characters & Beasts/Misty\|Misty]], the person he lives with. 

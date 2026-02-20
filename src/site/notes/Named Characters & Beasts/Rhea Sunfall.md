@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/rhea-sunfall/","tags":["NPC"],"updated":"2026-02-20T14:35:38.255+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/rhea-sunfall/","tags":["NPC"],"updated":"2026-02-20T15:41:03.462+00:00"}
 ---
 
 > [!infobox]
@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Seen  |  |
-> | Last Scene |  |
+> | First Mention  |  <span><span>-</span></span> |
+> | Last Scene |  <span><span>-</span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 

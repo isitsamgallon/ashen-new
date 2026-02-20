@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/wartooth/","tags":["NPC"],"updated":"2025-08-16T13:09:06.398+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/wartooth/","tags":["NPC"],"updated":"2026-02-20T15:45:20.552+00:00"}
 ---
 
 

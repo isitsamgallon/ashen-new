@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2025-08-29T22:44:56.003+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2026-02-20T15:45:13.973+00:00"}
 ---
 
 > [!infobox]

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-01-16T19:46:58.361+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-02-20T15:45:17.172+00:00"}
 ---
 
->[!infobox|wikipedia]
+>[!infobox]
 > 
 > #  Malachi Darkthorne †
 > ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
@@ -22,11 +22,10 @@
 >  Status  | Dead |
 >  Cause of Death | [[Other Information/Display Tags/The Party\|The Party]] |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/05  Freedom's Flame/Session 44\|Session 44]] |
->  First Mention | [[Session Notes/04 Ignatius Beckons/Session 32\|Session 32]] |
->  Last Scene | N/A |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 45.md" data-href="Session Notes/05  Freedom's Flame/Session 45.md" href="Session Notes/05  Freedom's Flame/Session 45.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 45</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
 ### Overview
 Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the primary antagonist of the Freedom's Flame saga. He is an incredibly cruel man with an obsession with all things gold. He is even known for turning people into golden statues who still have the ability to think but not move. 
 

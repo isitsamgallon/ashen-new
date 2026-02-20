@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2025-09-27T12:55:01.024+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/misty/","tags":["NPC"],"updated":"2026-02-20T15:45:19.492+00:00"}
 ---
 
 >[!infobox]
@@ -23,10 +23,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/05  Freedom's Flame/Session 41\|Session 41]] |
->  Last Scene | N/A |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 45.md" data-href="Session Notes/05  Freedom's Flame/Session 45.md" href="Session Notes/05  Freedom's Flame/Session 45.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 45</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
 
 ### Overview
 First met in [[Session Notes/05  Freedom's Flame/Session 41\|Session 41]], Misty was one of the first slaves [[Other Information/Display Tags/The Party\|the party]] met in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. She lived in a tent within the mines of the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]], and compared to most others,  lived in relatively good conditions. She notably had a very close bond with [[Named Characters & Beasts/Tish\|Tish]], the person she lives with and takes care of her. 

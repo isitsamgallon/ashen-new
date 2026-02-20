@@ -1,7 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC","Important"],"updated":"2025-08-11T11:53:32.142+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/emmeline/","tags":["NPC","Important"],"updated":"2026-02-20T15:52:42.707+00:00"}
 ---
 
+> [!infobox]
+> #  Emmeline
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | She/ Her |
+> | Occupation | Mercenary |
+> | Associated Groups | The Emerald Fort,The Party |
+> | Race | Human |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | The Emerald Fort | 
+> | Residence | The Emerald Fort | 
+> | Relationship | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]] (Boyfriend) |
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 37.md" data-href="Session Notes/04 Ignatius Beckons/Session 37.md" href="Session Notes/04 Ignatius Beckons/Session 37.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 37</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 39.md" data-href="Session Notes/04 Ignatius Beckons/Session 39.md" href="Session Notes/04 Ignatius Beckons/Session 39.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 39</a></span></span> |
 
 ### Overview
 She is [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]'s lover from [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]. When they first met, Drache was a part of [[Groups & Factions/The Tulan Fort\|The Tulan Fort]] and would sneak out, abandoning post sometimes, to go see her. 

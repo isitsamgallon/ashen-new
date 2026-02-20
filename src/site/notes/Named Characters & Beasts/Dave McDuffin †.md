@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2025-08-31T16:45:14.773+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2026-02-20T15:45:14.772+00:00"}
 ---
 
 

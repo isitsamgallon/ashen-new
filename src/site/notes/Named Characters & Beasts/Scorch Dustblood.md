@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/scorch-dustblood/","tags":["NPC"],"updated":"2025-09-27T13:09:12.435+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/scorch-dustblood/","tags":["NPC"],"updated":"2026-02-20T15:45:20.135+00:00"}
 ---
 
 >[!infobox]
@@ -22,10 +22,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
->  Last Scene | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
+> | Last Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
 
 
 ### Overview

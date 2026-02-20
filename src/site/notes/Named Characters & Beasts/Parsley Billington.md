@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/parsley-billington/","tags":["NPC"],"updated":"2025-08-11T11:53:32.051+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/parsley-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:19.822+00:00"}
 ---
 
 

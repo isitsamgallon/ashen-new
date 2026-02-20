@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"updated":"2025-08-29T22:44:56.431+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/xekai/","tags":["NPC","Important"],"updated":"2026-02-20T15:55:03.962+00:00"}
 ---
 
 > [!infobox]
@@ -9,15 +9,29 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | Human (?) |
->  Nationality | Unknown |
 >  Class | Rogue |
 >  Subclass | Unknown |
->  Age | Unknown |
->  Alignment | Neutral Good (?) |
->  Pronouns | He/ Him |
->  Faction | [[Groups & Factions/The Auditors\|The Auditors]] |
-
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | He/ Him |
+> | Occupation | Member of The Auditors |
+> | Associated Groups | The Auditors |
+> | Race | Human |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | Unknown/Unclear | 
+> | Residence | Unknown/Unclear | 
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  [[Session Notes/02 The War for The OFC's Freedom/Session 02\|Session 02]] |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
 
 ### Overview
 Xekai is a mysterious underworld magic user and a former member of an organisation known as [[Groups & Factions/The Auditors\|The Auditors]]. He seems to have some form of plan for [[Other Information/Display Tags/The Party\|The Party]] but is unwilling to explain what it is. He was first introduced to [[Other Information/Display Tags/The Party\|The Party]] in [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] when they snuck into the councillor's offices to learn secrets that could help them in their quests. He was already in the office when they found him, looking through documents for reasons he refused to reveal. He didn't stick around long before opening a portal and escaping. 

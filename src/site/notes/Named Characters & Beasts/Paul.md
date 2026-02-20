@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/paul/","tags":["NPC"],"updated":"2025-09-27T12:55:01.120+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/paul/","tags":["NPC"],"updated":"2026-02-20T15:45:19.888+00:00"}
 ---
 
 ### Overview

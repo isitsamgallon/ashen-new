@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2025-12-30T10:41:56.352+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/halos-goodbarrel/","tags":["NPC"],"updated":"2026-02-20T15:45:15.355+00:00"}
 ---
 
 >[!infobox]
@@ -22,10 +22,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
->  Last seen | [[Session Notes/06 Urban Legends/Session 49\|Session 49]] |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span>-</span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
 
 ### Overview
 Halos Goodbarrel is the creator and founder of the incredibly lucrative and famous general and magic item store [[Groups & Factions/Halos Emporium\|Halos Emporium]]. [[Other Information/Display Tags/The Party\|The Party]] first met Halos as a part of [[The Party/Halfbie\|Halfbie]]'s [[Other Information/Money\|money]] making scheme in [[Session Notes/06 Urban Legends/Session 49\|Session 49]].

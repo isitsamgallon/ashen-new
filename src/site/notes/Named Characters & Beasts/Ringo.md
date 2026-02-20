@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-02-10T20:24:20.760+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-02-20T15:45:19.932+00:00"}
 ---
 
 >[!infobox]
@@ -38,10 +38,10 @@
 >  :----: | --- |
 >  Status  | Alive |
 > ###### Appearances
->   Type | Stat |
->  :----: | --- |
->  First Seen  | [[Session Notes/06 Urban Legends/Session 51\|Session 51]] |
->  Last Scene | N/A |
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 54.md" data-href="Session Notes/07 Winter Warriors/Session 54.md" href="Session Notes/07 Winter Warriors/Session 54.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 54</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
 
 
 

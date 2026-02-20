@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-19/","updated":"2025-08-29T22:44:57.204+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-19/","updated":"2026-02-20T15:20:25.003+00:00"}
 ---
 
 
@@ -25,7 +25,7 @@ The songs being sung are actually songs singing [[Other Information/Display Tags
 
 (x:: One of the thralls comes down to get the broach, however, Korrigan wont hand it over until he finds out where they got the magic staff from. The thrall gets annoyed and attacks Korrigan. finally they find out that the main squirrel found a weird rock in the tree and managed to make the staff. Korrigan restrains all of the squirrels with the entangle spell and chenris grabs that squirrel with [[Admin/Spells/Mage Hand\|mage hand]] and takes the staff away. with the situation resolved, they carry on to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] and managed to make the journey in about a day.)
 
-(x:: once they enter the city, they decide to go to [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]] to get some more information on what to expect with the [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]] situation. Allegedly he had stolen everything from the palace, even the furniture. The are no witnesses since most of the guards weren't on duty, keith had hired his own guards for some reason. with nothing else left to do they go to the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]] to get some sleep. In the morning, they make their way to the palace to find that there is a lot more of a verity of races walking the streets of the city, a testament to the work Steve had been doing.)
+(x:: once they enter the city, they decide to go to [[Groups & Factions/Ye Old Tavern Down the Road\|Ye Old Tavern Down the Road]] to get some more information on what to expect with the [[Named Characters & Beasts/Keith Horrigan\|Keith Horrigan]] situation. Allegedly he had stolen everything from the palace, even the furniture. The are no witnesses since most of the guards weren't on duty, [[Named Characters & Beasts/Keith Horrigan\|keith]] had hired his own guards for some reason. with nothing else left to do they go to the [[Groups & Factions/Adventurers Guild\|Adventurers Guild]] to get some sleep. In the morning, they make their way to the palace to find that there is a lot more of a verity of races walking the streets of the city, a testament to the work Steve had been doing.)
 
 (x:: Chenris suggests setting a bounty to get the riches and Horrigan back and give people a portion of the money stolen, they all agree this is a good. they go to the palace to try and gain some kind of idea the worth that was stolen. The palace had been ransacked even the [[Gold\|Gold]] had been stripped from the chairs in the councillors room. Chenris goes to the vault and talks to the bookkeeper and asks for the worth of what was stolen:)
 - The vault had about 50k [[Gold\|Gold]] 

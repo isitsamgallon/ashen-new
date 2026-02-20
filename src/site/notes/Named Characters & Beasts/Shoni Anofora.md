@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/shoni-anofora/","tags":["NPC"],"updated":"2025-08-16T13:09:14.742+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/shoni-anofora/","tags":["NPC"],"updated":"2026-02-20T15:45:20.412+00:00"}
 ---
 
 
