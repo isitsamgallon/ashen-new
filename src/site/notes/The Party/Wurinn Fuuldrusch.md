@@ -74,7 +74,7 @@ Drache was originally from and loyal to [[Groups & Factions/The Tulan Fort\|The 
 | [[Other Information/Quotes\|Quotes]] | "I am big and fast" - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                                                                                                   |
 | [[Other Information/Quotes\|Quotes]] | "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it." - [[The Party/Wurinn Fuuldrusch\|Drache]]                                                             |
 | [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                                    |
-| [[Other Information/Quotes\|Quotes]] | ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) can i get [[The Party/Wurinn Fuuldrusch\|Drache]] in draggggggg ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] |
+| [Quotes]] | ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) can i get [[The Party/Wurinn Fuuldrusch\|Drache](/img/user/Other%20Information/Quotes.md) in draggggggg ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]] |
 
 { .block-language-dataview}
 

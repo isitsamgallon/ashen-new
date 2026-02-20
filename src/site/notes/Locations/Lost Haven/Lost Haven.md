@@ -59,8 +59,8 @@ KA1, better known now as [[The Party/Dead/Kal The Korrigan †\|Kal]] (or [[The 
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                               | The Slums        | Alive   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Unknown |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Alive   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead    |
 
 { .block-language-dataview}

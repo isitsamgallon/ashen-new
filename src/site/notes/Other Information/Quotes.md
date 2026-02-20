@@ -48,7 +48,7 @@ A collection Quotes said during DND Sessions.
 (x::"So we put a bunch of undead bankers with lutes in a tavern... ITS DEATH METAL" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
 (x::"unconscious people don't want to be punched" - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]])
 (x:: "he kinda touches himself up a little bit" - when talking about Mordecai  - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]])
-(x:: ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) can i get [[The Party/Wurinn Fuuldrusch\|Drache]] in draggggggg ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]])
+(x:: ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) can i get [Drache]] in draggggggg ![🎶](https://discord.com/assets/fb0d23dc5b2cb6c0.svg) - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales](/img/user/The%20Party/Wurinn%20Fuuldrusch.md))
 (x:: "cool cool, the house is knocked prone"  - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]])
 (x::"THATS A 19 BABY.. WAA... FUCK!..... _falls off chair_"  - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]])
 (x:: "So Chenris and Korrigan are making hentai?" - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]])

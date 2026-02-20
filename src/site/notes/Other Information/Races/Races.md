@@ -8,18 +8,18 @@ For Information regarding sizes [[Other Information/Creature Sizes\|CLICK HERE]]
 
 ### Current Recorded Races
 - [[Other Information/Races/Vampire\|Vampire]]
+- [[Other Information/Races/Human\|Human]]
 - [[Other Information/Races/Tiefling\|Tiefling]]
 - [[Other Information/Races/Inchlings\|Inchlings]]
-- [[Other Information/Races/Human\|Human]]
-- [[Other Information/Races/Goliath\|Goliath]]
 - [[Other Information/Races/Halflings\|Halflings]]
-- [[Other Information/Races/Fey\|Fey]]
+- [[Other Information/Races/Goliath\|Goliath]]
+- [[Other Information/Races/Gnomes\|Gnomes]]
 - [[Other Information/Races/Goblin\|Goblin]]
+- [[Other Information/Races/Fey\|Fey]]
 - [[Other Information/Races/Eladrin\|Eladrin]]
 - [[Other Information/Races/Elves\|Elves]]
-- [[Other Information/Races/Gnomes\|Gnomes]]
+- [[Other Information/Races/Dwarves\|Dwarves]]
 - [[Other Information/Races/Drow\|Drow]]
 - [[Other Information/Races/Dragonborn\|Dragonborn]]
-- [[Other Information/Races/Dwarves\|Dwarves]]
 
 { .block-language-dataview}

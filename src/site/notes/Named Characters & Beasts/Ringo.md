@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2025-12-22T12:05:28.172+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-02-10T20:24:20.760+00:00"}
 ---
 
 >[!infobox]
@@ -103,7 +103,7 @@ He is a very gruff and stern man who doesn't want to talk very often. He also do
 name: Hunter Ally
 size: Medium
 type: humanoid
-columns: ~~2~~
+columns: 4
 subtype: —
 alignment: Neutral Good
 ac: 16
