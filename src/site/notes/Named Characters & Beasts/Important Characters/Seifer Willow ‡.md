@@ -25,8 +25,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
 
 ### Overview
 Seifer was previously a high-ranking Tactician and General in [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Army during [[History & Events/The Sundering\|the Sundering]]. She died during a particular fierce battle during the war. Many of her followers venerated her and even put her on a par with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. This constant belief manifested as her soul gaining greater powers. She was eventually sealed inside a crown kept on [[Locations/Itone Isles\|Itone]], until Moredcai touched it and she came to possess them. 

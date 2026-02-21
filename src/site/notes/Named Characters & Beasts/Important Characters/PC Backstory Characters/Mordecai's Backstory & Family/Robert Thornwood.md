@@ -25,8 +25,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
-> | Last Scene |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
+> | Last Scene |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
 ### Overview
 Robert is [[The Party/Mordecai Reverence\|Mordecai]]'s biological father and was the main reason [[The Party/Mordecai Reverence\|Mordecai]] was unable and fearful about returning to the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Since his defeat in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]], he has taken up residence in the OFC after being kicked out of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]].
 
