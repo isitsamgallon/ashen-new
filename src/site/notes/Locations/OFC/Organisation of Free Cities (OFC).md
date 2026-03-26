@@ -21,10 +21,10 @@
 > | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
-> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul> |
 > | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul> |
+> | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul> |
 > 
 { .block-language-dataview}
 
@@ -71,11 +71,10 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 ### Notable NPCs
 | File                                                                                                                                      | Home Town        | Status  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
@@ -84,6 +83,7 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |
 | [[Named Characters & Beasts/Big Dave\|Big Dave]]                                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Azel †\|Azel †]]                                                                                           | Silkhorn         | Dead    |
+| [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
 
 { .block-language-dataview}
 

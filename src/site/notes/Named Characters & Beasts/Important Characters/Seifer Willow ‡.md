@@ -25,7 +25,7 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 27.md" data-href="Session Notes/04 Ignatius Beckons/Session 27.md" href="Session Notes/04 Ignatius Beckons/Session 27.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 27</a></span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 17.md" data-href="Session Notes/03 The Worst Diplomates/Session 17.md" href="Session Notes/03 The Worst Diplomates/Session 17.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 17</a></span></span> |
 
 ### Overview

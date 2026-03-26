@@ -17,7 +17,7 @@
 </svg>
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Other Information/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -244,18 +244,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------- |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
-| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
-| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
-- [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]
+- [[Session Notes/07 Winter Warriors/Session 56\|Session 56]]
 - [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]
-- [[Homepage\|Homepage]]
-- [[Admin/Templates/NewGroup\|NewGroup]]
+- [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
+- [[Session Notes/All Sessions\|All Sessions]]
+- [[Named Characters & Beasts/Kaelin\|Kaelin]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/All Sessions\|All Sessions]]
+- [[Named Characters & Beasts/Kaelin\|Kaelin]]
 - [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
 - [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]
 - [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]
-- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
-- [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]
 
 { .block-language-dataview}
 
@@ -293,11 +293,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]                                                                                                    | February 20, 2026  |
 | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]                                                                                                  | February 20, 2026  |
 | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]                                                                                                | February 20, 2026  |
-| [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]                                                                                            | March 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | March 21, 2026     |
 | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]                                                                                        | February 20, 2026  |
 | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]                                                                                            | February 20, 2026  |
 | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]                                                                                                    | February 20, 2026  |
+| [[Named Characters & Beasts/Kaelin\|Kaelin]]                                                                                                            | March 26, 2026     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | February 20, 2026  |
@@ -306,12 +306,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]                                                                                            | February 20, 2026  |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
 
 { .block-language-dataview}

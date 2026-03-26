@@ -25,7 +25,7 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 42.md" data-href="Session Notes/05  Freedom's Flame/Session 42.md" href="Session Notes/05  Freedom's Flame/Session 42.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 42</a></span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 43.md" data-href="Session Notes/05  Freedom's Flame/Session 43.md" href="Session Notes/05  Freedom's Flame/Session 43.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 43</a></span></span> |
 
 ### Overview

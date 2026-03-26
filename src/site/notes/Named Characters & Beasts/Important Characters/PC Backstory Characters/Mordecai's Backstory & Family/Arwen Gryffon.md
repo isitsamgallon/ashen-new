@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  [[Session Notes/02 The War for The OFC's Freedom/Session 08\|Session 08]] |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/02 The War for The OFC's Freedom/Session 08.md" data-href="Session Notes/02 The War for The OFC's Freedom/Session 08.md" href="Session Notes/02 The War for The OFC's Freedom/Session 08.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 08</a></span></span> |
 
 Arwen is a very obese half-elf, who was first mentioned by [[Named Characters & Beasts/Cindy\|Cindy]] and is the owner of the [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] in [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]. In his office, there are many pictures of [[The Party/Mordecai Reverence\|Mordecai Reverence]] with his eye cut out. There are many dead [[Other Information/Races/Tiefling\|Tiefling]]s under the pictures, written above them, presumably in their blood "Mordecai stole my heart". 
 

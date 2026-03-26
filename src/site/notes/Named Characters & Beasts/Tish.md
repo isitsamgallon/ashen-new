@@ -24,8 +24,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 43.md" data-href="Session Notes/05  Freedom's Flame/Session 43.md" href="Session Notes/05  Freedom's Flame/Session 43.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 43</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 42.md" data-href="Session Notes/05  Freedom's Flame/Session 42.md" href="Session Notes/05  Freedom's Flame/Session 42.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 42</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 43.md" data-href="Session Notes/05  Freedom's Flame/Session 43.md" href="Session Notes/05  Freedom's Flame/Session 43.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 43</a></span></span> |
 
 ### Overview
 First met in [[Session Notes/05  Freedom's Flame/Session 41\|Session 41]], Tish was one of the first slaves [[Other Information/Display Tags/The Party\|the party]] met in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. He lived in a tent within the mines of the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]], and compared to most others, he lived in relatively good [[Other Information/Rules & Reference/Conditions\|conditions]]. He notably had a very close bond with [[Named Characters & Beasts/Misty\|Misty]], the person he lives with. 

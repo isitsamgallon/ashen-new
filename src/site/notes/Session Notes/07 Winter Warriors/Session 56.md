@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-02-20T13:41:27.594+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-03-26T18:12:57.385+00:00"}
 ---
 
 # Session Information
@@ -52,11 +52,11 @@ Despite Viktor’s hostility, [[Named Characters & Beasts/Astra Goldmark\|Astra]
 
 (x::Many of [[Other Information/Display Tags/The Party\|the Party]] had zoned out by the end of [[The Party/Halfbie\|Halfbie]]'s explanation, instead focusing on the large hall in front of them. Many of the forts' buildings have [[Other Information/Money\|gold]] furnishings and decorations; however, this hall seemed to be even more ornate. The front entrance had a long line stretching out in front of it, so [[Other Information/Display Tags/The Party\|the Party]] joined it to blend in further.)
 
-(x::Getting to the front of the queue, they were called over by a clerk. "How can i help?" the young Clerk asked, his patience clearly wearing thin.)
+(x::Getting to the front of the queue, they were called over by a [[Named Characters & Beasts/Receptionist 3\|Clerk]] . "How can i help?" the young Clerk asked, his patience clearly wearing thin.)
 
 (x::"We're here for the meeting?" [[The Party/Viktor Malkovich\|Viktor]] asked plainly.)
 
-(x::"Which meeting?" the Clerk replied curtly.)
+(x::"Which meeting?" the [[Named Characters & Beasts/Receptionist 3\|Clerk]] replied curtly.)
 
 (x::"With the commander?" said [[The Party/Mordecai Reverence\|Mordecai]].)
 
@@ -64,7 +64,7 @@ Despite Viktor’s hostility, [[Named Characters & Beasts/Astra Goldmark\|Astra]
 
 (x::"Isn't that your job?" sneered [[The Party/Mordecai Reverence\|Mordecai]], quickly catching on to [[The Party/Viktor Malkovich\|Viktor]]'s plan, "You know, to tell us where to go for our meeting?")
 
-(x::Before the clearly announced Clerk could respond, "Excuss me boys," [[The Party/Halfbie\|Halfbie]] said as they pushed through the two. They flourished their hand on the desk and, with a confident smile, said, "Has anyone told you how semetrical your face is?")
+(x::Before the clearly annoyed [[Named Characters & Beasts/Receptionist 3\|Clerk]] could respond, "Excuss me boys," [[The Party/Halfbie\|Halfbie]] said as they pushed through the two. They flourished their hand on the desk and, with a confident smile, said, "Has anyone told you how semetrical your face is?")
 
 (x::Everyone, including the Clerk, was dumb founded into silence. [[The Party/Halfbie\|Halfbie]] secretly passed a note back to Vikotr that read 'Good guard, bad guard'. And with a wink, they turned back to the Clerk had gone ruby red at such an unexpected remark [^2]. "O- oh-i've never been called symmetrical before..." their once stern voice now shaky with nerves. Leaning over the desk, to get closer, [[The Party/Halfbie\|Halfbie]] asked if the Clerk knew where they needed to go, as they were new to the fort.)
 
@@ -92,31 +92,31 @@ Despite Viktor’s hostility, [[Named Characters & Beasts/Astra Goldmark\|Astra]
 
 (x::"i dont knowhow you did it but, but youre way better than me!" said [[The Party/Wurinn Fuuldrusch\|Drache]] with a proud smile.)
 
-(x::"Yeah i dont know what he meant by going over for more than just wine, id prefer just the wine but ateast we got the names and where their offices are")
+(x::"Yeah i don't know what he meant by going over for more than just wine, id prefer just the wine but ateast we got the names and where their offices are")
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] patted them on the back and gave them one of the only books they owned. [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/Viktor Malkovich\|Viktor]] instantly recognised it as a popular fanfiction/ smut book that had recently become popular in a book shop called 'AO3')
 
 (x::Finding a very basic map, they spotted that nearby was an armoury, something Aiden said might be a good target to sabotage to make the raid go more smoothly. [[Other Information/Display Tags/The Party\|The Party]] all agreed, and they began making their way there. Along the way, the group got a [[Admin/Spells/Message\|message]] on the crystal from  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]], who said:)
 
-(x::Dear [[Other Information/Display Tags/The Party\|The Fatebreakers]] and Mx Reverence,
- 
-Re: [[Other Information/Display Tags/The Party\|The Party]]'s invasion of The [[Locations/Golden Fort\|Golden Fort]]
-
- I assume all is well.
- 
-Another idea is we could poison the water source for the fort. We have access to a powerful poison; we need to find that source.
-
-Your sincerly,
-
-Sir [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] Tallfellow
-[[Locations/Strixhavem/Strixhaven\|Strixhaven]] University
-
-Msci(hons) Magical Theory
-Msci(hons) Magical Research
-Msci(hons) Mathmatics
-Bsci(hons)Arcanodynamics
-Bsci(hons) Runic Studies
-Bsci(hons) Planar Theory)
+	(x::Dear [[Other Information/Display Tags/The Party\|The Fatebreakers]] and Mx Reverence,
+	 
+	Re: [[Other Information/Display Tags/The Party\|The Party]]'s invasion of The [[Locations/Golden Fort\|Golden Fort]]
+	
+	 I assume all is well.
+	 
+	Another idea is we could poison the water source for the fort. We have access to a powerful poison; we need to find that source.
+	
+	Your sincerly,
+	
+	Sir [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] Tallfellow
+	[[Locations/Strixhavem/Strixhaven\|Strixhaven]] University
+	
+	Msci(hons) Magical Theory
+	Msci(hons) Magical Research
+	Msci(hons) Mathmatics
+	Bsci(hons)Arcanodynamics
+	Bsci(hons) Runic Studies
+	Bsci(hons) Planar Theory)
 
 (x::[[The Party/Viktor Malkovich\|Viktor]] also shared that he had the spell contagion that they could use to do the same thing. [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Wurinn Fuuldrusch\|Drache]] were against the idea since it would kill indiscriminately, and they wanted to give the fort a chance to surrender. While this was happeneing [[The Party/Viktor Malkovich\|Viktor]] looked around, and his eyes fell upon a shadowy figure standing atop a roof. It was a struggle to make out any details of the figure apart from the fact that they had glowing golden eyes. The figure quickly saw they had been spotted, turned around and disappeared behind the roof.)
 
