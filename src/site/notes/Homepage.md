@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-02-21T12:53:27.660+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-03-26T18:18:24.616+00:00"}
 ---
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
@@ -154,7 +154,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
     <rect x="2010" y="0" fill="#fff" opacity="0" width="436" height="207"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/locations/the-merrihollows/the-merrihollows/">
     <rect x="3596" y="797" fill="#fff" opacity="0" width="484" height="116"></rect>
-  </a><a xlink:href="https://www.ashencampaign.xyz/locations/strixhaven/">
+  </a><a xlink:href="https://www.ashencampaign.xyz/locations/strixhavem/strixhaven/">
     <rect x="1760" y="1644" fill="#fff" opacity="0" width="318" height="344"></rect>
   </a><a xlink:href="https://www.ashencampaign.xyz/groups-and-factions/the-tulan-fort/">
     <rect x="1154" y="1627" fill="#fff" opacity="0" width="236" height="87"></rect>
@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
 - [[Session Notes/07 Winter Warriors/Session 56\|Session 56]]
 - [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]
 - [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
 - [[Session Notes/All Sessions\|All Sessions]]
-- [[Named Characters & Beasts/Kaelin\|Kaelin]]
 
 { .block-language-dataview}
 
