@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 57.md" data-href="Session Notes/07 Winter Warriors/Session 57.md" href="Session Notes/07 Winter Warriors/Session 57.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 57</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 56.md" data-href="Session Notes/07 Winter Warriors/Session 56.md" href="Session Notes/07 Winter Warriors/Session 56.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 56</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 56.md" data-href="Session Notes/07 Winter Warriors/Session 56.md" href="Session Notes/07 Winter Warriors/Session 56.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 56</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 57.md" data-href="Session Notes/07 Winter Warriors/Session 57.md" href="Session Notes/07 Winter Warriors/Session 57.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 57</a></span></span> |
 
 ### Overview
 Astra is the second in command of [[Groups & Factions/The Golden Fleet\|The Golden Fleet]], residing in the golden palace found at the centre of the fort. She seems to be sole owner of a mysterious power that allows her to "see through everything" and even lets her see into the future somewhat, showcased when [[The Party/Halfbie\|Halfbie]]  through a butter knife at her with her back turned to test a theory and she dodge it with no issues. 

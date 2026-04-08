@@ -202,6 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                        | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/07 Winter Warriors/Session 58\|Session 58]] | 7th Saga - Winter Warriors | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [[Session Notes/07 Winter Warriors/Session 57\|Session 57]] | 7th Saga - Winter Warriors | The party woke in Astra Goldmark's home to find Halfbie in rough shape after a chaotic night. They debated whether to proceed with their raid on the Golden Fort, now that their presence was known. Halfbie stressed the importance of dismantling the fort to free the seas and uplift nations. Despite initial concerns from Mordecai and Drache, they agreed the raid could positively impact the political landscape. They acknowledged the inevitability of collateral damage but decided to spare fleeing civilians. |
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | 7th Saga - Winter Warriors | The Party infiltrates the Golden Fort through deception, stealth, and Halfbie’s unexpected charm, uncovering both dangers and surprising allies along the way. They eventually meet Astra, who warns them of the fort’s power but offers temporary peace and shelter if they promise not to destroy the armoury.                                                                                                                                                                                                            |
 | [[Session Notes/07 Winter Warriors/Session 55\|Session 55]] | 7th Saga - Winter Warriors | The party’s attempt to rest devolved into cursed hunger, undead experiments, and growing dread as Mordecai spiralled under wild magic and the hunters’ curse was partially unveiled. Dawn brought divine horror: the Korrigan struck Mordecai down, Vaelrith answered Viktor’s prayer, and the road to the Golden Fort grew far darker than expected.                                                                                                                                                                       |
@@ -211,7 +212,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/06 Urban Legends/Session 51\|Session 51]]   | 7th Saga - Winter Warriors | The party prepared for a daring assault on the Golden Fort, securing allies, gathering intelligence, and confronting personal demons along the way. By the session’s end, plans were set, tensions eased, and the Fatebreakers stood ready to begin their boldest operation yet.                                                                                                                                                                                                                                            |
 | [[Session Notes/06 Urban Legends/Session 50\|Session 50]]   | 6th Saga - Urban Legends   | The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.                                                                                                                                                                                                                                                          |
 | [[Session Notes/06 Urban Legends/Session 49\|Session 49]]   | 6th Saga - Urban Legends   | The party grappled with the OFC’s fragile finances, turning to the Tome of Unfinished Stories to conjure wealth, only to attract dangerous visitors. Their scheme ended in disaster when Scorch Dustblood defeated them, leaving them wounded and empty-handed.                                                                                                                                                                                                                                                             |
-| [[Session Notes/06 Urban Legends/Session 48\|Session 48]]   | 6th Saga - Urban Legends   | The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.                                                                                                                                                                                                                                            |
 
 { .block-language-dataview}
 
@@ -256,8 +256,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven.md\|Strixhaven]]                                               | July 31, 2025 |
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/07 Winter Warriors/Session 58\|Session 58]]
 - [[Gallery\|Gallery]]
 - [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]]
 - [[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]]
 - [[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Session Notes/07 Winter Warriors/Session 58\|Session 58]]
 - [[Session Notes/All Sessions\|All Sessions]]
 - [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
 - [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]
 - [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]
-- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
 
 { .block-language-dataview}
 
@@ -288,13 +288,14 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/07 Winter Warriors/Session 58\|Session 58]]                                                                                             | April 08, 2026     |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | March 21, 2026     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |

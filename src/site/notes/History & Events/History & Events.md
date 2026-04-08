@@ -3,8 +3,8 @@
 ---
 
 A list of all the historical events that we are aware of:
-- [[History & Events/The Sundering\|The Sundering]]
 - [[History & Events/The War for the OFC's Freedom\|The War for the OFC's Freedom]]
+- [[History & Events/The Sundering\|The Sundering]]
 - [[History & Events/The Cleansing\|The Cleansing]]
 - [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
 - [[History & Events/Skyfall Ward\|Skyfall Ward]]

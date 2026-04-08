@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 18.md" data-href="Session Notes/03 The Worst Diplomates/Session 18.md" href="Session Notes/03 The Worst Diplomates/Session 18.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 18</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/01 Echoes of the Ethertwist/Session 01.md" data-href="Session Notes/01 Echoes of the Ethertwist/Session 01.md" href="Session Notes/01 Echoes of the Ethertwist/Session 01.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 01</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 24.md" data-href="Session Notes/03 The Worst Diplomates/Session 24.md" href="Session Notes/03 The Worst Diplomates/Session 24.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 24</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 25.md" data-href="Session Notes/03 The Worst Diplomates/Session 25.md" href="Session Notes/03 The Worst Diplomates/Session 25.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 25</a></span></span> |
 
 ### Overview
 She is [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]'s lover from [[Groups & Factions/The Emerald Fort\|The Emerald Fort]]. When they first met, Drache was a part of [[Groups & Factions/The Tulan Fort\|The Tulan Fort]] and would sneak out, abandoning post sometimes, to go see her. 
