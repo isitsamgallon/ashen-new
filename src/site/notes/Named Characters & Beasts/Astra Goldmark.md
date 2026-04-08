@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-02-20T15:40:49.576+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-04-08T16:41:56.554+01:00"}
 ---
 
 >[!infobox]
@@ -29,21 +29,31 @@
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 57.md" data-href="Session Notes/07 Winter Warriors/Session 57.md" href="Session Notes/07 Winter Warriors/Session 57.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 57</a></span></span> |
 
 ### Overview
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+Astra is the second in command of [[Groups & Factions/The Golden Fleet\|The Golden Fleet]], residing in the golden palace found at the centre of the fort. She seems to be sole owner of a mysterious power that allows her to "see through everything" and even lets her see into the future somewhat, showcased when [[The Party/Halfbie\|Halfbie]]  through a butter knife at her with her back turned to test a theory and she dodge it with no issues. 
 
 ### Description
 #### Appearance
-
+Astra is described a good looking [[Other Information/Races/Human\|human]] with bright, piecing golden eyes (the source of her mysterious ability). She is typci9ally seen wearing black.
 
 #### Personality
+Externally, she is incredibly charismatic being bale to win over a lot of [[Other Information/Display Tags/The Party\|the party]] almost instantaneously after just a short conversation. Most likely through a combination of her abilities and her station, she has become almost bored of life and what it has to offer. Towards the end of her first meeting [^1] with [[Other Information/Display Tags/The Party\|the party]], [[The Party/Halfbie\|Halfbie]] asks if she would be willing to join them in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]], She declined the offer citing that she already had everything she could ever want and more at the fort and that she was confident that they would be unable to destroy the fort. 
 
+Despite knowing [[Other Information/Display Tags/The Party\|the party]]'s intentions, she still allowed [[Other Information/Display Tags/The Party\|the party]] to at least attempt destroying the fort without her hindrance nor her help. She treated the raid as entertainment rather than an actual threat  because from her vantage-point the future where [[Other Information/Display Tags/The Party\|the party]] failed to take over the fort is all but written in stone. 
+
+Despite this, she is still genuinely interested in seeing how [[Other Information/Display Tags/The Party\|the party]] perform. this is best shown when she appears behind [[The Party/Mordecai Reverence\|Mordecai]] in the mess hall [^2] to gloat about her [[The Party/Mordecai Reverence\|Mordecai]] had been unsuccessful in convincing any of the guards or workers to sabotage the fort's defences. 
 
 ### Relationships
-#### 
+#### [[The Party/Halfbie\|Halfbie]] 
+She seems to somewhat respect [[The Party/Halfbie\|halfbie]], after they were the only one to resist her charms as well having the boldness to ask her to defect from the fort. 
 
-#### 
+#### [[Other Information/Display Tags/The Party\|The Party]]
+She seems to have a form of morbid curiosity towards [[Other Information/Display Tags/The Party\|The Party]], however in the end she doesn't seem to care either way about them 
 
-### History
+#### The Fort 
+The majority of [[Groups & Factions/The Golden Fleet\|The Golden Fleet]] seem to be very aware of her abilities to see through everything and everyone. This has leads to many of them to be very cautious of the commander and some even going as far as to hate her as from their perspective, she seems to very uptight and uncaring about them and the fort.
+
+### Trivia
+- The reason astra allowed [[Other Information/Display Tags/The Party\|the party]] to go ahead with their plan is because [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] rolled a Nat 20 on a persuasion check for her join the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]. [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] resolved this by having her remain neutral as in his words: 'there is no way she would abandon [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]'.
 
 
 ### Appearances & Mentions
@@ -62,7 +72,7 @@
 | [[Session Notes/07 Winter Warriors/Session 57\|Session 57]] | Sam explained that his primary job was moving and maintaining the canons, while he was ft for any smaller, more technical work. He also complained about how he had to keep up his work even though no one had dared invade the fort in decades. however apparently [[Named Characters & Beasts/Astra Goldmark\|Astra]] insisted that the fort stayed battle-ready because something would eventually come for them. After some more moaning, [[The Party/Mordecai Reverence\|Mordecai]] eventually cast [[Admin/Spells/Suggestion\|suggestion]] on the man, hoping to convince him to block the canon barrels so they would miss fire when used. |
 | [[Session Notes/07 Winter Warriors/Session 57\|Session 57]] | As [[The Party/Mordecai Reverence\|Mordecai]] looked for another target, a familiar presence appeared behind them "How's it going?" [[Named Characters & Beasts/Astra Goldmark\|Astra]] asked smugly, "I think it'll be tought to find anyone despeatre enough to give you anything"                                                                                                                                                                                                                                                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 57\|Session 57]] | "Well no ones been dumb enough to try in recent memory." [[Named Characters & Beasts/Astra Goldmark\|Astra]] quickly finished her fag, put it out, and left. "Keep up the great work!" she said sarcastically.                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | The old man gave a kind smile before opening his ledger and asking if they knew who their supervisors were. Once hearing this, they didn't know this information either, and he started listing names, putting considerable emphasis on [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]], who, they presumed from his tone, was of a higher station than the rest.                                                                                                                                                                                                                                                 |
+| [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | The old man gave a kind smile before opening his ledger and asking if they knew who their supervisors were. Once hearing this, they didn't know this information either, and he started listing names, putting considerable emphasis on [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]], who, they presumed from his tone, was of a higher station than the rest. The other names where as follows:                                                                                                                                                                                                               |
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | [[The Party/Viktor Malkovich\|Viktor]] only walked up and stated that they were here to pick up an order for [[Named Characters & Beasts/Astra Goldmark\|Astra]].                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | "Are you sure you wanna piss off [[Named Characters & Beasts/Astra Goldmark\|Astra]] more than they already are?" bluffed [[The Party/Mordecai Reverence\|Mordecai]].                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | "[[Named Characters & Beasts/Astra Goldmark\|Astra]] can lick my boot, I answer to Rick no'ne else." he man barked "If we're gonna have a problem hear i sugest you bring the form or bring [[Named Characters & Beasts/Astra Goldmark\|Astra]] herself, without those, you'll get nothing"                                                                                                                                                                                                                                                                                                                                              |
@@ -71,3 +81,7 @@
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | [[Named Characters & Beasts/Astra Goldmark\|Astra]] began to give direction to the house not too far from the armoury before beckoning the other to join her. She took them to a large increaibly ornate building. Inside, which was filled with many plush sofas, cushions, and golden statues, she guided them to their own individual room and showed them where to find the facilities. "I hope you enjoy your stay at the [[Locations/Golden Fort\|Golden Fort]]", she said coyly before leaving for her own room.                                                                                                               |
 
 { .block-language-dataview}
+
+[^1]: [[Session Notes/07 Winter Warriors/Session 56\|Session 56]]
+
+[^2]: [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]

@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2025-08-11T11:53:32.593+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2026-04-08T17:18:07.745+01:00"}
 ---
+
+> [!infobox]
+> #  Sam Gallon
+> ![IMG_0979.jpg](/img/user/Admin/Attachments/IMG_0979.jpg)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Pronouns | They/Them |
+> | Role | Player |
+> | Residence | Kent | 
+
 
 Primary Editor and Creator of This Archive. Also played [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and currently plays [[The Party/Halfbie\|Halfbie]] in the campaign. 
 

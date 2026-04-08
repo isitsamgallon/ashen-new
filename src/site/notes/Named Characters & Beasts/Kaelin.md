@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2026-03-26T18:05:32.905+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2026-04-08T16:55:10.336+01:00"}
 ---
 
 >[!infobox]
@@ -27,25 +27,9 @@
 >  First Seen  |  |
 >  Last Scene |  |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
 ### Overview
-[[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]'s boyfriend.
-
-### Description
-#### Appearance
-
-
-#### Personality
-
-
-### Relationships
-#### 
-
-#### 
-
-### History
-
+[[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]]'s boyfriend. Not much is known about about them outside the fact that they may have died during [[History & Events/The Sundering\|The Sundering]].
 
 ### Appearances & Mentions
 | § | Interactions |

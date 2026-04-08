@@ -24,8 +24,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
-> | Last Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
+> | Last Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" href="Session Notes/06 Urban Legends/Session 50.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
 
 
 ### Overview

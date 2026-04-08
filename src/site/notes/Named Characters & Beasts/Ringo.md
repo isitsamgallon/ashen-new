@@ -41,7 +41,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 53.md" data-href="Session Notes/07 Winter Warriors/Session 53.md" href="Session Notes/07 Winter Warriors/Session 53.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 53</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 52.md" data-href="Session Notes/07 Winter Warriors/Session 52.md" href="Session Notes/07 Winter Warriors/Session 52.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 52</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
 
 
 

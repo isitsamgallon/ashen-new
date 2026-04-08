@@ -24,8 +24,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 16.md" data-href="Session Notes/03 The Worst Diplomates/Session 16.md" href="Session Notes/03 The Worst Diplomates/Session 16.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 16</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 15.md" data-href="Session Notes/03 The Worst Diplomates/Session 15.md" href="Session Notes/03 The Worst Diplomates/Session 15.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 15</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 35.md" data-href="Session Notes/04 Ignatius Beckons/Session 35.md" href="Session Notes/04 Ignatius Beckons/Session 35.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 35</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview

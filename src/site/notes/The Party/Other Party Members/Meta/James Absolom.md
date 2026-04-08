@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2025-08-11T11:53:32.589+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2026-04-08T17:21:49.100+01:00"}
 ---
+
+> [!infobox]
+> #  James Absolom
+> ![IMG_0598.jpg](/img/user/Admin/Attachments/IMG_0598.jpg)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Pronouns | He/Him |
+> | Role | Dungeon Master |
+> | Residence | York | 
+
 
 The Big Cheese, architect of our own destruction or simply 'The DM'
 

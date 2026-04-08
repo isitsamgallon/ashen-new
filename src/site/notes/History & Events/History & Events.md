@@ -9,8 +9,8 @@ A list of all the historical events that we are aware of:
 - [[History & Events/The Ancient Pillars\|The Ancient Pillars]]
 - [[History & Events/Skyfall Ward\|Skyfall Ward]]
 - [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]
-- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 - [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]
+- [[History & Events/Grayfall Empire\|Grayfall Empire]]
 - [[History & Events/Battle of Earthgrog\|Battle of Earthgrog]]
 - [[History & Events/4th Dawn vs Ehobel War\|4th Dawn vs Ehobel War]]
 

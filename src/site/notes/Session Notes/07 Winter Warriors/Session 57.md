@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-03-26T18:10:21.723+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-04-08T16:42:15.607+01:00"}
 ---
 
 # Session Information
@@ -9,7 +9,7 @@
 
 # Session Summary 
 The Party wakes up to a hungover Halfbie stumbling into Astra's house after a rough night. Mordecai, intrigued by Halfbie's state, checks on them and learns that their night with [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]] did not go well, despite their long study of the Kuma Sutra. As Drache helps Halfbie settle in, the trio discusses the ramifications of their recent actions and the potential raid on The Golden Fort, which could yield significant financial resources for their organization, the OFC. The conversation shifts to the ethical implications of their plans, particularly concerning innocent lives during the raid.
-
+  
 Halfbie expresses a cold pragmatism regarding the casualties, arguing that most of the fort's inhabitants are not innocent and emphasizing the need for a successful mission. Mordecai raises concerns about those who may have reformed, but Halfbie insists that identifying such individuals in a crowd of over a thousand would be impractical. The tension mounts until Halfbie suggests instructing their army to avoid harming anyone who flees during the attack, a compromise that is met with approval from both Mordecai and Drache, as well as Astra from the other room who overhears their conversation.
 
 # Full Session Notes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2026-02-20T15:45:17.073+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2026-04-08T16:55:30.816+01:00"}
 ---
 
 >[!infobox]
@@ -28,12 +28,9 @@
 > | First Mention  |  <span><span>-</span></span> |
 > | Last Mention |  <span><span>-</span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
 [[The Party/Mordecai Reverence\|Mordecai Reverence]] 's brother, who was seen in a dream joining the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]]
-
-### Notable Information
-
 
 ### History & Mentions
 | § | Interactions |

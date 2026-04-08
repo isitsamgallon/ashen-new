@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-02-20T15:40:45.238+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-04-08T16:48:39.998+01:00"}
 ---
 
 > [!infobox]
@@ -26,27 +26,12 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
-> | Last Mention |  <span><span>-</span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 56.md" data-href="Session Notes/07 Winter Warriors/Session 56.md" href="Session Notes/07 Winter Warriors/Session 56.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 56</a></span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 ### Overview
-
-
-### Description
-#### Appearance
-
-
-#### Personality
-
-
-### Relationships
-#### 
-
-#### 
-
-### History
-
+A commander of the [[Locations/Golden Fort\|Golden Fort]]. First mentioned by the clerk in the hunters quarters.
 
 ### Appearances & Mentions
 | § | Interactions |

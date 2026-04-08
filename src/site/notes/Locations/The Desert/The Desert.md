@@ -21,10 +21,10 @@
 > | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}

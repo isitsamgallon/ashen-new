@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-03-26T18:12:57.385+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-04-08T16:51:07.412+01:00"}
 ---
 
 # Session Information
@@ -38,7 +38,13 @@ Despite Viktor’s hostility, [[Named Characters & Beasts/Astra Goldmark\|Astra]
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] suggests they wait to see if anyone stops by, so [[Other Information/Display Tags/The Party\|the Party]] can follow them or get more information on key [[Locations/Locations\|locations]] in the fort. [[Other Information/Display Tags/The Party\|The Party]] waited in the reception room for about 10 minutes before an older person walked down some nearby stairs and took a seat at the desk. He quickly excused his absence and asked how he could help them. Moredcai explained that they were recruits and had no idea what to do after returning from a recent hunt.)
 
-(x::The old man gave a kind smile before opening his ledger and asking if they knew who their supervisors were. Once hearing this, they didn't know this information either, and he started listing names, putting considerable emphasis on [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]], who, they presumed from his tone, was of a higher station than the rest.)
+(x::The old man gave a kind smile before opening his ledger and asking if they knew who their supervisors were. Once hearing this, they didn't know this information either, and he started listing names, putting considerable emphasis on [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]], who, they presumed from his tone, was of a higher station than the rest. The other names where as follows:
+- [[Named Characters & Beasts/Lux Calder\|Lux Calder]]
+- [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]
+- [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]
+- [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]
+- [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]
+- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]])
 
 (x::Finally, the man said he would write them in for now, but they really needed to learn the names of at least the important people in the fort. He then asked for their ID cards so he could register them properly. [[The Party/Mordecai Reverence\|Mordecai]] explained that they had lost their way after being attacked by a [[Groups & Factions/the Deathless Clan\|zombie]] in the forest. The man let out a sigh before commenting that this happened all too frequently and that he would talk to leadership about getting rid of the physical ID system once and for all.)
 

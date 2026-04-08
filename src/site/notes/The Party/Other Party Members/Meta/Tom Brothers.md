@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/tom-brothers/","tags":["Player"],"updated":"2025-08-30T10:53:26.779+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/tom-brothers/","tags":["Player"],"updated":"2026-04-08T17:18:02.469+01:00"}
 ---
 
-Editor for The Archive, they also play [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] and previously played [[Kal †\|Kal †]] in the campaign.
+> [!infobox]
+> #  Tom Brothers
+> ![Screenshot_2025-08-29_200052.png](/img/user/Admin/Attachments/Screenshot_2025-08-29_200052.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Pronouns | He/Him |
+> | Role | Player |
+> | Residence | Cornwall | 
+
+Editor for The Archive, they also play [[The Party/Viktor Malkovich\|Viktor Malkovich]] and previously played [[The Party/Dead/Kal The Korrigan †\|Kal †]]] in the campaign.
 
 ### Quotes
 | §                                       | Quote                                                                           |

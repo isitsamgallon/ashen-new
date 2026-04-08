@@ -1,6 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2025-08-11T11:53:32.591+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2026-04-08T17:20:23.128+01:00"}
 ---
+
+> [!infobox]
+> #  Rowan Hales
+> ![IMG_0753.jpg](/img/user/Admin/Attachments/IMG_0753.jpg)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Pronouns | They/He |
+> | Role | Player |
+> | Residence | Surry | 
 
 Plays [[The Party/Mordecai Reverence\|Mordecai Reverence]] in the campaign 
 
