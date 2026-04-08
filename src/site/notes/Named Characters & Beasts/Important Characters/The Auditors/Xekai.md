@@ -31,7 +31,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  [[Session Notes/02 The War for The OFC's Freedom/Session 02\|Session 02]] |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/All Sessions.md" data-href="Session Notes/All Sessions.md" href="Session Notes/All Sessions.md" class="internal-link" target="_blank" rel="noopener nofollow">All Sessions</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/02 The War for The OFC's Freedom/Session 10.md" data-href="Session Notes/02 The War for The OFC's Freedom/Session 10.md" href="Session Notes/02 The War for The OFC's Freedom/Session 10.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 10</a></span></span> |
 
 ### Overview
 Xekai is a mysterious underworld magic user and a former member of an organisation known as [[Groups & Factions/The Auditors\|The Auditors]]. He seems to have some form of plan for [[Other Information/Display Tags/The Party\|The Party]] but is unwilling to explain what it is. He was first introduced to [[Other Information/Display Tags/The Party\|The Party]] in [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] when they snuck into the councillor's offices to learn secrets that could help them in their quests. He was already in the office when they found him, looking through documents for reasons he refused to reveal. He didn't stick around long before opening a portal and escaping. 

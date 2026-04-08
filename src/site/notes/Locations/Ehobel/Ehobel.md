@@ -17,12 +17,12 @@
 >   | File                                                                       | Discovery Status               |
 > | -------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li></ul>   |
-> | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li></ul>   |

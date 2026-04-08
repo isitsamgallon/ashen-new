@@ -242,8 +242,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 | Book/ Document                                                                                                                                               | Reading Priority | Location found                                                                        | Date Found    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------- |
-| [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
@@ -275,10 +275,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 ### Recently Created
 - [[Session Notes/All Sessions\|All Sessions]]
-- [[Named Characters & Beasts/Kaelin\|Kaelin]]
 - [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
 - [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]
 - [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]
+- [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]
 
 { .block-language-dataview}
 
@@ -290,8 +290,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | September 27, 2025 |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | March 21, 2026     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
@@ -299,6 +297,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
