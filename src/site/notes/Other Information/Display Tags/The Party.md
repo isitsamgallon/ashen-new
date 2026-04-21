@@ -73,8 +73,8 @@
 | [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
-| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
 | [[The Party/Viktor Malkovich\|Viktor Malkovich]]     | Cleric            | Party Member | In The Party | The Deadlands   | Unknown/Unclear |
+| [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
 
 { .block-language-dataview}
  

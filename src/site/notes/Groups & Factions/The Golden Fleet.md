@@ -22,8 +22,8 @@
 > | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown |
 > | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown |
 > | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]   | Female | Unknown | Unknown |
-> | [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]       | Male   | Adult   | Human   |
 > | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown |
+> | [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]       | Male   | Adult   | Human   |
 > | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]             | Male   | Unknown | Unknown |
 > | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]               | Male   | Unknown | Unknown |
 > 
