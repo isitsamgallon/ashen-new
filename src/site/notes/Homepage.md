@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
+- [[Named Characters & Beasts/Important Characters/New God/Myst\|Myst]]
+- [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]]
+- [[Other Information/Races/New Gods\|New Gods]]
 - [[Named Characters & Beasts/Renforth\|Renforth]]
-- [[Session Notes/07 Winter Warriors/Session 59\|Session 59]]
-- [[Named Characters & Beasts/Kelrin\|Kelrin]]
-- [[Named Characters & Beasts/Rufad\|Rufad]]
-- [[Named Characters & Beasts/Anselis\|Anselis]]
 
 { .block-language-dataview}
 
@@ -291,9 +291,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
-| [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]                                                                                     | April 25, 2026     |
-| [[Named Characters & Beasts/Important Characters/New God/Myst\|Myst]]                                                                                   | April 25, 2026     |
-| [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]]                                                                                   | April 25, 2026     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
@@ -303,7 +300,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
-| [[Other Information/Races/New Gods\|New Gods]]                                                                                                          | April 25, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |

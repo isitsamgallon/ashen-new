@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/myst/","tags":["NPC"],"updated":"2026-04-25T12:59:26.226+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/myst/","tags":["NPC"],"updated":"2026-04-25T15:09:01.038+01:00"}
 ---
 
 > [!infobox]
@@ -9,10 +9,12 @@
 > | Type | Stat |
 > | :----: | --- |
 > | Type  | NPC |
+> |Other Names | 3443,Mystic |
+> |Family | [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]] (Brother) |
 > | Pronouns | She/Her |
 > | Occupation | New God |
 > | Associated Groups | The Party |
-> | Race | New God |
+> | Race | New Gods |
 > | Age | Child |
 > | Languages | Common | 
 > | Nationality | The Golden Fort | 
@@ -27,25 +29,14 @@
 > | First Mention  |  <span><span>-</span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 ### Overview
+Myst was one the original 2 [[Other Information/Races/New Gods\|New Gods]]  found by [[Other Information/Display Tags/The Party\|The Party]]. She was first found when [[Other Information/Display Tags/The Party\|the party]] broke into the R&D facility under the [[Locations/Golden Fort\|Golden Fort]]. Myst was originally found guarding the two [[Other Information/Races/Dragons\|Dragons]], [[Named Characters & Beasts/Renforth\|Renforth]] and [[Named Characters & Beasts/Kelrin\|Kelrin]], that were captured and used as apart of the the [[Other Information/Races/New Gods\|New Gods]] Project. Myst's role was to make sure the [[Other Information/Races/Dragons\|Dragons]] would be unable to escape. They did this by using magical weapons which attacked psychically and physically.
 
+Once [[Other Information/Display Tags/The Party\|the party]] gained their trust, Myst and their sibling spent time explaining everything they knew and even agreed to escape form the cave, together even though they knew their lifespans were very short. 
 
-### Description
-#### Appearance
-
-
-#### Personality
-
-
-### Relationships
-#### 
-
-#### 
-
-### History
-
+[[The Party/Viktor Malkovich\|Viktor]] named them. 
 
 ### Appearances & Mentions
 | §                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

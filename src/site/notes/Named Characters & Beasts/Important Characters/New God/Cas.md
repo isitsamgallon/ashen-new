@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/cas/","tags":["NPC"],"updated":"2026-04-25T12:59:22.991+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/cas/","tags":["NPC"],"updated":"2026-04-25T15:09:10.707+01:00"}
 ---
 
 > [!infobox]
@@ -9,10 +9,11 @@
 > | Type | Stat |
 > | :----: | --- |
 > | Type  | NPC |
+> |Other Names | Cas, Destroyer of Worlds & Bringer of Comedy |
 > | Pronouns | She/Her |
 > | Occupation | New God |
 > | Associated Groups | The Party |
-> | Race | New God |
+> | Race | New Gods |
 > | Age | Child |
 > | Languages | Common | 
 > | Nationality | The Golden Fort | 
@@ -27,25 +28,19 @@
 > | First Mention  |  <span><span>-</span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 ### Overview
+Cas was the 3rd of the [[Other Information/Races/New Gods\|New Gods]] to be found by [[Other Information/Display Tags/The Party\|The Party]]. She was first found when [[Other Information/Display Tags/The Party\|the party]] broke into the R&D facility under the [[Locations/Golden Fort\|Golden Fort]]. She was originally found as a golden egg in a incubation chamber btu her growth was accelerated when she was taken by [[The Party/Wurinn Fuuldrusch\|Drache]] to see the golden dragon after drink the mysterious green liquid. 
 
+[[The Party/Viktor Malkovich\|Viktor]] named them. 
 
 ### Description
 #### Appearance
-
+Cas looks like 5 year old girl with slight elven features. 
 
 #### Personality
-
-
-### Relationships
-#### 
-
-#### 
-
-### History
-
+Cas seems to be some kind of [Chuunibyou](https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D) as the first thing she said was that she was Cas, Destroyer of worlds. 
 
 ### Appearances & Mentions
 | §                                                               | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
