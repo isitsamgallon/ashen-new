@@ -39,6 +39,7 @@
 >##### Unique Items 
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 > 
 { .block-language-dataview}
 

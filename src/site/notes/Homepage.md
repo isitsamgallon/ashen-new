@@ -202,6 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                        | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]] | 7th Saga - Winter Warriors | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [[Session Notes/07 Winter Warriors/Session 60\|Session 60]] | 7th Saga - Winter Warriors | The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.                                                                                                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 59\|Session 59]] | 7th Saga - Winter Warriors | The party infiltrated a dragon-centric R&D facility, discovering horrific experiments on dragons and a mysterious liquid connected to Drache's past. After a tense confrontation with two reality-warping "New God" children guarding captive dragons, the party befriended the kids, rescued a golden dragon egg, and hatched a new one ally named Cas.                                                                                                                                                                    |
 | [[Session Notes/07 Winter Warriors/Session 58\|Session 58]] | 7th Saga - Winter Warriors | Mordecai successfully infiltrates the fort’s engineers and discovers the artillery’s key weakness: without heat, the cannons are likely to fail in the cold. At the same time, Viktor learns grim truths about death, resurrection, and his cursed cloak, while the party uncovers the fort’s lava-heating system and begins planning sabotage.                                                                                                                                                                             |
@@ -211,7 +212,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/07 Winter Warriors/Session 54\|Session 54]] | 7th Saga - Winter Warriors | The party barely survived a devastating ambush by cursed hunters and a giant, saved only by desperate healing and Chenris’ catastrophic fire magic. Victorious but shaken, they uncovered troubling hints about the Hunter Society and settled into an uneasy camp, aware that greater dangers lie ahead.                                                                                                                                                                                                                   |
 | [[Session Notes/07 Winter Warriors/Session 53\|Session 53]] | 7th Saga - Winter Warriors | The party secured Ringo’s guidance and prepared new spells before venturing into the cursed woods, where Halfbie’s confidence was shaken and danger mounted. Their journey was cut short when they were ambushed by undead hunters and a giant, ending the session mid-combat.                                                                                                                                                                                                                                              |
 | [[Session Notes/07 Winter Warriors/Session 52\|Session 52]] | 7th Saga - Winter Warriors | The party arrived in remote Snowport, where playful chaos turned quickly to horror and danger—from summoned fish, haunted houses, and treacherous hunters to undead ambushers in the woods. With new threats lurking in the blizzard, their northern journey has only just begun.                                                                                                                                                                                                                                           |
-| [[Session Notes/06 Urban Legends/Session 51\|Session 51]]   | 7th Saga - Winter Warriors | The party prepared for a daring assault on the Golden Fort, securing allies, gathering intelligence, and confronting personal demons along the way. By the session’s end, plans were set, tensions eased, and the Fatebreakers stood ready to begin their boldest operation yet.                                                                                                                                                                                                                                            |
 
 { .block-language-dataview}
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/07 Winter Warriors/Session 9\|Session 9]]
+- [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
+- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
 - [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]
 - [[Session Notes/07 Winter Warriors/Session 60\|Session 60]]
 - [[Named Characters & Beasts/Auric\|Auric]]
-- [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Session Notes/07 Winter Warriors/Session 9\|Session 9]]
+- [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
+- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
 - [[Named Characters & Beasts/Auric\|Auric]]
 - [[Session Notes/07 Winter Warriors/Session 60\|Session 60]]
 - [[Named Characters & Beasts/Kelrin\|Kelrin]]
-- [[Named Characters & Beasts/Renforth\|Renforth]]
 
 { .block-language-dataview}
 
@@ -288,8 +288,9 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/07 Winter Warriors/Session 9\|Session 9]]                                                                                               | May 13, 2026       |
+| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]                                                                                             | May 13, 2026       |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
+| [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]                                                                                       | May 13, 2026       |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
