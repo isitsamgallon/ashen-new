@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-04-08T16:41:56.554+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-05-06T19:54:22.101+01:00"}
 ---
 
 >[!infobox]
@@ -21,12 +21,12 @@
 > ###### Status
 > Type | Stat |
 > :----: | --- |
-> Status  | Alive |
+> Status  | Dead |
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 58.md" data-href="Session Notes/07 Winter Warriors/Session 58.md" href="Session Notes/07 Winter Warriors/Session 58.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 58</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
 
 ### Overview
 Astra is the second in command of [[Groups & Factions/The Golden Fleet\|The Golden Fleet]], residing in the golden palace found at the centre of the fort. She seems to be sole owner of a mysterious power that allows her to "see through everything" and even lets her see into the future somewhat, showcased when [[The Party/Halfbie\|Halfbie]]  through a butter knife at her with her back turned to test a theory and she dodge it with no issues. 

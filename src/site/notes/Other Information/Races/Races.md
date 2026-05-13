@@ -7,21 +7,21 @@ Information on the races encountered during the campaign as some information dif
 For Information regarding sizes [[Other Information/Creature Sizes\|CLICK HERE]]
 
 ### Current Recorded Races
-- [[Other Information/Races/New Gods\|New Gods]]
 - [[Other Information/Races/Vampire\|Vampire]]
+- [[Other Information/Races/New Gods\|New Gods]]
 - [[Other Information/Races/Tiefling\|Tiefling]]
-- [[Other Information/Races/Human\|Human]]
 - [[Other Information/Races/Inchlings\|Inchlings]]
+- [[Other Information/Races/Human\|Human]]
+- [[Other Information/Races/Goblin\|Goblin]]
+- [[Other Information/Races/Gnomes\|Gnomes]]
 - [[Other Information/Races/Halflings\|Halflings]]
 - [[Other Information/Races/Goliath\|Goliath]]
-- [[Other Information/Races/Gnomes\|Gnomes]]
-- [[Other Information/Races/Goblin\|Goblin]]
-- [[Other Information/Races/Dragons\|Dragons]]
+- [[Other Information/Races/Elves\|Elves]]
 - [[Other Information/Races/Fey\|Fey]]
 - [[Other Information/Races/Eladrin\|Eladrin]]
-- [[Other Information/Races/Elves\|Elves]]
 - [[Other Information/Races/Dwarves\|Dwarves]]
 - [[Other Information/Races/Dragonborn\|Dragonborn]]
+- [[Other Information/Races/Dragons\|Dragons]]
 - [[Other Information/Races/Drow\|Drow]]
 
 { .block-language-dataview}
