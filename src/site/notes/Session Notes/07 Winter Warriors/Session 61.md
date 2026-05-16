@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-16T11:17:55.508+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-16T14:00:06.924+01:00"}
 ---
 
 # Session Information
@@ -8,7 +8,9 @@
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+The party engaged in a brutal battle against Auric, who repeatedly used devastating AOE attacks that downed multiple members, including Halfbie and others. Viktor briefly lost control to the Herold, accidentally poisoning Mordecai instead of helping, but the team ultimately recovered through coordinated healing. Drache delivered the killing blow in a dramatic finish. However, victory was immediately undercut when Astra revealed herself alive and in control, casually dismissing the party. Through quick negotiation and a bold gamble by Halfbie, the party secured a massive reward by successfully landing three guaranteed magical hits on Astra despite interference.
+
+After escaping with their winnings, the group faced deeper personal stakes. Mordecai struggled with the decision to flee but ultimately chose to confront their father, leading to a powerful transformation under Seifer’s control and the fiery execution of Robert Thornwood. In the aftermath, allies arrived via airship, and the party shared their fortune while receiving updates on the wider situation. As they departed, Astra observed them silently, and the group regrouped, identified new magical items, and prepared for future threats.
 
 # Full Session Notes
 ### Notable moments during combat

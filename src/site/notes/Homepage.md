@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
 - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 - [[The Party/Halfbie\|Halfbie]]
 - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
-- [[Admin/Templates/Unique Item Template\|Unique Item Template]]
 
 { .block-language-dataview}
 
@@ -290,7 +290,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
-| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]                                                                                             | May 16, 2026       |
 | [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
