@@ -202,7 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                        | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]] | 7th Saga - Winter Warriors | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]] | 7th Saga - Winter Warriors | The party defeats Auric, outplays Astra for a huge reward, and Mordecai confronts their past in a fiery turning point that sets up future conflicts.                                                                                                                                                                                                                                                                                                                                                                        |
 | [[Session Notes/07 Winter Warriors/Session 60\|Session 60]] | 7th Saga - Winter Warriors | The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.                                                                                                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 59\|Session 59]] | 7th Saga - Winter Warriors | The party infiltrated a dragon-centric R&D facility, discovering horrific experiments on dragons and a mysterious liquid connected to Drache's past. After a tense confrontation with two reality-warping "New God" children guarding captive dragons, the party befriended the kids, rescued a golden dragon egg, and hatched a new one ally named Cas.                                                                                                                                                                    |
 | [[Session Notes/07 Winter Warriors/Session 58\|Session 58]] | 7th Saga - Winter Warriors | Mordecai successfully infiltrates the fort’s engineers and discovers the artillery’s key weakness: without heat, the cannons are likely to fail in the cold. At the same time, Viktor learns grim truths about death, resurrection, and his cursed cloak, while the party uncovers the fort’s lava-heating system and begins planning sabotage.                                                                                                                                                                             |
@@ -249,15 +249,15 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven.md\|Strixhaven]]                                               | July 31, 2025 |
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
+- [[The Party/Halfbie\|Halfbie]]
 - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
-- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
-- [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]
-- [[Session Notes/07 Winter Warriors/Session 60\|Session 60]]
-- [[Named Characters & Beasts/Auric\|Auric]]
+- [[Admin/Templates/Unique Item Template\|Unique Item Template]]
+- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
+- [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 - [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
-- [[Named Characters & Beasts/Auric\|Auric]]
-- [[Session Notes/07 Winter Warriors/Session 60\|Session 60]]
-- [[Named Characters & Beasts/Kelrin\|Kelrin]]
+- [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]
 
 { .block-language-dataview}
 
@@ -288,24 +288,22 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]                                                                                             | May 13, 2026       |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
-| [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]                                                                                       | May 13, 2026       |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
+| [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]                                                                                             | May 16, 2026       |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
-| [[Named Characters & Beasts/Auric\|Auric]]                                                                                                              | May 06, 2026       |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |

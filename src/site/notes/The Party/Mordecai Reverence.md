@@ -46,6 +46,7 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
+> - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 > 
 { .block-language-dataview}
 

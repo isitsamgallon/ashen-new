@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-60/","updated":"2026-05-06T19:29:12.529+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-60/","updated":"2026-05-16T11:17:55.491+01:00"}
 ---
 
 # Session Information
@@ -49,13 +49,13 @@ The party regroups as the raid begins, only for Robert Thornwood’s airships to
 
 (x:: "ok, so what can we do then?2 asked [[The Party/Mordecai Reverence\|Mordecai]].)
 
-(x:: "You have to [[Named Characters & Beasts/Auric\|Auric]], if you don't he will hunt down the [[Other Information/Races/New Gods\|new gods]] and kill everyone in his way")
+(x:: "You have to [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]], if you don't he will hunt down the [[Other Information/Races/New Gods\|new gods]] and kill everyone in his way")
 
 (x::They both nodded, and [[Named Characters & Beasts/Astra Goldmark\|Astra]] walked away back into the darkness. Everyone met up and climbed out of the tunnel in a solemn silence. Breaching the surface, they found [[The Party/Halfbie\|Halfbie]] using [[Admin/Spells/Minor Illusion\|Minor Illusion]] to create a 3D model of the canon system they were proposing.)
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] caught [[The Party/Halfbie\|Halfbie]]'s eye and nodded: it was time for the raid.)
 
-(x::[[The Party/Halfbie\|Halfbie]] nodded, and around 100 feet above them, the workshop, their [[Named Characters & Beasts/Important Characters/New God/Myst\|Mystic]] mind cast a [[Admin/Spells/Fire Bolt\|fire bolt]] into the air, a single flame to begin the raid. [[The Party/Halfbie\|Halfbie]] made their excuses to join [[Other Information/Display Tags/The Party\|the party]], where they were told what [[Named Characters & Beasts/Astra Goldmark\|Astra]] had instructed them to do. [[The Party/Halfbie\|Halfbie]] nodded solemnly as they started to prepare for the fight against [[Named Characters & Beasts/Auric\|Auric]].)
+(x::[[The Party/Halfbie\|Halfbie]] nodded, and around 100 feet above them, the workshop, their [[Named Characters & Beasts/Important Characters/New God/Myst\|Mystic]] mind cast a [[Admin/Spells/Fire Bolt\|fire bolt]] into the air, a single flame to begin the raid. [[The Party/Halfbie\|Halfbie]] made their excuses to join [[Other Information/Display Tags/The Party\|the party]], where they were told what [[Named Characters & Beasts/Astra Goldmark\|Astra]] had instructed them to do. [[The Party/Halfbie\|Halfbie]] nodded solemnly as they started to prepare for the fight against [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]].)
 
 (x::Preparations made: [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]] cast mage armour on themselves [[The Party/Mordecai Reverence\|Mordecai]] set up [[Admin/Spells/Melf's Minute Meteors\|Melf's minute meteors]] [[The Party/Halfbie\|Halfbie]] prepared the [[Admin/Spells/Haste\|haste]] spell for [[The Party/Wurinn Fuuldrusch\|Drache]] and set up their arteficer'ss turret. [[The Party/Viktor Malkovich\|Viktor]] cast [[Admin/Spells/False Life\|false life]] and Holly weapon on [[The Party/Wurinn Fuuldrusch\|Drache]].)
 
@@ -67,7 +67,7 @@ The party regroups as the raid begins, only for Robert Thornwood’s airships to
 
 (x:: "As agreed, I did not kill a soul and it was effect right?")
 
-(x::[[The Party/Halfbie\|Halfbie]] couldn't help agreeing with the man. "His methods are crude, but they did get the job done. Come on the longer we take to kill [[Named Characters & Beasts/Auric\|Auric]], the longer the hostages will suffer")
+(x::[[The Party/Halfbie\|Halfbie]] couldn't help agreeing with the man. "His methods are crude, but they did get the job done. Come on the longer we take to kill [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]], the longer the hostages will suffer")
 
 (x::Everyone followed [[The Party/Halfbie\|Halfbie]] inside. Before crossing the threshold, [[The Party/Mordecai Reverence\|Mordecai]] turned and flicked on one of their meteors at [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert]], narrowly missing before flipping him the bird. [[Named Characters & Beasts/Astra Goldmark\|Astra]] was waiting for them inside he face a mask of her and anger. "Why did you attack?! I specifically told you not to attack him!")
 
@@ -75,7 +75,7 @@ The party regroups as the raid begins, only for Robert Thornwood’s airships to
 
 (x:: "No, but you also still attacked him!! Gods, I hope this doesn't backfire as badly as I expect.")
 
-(x::They stopped themselves before showing [[Other Information/Display Tags/The Party\|the party]] the way to [[Named Characters & Beasts/Auric\|Auric]]'s room. She created a small purple portal, which took them to the bottom of the query. It was there that they came face to face with the man himself.)
+(x::They stopped themselves before showing [[Other Information/Display Tags/The Party\|the party]] the way to [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]'s room. She created a small purple portal, which took them to the bottom of the query. It was there that they came face to face with the man himself.)
 
 (x::"[[Named Characters & Beasts/Astra Goldmark\|Astra]], I hope you haven't betrayed me. What are these insects doing here? Come for [[Other Information/Money\|gold]], have you?" He said. His gargantuan body lay across a huge hoard of [[Other Information/Money\|gold]] coins and valuables while his tail flicked back and forth menacingly.)
 
@@ -83,4 +83,4 @@ The party regroups as the raid begins, only for Robert Thornwood’s airships to
 
 (x::It was then that [[Named Characters & Beasts/Astra Goldmark\|Astra]] shouted 'NOW' at [[The Party/Wurinn Fuuldrusch\|Drache]], who, without hesitation, plunged the dagger into [[Named Characters & Beasts/Astra Goldmark\|Astra]]'s body. She crumpled to the floor, unmoving.)
 
-(x::[[Other Information/Display Tags/The Party\|The party]] got into battle formation, ready to take on [[Named Characters & Beasts/Auric\|Auric]].)
+(x::[[Other Information/Display Tags/The Party\|The party]] got into battle formation, ready to take on [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]].)

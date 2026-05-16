@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-47/","updated":"2025-11-22T09:34:47.398+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-47/","updated":"2026-05-16T11:19:49.384+01:00"}
 ---
 
 **Session Date:** 3rd Sep 2025 
@@ -34,8 +34,6 @@ BIG 45 MIN CONVERSATION ABOUT THE GODS TO GO HERE. Viktor discovers the parties 
 Mord begins to lift off the ground with the figure of a large phoenix burning behind him, he holds his head high and looks down at the rebels "I am Sefier, I am the angel of death. I will be your destruction and you shall burn at my hand. Say hello to [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] when you rot in his dungeons". Mord holds a hand up unleashing a concentrated bolt of fire at the cannon, exploding into a roaring inferno and consuming the rebels, leaving no trace. Mord lands on the ground, still possessed by seifer, and began talking to [[The Party/Aiden Knight\|Aiden Knight]] and [[The Party/Wurinn Fuuldrusch\|Drache]] . Drache begins to argue with seifer about the method of winning. "Do not speak a word of what happened here to Mord, tell him they survived, that all the rebels ran off when they saw the phoenix. Mord has a very particular opinion of me and this will not go well in their head. Im being nice here, If i wanted too I could take mord and do my plan but he isn't strong enough yet. If you say a word about this to Mord, I will take him from you and kill you all and you can join the rebels burning with Ignatius. Do we have an understanding?". [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/Aiden Knight\|Aiden Knight]] reluctantly agree and Mord regains control of their body. Mord asks what happens, with the party reluctantly explaining that the rebels retreated. Mord is happy  with this fact. Viktor walks around the corner, much calmer and controlled than before and is caught up on the events that transpired.
 
 The party spend the rest of the day cooking fried chicken for Seifer before deciding to gather their things and preparing to leave.
-
-
 
 # Trivia & Notes
 - This is one of the first sessions [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] missed. This was all written by [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] (You have been warned)

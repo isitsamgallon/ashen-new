@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-01-16T19:42:05.163+00:00"}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-05-16T12:26:09.244+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 > ![halfbie 2.png](/img/user/Admin/Attachments/halfbie%202.png)
 > ###### Basic Information
 > 
->  Type | Stat |
+> Type | Stat |
 > :----: | --- |
 >  Race | [[Other Information/Races/Eladrin\|Eladrin]] |
 >  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
@@ -37,8 +37,8 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 > 
 { .block-language-dataview}
