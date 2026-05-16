@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]
 - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 - [[The Party/Halfbie\|Halfbie]]
 - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 - [[Admin/Templates/Unique Item Template\|Unique Item Template]]
-- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 
 { .block-language-dataview}
 

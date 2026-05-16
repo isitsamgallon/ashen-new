@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.016+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2026-05-16T12:40:07.301+01:00"}
 ---
 
 >[!infobox]
@@ -11,7 +11,7 @@
 >  :----: | --- |
 >  Type  | NPC |
 >  Pronouns | He/ Him |
-> Occupation | Leader of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military & cultural exchange with [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] (Current),Leader of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] (Previous) |
+> Occupation | Leader of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]'s military & cultural exchange with [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]] (Formerly), Leader of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]] (Formerly) |
 >  Race | [[Other Information/Races/Human\|Human]] |
 > Age | 40/50s |
 >  Languages | Common | 
@@ -21,7 +21,7 @@
 >  ###### Status
 >   Type | Stat |
 >  :----: | --- |
->  Status  | Alive |
+>  Status  | Dead |
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
