@@ -45,8 +45,8 @@
 >Languages | Common, Infernal, Draconic|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
 > - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
+> - [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
 > 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/cas/","tags":["NPC"],"updated":"2026-04-25T15:09:10.707+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/new-god/cas/","tags":["NPC"],"updated":"2026-05-21T23:07:14.909+01:00"}
 ---
 
 > [!infobox]
@@ -9,7 +9,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | Type  | NPC |
-> |Other Names | Cas, Destroyer of Worlds & Bringer of Comedy |
+> |Other Names | Cas,Bringer of Comedy,Destroyer of Worlds,Destroyer of Soup,Bringer of Perfect |
 > | Pronouns | She/Her |
 > | Occupation | New God |
 > | Associated Groups | The Party |
@@ -25,14 +25,12 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
 
 
 
 ### Overview
-Cas was the 3rd of the [[Other Information/Races/New Gods\|New Gods]] to be found by [[Other Information/Display Tags/The Party\|The Party]]. She was first found when [[Other Information/Display Tags/The Party\|the party]] broke into the R&D facility under the [[Locations/Golden Fort\|Golden Fort]]. She was originally found as a golden egg in a incubation chamber btu her growth was accelerated when she was taken by [[The Party/Wurinn Fuuldrusch\|Drache]] to see the golden dragon after drink the mysterious green liquid. 
-
 [[The Party/Viktor Malkovich\|Viktor]] named them. 
 
 ### Description

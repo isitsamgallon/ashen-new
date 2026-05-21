@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-30/","updated":"2026-01-22T17:32:08.459+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-30/","updated":"2026-05-21T20:50:03.462+01:00"}
 ---
 
 **Session Date:** 29th Jan 2025 
@@ -146,6 +146,6 @@ In an attempt to communicate, [[The Party/Dead/Kal The Korrigan †\|Korrigan]] 
 
 [^4]: They're talking about the events of [[Session Notes/02 The War for The OFC's Freedom/Session 09\|Session 09]].
 
-[^5]: He is referring to the events of [[Session Notes/02 The War for The OFC's Freedom/Session 10\|Session 10]] when party members tried to listen into his conversation with [[The Party/Mordecai Reverence\|Mordecai]] about the [[Other Information/Races/Tiefling\|Tiefling]] secretly. 
+[^5]: He is referring to the events of [[Session Notes/02 The War for The OFC's Freedom/Session 10\|Session Notes/02 The War for The OFC's Freedom/Session 10]] when party members tried to listen into his conversation with [[The Party/Mordecai Reverence\|Mordecai]] about the [[Other Information/Races/Tiefling\|Tiefling]] secretly. 
 
 [^6]: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that the word 'pescatarian' was a common word in this world, but Dave doesn't know it as he isn't very smart. 
