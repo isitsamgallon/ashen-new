@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-03-26T18:18:24.616+00:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-05-25T11:32:15.104+01:00"}
 ---
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
@@ -17,7 +17,7 @@
 </svg>
 
 # Quick Links
-[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
+[[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Unique Items/Unique Items\|Party Items]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
 
 This is a read-only version of the Ashen Campaign Vault, designed to make finding, reading, and sharing campaign information easier without setting up Obsidian.  
 
@@ -202,7 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                        | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/Session 62\|Session 62]]                    | \-                         | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [[Session Notes/08 Dust Devils/Session 62\|Session 62]]     | 8th Saga - Dust Devils     | The party returned to Blackwall with a million gold and a new commander, Kase, only to discover the three "New God" children now living in the tower. As Halfbie sleepwalked into covering their room with indecipherable magical theorems, Drache made a fey pact in his dreams, and Mordecai bonded with Cas, accepting her for who she is rather than trying to "fix" her.The session is still being written by Sam.                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 61\|Session 61]] | 7th Saga - Winter Warriors | The party defeats Auric, outplays Astra for a huge reward, and Mordecai confronts their past in a fiery turning point that sets up future conflicts.                                                                                                                                                                                                                                                                                                                                                                        |
 | [[Session Notes/07 Winter Warriors/Session 60\|Session 60]] | 7th Saga - Winter Warriors | The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.                                                                                                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 59\|Session 59]] | 7th Saga - Winter Warriors | The party infiltrated a dragon-centric R&D facility, discovering horrific experiments on dragons and a mysterious liquid connected to Drache's past. After a tense confrontation with two reality-warping "New God" children guarding captive dragons, the party befriended the kids, rescued a golden dragon egg, and hatched a new one ally named Cas.                                                                                                                                                                    |
@@ -256,8 +256,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven.md\|Strixhaven]]                                               | July 31, 2025 |
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/08 Dust Devils/Session 62\|Session 62]]
 - [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
-- [[Named Characters & Beasts/Kase\|Kase]]
-- [[Session Notes/Session 62\|Session 62]]
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- [[Session Notes/04 Ignatius Beckons/Session 30\|Session 30]]
+- [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
+- [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
+- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Other Information/Unique Items/Unique Items\|Unique Items]]
 - [[Named Characters & Beasts/Kase\|Kase]]
-- [[Session Notes/Session 62\|Session 62]]
+- [[Session Notes/08 Dust Devils/Session 62\|Session 62]]
 - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
-- [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 
 { .block-language-dataview}
 
@@ -288,13 +288,12 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/Session 62\|Session 62]]                                                                                                                | May 21, 2026       |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
+| [[Other Information/Races/Drow\|Drow]]                                                                                                                  | May 25, 2026       |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
-| [[Other Information/Races/Drow\|Drow]]                                                                                                                  | August 31, 2025    |
-| [[Named Characters & Beasts/Kase\|Kase]]                                                                                                                | May 21, 2026       |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
+| [[Named Characters & Beasts/Kase\|Kase]]                                                                                                                | May 25, 2026       |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |

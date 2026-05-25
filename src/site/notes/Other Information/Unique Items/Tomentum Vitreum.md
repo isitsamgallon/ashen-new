@@ -44,7 +44,8 @@ _____________
 
  
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                          | Interactions                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/08 Dust Devils/Session 62\|Session 62]] | [[The Party/Viktor Malkovich\|Viktor]] then pulled the [[Other Information/Unique Items/Tomentum Vitreum\|ring]] off his finger and handed it to [[The Party/Mordecai Reverence\|Mordecai]], stating that they might have more use for the ring than he would, despite it linking to [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]. [[The Party/Mordecai Reverence\|Mordecai]] took the ring, playing with it in their hand, to prick their finger to watch the ring react with their blood. |
 
 { .block-language-dataview}

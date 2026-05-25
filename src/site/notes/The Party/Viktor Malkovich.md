@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-01-10T13:49:00.670+00:00"}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-05-25T12:34:49.377+01:00"}
 ---
 
 
@@ -10,14 +10,14 @@
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race |  [[Other Information/Races/Drow\|Drow]] |
+>  Race | [[Other Information/Races/Drow\|Drow]]/[[dampir\|dampir]] |
 >  Nationality | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >  Class | Cleric |
 >  Subclass | The Grave Domain |
 >  Age | 144 |
 >  Alignment | Lawful Good|
 >  Pronouns | He/Him |
->  Family | Unknown |
+>  Family | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]] (Ex-wife) |
 >  Player | [[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |

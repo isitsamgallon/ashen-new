@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2026-02-20T15:39:46.023+00:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2026-05-25T14:49:20.307+01:00"}
 ---
 
 > [!important]+ This note contains information regarding the Herald known as "The Korrigan"

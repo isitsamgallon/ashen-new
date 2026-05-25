@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-16T14:00:06.924+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-25T12:52:22.341+01:00"}
 ---
 
 # Session Information
@@ -136,5 +136,9 @@ They then signed a contract that enforced the terms of the bet. [[The Party/Half
 
 (x::On the way back, they took a moment to rest before [[The Party/Halfbie\|Halfbie]] took the time to [[Admin/Spells/Identify\|identify]] each of the magic items they were given:
 - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
-- Tormentum Vttrium
-- Coin of the borrowed Face)
+- [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
+- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]])
+
+### Trivia
+
+#LevelUp 

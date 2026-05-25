@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/drow/","updated":"2025-08-31T21:06:44.895+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/drow/","updated":"2026-05-25T12:33:03.856+01:00"}
 ---
 
 
@@ -43,12 +43,6 @@
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
 Drow , also known as dark elves, deep elves, night elves, under-elves, and the Dark Ones among orcs, were a dark-skinned sub-race of elves that predominantly lived in the Underdark They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. 
-
-### Attitudes & Beliefs
-
-
-### History
-
 
 ### ### Known Drow
 
