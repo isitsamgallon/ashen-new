@@ -8,6 +8,7 @@ Here is a list of all current known groups and factions within the campaign
 - [[Groups & Factions/Ebon Quill\|Ebon Quill]]
 - [[Groups & Factions/Fruit Cutters\|Fruit Cutters]]
 - [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]
+- [[Groups & Factions/Greg's Bakery\|Greg's Bakery]]
 - [[Groups & Factions/Halos Emporium\|Halos Emporium]]
 - [[Groups & Factions/Ivory Crest\|Ivory Crest]]
 - [[Groups & Factions/Mage's Guild\|Mage's Guild]]

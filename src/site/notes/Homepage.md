@@ -202,6 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                        | Saga                       | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/08 Dust Devils/Session 63\|Session 63]]     | 8th Saga - Dust Devils     | The party took Cas on a field trip to a prophetic bakery and a pub, where they joined the Merchants' Guild, before returning home to find Halfbie's room covered in more magical equations. A tense interrogation of Chenris under truth spells revealed little about his plans, then Halfbie woke up with total amnesia, and the party discovered Denola's dead body in the town square.The session is still being written by Sam.                                                                                         |
 | [[Session Notes/08 Dust Devils/Session 62\|Session 62]]     | 8th Saga - Dust Devils     | The party returned to Blackwall with a million gold and a new commander, Kase, only to discover the three "New God" children now living in the tower. As Halfbie sleepwalked into covering their room with indecipherable magical theorems, Drache made a fey pact in his dreams, and Mordecai bonded with Cas, accepting her for who she is rather than trying to "fix" her.The session is still being written by Sam.                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 61\|Session 61]] | 7th Saga - Winter Warriors | The party defeats Auric, outplays Astra for a huge reward, and Mordecai confronts their past in a fiery turning point that sets up future conflicts.                                                                                                                                                                                                                                                                                                                                                                        |
 | [[Session Notes/07 Winter Warriors/Session 60\|Session 60]] | 7th Saga - Winter Warriors | The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.                                                                                                                                                                                     |
@@ -211,7 +212,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/07 Winter Warriors/Session 56\|Session 56]] | 7th Saga - Winter Warriors | The Party infiltrates the Golden Fort through deception, stealth, and Halfbie’s unexpected charm, uncovering both dangers and surprising allies along the way. They eventually meet Astra, who warns them of the fort’s power but offers temporary peace and shelter if they promise not to destroy the armoury.                                                                                                                                                                                                            |
 | [[Session Notes/07 Winter Warriors/Session 55\|Session 55]] | 7th Saga - Winter Warriors | The party’s attempt to rest devolved into cursed hunger, undead experiments, and growing dread as Mordecai spiralled under wild magic and the hunters’ curse was partially unveiled. Dawn brought divine horror: the Korrigan struck Mordecai down, Vaelrith answered Viktor’s prayer, and the road to the Golden Fort grew far darker than expected.                                                                                                                                                                       |
 | [[Session Notes/07 Winter Warriors/Session 54\|Session 54]] | 7th Saga - Winter Warriors | The party barely survived a devastating ambush by cursed hunters and a giant, saved only by desperate healing and Chenris’ catastrophic fire magic. Victorious but shaken, they uncovered troubling hints about the Hunter Society and settled into an uneasy camp, aware that greater dangers lie ahead.                                                                                                                                                                                                                   |
-| [[Session Notes/07 Winter Warriors/Session 53\|Session 53]] | 7th Saga - Winter Warriors | The party secured Ringo’s guidance and prepared new spells before venturing into the cursed woods, where Halfbie’s confidence was shaken and danger mounted. Their journey was cut short when they were ambushed by undead hunters and a giant, ending the session mid-combat.                                                                                                                                                                                                                                              |
 
 { .block-language-dataview}
 
@@ -251,8 +251,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/08 Dust Devils/Session 62\|Session 62]]
-- [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
-- [[Gods & Heralds/Lorwyn/The Korrigan (Herald)\|The Korrigan (Herald)]]
-- [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]
-- [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]
+- [[Groups & Factions/Merchant Guild\|Merchant Guild]]
+- [[Session Notes/08 Dust Devils/Session 63\|Session 63]]
+- [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]
+- [[Named Characters & Beasts/Denola\|Denola]]
+- [[Named Characters & Beasts/Untitled\|Untitled]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Other Information/Unique Items/Unique Items\|Unique Items]]
-- [[Named Characters & Beasts/Kase\|Kase]]
-- [[Session Notes/08 Dust Devils/Session 62\|Session 62]]
-- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
-- [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
+- [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]
+- [[Named Characters & Beasts/Denola\|Denola]]
+- [[Named Characters & Beasts/Untitled\|Untitled]]
+- [[Named Characters & Beasts/Greg\|Greg]]
+- [[Groups & Factions/Greg's Bakery\|Greg's Bakery]]
 
 { .block-language-dataview}
 
@@ -288,9 +288,13 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]                                                                                          | May 26, 2026       |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | May 25, 2026       |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
+| [[Named Characters & Beasts/Untitled\|Untitled]]                                                                                                        | May 26, 2026       |
 | [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
 | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
 | [[Named Characters & Beasts/Kase\|Kase]]                                                                                                                | May 25, 2026       |
@@ -300,8 +304,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
 | [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
 | [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |

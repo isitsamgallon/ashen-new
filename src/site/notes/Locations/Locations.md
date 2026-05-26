@@ -7,18 +7,19 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 # [[Locations/Verdant Peninsula\|Verdant Peninsula]]
 ### [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
-| §                                                               | City Type             |
-| --------------------------------------------------------------- | --------------------- |
-| [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | Small Village         |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | Capital               |
-| [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | Small Village         |
-| [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | Small Village         |
-| [[Locations/OFC/Silkhorn\|Silkhorn]]                         | Small Fishing Village |
-| [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]] | Building              |
-| [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | Large Town            |
-| [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | Building              |
-| [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | Estate                |
-| [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | Large Town            |
+| §                                                                 | City Type             |
+| ----------------------------------------------------------------- | --------------------- |
+| [[Locations/OFC/Balance Ranch\|Balance Ranch]]                 | Small Village         |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]] | \-                    |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]               | Capital               |
+| [[Locations/OFC/Firebranch Range\|Firebranch Range]]           | Small Village         |
+| [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]           | Small Village         |
+| [[Locations/OFC/Silkhorn\|Silkhorn]]                           | Small Fishing Village |
+| [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]   | Building              |
+| [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]   | Large Town            |
+| [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]          | Building              |
+| [[Locations/OFC/Twopines Estate\|Twopines Estate]]             | Estate                |
+| [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]            | Large Town            |
 
 { .block-language-dataview}
 
@@ -179,6 +180,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/Morak Hold\|Morak Hold]]
 - [[Locations/Snowport\|Snowport]]
 - [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
+- [[Locations/Terrathra (World Map)\|Terrathra (World Map)]]
 
 { .block-language-dataview}
 

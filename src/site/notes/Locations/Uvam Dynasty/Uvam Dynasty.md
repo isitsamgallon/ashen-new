@@ -20,9 +20,9 @@
 > | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | <ul><li>Discovered</li></ul>   |
+> | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | <ul><li>Discovered</li></ul>   |
 > | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | <ul><li>Undiscovered</li></ul> |
 > 
