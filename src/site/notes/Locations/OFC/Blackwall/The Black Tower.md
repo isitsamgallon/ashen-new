@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/blackwall/the-black-tower/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.869+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/blackwall/the-black-tower/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.869+01:00","dg-note-properties":{"Nation":"The OFC","tags":["Discovered"],"icon":"place","city type":"Building"}}
 ---
 
 ### Overview

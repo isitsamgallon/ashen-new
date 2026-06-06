@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"updated":"2026-02-20T15:45:17.905+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jerek-the-smooth/","tags":["NPC"],"updated":"2026-02-20T15:45:17.905+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"Dawnhaven","Status":"Dead","icon":"npc","age":"Adult","race":"Halfling","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

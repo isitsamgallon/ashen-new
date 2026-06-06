@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-08-11T11:53:31.393+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/aetherion/","updated":"2025-08-11T11:53:31.393+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
 ---
 
 ### Overview

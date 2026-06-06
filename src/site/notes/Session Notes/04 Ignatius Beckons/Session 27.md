@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-27/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.594+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-27/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.594+01:00","dg-note-properties":{"Summary":"We continue to explore Itone and encounter a strange crown that possesses Mordecai. We meet Uti, who is revealed to be Niaross and is killed in a fight. Finally, we investigate some strange chanting and find the Firesoul Greatsword, which Ebis Daro quickly steals.","type":["session"],"sessionNum":27,"icon":"session","tags":["LevelUp"],"part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 20th Dec 2024 

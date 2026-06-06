@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-29T22:44:56.950+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-14/","tags":["LevelUp"],"updated":"2025-08-29T22:44:56.950+01:00","dg-note-properties":{"Summary":"The party’s travels from Nas Anor to Ishnmel led to encounters with cannibals, bandits, and an ancient tower. Korrigan’s communion with Terathra nearly killed him, leaving Mordecai enraged at Chenris and the group more divided than ever.","type":"session","sessionNum":"14","part":"3rd Saga - The Worst Diplomates","icon":"session","tags":["LevelUp"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/freya/","tags":["NPC"],"updated":"2026-02-20T15:45:15.016+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/freya/","tags":["NPC"],"updated":"2026-02-20T15:45:15.016+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Whitespire","icon":"npc","Status":"Unknown","age":"Teenage","race":"Human","gender":"Female","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

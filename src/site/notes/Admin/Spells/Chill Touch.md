@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/chill-touch/","hide":true,"updated":"2025-08-11T11:53:29.326+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/chill-touch/","hide":true,"updated":"2025-08-11T11:53:29.326+01:00","dg-note-properties":{"name":"Chill Touch","level":0,"school":"Necromancy","casting_time":"1 action","Range":"120 feet","duration":"1 round","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Chill Touch

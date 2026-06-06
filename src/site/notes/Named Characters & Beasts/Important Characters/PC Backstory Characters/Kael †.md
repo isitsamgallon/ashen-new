@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2026-02-20T15:45:17.079+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2026-02-20T15:45:17.079+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"The Slums","icon":"npc","Status":"Dead","age":"Young Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

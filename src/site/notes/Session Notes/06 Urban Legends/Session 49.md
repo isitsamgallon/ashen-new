@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2025-12-30T10:41:56.609+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-49/","updated":"2026-06-06T14:11:32.948+01:00","dg-note-properties":{"Summary":"The party grappled with the OFC’s fragile finances, turning to the Tome of Unfinished Stories to conjure wealth, only to attract dangerous visitors. Their scheme ended in disaster when Scorch Dustblood defeated them, leaving them wounded and empty-handed.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":49,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -87,7 +87,7 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::[[The Party/Halfbie\|Halfbie]] interrupted the conversation by saying, "Speaking of understanding the world..." They outstretched their arm before saying, "I sure [[Admin/Spells/Wish\|wish]] that a bunch of random rich people would come and give me 3000 [[Other Information/Money\|gold]]")  
 
-(x::There was a long pause, and everyone in the room looked at each other, half-bewildered. They gave a coy smile before opening the [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]] and rephrasing that event so that people actually did provide them with [[Other Information/Money\|money]]. There was an even longer pause before a knock at the door.)  
+(x::There was a long pause, and everyone in the room looked at each other, half-bewildered. They gave a coy smile before opening the [[Tome of Unfinished Stories old\|Tome of Unfinished Stories old]] and rephrasing that event so that people actually did provide them with [[Other Information/Money\|money]]. There was an even longer pause before a knock at the door.)  
 
 (x::[[The Party/Halfbie\|Halfbie]] beckoned them in, and with the open door came a blizzard of tension. [[The Party/Halfbie\|Halfbie]] saw out of the corner of their eye as [[The Party/Mordecai Reverence\|Mordecai]]'s attentions were grabbed; they went white with shock and fear. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]' voice rang out in their head as he coyly gave Galen Verix an introduction. Before [[The Party/Halfbie\|Halfbie]] had a chance to greet them properly, a blade was thrust into their abdomen with frightening accuracy. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] asked if they wanted him to take over, something [[The Party/Halfbie\|Halfbie]] was happy to oblige.)  
 
@@ -117,7 +117,7 @@ The final visitor, Scorch Dustblood of a powerful desert family, escalated the s
 
 (x::"I might take you up on that. Something makes me want to, you know, unleash on the necrotic energies down a weird cave system with you... strange.")  
 
-(x::[[The Party/Wurinn Fuuldrusch\|Drache]] pulled [[The Party/Viktor Malkovich\|Viktor]] and [[The Party/Mordecai Reverence\|Mordecai]] aside to ask what the hell was happening. They were shocked as they explained that [[The Party/Halfbie\|Halfbie]] wrote in the [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]] that many random rich people would give them 3000 [[Other Information/Money\|gold]]. This explanation somehow left them more confused than before, but they decided to just watch and see what happened.)  
+(x::[[The Party/Wurinn Fuuldrusch\|Drache]] pulled [[The Party/Viktor Malkovich\|Viktor]] and [[The Party/Mordecai Reverence\|Mordecai]] aside to ask what the hell was happening. They were shocked as they explained that [[The Party/Halfbie\|Halfbie]] wrote in the [[Tome of Unfinished Stories old\|Tome of Unfinished Stories old]] that many random rich people would give them 3000 [[Other Information/Money\|gold]]. This explanation somehow left them more confused than before, but they decided to just watch and see what happened.)  
 
 (x::The next guest arrived, but instead of knocking on the door, the wall suddenly caved in, and an ancient [[Other Information/Money\|gold]] dragon entered the room. It turned its long neck to look at [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] and greeted him in a pirate accent. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] returned the greeting kindly.)  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/hex/","hide":true,"updated":"2025-08-11T11:53:30.916+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/hex/","hide":true,"updated":"2025-08-11T11:53:30.916+01:00","dg-note-properties":{"name":"Hex","level":1,"school":"Enchantment","casting_time":"1 bonus","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["the petrified eye of a newt"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Hex

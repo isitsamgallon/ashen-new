@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-shadowspawn/","hide":true,"updated":"2025-08-11T11:53:31.186+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-shadowspawn/","hide":true,"updated":"2025-08-11T11:53:31.186+01:00","dg-note-properties":{"name":"Summon Shadowspawn","level":3,"school":"Conjuration","casting_time":"1 action","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["tears inside a gem worth at least 300 gp"],"concentration":true,"source":["Tasha's Cauldron of Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Shadowspawn

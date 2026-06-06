@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"updated":"2026-02-20T15:45:17.516+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/akin-netch/","tags":["Important"],"updated":"2026-02-20T15:45:17.516+00:00","dg-note-properties":{"tags":["Important"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":"The Auditors","aliases":null,"role":null,"pronouns":null}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-02-20T15:45:17.172+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-02-20T15:45:17.172+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"Luminara","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":["Malachi","Malachi Darkthorne"],"role":null,"pronouns":null}}
 ---
 
 >[!infobox]

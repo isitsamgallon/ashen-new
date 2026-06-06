@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/friends/","hide":true,"updated":"2025-08-11T11:53:30.868+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/friends/","hide":true,"updated":"2025-08-11T11:53:30.868+01:00","dg-note-properties":{"name":"Friends","level":0,"school":"Enchantment","casting_time":"1 action","Range":"Self","duration":"1 minute (concentration)","verbal":false,"somatic":true,"material":true,"Components":["a small amount of makeup applied to the face as this spell is cast"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Friends

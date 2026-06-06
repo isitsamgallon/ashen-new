@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/parsley-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:19.822+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/parsley-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:19.822+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Inchling Village","icon":"npc","Status":"Alive","faction":["Inchlings"],"race":"Inchling","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

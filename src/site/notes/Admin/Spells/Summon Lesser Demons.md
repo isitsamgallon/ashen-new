@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-lesser-demons/","hide":true,"updated":"2025-08-11T11:53:31.184+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-lesser-demons/","hide":true,"updated":"2025-08-11T11:53:31.184+01:00","dg-note-properties":{"name":"Summon Lesser Demons","level":3,"school":"Conjuration","casting_time":"1 action","Range":"60 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a vial of blood from a humanoid killed within the past 24 hours"],"concentration":true,"source":["Xanathar's Guide to Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Lesser Demons

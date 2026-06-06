@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/enhance-ability/","hide":true,"updated":"2025-08-11T11:53:29.377+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/enhance-ability/","hide":true,"updated":"2025-08-11T11:53:29.377+01:00","dg-note-properties":{"name":"Enhance Ability","level":2,"school":"Transmutation","casting_time":"1 action","Range":"Touch","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["fur or a feather from a beast"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Enhance Ability

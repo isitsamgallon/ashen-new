@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-woods/","updated":"2025-08-11T11:53:31.407+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-black-woods/","updated":"2025-08-11T11:53:31.407+01:00","dg-note-properties":{"icon":"place","aliases":["The Black Forest"],"Nation":"The Realm of The Gods"}}
 ---
 
 ![Screenshot 2025-06-09 181531.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181531.png)

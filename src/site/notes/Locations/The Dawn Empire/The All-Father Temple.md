@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.919+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.919+01:00","dg-note-properties":{"city type":"Building","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place"}}
 ---
 
 ### Overview

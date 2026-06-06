@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/caleb-hamlet/","tags":["Player"],"updated":"2026-04-08T17:20:56.916+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/caleb-hamlet/","tags":["Player"],"updated":"2026-04-08T17:20:56.916+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"race":null}}
 ---
 
 > [!infobox]

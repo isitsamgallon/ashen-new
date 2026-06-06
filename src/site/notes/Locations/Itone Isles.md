@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Discovered"],"updated":"2025-12-30T11:09:48.396+00:00"}
+{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Discovered"],"updated":"2025-12-30T11:09:48.396+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Itone","icon":"place","aliases":["Itone"]}}
 ---
 
 ### Overview

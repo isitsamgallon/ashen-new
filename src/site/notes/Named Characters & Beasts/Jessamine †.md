@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jessamine/","tags":["NPC"],"updated":"2026-02-20T15:45:17.923+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jessamine/","tags":["NPC"],"updated":"2026-02-20T15:45:17.923+00:00","dg-note-properties":{"tags":["NPC"],"Nation":["The Feywilds"],"town":"The Shifting Forest","icon":"npc","Status":"Dead","age":"Adult","race":"Eladrin","gender":"Female","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

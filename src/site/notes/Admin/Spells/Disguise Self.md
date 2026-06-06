@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/disguise-self/","hide":true,"updated":"2025-08-11T11:53:29.366+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/disguise-self/","hide":true,"updated":"2025-08-11T11:53:29.366+01:00","dg-note-properties":{"name":"Disguise Self","level":1,"school":"Illusion","casting_time":"1 action","Range":"Self","duration":"1 hour","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Disguise Self

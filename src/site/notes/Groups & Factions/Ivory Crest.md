@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-08-29T22:44:55.551+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/ivory-crest/","tags":["Groups"],"updated":"2025-08-29T22:44:55.551+01:00","dg-note-properties":{"tags":["Groups"],"icon":"group","Nation":null,"town":null,"update ":null}}
 ---
 
 > [!infobox]
 > 
 > # Ivory Crest
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![ImagePlaceholder.png\|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-05-21T20:50:03.511+01:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-05-21T20:50:03.511+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"]}}
 ---
 
 >[!Recite]   Note
@@ -8,7 +8,7 @@
 > [!infobox]
 > 
 > # Chenris Tallfellow
-> ![IMG_0309.jpg|cover hsmall](/img/user/Admin/Attachments/IMG_0309.jpg)
+> ![IMG_0309.jpg\|cover hsmall](/img/user/Admin/Attachments/IMG_0309.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -280,7 +280,7 @@ Upon their return to the Adventurers' Guild, the group sought much-needed rest. 
 Mordecai, of course, was visibly irked by the success of Chenris’ counter-prank, but the exchange was devoid of the previous edge of malice. There is a peculiar softness to Chenris' victories now, as though he seeks to best his companions without truly damaging them—a nuance that gives me hope.
 
 **Audience with the Empress [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]**
-The group’s next notable venture brought them to the palace of Empress [[Obeus Yelris]]. Despite her notorious unavailability, Chenris played a critical role in securing an audience. Alongside Korrigan and **Wurinn "Drache" Fuuldrusch**, Chenris' persistence bore fruit, convincing both the guards and eventually the Empress herself of the importance of their news. His handling of the Empress, however, showed an intriguing mix of formality and subtle challenge.
+The group’s next notable venture brought them to the palace of Empress [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]. Despite her notorious unavailability, Chenris played a critical role in securing an audience. Alongside Korrigan and **Wurinn "Drache" Fuuldrusch**, Chenris' persistence bore fruit, convincing both the guards and eventually the Empress herself of the importance of their news. His handling of the Empress, however, showed an intriguing mix of formality and subtle challenge.
 
 Addressing her with the respect due to her station, Chenris presented her with the threat of the bandit camp and the weapon known as **[[Named Characters & Beasts/Grom\|Grom]]**, using _[[Admin/Spells/Mage Hand\|Mage Hand]]_ to pinpoint critical locations on a map. Yet, when the discussion shifted to the fallen Tower of [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]], a topic of deep concern, Chenris showed uncharacteristic boldness, questioning the Empress' confidence in the tower's defenses. His tone was far from deferential—he hinted that the prior victory of [[Groups & Factions/The Coalition\|The Coalition]] had been mere luck, a remark that the Empress received with cold indifference. Still, Chenris’ insistence on presenting his own perspective, despite opposition, demonstrated a growing sense of responsibility.
 

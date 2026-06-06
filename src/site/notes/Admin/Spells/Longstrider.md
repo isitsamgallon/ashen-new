@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/longstrider/","hide":true,"updated":"2025-08-11T11:53:30.958+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/longstrider/","hide":true,"updated":"2025-08-11T11:53:30.958+01:00","dg-note-properties":{"name":"Longstrider","level":1,"school":"Transmutation","casting_time":"1 action","Range":"Touch","duration":"1 hour","verbal":true,"somatic":true,"material":true,"Components":["a pinch of dirt"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Longstrider

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-35/","updated":"2026-04-21T17:44:19.605+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-35/","updated":"2026-04-21T17:44:19.605+01:00","dg-note-properties":{"Summary":"Currently still being written","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":35,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 26th Mar 2025 

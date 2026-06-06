@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2026-05-25T14:49:20.307+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/the-korrigan-herald/","updated":"2026-05-25T14:49:20.307+01:00","dg-note-properties":{"tags":null,"Nation":"The Feywilds","town":"The Feywilds","aliases":["The Korrigan","Korrigan"]}}
 ---
 
 > [!important]+ This note contains information regarding the Herald known as "The Korrigan"

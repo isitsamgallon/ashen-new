@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-20/","updated":"2025-08-29T22:44:57.215+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-20/","updated":"2025-08-29T22:44:57.215+01:00","dg-note-properties":{"Summary":"On their journey through Whitespire and into the Dawn Empire, the party uncovered legends of Akin Netch, Uti’s lost treasure, and Ebis’ many faces while resisting the dangerous bargains of Aeloria’s priest. In refusing to trade away their memories and identities, Chenris and Mordecai affirmed their defiance against divine manipulation.","type":"session","sessionNum":"20","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

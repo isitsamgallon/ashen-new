@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/tiny-servant/","hide":true,"updated":"2025-08-11T11:53:31.208+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/tiny-servant/","hide":true,"updated":"2025-08-11T11:53:31.208+01:00","dg-note-properties":{"name":"Tiny Servant","level":3,"school":"Transmutation","casting_time":"1 minute","Range":"Touch","duration":"8 hour","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Xanathar's Guide to Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Tiny Servant

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2026-02-20T15:45:19.199+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lord-ulan/","tags":["NPC"],"updated":"2026-02-20T15:45:19.199+00:00","dg-note-properties":{"tags":["NPC"],"Status":"Dead","Nation":"The Dawn Empire","town":"Steelwick","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

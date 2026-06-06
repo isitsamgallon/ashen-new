@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/spirit-shroud/","hide":true,"updated":"2025-08-11T11:53:31.112+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/spirit-shroud/","hide":true,"updated":"2025-08-11T11:53:31.112+01:00","dg-note-properties":{"name":"Spirit Shroud","level":3,"school":"Necromancy","casting_time":"1 bonus","Range":"Self","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Tasha's Cauldron of Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Spirit Shroud

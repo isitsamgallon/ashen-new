@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-54/","updated":"2025-12-30T11:33:03.057+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-54/","updated":"2025-12-30T11:33:03.057+00:00","dg-note-properties":{"Summary":"The party barely survived a devastating ambush by cursed hunters and a giant, saved only by desperate healing and Chenris’ catastrophic fire magic. Victorious but shaken, they uncovered troubling hints about the Hunter Society and settled into an uneasy camp, aware that greater dangers lie ahead.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":54,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information

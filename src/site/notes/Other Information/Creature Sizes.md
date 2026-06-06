@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/creature-sizes/","updated":"2025-12-12T17:32:25.371+00:00"}
+{"dg-publish":true,"permalink":"/other-information/creature-sizes/","updated":"2025-12-12T17:32:25.371+00:00","dg-note-properties":{}}
 ---
 
 

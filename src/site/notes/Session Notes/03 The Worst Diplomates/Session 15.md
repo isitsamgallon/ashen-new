@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-15/","updated":"2025-08-29T22:44:56.953+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-15/","updated":"2025-08-29T22:44:56.953+01:00","dg-note-properties":{"Summary":"Chenris destroyed the Ishnmel Tower’s crystal despite Mordecai’s desperate attempts to stop him, collapsing the tower and feeding its power to Terathra. In the aftermath, painful backstories were revealed, but trust within the party continued to fracture.","type":"session","sessionNum":"15","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 # Session Summary

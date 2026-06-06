@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/fear/","hide":true,"updated":"2025-08-11T11:53:30.848+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/fear/","hide":true,"updated":"2025-08-11T11:53:30.848+01:00","dg-note-properties":{"name":"Fear","level":3,"school":"Illusion","casting_time":"1 action","Range":"Varies","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a white feather or the heart of a hen"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Fear

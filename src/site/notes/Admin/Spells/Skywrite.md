@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/skywrite/","hide":true,"updated":"2025-08-11T11:53:31.087+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/skywrite/","hide":true,"updated":"2025-08-11T11:53:31.087+01:00","dg-note-properties":{"name":"Skywrite","level":2,"school":"Transmutation","casting_time":"1 action","Range":"Sight","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Xanathar's Guide to Everything","Elemental Evil Player's Companion"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Skywrite

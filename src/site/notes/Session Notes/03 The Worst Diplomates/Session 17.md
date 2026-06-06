@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-17/","updated":"2025-08-29T22:44:57.067+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-17/","updated":"2025-08-29T22:44:57.067+01:00","dg-note-properties":{"Summary":"Obeus found friendship with the party, as she explains the story of the cursed Emerald Swan Amulet, while revelations about Ebis Daro and Ignatius deepened their fears. Pursued by the Ethertwist Haunter and ambushed by cannibals who refused to stay dead, the party fled toward Caalona with danger at their heels.","type":"session","sessionNum":"17","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

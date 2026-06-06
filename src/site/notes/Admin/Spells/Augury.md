@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/augury/","hide":true,"updated":"2025-08-11T11:53:29.304+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/augury/","hide":true,"updated":"2025-08-11T11:53:29.304+01:00","dg-note-properties":{"name":"Augury","level":2,"school":"Divination","casting_time":"1 minute","Range":"Self","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["specially marked sticks, bones, or similar tokens worth at least 25 gp"],"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Augury

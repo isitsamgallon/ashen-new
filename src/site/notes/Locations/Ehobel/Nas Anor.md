@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/nas-anor/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.701+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/nas-anor/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.701+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"icon":"place","city type":"City"}}
 ---
 
 ### Overview

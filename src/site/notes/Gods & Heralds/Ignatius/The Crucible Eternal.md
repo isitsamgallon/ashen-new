@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/the-crucible-eternal/","updated":"2025-08-11T11:53:31.422+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/the-crucible-eternal/","updated":"2025-08-11T11:53:31.422+01:00","dg-note-properties":{"tags":null,"Nation":"The Realm of The Gods","town":null,"update ":null,"icon":"place"}}
 ---
 
 ![Screenshot 2025-06-09 181547.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181547.png)

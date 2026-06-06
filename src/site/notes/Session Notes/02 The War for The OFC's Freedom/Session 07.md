@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-07/","updated":"2025-08-11T11:53:32.390+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-07/","updated":"2025-08-11T11:53:32.390+01:00","dg-note-properties":{"Summary":"We travel to the small town of Newhall where we find the town plagued with a curse that made them lose their sleep and memories.","type":"session","sessionNum":"07","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 # Session Summary

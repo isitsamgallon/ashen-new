@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-11/","updated":"2025-08-19T16:47:44.681+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-11/","updated":"2025-08-19T16:47:44.681+01:00","dg-note-properties":{"Summary":"We started strategising for the war, our plans paid off and were able to win against all odds!","type":"session","sessionNum":"11","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 

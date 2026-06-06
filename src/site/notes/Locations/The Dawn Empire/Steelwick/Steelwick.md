@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.884+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/steelwick/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.884+01:00","dg-note-properties":{"city type":"City","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place"}}
 ---
 
 ### Overview

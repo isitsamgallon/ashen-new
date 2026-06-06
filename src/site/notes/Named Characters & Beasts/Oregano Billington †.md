@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/oregano-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:19.745+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/oregano-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:19.745+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Inchling Village","icon":"npc","Status":"Dead","faction":["Inchlings"],"race":"Inchling","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

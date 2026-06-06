@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/healing-halfling/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.743+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/healing-halfling/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.743+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","aliases":null,"age":"Adult","race":"Halfling","gender":"Female","icon":"vip","faction":"The Auditors","role":null,"pronouns":null}}
 ---
 
 

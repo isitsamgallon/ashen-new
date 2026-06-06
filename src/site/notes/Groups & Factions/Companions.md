@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/companions/","tags":["NPC","Groups"],"updated":"2025-08-11T11:53:31.521+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/companions/","tags":["NPC","Groups"],"updated":"2025-08-11T11:53:31.521+01:00","dg-note-properties":{"tags":["NPC","Groups"],"Nation":null,"town":null,"icon":"group","update ":null}}
 ---
 
 ### Overview
@@ -11,10 +11,10 @@ The name is given to the group of people that travel with [[Other Information/Di
 | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                 | Cleric  | Companion | <ul><li>Missing</li></ul> |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] | Druid   | Companion | Missing                   |
 | [[Named Characters & Beasts/Ringo\|Ringo]]                                                                    | Ranger  | Companion | In The Party              |
+| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None    | Companion | Other                     |
 | [[The Party/Other Party Members/Bruce\|Bruce]]                                                                | Paladin | Companion | Travelling                |
 | [[The Party/Other Party Members/Corvus\|Corvus]]                                                              | Unknown | Companion | Travelling                |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                      | Fighter | Companion | Other                     |
-| [[The Party/Other Party Members/Familiars/Bit\|Bit]]                                                          | None    | Companion | Other                     |
 
 { .block-language-dataview}
 

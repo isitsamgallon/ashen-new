@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2026-02-20T15:45:14.075+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/elven-cannibals/","updated":"2026-02-20T15:45:14.075+00:00","dg-note-properties":{"tags":null,"Nation":"Ehobel","Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 > [!infobox]

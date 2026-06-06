@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/receptionist-3/","tags":["NPC"],"updated":"2026-03-26T18:10:46.755+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/receptionist-3/","tags":["NPC"],"updated":"2026-03-26T18:10:46.755+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort Residential Area","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Golden Fleet"],"aliases":null,"role":"Golden Fort Receptionist","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

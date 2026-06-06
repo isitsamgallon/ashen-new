@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/lightning-lure/","hide":true,"updated":"2025-08-11T11:53:30.949+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/lightning-lure/","hide":true,"updated":"2025-08-11T11:53:30.949+01:00","dg-note-properties":{"name":"Lightning Lure","level":0,"school":"Evocation","casting_time":"1 action","Range":"Varies","duration":"Instantaneous","verbal":true,"somatic":false,"material":false,"concentration":false,"source":["Tasha's Cauldron of Everything","Sword Coast Adventurer's Guide"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Lightning Lure

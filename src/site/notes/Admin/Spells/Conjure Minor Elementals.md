@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/conjure-minor-elementals/","hide":true,"updated":"2025-08-11T11:53:29.339+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/conjure-minor-elementals/","hide":true,"updated":"2025-08-11T11:53:29.339+01:00","dg-note-properties":{"name":"Conjure Minor Elementals","level":4,"school":"Conjuration","casting_time":"1 minute","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Conjure Minor Elementals

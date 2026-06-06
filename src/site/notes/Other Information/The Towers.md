@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-towers/","updated":"2025-08-11T11:53:32.234+01:00"}
+{"dg-publish":true,"permalink":"/other-information/the-towers/","updated":"2025-08-11T11:53:32.234+01:00","dg-note-properties":{"aliases":["The Pillars","The Tower","The Ancient Pillars","meteor"]}}
 ---
 
  >[!infobox]

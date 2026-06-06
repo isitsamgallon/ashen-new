@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/charm-person/","hide":true,"updated":"2025-08-11T11:53:29.321+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/charm-person/","hide":true,"updated":"2025-08-11T11:53:29.321+01:00","dg-note-properties":{"name":"Charm Person","level":1,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"1 hour","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Charm Person

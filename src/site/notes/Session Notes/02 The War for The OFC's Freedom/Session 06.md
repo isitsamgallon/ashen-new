@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-29T22:44:56.843+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-29T22:44:56.843+01:00","dg-note-properties":{"Summary":"We travel to The Dawn Empire, have a run-in with Ivory Crest and meet the Emperor for the first time.","type":"session","sessionNum":"06","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 

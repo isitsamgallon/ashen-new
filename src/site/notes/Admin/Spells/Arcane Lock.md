@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/arcane-lock/","hide":true,"updated":"2025-08-11T11:53:29.301+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/arcane-lock/","hide":true,"updated":"2025-08-11T11:53:29.301+01:00","dg-note-properties":{"name":"Arcane Lock","level":2,"school":"Abjuration","casting_time":"1 action","Range":"Touch","duration":"Permanent","verbal":true,"somatic":true,"material":true,"Components":["gold dust worth at least 25 gp, which the spell consumes"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Arcane Lock

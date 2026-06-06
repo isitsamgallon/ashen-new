@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-55/","updated":"2026-01-22T17:39:54.931+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-55/","updated":"2026-01-22T17:39:54.931+00:00","dg-note-properties":{"Summary":"The party’s attempt to rest devolved into cursed hunger, undead experiments, and growing dread as Mordecai spiralled under wild magic and the hunters’ curse was partially unveiled. Dawn brought divine horror: the Korrigan struck Mordecai down, Vaelrith answered Viktor’s prayer, and the road to the Golden Fort grew far darker than expected.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":55,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

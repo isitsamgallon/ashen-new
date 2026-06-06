@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2026-01-20T22:39:07.893+00:00"}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2026-01-20T22:39:07.893+00:00","dg-note-properties":{}}
 ---
 
 A collection Quotes said during DND Sessions. 

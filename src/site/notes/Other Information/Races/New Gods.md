@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/new-gods/","updated":"2026-04-25T15:08:29.523+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/new-gods/","updated":"2026-04-25T15:08:29.523+01:00","dg-note-properties":{}}
 ---
 
 

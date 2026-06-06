@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/telepathy/","hide":true,"updated":"2025-08-11T11:53:31.198+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/telepathy/","hide":true,"updated":"2025-08-11T11:53:31.198+01:00","dg-note-properties":{"name":"Telepathy","level":8,"school":"Evocation","casting_time":"1 action","Range":"Varies","duration":"24 hour","verbal":true,"somatic":true,"material":true,"Components":["a pair of linked silver rings"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Telepathy

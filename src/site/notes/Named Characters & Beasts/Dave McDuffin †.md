@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2026-02-20T15:45:14.772+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/dave-mc-duffin/","tags":["NPC"],"updated":"2026-02-20T15:45:14.772+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Tulan Fort","town":"The Tulan Fort","icon":"npc","Status":"Dead","age":"Young Adult","race":"Human","gender":"Male","faction":["The Tulan Fort"],"namepoison":true,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

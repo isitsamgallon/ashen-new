@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-12-30T09:44:10.147+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/dawnhaven/","tags":["Missing"],"updated":"2025-12-30T09:44:10.147+00:00","dg-note-properties":{"city type":"Capital","Nation":"The Dawn Empire","tags":["Missing"],"icon":"place"}}
 ---
 
 ### Overview

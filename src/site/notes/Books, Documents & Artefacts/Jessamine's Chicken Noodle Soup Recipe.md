@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/jessamine-s-chicken-noodle-soup-recipe/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.246+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/jessamine-s-chicken-noodle-soup-recipe/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.246+01:00","dg-note-properties":{"tags":["Unimportant"],"Nation":["The Feywilds"],"town":"The Shifting Forest","priority":"Unimportant","booklocal":"The Shifting Forest","icon":"book","update":null}}
 ---
 
 # Ingredients 

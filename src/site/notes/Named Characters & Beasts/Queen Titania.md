@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/queen-titania/","tags":["NPC"],"updated":"2026-02-20T15:45:19.780+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/queen-titania/","tags":["NPC"],"updated":"2026-02-20T15:45:19.780+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Feywilds","Status":"Alive","icon":"npc","age":"Adult","race":"Fey","gender":"Female","faction":["Seele Court"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

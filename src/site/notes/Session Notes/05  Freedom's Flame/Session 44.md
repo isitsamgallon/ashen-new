@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-44/","updated":"2025-09-27T12:55:01.663+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-44/","updated":"2025-09-27T12:55:01.663+01:00","dg-note-properties":{"Summary":"Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.","type":"session","sessionNum":44,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 # Session Information

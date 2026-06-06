@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-magical-society-and-governance/","updated":"2026-01-24T19:31:50.394+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-magical-society-and-governance/","updated":"2026-01-24T19:31:50.394+00:00","dg-note-properties":{}}
 ---
 
 *Magic in the real world.*

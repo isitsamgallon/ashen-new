@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-22/","updated":"2025-08-29T22:44:57.291+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-22/","updated":"2025-08-29T22:44:57.291+01:00","dg-note-properties":{"Summary":"The party navigated deadly traps, mummies, and magical puzzles while uncovering the Pyramid’s secrets. Their strategic teamwork and bravery culminated in defeating the Mummy Lord and escaping through a portal as the structure collapsed.","type":"session","sessionNum":"22","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

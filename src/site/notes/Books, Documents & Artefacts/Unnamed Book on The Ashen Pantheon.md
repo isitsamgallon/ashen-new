@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/","updated":"2025-08-11T11:53:31.287+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/unnamed-book-on-the-ashen-pantheon/","updated":"2025-08-11T11:53:31.287+01:00","dg-note-properties":{"priority":"Low","received ":null,"booklocal":"[[The Black Tower]]","tags":null,"icon":"book","update":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/suggestion/","hide":true,"updated":"2025-08-11T11:53:31.118+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/suggestion/","hide":true,"updated":"2025-08-11T11:53:31.118+01:00","dg-note-properties":{"name":"Suggestion","level":2,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"8 hour (concentration)","verbal":true,"somatic":false,"material":true,"Components":["a snake's tongue and either a bit of honeycomb or a drop of sweet oil"],"concentration":true,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Suggestion

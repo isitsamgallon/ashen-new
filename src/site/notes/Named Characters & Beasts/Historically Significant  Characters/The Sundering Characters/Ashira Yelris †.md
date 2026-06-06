@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"updated":"2026-02-20T15:45:15.906+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/ashira-yelris/","tags":["NPC"],"updated":"2026-02-20T15:45:15.906+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Ehobel","town":"Ishnmel","Status":"Dead","type":"important","icon":"npc","age":"Adult","race":"Elf","gender":"Female","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

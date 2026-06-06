@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-04-08T16:42:15.607+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-04-08T16:42:15.607+01:00","dg-note-properties":{"Summary":"The party woke in Astra Goldmark's home to find Halfbie in rough shape after a chaotic night. They debated whether to proceed with their raid on the Golden Fort, now that their presence was known. Halfbie stressed the importance of dismantling the fort to free the seas and uplift nations. Despite initial concerns from Mordecai and Drache, they agreed the raid could positively impact the political landscape. They acknowledged the inevitability of collateral damage but decided to spare fleeing civilians.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":57,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information

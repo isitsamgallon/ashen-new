@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/druidcraft/","hide":true,"updated":"2025-08-11T11:53:29.369+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/druidcraft/","hide":true,"updated":"2025-08-11T11:53:29.369+01:00","dg-note-properties":{"name":"Druidcraft","level":0,"school":"Transmutation","casting_time":"1 action","Range":"30 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Druidcraft

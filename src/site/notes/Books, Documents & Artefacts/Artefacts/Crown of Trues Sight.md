@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/crown-of-trues-sight/","tags":["Artefact"],"updated":"2025-08-11T11:53:31.305+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/artefacts/crown-of-trues-sight/","tags":["Artefact"],"updated":"2025-08-11T11:53:31.305+01:00","dg-note-properties":{"tags":["Artefact"],"Status":"Unknown","Location":"Unknown","priority":null,"received ":null,"booklocal":null,"icon":"book","update":null}}
 ---
 
 lets the wearer see the world as it actually is, and not how people want you to see things. it admits an aura that give this ability to those around.  it was made by the goblins

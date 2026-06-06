@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-09/","tags":["LevelUp"],"updated":"2025-08-29T22:44:56.849+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-09/","tags":["LevelUp"],"updated":"2025-08-29T22:44:56.849+01:00","dg-note-properties":{"Summary":"We are captured by the Goblin Mafia and need to escape before they kill us. We make it to Steelwick to find Xekai defending Steve in court","type":"session","sessionNum":"09","part":"2nd Saga - The War for The OFC's Freedom","icon":"session","tags":["LevelUp"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/bless/","hide":true,"updated":"2025-08-11T11:53:29.314+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/bless/","hide":true,"updated":"2025-08-11T11:53:29.314+01:00","dg-note-properties":{"name":"Bless","level":1,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a sprinkling of holy water"],"concentration":true,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Bless

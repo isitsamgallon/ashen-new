@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/mending/","hide":true,"updated":"2025-08-11T11:53:30.983+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/mending/","hide":true,"updated":"2025-08-11T11:53:30.983+01:00","dg-note-properties":{"name":"Mending","level":0,"school":"Transmutation","casting_time":"1 minute","Range":"Touch","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["two lodestones"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Mending

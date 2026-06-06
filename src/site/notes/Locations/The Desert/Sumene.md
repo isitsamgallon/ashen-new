@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/sumene/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.825+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/sumene/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.825+01:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered"],"icon":"place","city type":"Unknown"}}
 ---
 
 ### Overview

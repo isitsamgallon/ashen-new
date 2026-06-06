@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/camp-sophia/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.808+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/camp-sophia/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.808+01:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Desert","city type":"Small Town","icon":"place"}}
 ---
 
 

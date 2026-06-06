@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/tasha-s-hideous-laughter/","hide":true,"updated":"2025-08-11T11:53:31.192+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/tasha-s-hideous-laughter/","hide":true,"updated":"2025-08-11T11:53:31.192+01:00","dg-note-properties":{"name":"Tasha's Hideous Laughter","level":1,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["tiny tarts and a feather that is waved in the air"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Tasha's Hideous Laughter

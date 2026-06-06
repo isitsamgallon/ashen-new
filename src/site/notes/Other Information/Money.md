@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/money/","updated":"2026-05-25T21:34:30.647+01:00"}
+{"dg-publish":true,"permalink":"/other-information/money/","updated":"2026-05-25T21:34:30.647+01:00","dg-note-properties":{"aliases":["Gold","Credits"]}}
 ---
 
 ### Gold

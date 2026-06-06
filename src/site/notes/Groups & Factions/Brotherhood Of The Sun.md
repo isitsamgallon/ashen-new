@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-08-11T11:53:31.519+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/brotherhood-of-the-sun/","updated":"2025-08-11T11:53:31.519+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"icon":"group","aliases":["Prince of Fire","The Flaming Suns"],"update ":null}}
 ---
 
 > [!infobox]

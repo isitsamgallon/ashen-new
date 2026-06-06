@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/tongues/","hide":true,"updated":"2025-08-11T11:53:31.213+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/tongues/","hide":true,"updated":"2025-08-11T11:53:31.213+01:00","dg-note-properties":{"name":"Tongues","level":3,"school":"Divination","casting_time":"1 action","Range":"Touch","duration":"1 hour","verbal":true,"somatic":false,"material":true,"Components":["a small clay model of a ziggurat"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Tongues

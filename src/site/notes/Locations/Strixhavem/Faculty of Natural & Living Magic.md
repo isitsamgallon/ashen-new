@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-natural-and-living-magic/","updated":"2026-01-24T19:31:50.479+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-natural-and-living-magic/","updated":"2026-01-24T19:31:50.479+00:00","dg-note-properties":{}}
 ---
 
 *Magic as a living system.*

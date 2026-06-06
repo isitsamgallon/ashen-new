@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-18/","updated":"2025-08-29T22:44:57.104+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-18/","updated":"2025-08-29T22:44:57.104+01:00","dg-note-properties":{"Summary":"In Caalona’s illusions, the party confronted their desires, false doppelgängers, and the offers of the Illusion Master, who promised them everything if they stayed. Rejecting him, they returned to a blood-soaked reality where trust fractured, bargains were confessed, and Chenris at last revealed the wound that drives him.","type":"session","sessionNum":"18","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

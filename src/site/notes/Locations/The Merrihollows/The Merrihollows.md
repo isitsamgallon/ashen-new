@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:32.243+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:32.243+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Capital","icon":"place"}}
 ---
 
 > [!infobox]
@@ -16,9 +16,9 @@
 >  ##### Cities & Towns 
 >   | File                                                     | Discovery Status               |
 > | -------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]] | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Merrihollows/Pennymead\|Pennymead]]   | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]] | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 

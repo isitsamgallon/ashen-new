@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-01-10T13:46:21.852+00:00"}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-01-10T13:46:21.852+00:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > [!infobox]
 > 
 > # Aiden Knight
-> ![AidenKnight.png|cover hsmall](/img/user/Admin/Attachments/AidenKnight.png)
+> ![AidenKnight.png\|cover hsmall](/img/user/Admin/Attachments/AidenKnight.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -39,8 +39,8 @@
 >Languages | Common, Elvish, Goblin, Primordial, Thieves’ Cant|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 > - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
+> - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 > 
 { .block-language-dataview}
 

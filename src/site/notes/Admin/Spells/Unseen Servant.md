@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/unseen-servant/","hide":true,"updated":"2025-08-11T11:53:31.216+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/unseen-servant/","hide":true,"updated":"2025-08-11T11:53:31.216+01:00","dg-note-properties":{"name":"Unseen Servant","level":1,"school":"Conjuration","casting_time":"1 action","Range":"60 feet","duration":"1 hour","verbal":true,"somatic":true,"material":true,"Components":["a piece of string and a bit of wood"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Unseen Servant

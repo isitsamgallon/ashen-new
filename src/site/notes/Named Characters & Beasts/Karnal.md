@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/karnal/","tags":["NPC"],"updated":"2026-02-20T15:45:19.055+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/karnal/","tags":["NPC"],"updated":"2026-02-20T15:45:19.055+00:00","dg-note-properties":{"tags":["NPC"],"Nation":["Unknown/Unclear"],"town":"Unknown/Unclear","icon":"npc","Status":"Dead","age":"Adult","race":"Human","gender":"Male","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

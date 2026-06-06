@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/serek-the-quick/","tags":["NPC"],"updated":"2026-02-20T15:45:20.120+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/serek-the-quick/","tags":["NPC"],"updated":"2026-02-20T15:45:20.120+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"Dawnhaven","Status":"Alive","icon":"npc","age":"Adult","race":"Halfling","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

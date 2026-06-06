@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/king-oberon/","tags":["NPC"],"updated":"2026-02-20T15:45:19.142+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/king-oberon/","tags":["NPC"],"updated":"2026-02-20T15:45:19.142+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Feywilds","icon":"npc","age":"Adult","race":"Fey","gender":"Male","Status":"Alive","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

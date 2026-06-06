@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/invisibility/","hide":true,"updated":"2025-08-11T11:53:30.927+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/invisibility/","hide":true,"updated":"2025-08-11T11:53:30.927+01:00","dg-note-properties":{"name":"Invisibility","level":2,"school":"Illusion","casting_time":"1 action","Range":"Touch","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["an eyelash encased in gum arabic"],"concentration":true,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Invisibility

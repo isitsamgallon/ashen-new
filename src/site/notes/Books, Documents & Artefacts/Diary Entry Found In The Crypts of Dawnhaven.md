@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","updated":"2025-08-11T11:53:31.240+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/diary-entry-found-in-the-crypts-of-dawnhaven/","updated":"2025-08-11T11:53:31.240+01:00","dg-note-properties":{"priority":"High","received ":"file.ctime","booklocal":"[[The Dawnhaven Crypts]]","tags":null,"icon":"book","update":null}}
 ---
 
 **Entry 1: The Fallen Sun**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/gallery-images/","hide":true,"hideInGraph":true,"updated":"2025-12-30T11:56:45.855+00:00"}
+{"dg-publish":true,"permalink":"/admin/gallery-images/","hide":true,"hideInGraph":true,"updated":"2025-12-30T11:56:45.855+00:00","dg-note-properties":{}}
 ---
 
 ![FacesStareBack.png](/img/user/Admin/Attachments/FacesStareBack.png)

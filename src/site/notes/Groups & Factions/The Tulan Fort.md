@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-tulan-fort/","updated":"2025-08-11T11:53:31.552+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-tulan-fort/","updated":"2025-08-11T11:53:31.552+01:00","dg-note-properties":{"Nation":"The Forts","icon":"place"}}
 ---
 
 > [!infobox]
@@ -18,8 +18,8 @@
 >  ##### Key Members
 >   | File                                                                                             | Gender | Age         | Race       |
 > | ------------------------------------------------------------------------------------------------ | ------ | ----------- | ---------- |
-> | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]                                | Male   | Adult       | Human      |
 > | [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]                                | Male   | Young Adult | Human      |
+> | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]                                | Male   | Adult       | Human      |
 > | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]] | Male   | Adult       | Human      |
 > | [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]                        | Male   | Adult       | Dwarf      |
 > | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                            | Male   | Adult       | Dragonborn |

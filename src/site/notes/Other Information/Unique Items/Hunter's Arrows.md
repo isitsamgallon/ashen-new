@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/hunter-s-arrows/","tags":["ringoitem"],"updated":"2025-12-22T11:56:55.340+00:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/hunter-s-arrows/","tags":["ringoitem"],"updated":"2025-12-22T11:56:55.340+00:00","dg-note-properties":{"tags":["ringoitem"]}}
 ---
 
 

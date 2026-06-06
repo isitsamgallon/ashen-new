@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/fragment-of-vaelrith/","updated":"2025-08-11T11:53:31.447+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/fragment-of-vaelrith/","updated":"2025-08-11T11:53:31.447+01:00","dg-note-properties":{"tags":null,"icon":"god","update ":null}}
 ---
 
 

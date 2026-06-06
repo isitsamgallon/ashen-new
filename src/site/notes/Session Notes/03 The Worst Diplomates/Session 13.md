@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-13/","updated":"2025-08-29T22:44:56.945+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-13/","updated":"2025-08-29T22:44:56.945+01:00","dg-note-properties":{"Summary":"The party survived a deadly mimic house before Chenris’ nobility status granted them luxury, and growing unease over his behaviour. With new papers secured from the corrupt Lord Enelion, they continued toward Nas Anor and the Empress.","type":"session","sessionNum":"13","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

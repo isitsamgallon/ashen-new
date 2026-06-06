@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/counterspell/","hide":true,"updated":"2025-08-11T11:53:29.344+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/counterspell/","hide":true,"updated":"2025-08-11T11:53:29.344+01:00","dg-note-properties":{"name":"Counterspell","level":3,"school":"Abjuration","casting_time":"1 reaction","Range":"60 feet","duration":"Instantaneous","verbal":false,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Counterspell

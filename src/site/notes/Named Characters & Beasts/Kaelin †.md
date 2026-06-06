@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2026-02-20T15:45:18.901+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaelin/","tags":["NPC"],"updated":"2026-02-20T15:45:18.901+00:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":null,"age":null,"race":null,"gender":null,"faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 >[!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-26/","updated":"2025-09-20T17:46:16.039+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-26/","updated":"2025-09-20T17:46:16.039+01:00","dg-note-properties":{"Summary":"We decide to head for the all father temple along the way to meeting up with Drache.","type":"session","sessionNum":"20","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

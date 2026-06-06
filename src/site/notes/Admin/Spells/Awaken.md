@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/awaken/","hide":true,"updated":"2025-08-11T11:53:29.306+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/awaken/","hide":true,"updated":"2025-08-11T11:53:29.306+01:00","dg-note-properties":{"name":"Awaken","level":5,"school":"Transmutation","casting_time":"8 hour","Range":"Touch","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["an agate worth at least 1,000 gp, which the spell consumes"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Awaken

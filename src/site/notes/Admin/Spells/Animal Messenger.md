@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/animal-messenger/","hide":true,"updated":"2025-08-11T11:53:29.297+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/animal-messenger/","hide":true,"updated":"2025-08-11T11:53:29.297+01:00","dg-note-properties":{"name":"Animal Messenger","level":2,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"24 hour","verbal":true,"somatic":true,"material":true,"Components":["a morsel of food"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Animal Messenger

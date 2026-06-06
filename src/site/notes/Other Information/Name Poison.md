@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/name-poison/","updated":"2025-08-31T16:45:01.049+01:00"}
+{"dg-publish":true,"permalink":"/other-information/name-poison/","updated":"2025-08-31T16:45:01.049+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null}}
 ---
 
 

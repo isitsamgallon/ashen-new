@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-41/","updated":"2025-09-27T12:55:01.650+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-41/","updated":"2025-09-27T12:55:01.650+01:00","dg-note-properties":{"Summary":"After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.","type":"session","sessionNum":41,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 8th Jul 2025 

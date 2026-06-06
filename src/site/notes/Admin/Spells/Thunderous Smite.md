@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/thunderous-smite/","hide":true,"updated":"2025-08-11T11:53:31.204+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/thunderous-smite/","hide":true,"updated":"2025-08-11T11:53:31.204+01:00","dg-note-properties":{"name":"Thunderous Smite","level":1,"school":"Evocation","casting_time":"1 bonus","Range":"Self","duration":"1 minute (concentration)","verbal":true,"somatic":false,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Thunderous Smite

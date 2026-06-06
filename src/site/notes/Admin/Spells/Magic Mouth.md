@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/magic-mouth/","hide":true,"updated":"2025-08-11T11:53:30.969+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/magic-mouth/","hide":true,"updated":"2025-08-11T11:53:30.969+01:00","dg-note-properties":{"name":"Magic Mouth","level":2,"school":"Illusion","casting_time":"1 minute","Range":"30 feet","duration":"Permanent","verbal":true,"somatic":true,"material":true,"Components":["a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Magic Mouth

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/wish/","hide":true,"updated":"2025-08-11T11:53:31.225+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/wish/","hide":true,"updated":"2025-08-11T11:53:31.225+01:00","dg-note-properties":{"name":"Wish","level":9,"school":"Conjuration","casting_time":"1 action","Range":"Self","duration":"Instantaneous","verbal":true,"somatic":false,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Wish

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/fly/","hide":true,"updated":"2025-08-11T11:53:30.866+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/fly/","hide":true,"updated":"2025-08-11T11:53:30.866+01:00","dg-note-properties":{"name":"Fly","level":3,"school":"Transmutation","casting_time":"1 action","Range":"Touch","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a wing feather from any bird"],"concentration":true,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Fly

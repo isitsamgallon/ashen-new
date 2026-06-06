@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/charm-monster/","hide":true,"updated":"2025-08-11T11:53:29.324+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/charm-monster/","hide":true,"updated":"2025-08-11T11:53:29.324+01:00","dg-note-properties":{"name":"Charm Monster","level":4,"school":"Enchantment","casting_time":"1 action","Range":"30 feet","duration":"1 hour","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Xanathar's Guide to Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Charm Monster

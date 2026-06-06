@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/hunter-s-mark/","hide":true,"updated":"2025-08-11T11:53:30.921+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/hunter-s-mark/","hide":true,"updated":"2025-08-11T11:53:30.921+01:00","dg-note-properties":{"name":"Hunter's Mark","level":1,"school":"Divination","casting_time":"1 bonus","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":false,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Hunter's Mark

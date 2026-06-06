@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-26/","updated":"2026-01-22T17:31:59.226+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-26/","updated":"2026-01-22T17:31:59.226+00:00","dg-note-properties":{"Summary":"After the death and the disappearance of chenris, we meet Halfbie. We also travel to Itone for the first time and explore the island.","type":["session"],"sessionNum":"26","icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 12th Dec 2024 

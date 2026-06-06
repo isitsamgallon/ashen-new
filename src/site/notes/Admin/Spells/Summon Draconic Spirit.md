@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-draconic-spirit/","hide":true,"updated":"2025-08-11T11:53:31.171+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-draconic-spirit/","hide":true,"updated":"2025-08-11T11:53:31.171+01:00","dg-note-properties":{"name":"Summon Draconic Spirit","level":5,"school":"Conjuration","casting_time":"1 action","Range":"60 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["an object with the image of a dragon engraved on it, worth at least 500 gp"],"concentration":true,"source":["Fizban’s Treasury of Dragons"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Draconic Spirit

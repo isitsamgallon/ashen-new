@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/chromatic-orb/","hide":true,"updated":"2025-08-11T11:53:29.328+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/chromatic-orb/","hide":true,"updated":"2025-08-11T11:53:29.328+01:00","dg-note-properties":{"name":"Chromatic Orb","level":1,"school":"Evocation","casting_time":"1 action","Range":"90 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["a diamond worth at least 50 gp"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Chromatic Orb

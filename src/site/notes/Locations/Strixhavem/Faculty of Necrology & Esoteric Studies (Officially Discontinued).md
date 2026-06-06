@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-necrology-and-esoteric-studies-officially-discontinued/","updated":"2026-01-24T19:31:50.502+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-necrology-and-esoteric-studies-officially-discontinued/","updated":"2026-01-24T19:31:50.502+00:00","dg-note-properties":{}}
 ---
 
 *Death, souls, and forbidden continuity.*

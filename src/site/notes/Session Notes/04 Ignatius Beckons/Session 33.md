@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-33/","updated":"2026-02-20T15:20:34.069+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-33/","updated":"2026-02-20T15:20:34.069+00:00","dg-note-properties":{"Summary":"The Party navigated absurd chaos, from Korrigan’s accidental demon marriage to Halfbie’s existential crisis over a fake terminal illness. Their return to Blackwall turned deadly as a possessed Aidan, controlled by Chronovorus, slaughtered civilians before they managed to subdue him.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":33,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 27th Feb 2025 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/malin/","tags":["NPC"],"updated":"2026-02-20T15:45:19.365+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/malin/","tags":["NPC"],"updated":"2026-02-20T15:45:19.365+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"The All Father Temple","Status":"Alive","icon":"npc","age":"Adult","race":"Elf","gender":"Male","faction":["The All-Father Temple"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

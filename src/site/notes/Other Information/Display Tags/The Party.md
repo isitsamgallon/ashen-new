@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-09-25T18:20:59.200+01:00"}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-09-25T18:20:59.200+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
 ---
 
 ### Player Characters

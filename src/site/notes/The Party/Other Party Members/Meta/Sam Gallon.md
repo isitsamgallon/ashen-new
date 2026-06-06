@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2026-04-08T17:18:07.745+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2026-04-08T17:18:07.745+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"pronouns":"They/Them","occupation":null}}
 ---
 
 > [!infobox]

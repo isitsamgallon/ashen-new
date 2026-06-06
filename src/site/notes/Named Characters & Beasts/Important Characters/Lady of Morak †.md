@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2026-02-20T15:45:16.443+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/lady-of-morak/","tags":["NPC"],"updated":"2026-02-20T15:45:16.443+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Dwarven Empire","Status":"Dead","town":"Unknown/Unclear","age":"Adult","race":"Female","gender":"Dwarf","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

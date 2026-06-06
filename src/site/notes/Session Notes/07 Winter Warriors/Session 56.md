@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-04-08T16:51:07.412+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-56/","updated":"2026-04-08T16:51:07.412+01:00","dg-note-properties":{"Summary":"The Party infiltrates the Golden Fort through deception, stealth, and Halfbie’s unexpected charm, uncovering both dangers and surprising allies along the way. They eventually meet Astra, who warns them of the fort’s power but offers temporary peace and shelter if they promise not to destroy the armoury.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":56,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-12-30T10:13:07.775+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-12-30T10:13:07.775+00:00","dg-note-properties":{"Summary":"The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.","Part":"5th Saga - Freedom's Flame","type":"session","sessionNum":46,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"tags":["LevelUp"]}}
 ---
 
 # Session Information

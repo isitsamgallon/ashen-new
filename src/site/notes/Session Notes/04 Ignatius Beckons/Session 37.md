@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-04-21T17:44:29.051+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-04-21T17:44:29.051+01:00","dg-note-properties":{"Summary":"The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 23rd Apr 2025 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2025-08-30T12:59:15.202+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2025-08-30T12:59:15.202+01:00","dg-note-properties":{"Summary":" Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.","type":"session","sessionNum":42,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 19/07/2025

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/leomund-s-secret-chest/","hide":true,"updated":"2025-08-11T11:53:30.934+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/leomund-s-secret-chest/","hide":true,"updated":"2025-08-11T11:53:30.934+01:00","dg-note-properties":{"name":"Leomund's Secret Chest","level":4,"school":"Conjuration","casting_time":"1 action","Range":"Touch","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Leomund's Secret Chest

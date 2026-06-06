@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kelrin/","tags":["NPC"],"updated":"2026-04-25T13:54:36.936+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kelrin/","tags":["NPC"],"updated":"2026-04-25T13:54:36.936+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"Red Dragon","gender":"Unknown","faction":["Dragons"],"aliases":null,"role":null,"pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

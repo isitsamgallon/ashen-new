@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-47/","updated":"2026-05-16T11:19:49.384+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-47/","updated":"2026-05-16T11:19:49.384+01:00","dg-note-properties":{"Summary":"The session is still being written by Tom.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":47,"icon":"session","attendance":["[[Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 **Session Date:** 3rd Sep 2025 

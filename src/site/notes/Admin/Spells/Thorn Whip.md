@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/thorn-whip/","hide":true,"updated":"2025-08-11T11:53:31.201+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/thorn-whip/","hide":true,"updated":"2025-08-11T11:53:31.201+01:00","dg-note-properties":{"name":"Thorn Whip","level":0,"school":"Transmutation","casting_time":"1 action","Range":"30 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["the stem of a plant with thorns"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Thorn Whip

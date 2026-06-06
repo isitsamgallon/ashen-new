@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mirabel-thorne/","tags":["NPC"],"updated":"2026-04-08T16:51:54.310+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mirabel-thorne/","tags":["NPC"],"updated":"2026-04-08T16:51:54.310+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Alive","age":"Unknown","race":"Unknown","gender":"Female","faction":["The Golden Fleet"],"aliases":["Mirabel"],"role":"Commander in The Golden Fleet","pronouns":"She/ Her"}}
 ---
 
 > [!infobox]

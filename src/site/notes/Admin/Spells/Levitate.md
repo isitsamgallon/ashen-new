@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/levitate/","hide":true,"updated":"2025-08-11T11:53:30.941+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/levitate/","hide":true,"updated":"2025-08-11T11:53:30.941+01:00","dg-note-properties":{"name":"Levitate","level":2,"school":"Transmutation","casting_time":"1 action","Range":"60 feet","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Levitate

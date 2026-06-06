@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/speak-with-plants/","hide":true,"updated":"2025-08-11T11:53:31.109+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/speak-with-plants/","hide":true,"updated":"2025-08-11T11:53:31.109+01:00","dg-note-properties":{"name":"Speak with Plants","level":3,"school":"Transmutation","casting_time":"1 action","Range":"Varies","duration":"10 minute","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Speak with Plants

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/maximilian-s-earthen-grasp/","hide":true,"updated":"2025-08-11T11:53:30.976+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/maximilian-s-earthen-grasp/","hide":true,"updated":"2025-08-11T11:53:30.976+01:00","dg-note-properties":{"name":"Maximilian's Earthen Grasp","level":2,"school":"Transmutation","casting_time":"1 action","Range":"30 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a miniature hand sculpted from clay"],"concentration":true,"source":["Xanathar's Guide to Everything","Elemental Evil Player's Companion"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Maximilian's Earthen Grasp

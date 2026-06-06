@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/power-word-stun/","hide":true,"updated":"2025-08-11T11:53:31.038+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/power-word-stun/","hide":true,"updated":"2025-08-11T11:53:31.038+01:00","dg-note-properties":{"name":"Power Word Stun","level":8,"school":"Enchantment","casting_time":"1 action","Range":"60 feet","duration":"Instantaneous","verbal":true,"somatic":false,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Power Word Stun

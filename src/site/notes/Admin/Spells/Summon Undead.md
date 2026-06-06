@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-undead/","hide":true,"updated":"2025-08-11T11:53:31.189+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-undead/","hide":true,"updated":"2025-08-11T11:53:31.189+01:00","dg-note-properties":{"name":"Summon Undead","level":3,"school":"Necromancy","casting_time":"1 action","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a gilded skull worth at least 300 gp"],"concentration":true,"source":["Tasha's Cauldron of Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Undead

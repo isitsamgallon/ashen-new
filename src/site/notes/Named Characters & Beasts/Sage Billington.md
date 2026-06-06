@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:20.046+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/sage-billington/","tags":["NPC"],"updated":"2026-02-20T15:45:20.046+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Inchling Village","icon":"npc","Status":"Alive","race":"Inchling","faction":["Inchlings"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

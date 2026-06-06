@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-deathless-clan/","updated":"2026-01-22T17:31:03.021+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-deathless-clan/","updated":"2026-01-22T17:31:03.021+00:00","dg-note-properties":{"icon":"group","Nation":null,"town":null,"aliases":["Zombies","Zombie"]}}
 ---
 
 > [!infobox]
 > 
 > # the Deathless Clan
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![ImagePlaceholder.png\|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-25/","updated":"2025-08-31T21:13:49.538+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-25/","updated":"2025-08-31T21:13:49.538+01:00","dg-note-properties":{"Summary":"We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.","type":"session","sessionNum":"25","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 # Session Summary

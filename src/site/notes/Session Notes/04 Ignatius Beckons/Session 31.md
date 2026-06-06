@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-31/","updated":"2025-09-27T12:55:01.566+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-31/","updated":"2025-09-27T12:55:01.566+01:00","dg-note-properties":{"Summary":"At Strixhaven, the party learned of Ebis Daro’s dark past, the Tower’s true costs, and the horrors of the Realm of Mana. Haldir revealed his true form and, in a shocking twist, forcibly pulled Ebis Daro from Obeus.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":31,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 9th Feb 2025 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/wartooth/","tags":["NPC"],"updated":"2026-02-20T15:45:20.552+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/wartooth/","tags":["NPC"],"updated":"2026-02-20T15:45:20.552+00:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":"Alive","age":"Adult","race":"Orc","gender":"Male","aliases":null,"role":null,"pronouns":null}}
 ---
 
 

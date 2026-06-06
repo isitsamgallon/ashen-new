@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/divine-harpies/","updated":"2025-09-27T13:18:26.986+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/divine-harpies/","updated":"2025-09-27T13:18:26.986+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"aliases":["Harpy"]}}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

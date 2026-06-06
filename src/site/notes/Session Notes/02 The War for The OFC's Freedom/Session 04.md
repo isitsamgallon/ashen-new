@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-08-30T10:53:26.668+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-04/","updated":"2025-08-30T10:53:26.668+01:00","dg-note-properties":{"Summary":"We keep on exploring the dungeon and encounter many strange things, including a researcher that spontaneously combusted after touching an old book","type":"session","sessionNum":"04","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 The party enter a room to find a bed a few levers, [[Kal †\|Kal †]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 

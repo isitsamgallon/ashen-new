@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-08-29T22:44:56.700+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/vampire/","updated":"2025-08-29T22:44:56.700+01:00","dg-note-properties":{}}
 ---
 
 

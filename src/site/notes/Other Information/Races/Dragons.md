@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dragons/","updated":"2026-04-25T13:00:26.292+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/dragons/","updated":"2026-04-25T13:00:26.292+01:00","dg-note-properties":{}}
 ---
 
 

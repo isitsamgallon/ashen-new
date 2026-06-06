@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-30/","updated":"2026-05-21T20:50:03.462+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-30/","updated":"2026-05-21T20:50:03.462+01:00","dg-note-properties":{"Summary":"After executing Malin, Halfbie is accidentally flung into the Feywild, where he survives for centuries before Korrigan rescues him. The party then journeys onward, grappling with morality, confronting past traumas, and discovering the tiny but vibrant Inchling Kingdom.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":30,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 29th Jan 2025 

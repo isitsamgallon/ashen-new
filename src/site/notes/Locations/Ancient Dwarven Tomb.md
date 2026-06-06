@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ancient-dwarven-tomb/","tags":["Discovered"],"updated":"2025-10-18T14:17:48.093+01:00"}
+{"dg-publish":true,"permalink":"/locations/ancient-dwarven-tomb/","tags":["Discovered"],"updated":"2025-10-18T14:17:48.093+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Dwarven Empire","city type":"Room","icon":"place"}}
 ---
 
 

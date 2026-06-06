@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/grasping-vine/","hide":true,"updated":"2025-08-11T11:53:30.877+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/grasping-vine/","hide":true,"updated":"2025-08-11T11:53:30.877+01:00","dg-note-properties":{"name":"Grasping Vine","level":4,"school":"Conjuration","casting_time":"1 bonus","Range":"30 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Grasping Vine

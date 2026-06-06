@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/01-echoes-of-the-ethertwist/session-00/","updated":"2025-10-17T22:29:10.120+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/01-echoes-of-the-ethertwist/session-00/","updated":"2025-10-17T22:29:10.120+01:00","dg-note-properties":{"Summary":"Records hadn't started yet, this is a summary of what happened before this vault was started.","Part":"1st Saga - Echoes of the Ethertwist","type":"session","sessionNum":"0","icon":"session"}}
 ---
 
 Session Summaries may include some mistakes. Please be careful :)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-loneliest-dragon/","updated":"2025-08-11T11:53:31.271+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-loneliest-dragon/","updated":"2025-08-11T11:53:31.271+01:00","dg-note-properties":{"priority":"Low","received ":null,"booklocal":"[[Organisation of Free Cities (OFC)|OFC]]","tags":null,"icon":"book","update":null}}
 ---
 
 

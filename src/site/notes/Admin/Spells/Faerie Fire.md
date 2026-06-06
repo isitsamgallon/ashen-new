@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/faerie-fire/","hide":true,"updated":"2025-08-11T11:53:30.841+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/faerie-fire/","hide":true,"updated":"2025-08-11T11:53:30.841+01:00","dg-note-properties":{"name":"Faerie Fire","level":1,"school":"Evocation","casting_time":"1 action","Range":"60 feet","duration":"1 minute (concentration)","verbal":true,"somatic":false,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Faerie Fire

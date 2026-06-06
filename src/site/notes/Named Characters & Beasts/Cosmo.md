@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/cosmo/","tags":["NPC"],"updated":"2026-02-20T15:45:14.662+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/cosmo/","tags":["NPC"],"updated":"2026-02-20T15:45:14.662+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Teenage","race":"Vampire","gender":"Male","Status":"Alive","icon":"npc","aliases":null,"role":null,"pronouns":null}}
 ---
 
 ### Overview

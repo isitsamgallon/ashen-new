@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/spiritual-weapon/","hide":true,"updated":"2025-08-11T11:53:31.116+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/spiritual-weapon/","hide":true,"updated":"2025-08-11T11:53:31.116+01:00","dg-note-properties":{"name":"Spiritual Weapon","level":2,"school":"Evocation","casting_time":"1 bonus","Range":"60 feet","duration":"1 minute","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Spiritual Weapon

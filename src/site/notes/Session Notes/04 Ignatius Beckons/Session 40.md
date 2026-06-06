@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-40/","updated":"2025-08-29T22:44:57.917+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-40/","updated":"2025-08-29T22:44:57.917+01:00","dg-note-properties":{"Summary":"Halfbie meets Somnora in a dream, gaining a boon for the party after offering lavender. The group later awakens a dwarven soul in an Automaton who mourns his lost family and offers his future aid.","Part":"Season 4 - Ignatius Beckons","type":"session","sessionNum":39,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"part":"4th Saga - Ignatius Beckons"}}
 ---
 
 # Session Information

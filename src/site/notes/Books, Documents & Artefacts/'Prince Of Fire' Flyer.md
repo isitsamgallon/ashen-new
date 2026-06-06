@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/prince-of-fire-flyer/","updated":"2025-08-11T11:53:31.233+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/prince-of-fire-flyer/","updated":"2025-08-11T11:53:31.233+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"priority":"Low","booklocal":"[[Locations/The Dawn Empire/Dustwood\|Dustwood]]","icon":"book","update":null}}
 ---
 
 ### Overview

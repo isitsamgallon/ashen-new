@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-09-27T12:55:01.319+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-09-27T12:55:01.319+01:00","dg-note-properties":{}}
 ---
 
 

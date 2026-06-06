@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-hunter-s-society/","updated":"2025-12-22T11:53:54.905+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-hunter-s-society/","updated":"2025-12-22T11:53:54.905+00:00","dg-note-properties":{"icon":"group","Nation":null,"town":null}}
 ---
 
 > [!infobox]
 > 
 > # The Hunter's Society
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![ImagePlaceholder.png\|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |

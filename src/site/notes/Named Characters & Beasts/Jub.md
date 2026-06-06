@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jub/","tags":["NPC"],"updated":"2026-02-20T15:45:18.226+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jub/","tags":["NPC"],"updated":"2026-02-20T15:45:18.226+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Jub's Tribe","Status":"Unknown","icon":"npc","age":"Adult","race":"Goblin","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

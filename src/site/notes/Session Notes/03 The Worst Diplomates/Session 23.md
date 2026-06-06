@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-23/","updated":"2025-08-29T22:44:57.295+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-23/","updated":"2025-08-29T22:44:57.295+01:00","dg-note-properties":{"Summary":"The party executed a dangerous midnight raid on Tulan Fort to rescue Emmeline, culminating in Drache's brutal duel with Commander Klyn. Their escape was secured by a shocking betrayal and a fort-wide rebellion, leaving the stronghold in flames as they fled.","type":"session","sessionNum":"23","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

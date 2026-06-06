@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-16/","updated":"2025-08-29T22:44:56.998+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-16/","updated":"2025-08-29T22:44:56.998+01:00","dg-note-properties":{"Summary":"The party freed Empress Obeus Yelris from her gilded cage while Chenris uncovered the disturbing truth about Ebis Daro’s shifting identity. Minds compromised and trust shaken, the group left Ishnmel uneasy about the unseen hand steering their fates.","type":"session","sessionNum":"16","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/detect-thoughts/","hide":true,"updated":"2025-08-11T11:53:29.361+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/detect-thoughts/","hide":true,"updated":"2025-08-11T11:53:29.361+01:00","dg-note-properties":{"name":"Detect Thoughts","level":2,"school":"Divination","casting_time":"1 action","Range":"Self","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a copper piece"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Detect Thoughts

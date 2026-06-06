@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-planar-and-divine-studies/","updated":"2026-01-24T19:31:50.579+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-planar-and-divine-studies/","updated":"2026-01-24T19:31:50.579+00:00","dg-note-properties":{}}
 ---
 
 *Power that comes from beyond the world.*

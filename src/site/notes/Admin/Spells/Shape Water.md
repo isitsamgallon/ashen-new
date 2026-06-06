@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/shape-water/","hide":true,"updated":"2025-08-11T11:53:31.052+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/shape-water/","hide":true,"updated":"2025-08-11T11:53:31.052+01:00","dg-note-properties":{"name":"Shape Water","level":0,"school":"Transmutation","casting_time":"1 action","Range":"30 feet","duration":"Instantaneous, 1 hour","verbal":false,"somatic":true,"material":false,"concentration":false,"source":["Xanathar's Guide to Everything","Elemental Evil Player's Companion","Eberron: Rising from the Last War"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Shape Water

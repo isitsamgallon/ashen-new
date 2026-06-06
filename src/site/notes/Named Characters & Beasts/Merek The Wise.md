@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2026-02-20T15:45:19.400+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/merek-the-wise/","tags":["NPC"],"updated":"2026-02-20T15:45:19.400+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"Steelwick","Status":"Alive","icon":"npc","age":"Adult","race":"Halfling","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

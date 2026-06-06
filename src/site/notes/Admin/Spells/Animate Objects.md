@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/animate-objects/","hide":true,"updated":"2025-08-11T11:53:29.299+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/animate-objects/","hide":true,"updated":"2025-08-11T11:53:29.299+01:00","dg-note-properties":{"name":"Animate Objects","level":5,"school":"Transmutation","casting_time":"1 action","Range":"120 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Animate Objects

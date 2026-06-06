@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-05-25T12:34:49.377+01:00"}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-05-25T12:34:49.377+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"Drow","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor"],"type":"In The Party","class":"Cleric","role":"Party Member"}}
 ---
 
 

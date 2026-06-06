@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-51/","updated":"2025-12-22T13:34:43.749+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-51/","updated":"2025-12-22T13:34:43.749+00:00","dg-note-properties":{"Summary":"The party prepared for a daring assault on the Golden Fort, securing allies, gathering intelligence, and confronting personal demons along the way. By the session’s end, plans were set, tensions eased, and the Fatebreakers stood ready to begin their boldest operation yet.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":51,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information

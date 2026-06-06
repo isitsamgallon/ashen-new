@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/bestow-curse/","hide":true,"updated":"2025-08-11T11:53:29.312+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/bestow-curse/","hide":true,"updated":"2025-08-11T11:53:29.312+01:00","dg-note-properties":{"name":"Bestow Curse","level":3,"school":"Necromancy","casting_time":"1 action","Range":"Touch","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Bestow Curse

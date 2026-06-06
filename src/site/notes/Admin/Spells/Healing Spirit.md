@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/healing-spirit/","hide":true,"updated":"2025-08-11T11:53:30.908+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/healing-spirit/","hide":true,"updated":"2025-08-11T11:53:30.908+01:00","dg-note-properties":{"name":"Healing Spirit","level":2,"school":"Conjuration","casting_time":"1 bonus","Range":"60 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Xanathar's Guide to Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Healing Spirit

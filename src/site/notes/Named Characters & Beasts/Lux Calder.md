@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lux-calder/","tags":["NPC"],"updated":"2026-04-08T16:51:45.520+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lux-calder/","tags":["NPC"],"updated":"2026-04-08T16:51:45.520+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Alive","age":"Unknown","race":"Unknown","gender":"Male","faction":["The Golden Fleet"],"aliases":["Lux"],"role":"Commander in The Golden Fleet","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

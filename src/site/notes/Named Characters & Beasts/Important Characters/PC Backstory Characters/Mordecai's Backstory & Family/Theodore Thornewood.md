@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2026-04-08T16:55:30.816+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/theodore-thornewood/","tags":["Important","NPC"],"updated":"2026-04-08T16:55:30.816+01:00","dg-note-properties":{"tags":["Important","NPC"],"Nation":"Uvam Dynasty","town":"Yokotori","aliases":["Theodore"],"faction":"Fruit Cutters","race":"Tiefling","age":"Young Adult","gender":"Male","icon":"npc","role":null,"pronouns":null}}
 ---
 
 >[!infobox]

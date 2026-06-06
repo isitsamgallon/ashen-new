@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-red-beard/","tags":["NPC"],"updated":"2026-02-20T15:45:14.489+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-red-beard/","tags":["NPC"],"updated":"2026-02-20T15:45:14.489+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fleet","town":"Snowport","Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":["The Golden Fleet"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

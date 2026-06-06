@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-12-22T12:04:41.982+00:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bit/","tags":["NPC"],"updated":"2025-12-22T12:04:41.982+00:00","dg-note-properties":{"Nation":"Itone","town":"Uti's Cave","type":"Other","tags":["NPC"],"role":"Companion","class":"None","icon":"npc","race":null}}
 ---
 
 > [!infobox]
 > 
 > # Bits
-> ![7a9eed1505ff22c614783a731a8bdecc.jpg|cover small](/img/user/Admin/Attachments/7a9eed1505ff22c614783a731a8bdecc.jpg)
+> ![7a9eed1505ff22c614783a731a8bdecc.jpg\|cover small](/img/user/Admin/Attachments/7a9eed1505ff22c614783a731a8bdecc.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |

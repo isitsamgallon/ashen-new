@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.882+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.882+00:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Nation":"Uvam Dynasty","town":"Yokotori","Status":"Dead","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 >[!infobox]

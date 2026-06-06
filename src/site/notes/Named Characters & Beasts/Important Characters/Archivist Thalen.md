@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2026-02-20T15:45:16.376+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/archivist-thalen/","tags":["NPC"],"updated":"2026-02-20T15:45:16.376+00:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":"Dead","age":"Adult","race":"Human","gender":"Male","faction":["Strixhaven"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 > [!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-10/","updated":"2025-08-30T10:53:26.685+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-10/","updated":"2025-08-30T10:53:26.685+01:00","dg-note-properties":{"Summary":null,"type":"session","sessionNum":"10","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 

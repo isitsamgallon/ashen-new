@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.914+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.914+01:00","dg-note-properties":{"Summary":"The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.","Part":"Season 4 - Ignatius Beckons","type":"session","sessionNum":39,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"tags":["LevelUp"],"part":"4th Saga - Ignatius Beckons"}}
 ---
 
 # Session Information

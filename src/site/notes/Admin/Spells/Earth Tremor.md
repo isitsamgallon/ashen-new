@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/earth-tremor/","hide":true,"updated":"2025-08-11T11:53:29.372+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/earth-tremor/","hide":true,"updated":"2025-08-11T11:53:29.372+01:00","dg-note-properties":{"name":"Earth Tremor","level":1,"school":"Evocation","casting_time":"1 action","Range":"10 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Xanathar's Guide to Everything","Elemental Evil Player's Companion"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Earth Tremor

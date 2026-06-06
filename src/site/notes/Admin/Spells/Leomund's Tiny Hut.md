@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/leomund-s-tiny-hut/","hide":true,"updated":"2026-01-22T17:31:50.710+00:00"}
+{"dg-publish":true,"permalink":"/admin/spells/leomund-s-tiny-hut/","hide":true,"updated":"2026-01-22T17:31:50.710+00:00","dg-note-properties":{"name":"Leomund's Tiny Hut","level":3,"school":"Evocation","casting_time":"1 minute","Range":"Varies","duration":"8 hour","verbal":true,"somatic":true,"material":true,"Components":["a small crystal bead"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)","aliases":["Tiny Hut","hut"]}}
 ---
 
 # Leomund's Tiny Hut

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-29/","updated":"2025-09-27T12:55:01.521+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-29/","updated":"2025-09-27T12:55:01.521+01:00","dg-note-properties":{"Summary":"The party uncovered secrets about a fiery cult, Halfbie’s eerie connection to Chenris, and the true roles of gods like Eldros. Conflicts over trust and desperation for answers brought tensions but also cryptic wisdom for the journey ahead.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":29,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 16th Jan 2025 

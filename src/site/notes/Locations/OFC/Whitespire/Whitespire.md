@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/whitespire/whitespire/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.875+01:00"}
+{"dg-publish":true,"permalink":"/locations/ofc/whitespire/whitespire/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.875+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Large Town"}}
 ---
 
 ### Overview

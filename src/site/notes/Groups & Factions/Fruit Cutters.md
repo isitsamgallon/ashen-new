@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/fruit-cutters/","tags":["Groups"],"updated":"2025-08-11T11:53:31.525+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/fruit-cutters/","tags":["Groups"],"updated":"2025-08-11T11:53:31.525+01:00","dg-note-properties":{"tags":["Groups"],"icon":"group","Nation":"Uvam Dynasty","town":"Uvam Dynasty","update ":null}}
 ---
 
 > [!infobox]
 > 
 > # Fruit Cutters
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![ImagePlaceholder.png\|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |

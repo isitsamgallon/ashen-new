@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-34/","updated":"2026-04-21T17:43:18.119+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-34/","updated":"2026-04-21T17:43:18.119+01:00","dg-note-properties":{"Summary":"Aiden endured a series of psychological trials, reliving his past, facing judgment for his crimes, and rejecting an illusion of a better life to reaffirm his loyalty to his companions. Returning to the material plane, he resolved to seek out Shoni Anofora for guidance, only to be reminded by Lorwyn that his redemption was not yet secure.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":34,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 1st Mar 2025 

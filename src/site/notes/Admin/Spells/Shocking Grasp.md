@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/shocking-grasp/","hide":true,"updated":"2025-08-11T11:53:31.060+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/shocking-grasp/","hide":true,"updated":"2025-08-11T11:53:31.060+01:00","dg-note-properties":{"name":"Shocking Grasp","level":0,"school":"Evocation","casting_time":"1 action","Range":"Touch","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Shocking Grasp

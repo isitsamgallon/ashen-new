@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-greater-demon/","hide":true,"updated":"2025-08-11T11:53:31.182+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-greater-demon/","hide":true,"updated":"2025-08-11T11:53:31.182+01:00","dg-note-properties":{"name":"Summon Greater Demon","level":4,"school":"Conjuration","casting_time":"1 action","Range":"60 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a vial of blood from a humanoid killed within the past 24 hours"],"concentration":true,"source":["Xanathar's Guide to Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Greater Demon

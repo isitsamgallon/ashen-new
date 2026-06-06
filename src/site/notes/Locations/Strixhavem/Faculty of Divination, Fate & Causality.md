@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-divination-fate-and-causality/","updated":"2026-01-24T19:31:50.226+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-divination-fate-and-causality/","updated":"2026-01-24T19:31:50.226+00:00","dg-note-properties":{}}
 ---
 
 *Knowing before acting.*

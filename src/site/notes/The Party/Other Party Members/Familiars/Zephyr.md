@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-08-29T22:44:58.251+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/zephyr/","updated":"2025-08-29T22:44:58.251+01:00","dg-note-properties":{"Nickname":null,"icon":"npc","race":null}}
 ---
 
  > [!infobox]
 > 
 > # Zephyr
-> ![ZephyrPP.png|cover hsmall](/img/user/Admin/Attachments/ZephyrPP.png)
+> ![ZephyrPP.png\|cover hsmall](/img/user/Admin/Attachments/ZephyrPP.png)
 > ###### Basic Information
 > 
 >  Type | Stat |

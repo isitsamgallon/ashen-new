@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-21/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.218+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-21/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.218+01:00","dg-note-properties":{"Summary":"The party endured unsettling encounters with both Chronovorus’ priest and Aeloria’s influence before pushing into the cursed Pyramid. Inside, they braved deadly curses, puzzles, and swarms of mummies, realising the true scale of the threat awaiting within.","type":"session","sessionNum":"21","part":"3rd Saga - The Worst Diplomates","icon":"session","tags":["LevelUp"]}}
 ---
 
 

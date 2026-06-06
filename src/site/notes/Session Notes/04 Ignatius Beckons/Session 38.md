@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-38/","updated":"2025-09-27T12:55:01.614+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-38/","updated":"2025-09-27T12:55:01.614+01:00","dg-note-properties":{"Summary":"Halfbie is possessed by an ancient dead god named Vaelrith and undergoes a disturbing feeding ritual that ends with his surgical extraction from their body. The ritual’s aftermath leaves the Party shaken—and Xekai amused.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 25th May 2025 

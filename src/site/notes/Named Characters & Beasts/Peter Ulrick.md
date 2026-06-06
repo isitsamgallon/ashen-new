@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/peter-ulrick/","tags":["NPC"],"updated":"2026-04-08T20:55:32.673+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/peter-ulrick/","tags":["NPC"],"updated":"2026-04-08T20:55:32.673+01:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":null,"age":null,"race":null,"gender":null,"faction":null,"aliases":null,"role":null,"pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

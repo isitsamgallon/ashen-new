@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/snowport/","tags":["Discovered"],"updated":"2025-12-07T11:02:15.742+00:00"}
+{"dg-publish":true,"permalink":"/locations/snowport/","tags":["Discovered"],"updated":"2025-12-07T11:02:15.742+00:00","dg-note-properties":{"Nation":"Snowport","tags":["Discovered"],"icon":"place"}}
 ---
 
 ### Overview

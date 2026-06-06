@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2026-02-20T15:51:15.668+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/arwen-gryffon/","tags":["NPC","Important"],"updated":"2026-02-20T15:51:15.668+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Uvam Dynasty","town":"Minatota","Status":"Alive","age":"Adult","race":"Half-Elf","gender":"Male","icon":"vip","faction":["N/A"],"aliases":["Arwen"],"role":"Pimp","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

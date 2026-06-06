@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/locate-object/","hide":true,"updated":"2025-08-11T11:53:30.956+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/locate-object/","hide":true,"updated":"2025-08-11T11:53:30.956+01:00","dg-note-properties":{"name":"Locate Object","level":2,"school":"Divination","casting_time":"1 action","Range":"Self","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a forked twig"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Locate Object

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/find-familiar/","hide":true,"updated":"2025-08-11T11:53:30.849+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/find-familiar/","hide":true,"updated":"2025-08-11T11:53:30.849+01:00","dg-note-properties":{"name":"Find Familiar","level":1,"school":"Conjuration","casting_time":"1 hour","Range":"10 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Find Familiar

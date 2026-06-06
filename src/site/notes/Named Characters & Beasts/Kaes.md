@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaes/","tags":["NPC"],"updated":"2026-02-20T15:45:18.088+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kaes/","tags":["NPC"],"updated":"2026-02-20T15:45:18.088+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Emerald Fort","town":"The Emerald Fort","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Emerald Fort"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-silent-shade/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.880+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-silent-shade/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.880+01:00","dg-note-properties":{"city type":"Building","Nation":"The Dawn Empire","icon":"place","tags":["Discovered"]}}
 ---
 
 ### Overview

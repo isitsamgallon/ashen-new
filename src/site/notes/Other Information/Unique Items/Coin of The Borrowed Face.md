@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/coin-of-the-borrowed-face/","tags":["aidenitem"],"updated":"2026-05-16T12:20:20.319+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/coin-of-the-borrowed-face/","tags":["aidenitem"],"updated":"2026-05-16T12:20:20.319+01:00","dg-note-properties":{"tags":["aidenitem"],"itemdesc":"A silver coin with no fixed face. it's image changes depending who is looking at it","slot":"Item","item":"Wondrous Item","rarity":"Rare","require":"No Requirement","charges":"1","properties":["Coin","Magical"],"Recharge":"Regains 1 charge on a Long Rest","value":" 12,000 - 18,000 gp"}}
 ---
 
 **Item (Wondrous Item) | Rare | No Requirement** 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/orrery-compass/","tags":["halfbieitem"],"updated":"2026-05-16T12:24:24.082+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/orrery-compass/","tags":["halfbieitem"],"updated":"2026-05-16T12:24:24.082+01:00","dg-note-properties":{"tags":["halfbieitem"],"itemdesc":"A small mechanical compass filled with tiny rotating brass planets. The compass can be used as a spellcasting focus.","slot":"Item","item":"Wondrous Item","rarity":"Rare","require":"No Requirement","charges":"2","properties":["Compass","Magical"],"Recharge":"Recharges 1 charge when left out under the Moon","value":" 12,000 - 18,000 gp"}}
 ---
 
 **Item (Wondrous Item) | Rare | No Requirement** 

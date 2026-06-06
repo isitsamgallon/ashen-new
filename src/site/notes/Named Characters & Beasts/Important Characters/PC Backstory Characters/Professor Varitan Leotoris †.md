@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.189+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/professor-varitan-leotoris/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.189+00:00","dg-note-properties":{"type":["important"],"Nation":["Strixhaven"],"town":"Strixhaven Residential Area","Status":"Dead","tags":["NPC","Important"],"age":"Adult","race":"Elf","gender":"Male","icon":"vip","faction":["Strixhaven"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

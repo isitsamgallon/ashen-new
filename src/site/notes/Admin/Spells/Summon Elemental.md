@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-elemental/","hide":true,"updated":"2025-08-11T11:53:31.173+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-elemental/","hide":true,"updated":"2025-08-11T11:53:31.173+01:00","dg-note-properties":{"name":"Summon Elemental","level":4,"school":"Conjuration","casting_time":"1 action","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp"],"concentration":true,"source":["Tasha's Cauldron of Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Elemental

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/lightning-bolt/","hide":true,"updated":"2025-08-11T11:53:30.945+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/lightning-bolt/","hide":true,"updated":"2025-08-11T11:53:30.945+01:00","dg-note-properties":{"name":"Lightning Bolt","level":3,"school":"Evocation","casting_time":"1 action","Range":"Varies","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["a bit of fur and a rod of amber, crystal, or glass"],"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Lightning Bolt

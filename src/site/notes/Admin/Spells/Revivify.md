@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/revivify/","hide":true,"updated":"2025-08-11T11:53:31.044+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/revivify/","hide":true,"updated":"2025-08-11T11:53:31.044+01:00","dg-note-properties":{"name":"Revivify","level":3,"school":"Necromancy","casting_time":"1 action","Range":"Touch","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["diamonds worth 300 gp, which the spell consumes"],"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Revivify

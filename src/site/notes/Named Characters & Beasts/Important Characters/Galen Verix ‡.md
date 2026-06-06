@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.253+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/galen-verix/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.253+00:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Nation":"The Dawn Empire","town":"Dawnhaven","Status":"It's Complicated","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":["The Emperor"],"role":null,"pronouns":null}}
 ---
 
 

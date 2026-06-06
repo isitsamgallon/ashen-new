@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-08-16T13:08:41.586+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-08-16T13:08:41.586+01:00","dg-note-properties":{"type":"Travelling","class":"Paladin","role":"Companion","town":"Iron Forge","Nation":"Dwarven Empire","Nickname":null,"icon":"npc","race":"Automaton"}}
 ---
 
 
 > [!infobox]
 > 
 > # Bruce
-> ![Bruce.png|cover hsmall](/img/user/Admin/Attachments/Bruce.png)
+> ![Bruce.png\|cover hsmall](/img/user/Admin/Attachments/Bruce.png)
 > ###### Basic Information
 > 
 >  Type | Stat |

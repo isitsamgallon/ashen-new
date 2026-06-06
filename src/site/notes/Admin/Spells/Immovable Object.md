@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/immovable-object/","hide":true,"updated":"2025-08-11T11:53:30.924+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/immovable-object/","hide":true,"updated":"2025-08-11T11:53:30.924+01:00","dg-note-properties":{"name":"Immovable Object","level":2,"school":"Transmutation","casting_time":"1 action","Range":"Touch","duration":"1 hour","verbal":true,"somatic":true,"material":true,"Components":["gold dust worth at least 25 gp, which the spell consumes"],"concentration":false,"source":["Eberron: Rising from the Last War"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Immovable Object

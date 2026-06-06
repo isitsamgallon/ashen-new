@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.832+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.832+01:00","dg-note-properties":{"Nation":"The Desert","icon":"place","tags":["Discovered"],"city type":"Unknown"}}
 ---
 
 ### Overview  

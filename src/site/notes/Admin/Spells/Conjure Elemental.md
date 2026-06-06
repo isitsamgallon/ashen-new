@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/conjure-elemental/","hide":true,"updated":"2025-08-11T11:53:29.335+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/conjure-elemental/","hide":true,"updated":"2025-08-11T11:53:29.335+01:00","dg-note-properties":{"name":"Conjure Elemental","level":5,"school":"Conjuration","casting_time":"1 minute","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Conjure Elemental

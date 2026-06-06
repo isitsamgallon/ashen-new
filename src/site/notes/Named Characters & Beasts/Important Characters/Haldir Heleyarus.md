@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.122+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.122+00:00","dg-note-properties":{"tags":["NPC","Important"],"type":["important"],"Nation":["Strixhaven"],"town":"Strixhaven Residential Area","Status":"Alive","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":"Strixhaven","aliases":["Haldir"],"role":null,"pronouns":null}}
 ---
 
 

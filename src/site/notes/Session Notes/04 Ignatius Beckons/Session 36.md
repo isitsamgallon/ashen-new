@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-36/","updated":"2025-09-25T18:00:35.012+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-36/","updated":"2025-09-25T18:00:35.012+01:00","dg-note-properties":{"Summary":"Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":36,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 14th Apr 2025

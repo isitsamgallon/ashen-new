@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-09-27T12:55:01.287+01:00"}
+{"dg-publish":true,"permalink":"/other-information/races/elves/","updated":"2025-09-27T12:55:01.287+01:00","dg-note-properties":{}}
 ---
 
 

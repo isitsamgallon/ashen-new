@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-04-08T16:48:39.998+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/veyra-kest/","tags":["NPC"],"updated":"2026-04-08T16:48:39.998+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Alive","age":"Unknown","race":"Unknown","gender":"Male","faction":["The Golden Fleet"],"aliases":["Veyra"],"role":"Commander in The Golden Fleet","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

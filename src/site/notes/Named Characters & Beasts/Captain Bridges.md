@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"updated":"2026-02-20T15:45:14.339+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/captain-bridges/","tags":["NPC"],"updated":"2026-02-20T15:45:14.339+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Silkhorn","Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

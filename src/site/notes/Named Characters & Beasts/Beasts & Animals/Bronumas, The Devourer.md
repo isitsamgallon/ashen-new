@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2026-02-20T15:45:13.973+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2026-02-20T15:45:13.973+00:00","dg-note-properties":{"race":"Demon","aliases":["Bronumas"],"icon":"npc","role":null,"pronouns":null}}
 ---
 
 > [!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/major-image/","hide":true,"updated":"2025-08-11T11:53:30.971+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/major-image/","hide":true,"updated":"2025-08-11T11:53:30.971+01:00","dg-note-properties":{"name":"Major Image","level":3,"school":"Illusion","casting_time":"1 action","Range":"120 feet","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a bit of fleece"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Major Image

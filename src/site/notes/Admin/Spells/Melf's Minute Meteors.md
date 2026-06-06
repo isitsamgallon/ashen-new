@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/melf-s-minute-meteors/","hide":true,"updated":"2025-08-11T11:53:30.981+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/melf-s-minute-meteors/","hide":true,"updated":"2025-08-11T11:53:30.981+01:00","dg-note-properties":{"name":"Melf's Minute Meteors","level":3,"school":"Evocation","casting_time":"1 action","Range":"Self","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["niter, sulfur, and pine tar formed into a bead"],"concentration":true,"source":["Xanathar's Guide to Everything","Elemental Evil Player's Companion"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Melf's Minute Meteors

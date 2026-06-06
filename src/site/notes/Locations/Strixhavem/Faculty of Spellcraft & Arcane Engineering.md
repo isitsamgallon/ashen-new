@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-spellcraft-and-arcane-engineering/","updated":"2026-01-24T19:31:50.608+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-spellcraft-and-arcane-engineering/","updated":"2026-01-24T19:31:50.608+00:00","dg-note-properties":{}}
 ---
 
 *Magic as something you build, optimise, and deploy.*

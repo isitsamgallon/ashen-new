@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mau/","tags":["NPC"],"updated":"2026-02-20T15:45:19.315+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mau/","tags":["NPC"],"updated":"2026-02-20T15:45:19.315+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"Dawnhaven","Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":["Ivory Crest"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

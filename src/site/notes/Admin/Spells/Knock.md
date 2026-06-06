@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/knock/","hide":true,"updated":"2025-08-11T11:53:30.931+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/knock/","hide":true,"updated":"2025-08-11T11:53:30.931+01:00","dg-note-properties":{"name":"Knock","level":2,"school":"Transmutation","casting_time":"1 action","Range":"60 feet","duration":"Instantaneous","verbal":true,"somatic":false,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Knock

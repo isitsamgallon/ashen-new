@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spell-links/","hide":true,"updated":"2025-08-16T13:22:00.472+01:00"}
+{"dg-publish":true,"permalink":"/admin/spell-links/","hide":true,"updated":"2025-08-16T13:22:00.472+01:00","dg-note-properties":{"obsidianUIMode":"preview"}}
 ---
 
 

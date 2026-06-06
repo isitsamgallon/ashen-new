@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/olgrik/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.178+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/olgrik/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.178+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"The Tulan Fort","town":"The Tulan Fort","Status":"Dead","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":["The Tulan Fort"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

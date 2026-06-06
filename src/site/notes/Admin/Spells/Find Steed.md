@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/find-steed/","hide":true,"updated":"2025-08-11T11:53:30.855+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/find-steed/","hide":true,"updated":"2025-08-11T11:53:30.855+01:00","dg-note-properties":{"name":"Find Steed","level":2,"school":"Conjuration","casting_time":"10 minute","Range":"30 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Find Steed

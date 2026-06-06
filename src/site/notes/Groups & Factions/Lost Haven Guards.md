@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/lost-haven-guards/","updated":"2025-08-30T12:59:15.032+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/lost-haven-guards/","updated":"2025-08-30T12:59:15.032+01:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","aliases":[]}}
 ---
 
 > [!infobox]

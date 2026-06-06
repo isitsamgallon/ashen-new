@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-eldritch-curse-of-eldermire-forest/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.269+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-eldritch-curse-of-eldermire-forest/","tags":["Unimportant"],"updated":"2025-08-11T11:53:31.269+01:00","dg-note-properties":{"priority":"Unimportant","received ":null,"booklocal":"[[Wyvern Cave]]","tags":["Unimportant"],"icon":"book","update":null}}
 ---
 
 Chapter 1: The Whispering Woods

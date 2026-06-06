@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/thaumaturgy/","hide":true,"updated":"2025-08-11T11:53:31.199+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/thaumaturgy/","hide":true,"updated":"2025-08-11T11:53:31.199+01:00","dg-note-properties":{"name":"Thaumaturgy","level":0,"school":"Transmutation","casting_time":"1 action","Range":"30 feet","duration":"1 minute","verbal":true,"somatic":false,"material":false,"concentration":false,"source":["Player's Handbook","Dungeons and Dragons: Rick and Morty"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Thaumaturgy

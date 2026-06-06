@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-25T12:52:22.341+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-61/","updated":"2026-05-25T12:52:22.341+01:00","dg-note-properties":{"Summary":"The party defeats Auric, outplays Astra for a huge reward, and Mordecai confronts their past in a fiery turning point that sets up future conflicts.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":61,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

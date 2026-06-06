@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-foundational-arcane-sciences/","updated":"2026-01-24T19:31:50.268+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-foundational-arcane-sciences/","updated":"2026-01-24T19:31:50.268+00:00","dg-note-properties":{}}
 ---
 
 *The mathematical and physical laws underlying all magic.*

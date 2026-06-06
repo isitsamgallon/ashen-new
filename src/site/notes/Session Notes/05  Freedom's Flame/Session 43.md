@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-43/","updated":"2025-08-29T22:44:58.011+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-43/","updated":"2025-08-29T22:44:58.011+01:00","dg-note-properties":{"Summary":"The Party, afflicted by Lung Rot, tangled with the Goblin Mafia to secure treatment, leading to Mordecai’s capture and escape. Halfbie and Mordecai infiltrated the city, uncovering the antimagic field’s source, while Korrigan’s arson distracted the slums, setting the stage for a daring palace heist.","Part":"5th Saga - Freedom's Flame","type":"session","sessionNum":43,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]]"]}}
 ---
 
 Season 5 - Freedom's Flame# Session Information

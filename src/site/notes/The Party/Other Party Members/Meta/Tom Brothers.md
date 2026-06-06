@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/tom-brothers/","tags":["Player"],"updated":"2026-04-08T17:18:02.469+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/tom-brothers/","tags":["Player"],"updated":"2026-04-08T17:18:02.469+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"race":null}}
 ---
 
 > [!infobox]

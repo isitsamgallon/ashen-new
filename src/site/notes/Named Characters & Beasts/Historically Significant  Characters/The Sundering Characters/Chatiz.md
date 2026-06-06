@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/chatiz/","tags":["NPC"],"updated":"2026-02-20T15:45:16.006+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/the-sundering-characters/chatiz/","tags":["NPC"],"updated":"2026-02-20T15:45:16.006+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Desert","town":"Ember Peak","Status":"Alive","icon":"npc","age":"Adult","race":"Goblin","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

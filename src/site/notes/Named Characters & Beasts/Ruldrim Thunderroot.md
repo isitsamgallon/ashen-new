@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2026-02-20T15:45:19.945+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ruldrim-thunderroot/","tags":["NPC"],"updated":"2026-02-20T15:45:19.945+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Dwarven Empire","town":"Old Earthgrog","icon":"npc","Status":"Alive","age":"350","race":"Dwarf","gender":"Male","faction":null,"aliases":["Ruldrim"],"role":null,"pronouns":null}}
 ---
 
 ### Overview

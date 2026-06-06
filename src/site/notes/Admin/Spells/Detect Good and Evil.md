@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/detect-good-and-evil/","hide":true,"updated":"2025-08-11T11:53:29.353+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/detect-good-and-evil/","hide":true,"updated":"2025-08-11T11:53:29.353+01:00","dg-note-properties":{"name":"Detect Evil and Good","level":1,"school":"Divination","casting_time":"1 action","Range":"Self","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Detect Evil and Good

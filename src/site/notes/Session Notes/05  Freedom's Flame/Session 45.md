@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-45/","updated":"2025-08-30T12:59:15.268+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-45/","updated":"2025-08-30T12:59:15.268+01:00","dg-note-properties":{"Summary":"In the streets of Luminara, the reunited party battles Sera’s towering golden mech, shattering its antimagic crystal in a desperate fight. With their magic restored and Sera fallen, they claim a weapon from her remains and storm the palace to finally confront Malachi.","type":"session","sessionNum":45,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 13th Aug 2025 

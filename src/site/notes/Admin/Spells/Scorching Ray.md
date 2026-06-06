@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/scorching-ray/","hide":true,"updated":"2025-08-11T11:53:31.049+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/scorching-ray/","hide":true,"updated":"2025-08-11T11:53:31.049+01:00","dg-note-properties":{"name":"Scorching Ray","level":2,"school":"Evocation","casting_time":"1 action","Range":"120 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Scorching Ray

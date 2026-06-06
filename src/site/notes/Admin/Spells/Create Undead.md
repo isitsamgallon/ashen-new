@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/create-undead/","hide":true,"updated":"2025-08-11T11:53:29.347+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/create-undead/","hide":true,"updated":"2025-08-11T11:53:29.347+01:00","dg-note-properties":{"name":"Create Undead","level":6,"school":"Necromancy","casting_time":"1 minute","Range":"10 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":true,"Components":["one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Create Undead

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-emerald-fort/","updated":"2025-08-11T11:53:31.543+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-emerald-fort/","updated":"2025-08-11T11:53:31.543+01:00","dg-note-properties":{"Nation":"The Forts","icon":"place","aliases":["Emerald Fort"]}}
 ---
 
 > [!infobox]

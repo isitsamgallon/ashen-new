@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-24/","updated":"2025-08-29T22:44:57.301+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-24/","updated":"2025-08-29T22:44:57.301+01:00","dg-note-properties":{"Summary":"Chenris, Mordecai and Korrigan explore further and aim to scout out Dawnhaven. However, along the way, they help a man retrieve his stuff from a which. Dawnhaven has been overrun with dark mages.","type":"session","sessionNum":"24","Nation":"The Dawn Empire, Uvam Dynasty","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

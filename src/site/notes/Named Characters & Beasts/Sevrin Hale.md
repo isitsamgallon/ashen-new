@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/sevrin-hale/","tags":["NPC"],"updated":"2026-04-08T16:52:21.558+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/sevrin-hale/","tags":["NPC"],"updated":"2026-04-08T16:52:21.558+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Unknown","age":"Unknown","race":"Unknown","gender":"Male","faction":["The Golden Fleet"],"aliases":["Sevrin"],"role":"Commander in The Golden Fleet","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

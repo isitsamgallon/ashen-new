@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/","updated":"2025-08-11T11:53:31.283+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/","updated":"2025-08-11T11:53:31.283+01:00","dg-note-properties":{"priority":"High","received ":null,"booklocal":"[[Wyvern Cave]]","tags":null,"icon":"book","update":null}}
 ---
 
 **Preface**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-desert/","tags":["Undiscovered"],"updated":"2025-12-30T10:45:36.358+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-desert/","tags":["Undiscovered"],"updated":"2025-12-30T10:45:36.358+00:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered"],"icon":"place","city type":"Unknown"}}
 ---
 
 > [!infobox]
@@ -17,15 +17,15 @@
 >   | File                                                                               | Discovery Status               |
 > | ---------------------------------------------------------------------------------- | ------------------------------ |
 > | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | <ul><li>Discovered</li></ul>   |
-> | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 ### Overview

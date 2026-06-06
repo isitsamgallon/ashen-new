@@ -1,11 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","tags":["dracheitem"],"updated":"2025-08-11T11:53:32.316+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","tags":["dracheitem"],"updated":"2026-06-06T14:27:27.781+01:00","dg-note-properties":{"tags":["dracheitem"],"itemdesc":"A large black Obsidian greatsword","slot":"Hand","item":"Weapon (greatsword)","rarity":"Rare","require":"No Requirement","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"2d6+5","damagetype":"Slashing"}}
 ---
+
+**Hand (Weapon (greatsword)) | Rare | No Requirement** 
+A large black Obsidian greatsword
+_____________
+------
+
+**Charges**: No charges
+**Properties**: Heavy,Two-Handed
+**Recharge**: N/A
+**Value**:  gp 
+
+----
 
 ### Overview
 A weapon that [[The Party/Wurinn Fuuldrusch\|Drache]] looted from [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]'s corpse in the councillors hall in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]
 
-### Item Description
+### Features
 You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
 Sharper than it looks  

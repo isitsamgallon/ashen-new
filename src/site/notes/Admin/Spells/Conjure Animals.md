@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/conjure-animals/","hide":true,"updated":"2025-08-11T11:53:29.330+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/conjure-animals/","hide":true,"updated":"2025-08-11T11:53:29.330+01:00","dg-note-properties":{"name":"Conjure Animals","level":3,"school":"Conjuration","casting_time":"1 action","Range":"60 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Conjure Animals

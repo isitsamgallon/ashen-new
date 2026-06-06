@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-05/","updated":"2025-08-11T11:53:32.381+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-05/","updated":"2025-08-11T11:53:32.381+01:00","dg-note-properties":{"Summary":"We go to Strixhaven to fix Bruce, learn more about the towers and even learn something about Chenris","type":"session","sessionNum":"05","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 (x::The journey to [[Locations/Strixhavem/Strixhaven\|Strixhaven]] began with trepidation and wonder as [[Other Information/Display Tags/The Party\|the party]] ascended a winding stone staircase carved into the side of a steep cliff. The stairs extended upwards, seemingly into the void, with no visible destination in sight. The researchers accompanying them climbed without hesitation, their confidence reassuring yet unsettling in the surreal landscape. When [[Other Information/Display Tags/The Party\|the party]] reached the top, the world below vanished as if consumed by a misty veil, and before them emerged [[Locations/Strixhavem/Strixhaven\|Strixhaven]], the legendary floating city. Suspended on colossal glowing rocks, the city’s architecture seemed to defy gravity itself, an ethereal marvel held aloft by ancient magic.)

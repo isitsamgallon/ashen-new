@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-01-10T13:51:51.057+00:00"}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-06-04T21:30:14.558+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Sorcerer/Bard","Nation":"Uvam Dynasty","town":"Yokotori","Nickname":["Mord","Twink"],"icon":"party","aliases":["Mord","Mordecai","Paul (In Gregs)","Twink","Dave Healthyton (As a health Inspector)"],"faction":["The Party"],"race":"Tiefling"}}
 ---
 
 
@@ -11,6 +11,7 @@
 >  Type | Stat |
 > :----: | --- |
 > Full Name | Mordecai Reiver Thornewood |
+> Nicknames | Mord,Mordecai,Paul (In Gregs),Twink,Dave Healthyton (As a health Inspector) |
 >  Race | [[Other Information/Races/Tiefling\|Tiefling]] |
 >  Nationality | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]], [[Locations/Uvam Dynasty/Yokotori\|Yokotori]] |
 >  Class | Sorcerer/ Bard |

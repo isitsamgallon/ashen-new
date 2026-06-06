@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-watchers/","updated":"2026-02-20T15:30:21.219+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-watchers/","updated":"2026-02-20T15:30:21.219+00:00","dg-note-properties":{"icon":"group","Nation":"The Desert","town":null,"update ":null}}
 ---
 
 > [!infobox]
 > 
 >  # The Watchers
-> ![ImagePlaceholder.png|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![ImagePlaceholder.png\|cover hsmall](/img/user/Admin/Attachments/ImagePlaceholder.png)
 > ###### Basic Information
 > 
 >  Type | Info |

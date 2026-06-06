@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-59/","updated":"2026-04-25T13:55:12.452+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-59/","updated":"2026-04-25T13:55:12.452+01:00","dg-note-properties":{"Summary":"The party infiltrated a dragon-centric R&D facility, discovering horrific experiments on dragons and a mysterious liquid connected to Drache's past. After a tense confrontation with two reality-warping \"New God\" children guarding captive dragons, the party befriended the kids, rescued a golden dragon egg, and hatched a new one ally named Cas.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":59,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information

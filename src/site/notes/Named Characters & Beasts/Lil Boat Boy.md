@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/lil-boat-boy/","tags":["NPC"],"updated":"2026-02-20T15:45:19.185+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/lil-boat-boy/","tags":["NPC"],"updated":"2026-02-20T15:45:19.185+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Dawn Empire","town":"Baytown","Status":"Alive","icon":"npc","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

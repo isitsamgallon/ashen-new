@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-19/","updated":"2026-02-20T15:20:25.003+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-19/","updated":"2026-02-20T15:20:25.003+00:00","dg-note-properties":{"Summary":":In Silkhorn, Steve Ulan had killed Azel and founded a fervent cult worshipping the party, sending missionaries abroad. Investigating Keith Horrigan’s disappearance in Blackwall, the party uncovered dwarven escape tunnels, hints of wider conspiracies, and a rumoured Crown of True Sight that might protect them from further illusions.","type":"session","sessionNum":"19","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 

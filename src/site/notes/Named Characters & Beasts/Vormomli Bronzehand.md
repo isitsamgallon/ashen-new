@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/vormomli-bronzehand/","tags":["NPC"],"updated":"2026-02-20T15:45:20.512+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/vormomli-bronzehand/","tags":["NPC"],"updated":"2026-02-20T15:45:20.512+00:00","dg-note-properties":{"tags":["NPC"],"type":["important"],"Status":"Alive","icon":"npc","age":"Adult","race":"Dwarf","gender":"Male","faction":["The Tulan Fort"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

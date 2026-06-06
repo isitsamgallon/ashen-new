@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/the-barista-dragon/","tags":["NPC"],"updated":"2026-02-20T15:45:20.229+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/the-barista-dragon/","tags":["NPC"],"updated":"2026-02-20T15:45:20.229+00:00","dg-note-properties":{"tags":["NPC"],"Nation":["Strixhaven"],"town":"Steelwick","icon":"npc","Status":"Alive","age":"Adult","race":"Red Dragon","gender":"Male","faction":["Strixhaven"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

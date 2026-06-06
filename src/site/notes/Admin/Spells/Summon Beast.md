@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/summon-beast/","hide":true,"updated":"2025-08-11T11:53:31.121+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/summon-beast/","hide":true,"updated":"2025-08-11T11:53:31.121+01:00","dg-note-properties":{"name":"Summon Beast","level":2,"school":"Conjuration","casting_time":"1 action","Range":"90 feet","duration":"1 hour (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp"],"concentration":true,"source":["Tasha's Cauldron of Everything"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Summon Beast

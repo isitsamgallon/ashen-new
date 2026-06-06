@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-48/","updated":"2025-12-03T17:37:58.191+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-48/","updated":"2025-12-03T17:37:58.191+00:00","dg-note-properties":{"Summary":"The party uncovered the rebels’ ties to Ehobel and the Ashen Cult, barely surviving an explosion that destroyed their base. In the aftermath, Seifer’s grip on Mordecai grew stronger, fracturing trust within the group as they faced the unsettling truth of divine influence.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":48,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

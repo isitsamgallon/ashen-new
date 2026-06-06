@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/telekinesis/","hide":true,"updated":"2025-08-11T11:53:31.193+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/telekinesis/","hide":true,"updated":"2025-08-11T11:53:31.193+01:00","dg-note-properties":{"name":"Telekinesis","level":5,"school":"Transmutation","casting_time":"1 action","Range":"60 feet","duration":"10 minute (concentration)","verbal":true,"somatic":true,"material":false,"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Telekinesis

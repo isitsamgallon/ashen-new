@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/speak-with-dead/","hide":true,"updated":"2025-08-11T11:53:31.105+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/speak-with-dead/","hide":true,"updated":"2025-08-11T11:53:31.105+01:00","dg-note-properties":{"name":"Speak with Dead","level":3,"school":"Necromancy","casting_time":"1 action","Range":"10 feet","duration":"10 minute","verbal":true,"somatic":true,"material":true,"Components":["burning incense"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Speak with Dead

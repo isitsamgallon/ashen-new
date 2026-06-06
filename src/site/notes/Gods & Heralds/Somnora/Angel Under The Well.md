@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/angel-under-the-well/","updated":"2025-08-11T11:53:31.433+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/angel-under-the-well/","updated":"2025-08-11T11:53:31.433+01:00","dg-note-properties":{"race":"Herald","icon":"god","update ":null}}
 ---
 
 ### Overview

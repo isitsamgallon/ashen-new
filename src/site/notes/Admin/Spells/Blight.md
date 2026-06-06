@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/blight/","hide":true,"updated":"2025-08-11T11:53:29.317+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/blight/","hide":true,"updated":"2025-08-11T11:53:29.317+01:00","dg-note-properties":{"name":"Blight","level":4,"school":"Necromancy","casting_time":"1 action","Range":"30 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Blight

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-08-11T11:53:31.395+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aetherion/terathra/","tags":["TheAshenPantheon"],"updated":"2025-08-11T11:53:31.395+01:00","dg-note-properties":{"tags":["TheAshenPantheon"],"race":"God","icon":"god","update ":null}}
 ---
 
 

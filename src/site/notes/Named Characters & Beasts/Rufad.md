@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/rufad/","tags":["NPC"],"updated":"2026-04-25T13:51:02.656+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/rufad/","tags":["NPC"],"updated":"2026-04-25T13:51:02.656+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","icon":"npc","Status":"Unknown","age":"Unknown","race":"Unknown","gender":"Unknown","faction":["Unknown"],"aliases":null,"role":"Unknown","pronouns":"Unknown"}}
 ---
 
 > [!infobox]

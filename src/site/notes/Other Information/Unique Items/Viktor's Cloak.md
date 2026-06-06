@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/viktor-s-cloak/","tags":["viktoritem"],"updated":"2025-08-31T20:49:43.659+01:00"}
+{"dg-publish":true,"permalink":"/other-information/unique-items/viktor-s-cloak/","tags":["viktoritem"],"updated":"2025-08-31T20:49:43.659+01:00","dg-note-properties":{"tags":["viktoritem"]}}
 ---
 
 ![CarrionShroud.png](/img/user/Admin/Attachments/CarrionShroud.png)

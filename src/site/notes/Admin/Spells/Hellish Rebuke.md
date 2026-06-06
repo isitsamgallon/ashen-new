@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/hellish-rebuke/","hide":true,"updated":"2025-08-11T11:53:30.915+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/hellish-rebuke/","hide":true,"updated":"2025-08-11T11:53:30.915+01:00","dg-note-properties":{"name":"Hellish Rebuke","level":1,"school":"Evocation","casting_time":"1 reaction","Range":"60 feet","duration":"Instantaneous","verbal":true,"somatic":true,"material":false,"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Hellish Rebuke
