@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2025-10-17T21:06:35.024+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2025-10-17T21:06:35.024+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
 ---
 
 > [!infobox]

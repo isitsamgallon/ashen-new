@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/moonbeam/","hide":true,"updated":"2025-08-11T11:53:30.998+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/moonbeam/","hide":true,"updated":"2025-08-11T11:53:30.998+01:00","dg-note-properties":{"name":"Moonbeam","level":2,"school":"Evocation","casting_time":"1 action","Range":"120 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["several seeds of any moonseed plant and a piece of opalescent feldspar"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Moonbeam

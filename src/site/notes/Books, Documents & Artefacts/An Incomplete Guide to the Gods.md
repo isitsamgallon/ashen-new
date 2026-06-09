@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/an-incomplete-guide-to-the-gods/","updated":"2025-08-11T11:53:31.237+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/an-incomplete-guide-to-the-gods/","updated":"2025-08-11T11:53:31.237+01:00","dg-note-properties":{"priority":"Low","received ":null,"booklocal":"[[The Black Tower]]","tags":null,"icon":"book","update":null}}
 ---
 
 A book [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] picked up in [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]'s library that detailed some knowledge about [[The Ashen Pantheon\|The Ashen Pantheon]]. Here are its contents:

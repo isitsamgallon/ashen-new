@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","updated":"2025-08-29T22:44:55.685+01:00"}
+{"dg-publish":true,"permalink":"/history-and-events/the-ancient-pillars/","updated":"2025-08-29T22:44:55.685+01:00","dg-note-properties":{}}
 ---
 
 

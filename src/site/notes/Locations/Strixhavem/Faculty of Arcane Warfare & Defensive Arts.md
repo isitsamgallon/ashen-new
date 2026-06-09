@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-arcane-warfare-and-defensive-arts/","updated":"2026-04-08T21:17:27.235+01:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-arcane-warfare-and-defensive-arts/","updated":"2026-04-08T21:17:27.235+01:00","dg-note-properties":{}}
 ---
 
 *Magic under pressure.*

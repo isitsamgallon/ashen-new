@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2026-04-08T17:21:49.100+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/james-absolom/","updated":"2026-04-08T17:21:49.100+01:00","dg-note-properties":{"Nickname":null,"race":null}}
 ---
 
 > [!infobox]

@@ -10,9 +10,9 @@ Not much is known about the New Gods, however they're an extremely powerful race
 Notably they have strong powers but extremely weak bodies which are apparently very susceptible to disease and illness which is why [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]] and [[Named Characters & Beasts/Important Characters/New God/Myst\|Myst]] were hesitant about leaving their original cave. They were convinced when [[The Party/Viktor Malkovich\|Viktor]] mentioned that [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]] may be able to cure or fix their bodies. 
 
 ### Known New Gods
-- [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
-- [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]]
 - [[Named Characters & Beasts/Important Characters/New God/Myst\|Myst]]
+- [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]]
+- [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
 
 { .block-language-dataview}
 

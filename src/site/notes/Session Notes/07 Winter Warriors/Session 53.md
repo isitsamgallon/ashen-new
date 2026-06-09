@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-53/","updated":"2025-12-22T13:34:25.310+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-53/","updated":"2025-12-22T13:34:25.310+00:00","dg-note-properties":{"Summary":"The party secured Ringo’s guidance and prepared new spells before venturing into the cursed woods, where Halfbie’s confidence was shaken and danger mounted. Their journey was cut short when they were ambushed by undead hunters and a giant, ending the session mid-combat.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":53,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

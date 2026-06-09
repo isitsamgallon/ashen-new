@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/enel-cubus/","tags":["NPC"],"updated":"2026-02-20T15:45:15.469+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/enel-cubus/","tags":["NPC"],"updated":"2026-02-20T15:45:15.469+00:00","dg-note-properties":{"Nation":"The OFC","town":"Blackwall","tags":["NPC"],"Status":"Dead","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

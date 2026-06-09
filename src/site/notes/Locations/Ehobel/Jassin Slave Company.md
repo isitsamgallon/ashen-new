@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/jassin-slave-company/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.700+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/jassin-slave-company/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.700+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Undiscovered"],"icon":"place","city type":"Building"}}
 ---
 
 ### Overview

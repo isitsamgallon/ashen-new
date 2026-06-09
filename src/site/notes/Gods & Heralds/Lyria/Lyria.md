@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-08-11T11:53:31.429+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-08-11T11:53:31.429+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null}}
 ---
 
 > [!infobox]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-05-16T11:13:24.498+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/astra-goldmark/","tags":["NPC"],"updated":"2026-05-16T11:13:24.498+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Female","faction":["The Golden Fleet"],"aliases":["Astra"],"pronouns":"She/ Her","role":"2nd in Command of The Golden Fleet"}}
 ---
 
 >[!infobox]
@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
 
 
 ### Overview

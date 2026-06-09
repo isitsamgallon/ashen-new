@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/shillelagh/","hide":true,"updated":"2025-08-11T11:53:31.058+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/shillelagh/","hide":true,"updated":"2025-08-11T11:53:31.058+01:00","dg-note-properties":{"name":"Shillelagh","level":0,"school":"Transmutation","casting_time":"1 bonus","Range":"Touch","duration":"1 minute","verbal":true,"somatic":true,"material":true,"Components":["mistletoe, a shamrock leaf, and a club or quarterstaff"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Shillelagh

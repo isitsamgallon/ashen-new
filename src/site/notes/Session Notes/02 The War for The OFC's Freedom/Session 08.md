@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-08/","updated":"2025-08-29T22:44:56.848+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-08/","updated":"2025-08-29T22:44:56.848+01:00","dg-note-properties":{"Summary":"We travel to Uvam for the first time the search of Terence Witherfeather. Along the way, we were accused of the murder of Steve's father.","type":"session","sessionNum":"08","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 

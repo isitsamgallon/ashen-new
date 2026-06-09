@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2026-01-10T13:45:04.302+00:00"}
+{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2026-01-10T13:45:04.302+00:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Ranger/Druid","Nation":"The Feywilds","town":"Seelie Court","Nickname":["Korri","Antlers"],"icon":"party","aliases":["Korrigan","Korri","Kal †","Kal","Kal ‡","KA1"],"faction":["The Party"],"race":"Fey","gender":"Male","age":"Adult"}}
 ---
 
 > [!Recite] Similar names

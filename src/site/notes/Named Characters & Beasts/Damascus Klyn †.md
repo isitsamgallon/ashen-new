@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2026-02-20T15:45:14.859+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/damascus-klyn/","tags":["NPC"],"updated":"2026-02-20T15:45:14.859+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Tulan Fort","town":"The Tulan Fort","Status":"Dead","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":["The Tulan Fort"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

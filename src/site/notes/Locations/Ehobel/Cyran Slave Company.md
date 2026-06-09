@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/","tags":["Undiscovered"],"updated":"2025-08-29T22:44:55.696+01:00"}
+{"dg-publish":true,"permalink":"/locations/ehobel/cyran-slave-company/","tags":["Undiscovered"],"updated":"2025-08-29T22:44:55.696+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Undiscovered"],"icon":"place","city type":"Building"}}
 ---
 
 ### Overview

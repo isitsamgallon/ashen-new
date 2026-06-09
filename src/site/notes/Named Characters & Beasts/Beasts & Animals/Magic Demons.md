@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"],"updated":"2026-02-20T15:45:14.089+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/magic-demons/","tags":["NPC"],"updated":"2026-02-20T15:45:14.089+00:00","dg-note-properties":{"tags":["NPC"],"type":"important","Status":"Alive","icon":"npc","age":"Magic","race":"Demon","gender":"Race","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

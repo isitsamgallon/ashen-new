@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2026-04-08T17:20:23.128+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/rowan-hales/","tags":["Player"],"updated":"2026-04-08T17:20:23.128+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"race":null}}
 ---
 
 > [!infobox]

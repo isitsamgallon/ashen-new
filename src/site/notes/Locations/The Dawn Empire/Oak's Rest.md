@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/oak-s-rest/","tags":["Undiscovered"],"updated":"2025-12-30T09:51:03.188+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/oak-s-rest/","tags":["Undiscovered"],"updated":"2025-12-30T09:51:03.188+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Dawn Empire","city type":"Small Town","icon":"place"}}
 ---
 
 ### Overview

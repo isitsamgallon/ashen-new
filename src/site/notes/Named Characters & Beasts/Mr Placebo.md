@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2026-02-20T15:45:19.445+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/mr-placebo/","tags":["NPC"],"updated":"2026-02-20T15:45:19.445+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Blackwall","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["Mage's Guild"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 >[!infobox]

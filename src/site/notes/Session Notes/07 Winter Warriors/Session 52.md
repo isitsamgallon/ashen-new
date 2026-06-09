@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-52/","updated":"2025-12-22T13:34:36.455+00:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-52/","updated":"2025-12-22T13:34:36.455+00:00","dg-note-properties":{"Summary":"The party arrived in remote Snowport, where playful chaos turned quickly to horror and danger—from summoned fish, haunted houses, and treacherous hunters to undead ambushers in the woods. With new threats lurking in the blizzard, their northern journey has only just begun.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":52,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information

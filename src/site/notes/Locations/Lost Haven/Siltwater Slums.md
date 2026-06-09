@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2025-09-27T13:12:04.821+01:00"}
+{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2025-09-27T13:12:04.821+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Large Town","icon":"place","aliases":["The Slums"]}}
 ---
 
 

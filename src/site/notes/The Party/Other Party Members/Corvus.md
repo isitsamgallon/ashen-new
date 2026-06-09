@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2025-08-29T22:44:58.201+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2025-08-29T22:44:58.201+01:00","dg-note-properties":{"type":"Travelling","role":"Companion","class":"Unknown","Nation":"Unknown","Nickname":null,"icon":"npc","race":"Corvum"}}
 ---
 
 
@@ -7,7 +7,7 @@
 > [!infobox]
 > 
 > # Corvus
-> ![corvus.jpg|cover hsmall](/img/user/Admin/Attachments/Corvus.jpg)
+> ![corvus.jpg\|cover hsmall](/img/user/Admin/Attachments/Corvus.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |

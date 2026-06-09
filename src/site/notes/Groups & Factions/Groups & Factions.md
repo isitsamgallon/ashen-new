@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/groups-and-factions/","hideInGraph":true,"updated":"2026-02-20T14:39:32.625+00:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/groups-and-factions/","hideInGraph":true,"updated":"2026-02-20T14:39:32.625+00:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"update ":null}}
 ---
 
 Here is a list of all current known groups and factions within the campaign

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-60/","updated":"2026-05-16T11:17:55.491+01:00"}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-60/","updated":"2026-05-16T11:17:55.491+01:00","dg-note-properties":{"Summary":"The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":60,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information

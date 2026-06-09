@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/mousebert-and-the-emperor-s-folly/","updated":"2025-08-30T10:53:26.231+01:00"}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/mousebert-and-the-emperor-s-folly/","updated":"2025-08-30T10:53:26.231+01:00","dg-note-properties":{"priority":"Low","received ":null,"booklocal":"[[Enelion Town Inn]]","tags":null,"icon":"book","update":null}}
 ---
 
 By [[Kal †\|Kal †]], [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]

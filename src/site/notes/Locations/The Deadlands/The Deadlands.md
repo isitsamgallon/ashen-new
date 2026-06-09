@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:50.910+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:50.910+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place"}}
 ---
 
 > [!infobox]
@@ -16,14 +16,14 @@
 >  ##### Cities & Towns 
 >   | File                                                                    | Discovery Status               |
 > | ----------------------------------------------------------------------- | ------------------------------ |
-> | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | <ul><li>Undiscovered</li></ul> |
-> | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Undiscovered</li></ul> |
 > | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Undiscovered</li></ul> |
+> | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
 > 
 { .block-language-dataview}
 

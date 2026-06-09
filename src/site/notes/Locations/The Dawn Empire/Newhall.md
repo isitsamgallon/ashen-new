@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","tags":["Undiscovered"],"updated":"2025-08-29T22:44:55.864+01:00"}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/newhall/","tags":["Undiscovered"],"updated":"2025-08-29T22:44:55.864+01:00","dg-note-properties":{"city type":"Large Town","Nation":"The Dawn Empire","tags":["Undiscovered"],"icon":"place"}}
 ---
 
 ### Overview

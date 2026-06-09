@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bobs/","updated":"2025-08-29T22:44:58.247+01:00"}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bobs/","updated":"2025-08-29T22:44:58.247+01:00","dg-note-properties":{"icon":"npc","race":null}}
 ---
 
 ### Overview

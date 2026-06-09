@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-08-11T11:53:31.536+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/nomad-families/","updated":"2025-08-11T11:53:31.536+01:00","dg-note-properties":{"icon":"group","Nation":"The Desert","town":null,"update ":null}}
 ---
 
 > [!infobox]
 > 
 ># Nomad Families
-> ![Bedine_and_D'tarig.webp|cover hsmall](/img/user/Admin/Attachments/Bedine_and_D'tarig.webp)
+> ![Bedine_and_D'tarig.webp\|cover hsmall](/img/user/Admin/Attachments/Bedine_and_D'tarig.webp)
 >  ##### Key Members
 >   | File | Gender | Age | Race |
 > | ---- | ------ | --- | ---- |

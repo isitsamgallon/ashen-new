@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/simulacrum/","hide":true,"updated":"2025-08-11T11:53:31.085+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/simulacrum/","hide":true,"updated":"2025-08-11T11:53:31.085+01:00","dg-note-properties":{"name":"Simulacrum","level":7,"school":"Illusion","casting_time":"12 hour","Range":"Touch","duration":"Permanent","verbal":true,"somatic":true,"material":true,"Components":["snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell"],"concentration":false,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Simulacrum

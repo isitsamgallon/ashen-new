@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2025-08-31T20:32:18.267+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2025-08-31T20:32:18.267+01:00","dg-note-properties":{"race":"God","icon":"god","update":null}}
 ---
 
 > [!infobox]

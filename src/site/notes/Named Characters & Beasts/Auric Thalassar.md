@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/auric-thalassar/","tags":["NPC"],"updated":"2026-05-16T11:24:36.760+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/auric-thalassar/","tags":["NPC"],"updated":"2026-05-16T11:24:36.760+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Dead","age":"Ancient","race":"Gold Dragon","gender":"Male","faction":["The Golden Fleet"],"aliases":["Auric Thalassar, High Admiral of the Golden Fleet"],"role":"High Admiral of the Golden Fleet","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]
@@ -24,8 +24,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
 
 
 

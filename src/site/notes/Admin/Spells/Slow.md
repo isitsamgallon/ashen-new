@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/admin/spells/slow/","hide":true,"updated":"2025-08-11T11:53:31.098+01:00"}
+{"dg-publish":true,"permalink":"/admin/spells/slow/","hide":true,"updated":"2025-08-11T11:53:31.098+01:00","dg-note-properties":{"name":"Slow","level":3,"school":"Transmutation","casting_time":"1 action","Range":"120 feet","duration":"1 minute (concentration)","verbal":true,"somatic":true,"material":true,"Components":["a drop of molasses"],"concentration":true,"source":["Player's Handbook"],"ruleset":"D&D 5e (2025)"}}
 ---
 
 # Slow

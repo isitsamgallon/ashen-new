@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-amber-realms/","tags":["Display"],"updated":"2025-12-30T11:08:16.952+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-amber-realms/","tags":["Display"],"updated":"2025-12-30T11:08:16.952+00:00","dg-note-properties":{"tags":["Display"],"icon":"place"}}
 ---
 
 ### Interactive Map

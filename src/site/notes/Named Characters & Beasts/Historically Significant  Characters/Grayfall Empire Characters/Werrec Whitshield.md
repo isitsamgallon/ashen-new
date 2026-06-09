@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/werrec-whitshield/","tags":["NPC"],"updated":"2026-02-20T15:45:15.750+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/werrec-whitshield/","tags":["NPC"],"updated":"2026-02-20T15:45:15.750+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Dwarven Empire","town":"Fort Molden","Status":"Alive","icon":"npc","age":"Adult","race":"Dwarf","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/nightshade-s-crown/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.891+01:00"}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/minatota/nightshade-s-crown/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.891+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town"}}
 ---
 
 ### Overview 

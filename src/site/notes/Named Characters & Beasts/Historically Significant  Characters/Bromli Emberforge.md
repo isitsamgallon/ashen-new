@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/bromli-emberforge/","tags":["NPC"],"updated":"2026-02-20T15:45:15.542+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/bromli-emberforge/","tags":["NPC"],"updated":"2026-02-20T15:45:15.542+00:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":"Dead","age":"Ancient","race":"Dwarf","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

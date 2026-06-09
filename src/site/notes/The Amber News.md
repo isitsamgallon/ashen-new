@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-amber-news/","pinned":true,"updated":"2026-01-14T17:20:10.700+00:00"}
+{"dg-publish":true,"permalink":"/the-amber-news/","pinned":true,"updated":"2026-01-14T17:20:10.700+00:00","dg-note-properties":{}}
 ---
 
 

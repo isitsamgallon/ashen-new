@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall/","tags":["NPC"],"updated":"2026-02-20T15:45:15.795+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/grayfall-empire-characters/durdretrude-grayfall/","tags":["NPC"],"updated":"2026-02-20T15:45:15.795+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Dwarven Empire","Status":"Dead","town":null,"icon":"npc","age":"Adult","race":"Dwarf","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

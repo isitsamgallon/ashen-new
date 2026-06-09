@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/fort-hiegard/","tags":["Undiscovered"],"updated":"2025-12-30T10:31:45.008+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/fort-hiegard/","tags":["Undiscovered"],"updated":"2025-12-30T10:31:45.008+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Forest of Rhen","city type":"Castle","icon":"place"}}
 ---
 
 ### Overview

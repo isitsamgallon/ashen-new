@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/velthis/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.806+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/velthis/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.806+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"The Dawn Empire","town":"Dawnhaven","Status":"Alive","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

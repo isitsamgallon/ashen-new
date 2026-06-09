@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.298+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.298+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Lost Haven","Status":"Unknown","town":"The Slums","age":"Adult","race":"Tiefling","gender":"Female","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

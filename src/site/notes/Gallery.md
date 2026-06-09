@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-04-08T17:22:45.256+01:00"}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-04-08T17:22:45.256+01:00","dg-note-properties":{}}
 ---
 
 > [!grid|masonry]

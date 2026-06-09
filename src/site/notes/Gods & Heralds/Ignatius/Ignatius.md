@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-09-27T12:55:00.713+01:00"}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2025-09-27T12:55:00.713+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
 ---
 
 > [!infobox]

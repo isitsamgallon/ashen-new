@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2026-02-20T15:48:29.466+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/historically-significant-characters/agolin-winterbor/","tags":["NPC"],"updated":"2026-06-06T14:34:50.978+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Blackwall","type":["important"],"Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":["Strixhaven","Mage's Guild"],"aliases":["Agolin","Winterbor"],"role":"Mad Wizard of The Mages Guild","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]
@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 31.md" data-href="Session Notes/04 Ignatius Beckons/Session 31.md" href="Session Notes/04 Ignatius Beckons/Session 31.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 31</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" href="Session Notes/06 Urban Legends/Session 51.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
 
 ### Overview
 Winterbor was the mad wizard that Chenris Tallfellow encountered during [[History & Events/The War for the OFC's Freedom\|the War for the OFC's Freedom]]. He was last seen in one of the basement rooms of the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] [[Groups & Factions/Mage's Guild\|Mage's Guild]]. According to renowned wizards such as [[Named Characters & Beasts/Terence Witherfeather\|Terence Witherfeather]] and Enel Cubus, he was an incredible mage who surpassed many in terms of knowledge and power. Winterbor had a particular interest in weather and weather manipulation; however, at some point, he was driven mad by [[Named Characters & Beasts/Beasts & Animals/Magic Demons\|Magic Demons]].

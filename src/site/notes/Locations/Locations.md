@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-12-30T11:43:19.852+00:00"}
+{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-12-30T11:43:19.852+00:00","dg-note-properties":{}}
 ---
 
 # Overview

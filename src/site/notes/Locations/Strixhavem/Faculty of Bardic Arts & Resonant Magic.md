@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-bardic-arts-and-resonant-magic/","updated":"2026-01-24T19:31:50.141+00:00"}
+{"dg-publish":true,"permalink":"/locations/strixhavem/faculty-of-bardic-arts-and-resonant-magic/","updated":"2026-01-24T19:31:50.141+00:00","dg-note-properties":{}}
 ---
 
 *Magic expressed through sound, story, rhythm, and emotion.*

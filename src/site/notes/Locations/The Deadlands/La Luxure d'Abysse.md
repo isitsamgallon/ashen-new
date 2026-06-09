@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/la-luxure-d-abysse/","tags":["Undiscovered"],"updated":"2025-12-30T10:21:48.750+00:00"}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/la-luxure-d-abysse/","tags":["Undiscovered"],"updated":"2025-12-30T10:21:48.750+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place"}}
 ---
 
 

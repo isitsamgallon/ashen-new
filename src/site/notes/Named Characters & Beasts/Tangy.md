@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/tangy/","tags":["NPC"],"updated":"2026-02-20T15:45:20.398+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/tangy/","tags":["NPC"],"updated":"2026-02-20T15:45:20.398+00:00","dg-note-properties":{"Nation":"The Dawn Empire","town":"The All Father Temple","tags":["NPC"],"Status":"Alive","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/luminara/","updated":"2025-08-30T12:59:15.055+01:00"}
+{"dg-publish":true,"permalink":"/groups-and-factions/luminara/","updated":"2025-08-30T12:59:15.055+01:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","town":null}}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

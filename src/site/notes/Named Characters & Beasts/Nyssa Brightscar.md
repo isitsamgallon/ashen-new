@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/nyssa-brightscar/","tags":["NPC"],"updated":"2026-04-08T16:52:10.688+01:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/nyssa-brightscar/","tags":["NPC"],"updated":"2026-04-08T16:52:10.688+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort","icon":"npc","Status":"Unknown","age":"Unknown","race":"Unknown","gender":"Female","faction":["The Golden Fleet"],"aliases":["Nyssa"],"role":"Commander in The Golden Fleet","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]

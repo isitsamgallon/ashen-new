@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/calathus/","updated":"2026-02-20T15:45:14.355+00:00"}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/calathus/","updated":"2026-02-20T15:45:14.355+00:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"age":"Teenage","race":"Vampire","gender":"Male","Status":"Alive","icon":"npc","aliases":null,"role":null,"pronouns":null}}
 ---
 
 ### Overview
