@@ -17,8 +17,8 @@
 >  ##### Key Members
 >   | File                                                                  | Gender | Age     | Race        |
 > | --------------------------------------------------------------------- | ------ | ------- | ----------- |
-> | [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]     | Male   | Ancient | Gold Dragon |
 > | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]       | Female | Adult   | Human       |
+> | [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]     | Male   | Ancient | Gold Dragon |
 > | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human       |
 > | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown     |
 > | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown     |
