@@ -37,8 +37,8 @@
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
+> - [[Other Information/Unique Items/Multitool\|Multitool]]
 > 
 { .block-language-dataview}
 

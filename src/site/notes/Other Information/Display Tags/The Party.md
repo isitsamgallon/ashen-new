@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-06-28T12:50:38.782+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-06-28T13:32:14.946+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
 ---
 
 ### Player Characters
@@ -18,6 +18,7 @@ views:
       - file.name
       - class
       - Nation
+      - race
     imageFit: contain
     image: note.Cover
   - type: cards
@@ -93,8 +94,8 @@ views:
 | File                                                    | Class             | Role         | Status       | Home Nation     | Home Town       |
 | ------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Ringo\|Ringo]]           | Ranger            | Companion    | In The Party | Snowport        | Snowport        |
-| [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
+| [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
 | [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/Viktor Malkovich\|Viktor Malkovich]]     | Cleric            | Party Member | In The Party | The Deadlands   | Unknown/Unclear |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
