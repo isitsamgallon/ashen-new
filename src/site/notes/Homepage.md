@@ -259,17 +259,17 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
-| [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven.md\|Strixhaven]]                                               | July 31, 2025 |
+| [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                    | July 31, 2025 |
 
 { .block-language-dataview}
 
 
 ### Recently Modified
-- [[Other Information/Display Tags/The Party\|The Party]]
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
-- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
-- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
+- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
+- [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
+- [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]
+- [[Session Notes/08 Gutenous Guardians/Session 64\|Session 64]]
+- [[Session Notes/07 Winter Warriors/Session 57\|Session 57]]
 
 { .block-language-dataview}
 

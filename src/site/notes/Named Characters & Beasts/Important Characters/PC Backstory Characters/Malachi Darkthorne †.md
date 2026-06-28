@@ -24,8 +24,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 45.md" data-href="Session Notes/05  Freedom's Flame/Session 45.md" href="Session Notes/05  Freedom's Flame/Session 45.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 45</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 45.md" data-href="Session Notes/05  Freedom's Flame/Session 45.md" href="Session Notes/05  Freedom's Flame/Session 45.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 45</a></span></span> |
 ### Overview
 Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the primary antagonist of the Freedom's Flame saga. He is an incredibly cruel man with an obsession with all things gold. He is even known for turning people into golden statues who still have the ability to think but not move. 
 
@@ -43,9 +43,9 @@ By far, his most cruel act was taking [[Kal †\|Kal]]'s best friend, Sara, and 
 However, he takes great care of the people of [[Groups & Factions/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
 
 #### Intelligence
-Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhavem/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 
+Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhaven/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 
 
-It is also implied that he is responsible for turning Sara into a cyborg, a feat that would be increasingly difficult for the professors at [[Locations/Strixhavem/Strixhaven\|Strixhaven]]. 
+It is also implied that he is responsible for turning Sara into a cyborg, a feat that would be increasingly difficult for the professors at [[Locations/Strixhaven/Strixhaven\|Strixhaven]]. 
 
 ### Relationships,
 #### Kal/ Korrigan

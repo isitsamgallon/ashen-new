@@ -25,7 +25,7 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 37.md" data-href="Session Notes/04 Ignatius Beckons/Session 37.md" href="Session Notes/04 Ignatius Beckons/Session 37.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 37</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 36.md" data-href="Session Notes/04 Ignatius Beckons/Session 36.md" href="Session Notes/04 Ignatius Beckons/Session 36.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 36</a></span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 39.md" data-href="Session Notes/04 Ignatius Beckons/Session 39.md" href="Session Notes/04 Ignatius Beckons/Session 39.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 39</a></span></span> |
 
 ### Overview
