@@ -1,8 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2025-09-25T18:20:59.200+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-06-28T12:50:38.782+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
 ---
 
 ### Player Characters
+
+```base
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: The Party
+    filters:
+      and:
+        - role == "Party Member"
+        - '!file.name.endsWith("†")'
+    order:
+      - file.name
+      - class
+      - Nation
+    imageFit: contain
+    image: note.Cover
+  - type: cards
+    name: View 2
+
+```
+
+
 <div style="display: flex; flex-wrap: wrap; align-items: left; justify-content: left;">
 	<div style="display: flex; flex-direction: column; justify-content: left; align-items:left;">
 		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/AidenKnightWeb.png?raw=true"/>

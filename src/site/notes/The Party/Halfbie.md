@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-06-04T22:39:57.261+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"]}}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-06-28T12:42:29.060+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"[halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)"}}
 ---
 
 

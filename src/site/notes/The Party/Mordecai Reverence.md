@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-06-04T21:30:14.558+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Sorcerer/Bard","Nation":"Uvam Dynasty","town":"Yokotori","Nickname":["Mord","Twink"],"icon":"party","aliases":["Mord","Mordecai","Paul (In Gregs)","Twink","Dave Healthyton (As a health Inspector)"],"faction":["The Party"],"race":"Tiefling"}}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-06-28T12:45:26.458+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Sorcerer/Bard","Nation":"Uvam Dynasty","town":"Yokotori","Nickname":["Mord","Twink"],"icon":"party","aliases":["Mord","Mordecai","Paul (In Gregs)","Twink","Dave Healthyton (As a health Inspector)"],"faction":["The Party"],"race":"Tiefling","Cover":"[MordProfilePicNEW.jpeg](/img/user/Admin/Attachments/MordProfilePicNEW.jpeg)"}}
 ---
 
 

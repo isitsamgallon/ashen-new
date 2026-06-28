@@ -26,7 +26,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 63.md" data-href="Session Notes/08 Gutenous Guardians/Session 63.md" href="Session Notes/08 Gutenous Guardians/Session 63.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 63</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" href="Session Notes/08 Gutenous Guardians/Session 64.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
 
 
 

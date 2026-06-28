@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","tags":["morditem"],"updated":"2026-05-16T12:37:38.465+01:00","dg-note-properties":{"tags":["morditem"],"itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally.","value":"12,000-18,000 gp"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","tags":["morditem"],"updated":"2026-06-16T18:29:49.657+01:00","dg-note-properties":{"tags":["morditem"],"itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally.","value":"12,000-18,000 gp"}}
 ---
 
 **Ring (Wondrous Item) | Very Rare | Required** 
@@ -41,8 +41,8 @@ _____________
 |      8      |       80%        |      20      |    30    |
 |      9      |       90%        |     22.5     |    35    |
 |     10      |       100%       |      25      |    40    |
+![Screenshot 2026-06-16 at 18-27-59 AnyDice.png](/img/user/Admin/Attachments/Screenshot%202026-06-16%20at%2018-27-59%20AnyDice.png)
 
- 
 ### History & Mentions
 | §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

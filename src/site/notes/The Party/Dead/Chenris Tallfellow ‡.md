@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-05-21T20:50:03.511+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"]}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-06-28T12:48:12.878+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
 ---
 
 >[!Recite]   Note
@@ -44,8 +44,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
 

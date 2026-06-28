@@ -244,8 +244,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------- | ------------- |
 | [[Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers\|The Unbroken Coin - A Tale of Two Brothers]]                                   | High             | [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Sundering - A Historical Account\|The Sundering - A Historical Account]]                                               | High             | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                      | July 31, 2025 |
-| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/08 Gutenous Guardians/Session 64\|Session 64]]
-- [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
-- [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]
-- [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
-- [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
+- [[Other Information/Display Tags/The Party\|The Party]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+- [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]
+- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
+- [[The Party/Mordecai Reverence\|Mordecai Reverence]]
 
 { .block-language-dataview}
 
@@ -288,6 +288,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Tagged as Having Incomplete Or Out-of-Date Information
 | Note                                                                                                                                                       | Date of Tagging    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
 | [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
 | [[Other Information/Races/Drow\|Drow]]                                                                                                                  | May 25, 2026       |
 | [[Named Characters & Beasts/Untitled\|Untitled]]                                                                                                        | May 26, 2026       |
@@ -301,12 +302,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
 | [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]                                                                                            | June 06, 2026      |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]                                                                                          | May 26, 2026       |
 | [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
 | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]                                                                                          | May 26, 2026       |
+| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
+| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
 | [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
 | [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
 | [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
