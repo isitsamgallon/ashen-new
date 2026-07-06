@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2025-08-29T22:44:55.543+01:00","dg-note-properties":{"icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2026-06-28T20:34:28.580+01:00","dg-note-properties":{"icon":"god","update ":null}}
 ---
 
 ### Overview
@@ -7,10 +7,10 @@ There are two main theories on how heralds are made, either they are people who 
 
 It's very unlikely anyone who fought in [[History & Events/The Sundering\|The Sundering]] became a herald because of the following: 
 - These people know the power of Heralds and Gods and how dangerous they are 
-- They wouldn't be chosen by any Gods as they helped build [[Other Information/The Towers\|The Towers]] which weakened all god's abilities
+- They wouldn't be chosen by any Gods as they helped build [[Other Information/The Towers\|Other Information/The Towers]] which weakened all god's abilities
 
 ### Other Information 
-An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
+An excerpt by [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]], Lorehold College, [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
 
 (Recovered from a series of loose pages stitched together with silver wire. Ink blotting increases throughout.)
 

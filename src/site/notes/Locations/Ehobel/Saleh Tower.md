@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.700+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"icon":"place","city type":"Building"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/saleh-tower/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:23:44.605+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered","Tower"],"icon":"place","city type":"Building","TS":"Still Standing","TQ_show_tags":true}}
 ---
 
 ### Overview

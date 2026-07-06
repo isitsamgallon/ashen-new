@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/the-ancient-pillars/","updated":"2025-08-29T22:44:56.745+01:00","dg-note-properties":{"era":null}}
+{"dg-publish":true,"permalink":"/other-information/the-ancient-pillars/","updated":"2026-06-28T20:34:29.968+01:00","dg-note-properties":{"era":null}}
 ---
 
 

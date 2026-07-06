@@ -62,7 +62,7 @@ A great example of this is [[Named Characters & Beasts/Important Characters/Obeu
 
 ### Locations Found
 - [[Locations/Ehobel/Ehobel\|Ehobel]]
-- [[Locations/Strixhavem/Strixhaven\|Strixhaven]]
+- [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
 
 ### Known Elves & Half-Elves 
 - [[Named Characters & Beasts/Folre Enelion IV Esquire\|Folre Enelion IV Esquire]]

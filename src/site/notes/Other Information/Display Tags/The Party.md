@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-06-28T13:32:14.946+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-07-06T19:21:37.914+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
 ---
 
 ### Player Characters
@@ -26,7 +26,7 @@ views:
 
 ```
 
-
+     
 <div style="display: flex; flex-wrap: wrap; align-items: left; justify-content: left;">
 	<div style="display: flex; flex-direction: column; justify-content: left; align-items:left;">
 		<img style="padding: 10px; border-radius: 15px;width:200px;height:200px;" src="https://github.com/isitsamgallon/ashen-new/blob/main/src/site/img/user/Admin/Attachments/AidenKnightWeb.png?raw=true"/>
@@ -94,10 +94,10 @@ views:
 | File                                                    | Class             | Role         | Status       | Home Nation     | Home Town       |
 | ------------------------------------------------------- | ----------------- | ------------ | ------------ | --------------- | --------------- |
 | [[Named Characters & Beasts/Ringo\|Ringo]]           | Ranger            | Companion    | In The Party | Snowport        | Snowport        |
-| [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
 | [[The Party/Aiden Knight\|Aiden Knight]]             | Rogue/Warlock     | Party Member | In The Party | Unknown/Unclear | Unknown/Unclear |
-| [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/Viktor Malkovich\|Viktor Malkovich]]     | Cleric            | Party Member | In The Party | The Deadlands   | Unknown/Unclear |
+| [[The Party/Halfbie\|Halfbie]]                       | Wizard/Artificer  | Party Member | In The Party | Kearlin Atoll   | Paraton         |
+| [[The Party/Mordecai Reverence\|Mordecai Reverence]] | Sorcerer/Bard     | Party Member | In The Party | Uvam Dynasty    | Yokotori        |
 | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]   | Barbarian/Paladin | Party Member | In The Party | The Tulan Fort  | The Tulan Fort  |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2025-08-30T12:59:15.202+01:00","dg-note-properties":{"Summary":" Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.","type":"session","sessionNum":42,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2026-06-28T20:34:31.453+01:00","dg-note-properties":{"Summary":" Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.","type":"session","sessionNum":42,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 19/07/2025
@@ -18,7 +18,7 @@ That night, Korrigan recounts his full history to the others—his upbringing in
 
 (x::Suddenly, he stopped in the middle of the pathway. The colour draining from his face, [[Other Information/Display Tags/The Party\|the Party]] stood in front of what could have once been a well-loved forge. Most of the equipment was missing or likely stolen, and the great furnace that once roared with the passion for all of [[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s ancestors was now filled with gravel and long-hardened cement. Carved into the cement were the words, "Remember who owns you.")
 
-(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s demeanour immediately shifted from astonishment to blind rage and fury. He did not need his  Primal Savagery ability to draw blood from his hands. His rage was enough. They hadn't seen this rage since [[The Party/Dead/Kal The Korrigan †\|Korrigan]] temporarily received all his memories back during their last visit to [[Locations/Strixhavem/Strixhaven\|Strixhaven]] [^1].)
+(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]]'s demeanour immediately shifted from astonishment to blind rage and fury. He did not need his  Primal Savagery ability to draw blood from his hands. His rage was enough. They hadn't seen this rage since [[The Party/Dead/Kal The Korrigan †\|Korrigan]] temporarily received all his memories back during their last visit to [[Locations/Strixhaven/Strixhaven\|Strixhaven]] [^1].)
 
 (x::Up to this point, [[The Party/Dead/Kal The Korrigan †\|Korrigan]] had been careful while manoeuvring through the streets of [[Locations/Lost Haven/Lost Haven\|Lost Haven]]. Still, his care had been thrown away, and he acted on animalistic instinct as he searched through the raiment of his family's forge. When his search yielded nothing, he flew open the doors and rushed in. [[The Party/Halfbie\|Halfbie]] reached out to [[The Party/Dead/Kal The Korrigan †\|Korrigan]] to try calming him down, but it was useless. Not wanting to leave [[The Party/Dead/Kal The Korrigan †\|Korrigan]] alone, [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Halfbie\|Halfbie]] followed suit into the house.)
 
@@ -123,7 +123,7 @@ That night, Korrigan recounts his full history to the others—his upbringing in
 
 (x::The priest refused to engage, stating, "I told you friends, do not speak of this in my presence. I'd rather not be dragged off and whipped for your insolence.")
 
-(x::[[The Party/Halfbie\|Halfbie]] turned to leave. As they reached for the door, they turned to face the priest with an innocent smile and said, "Well, if we've taken down [[Other Information/The Towers\|the towers]] before, i'm sure we can figure out something this time... Toodles!" before leaving, with [[The Party/Mordecai Reverence\|Mordecai]] not far behind him.)
+(x::[[The Party/Halfbie\|Halfbie]] turned to leave. As they reached for the door, they turned to face the priest with an innocent smile and said, "Well, if we've taken down [[Other Information/The Towers\|Other Information/The Towers]] before, i'm sure we can figure out something this time... Toodles!" before leaving, with [[The Party/Mordecai Reverence\|Mordecai]] not far behind him.)
 
 (x::[[The Party/Halfbie\|Halfbie]] left the church, cursing in frustration at the idiot priest as they walked back to their tent. [[The Party/Mordecai Reverence\|Mordecai]] and [[The Party/Dead/Kal The Korrigan †\|Korrigan]] talked about how they could start the next revolution. [[The Party/Mordecai Reverence\|Mordecai]] stated they needed some kind of signal that the rebellion could use to untie, like a qa work song or something similar. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] agreed, saying a work song could be too dangerous, but something they could hum could work.)
 

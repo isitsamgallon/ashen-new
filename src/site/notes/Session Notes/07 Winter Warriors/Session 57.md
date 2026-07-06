@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-04-08T16:42:15.607+01:00","dg-note-properties":{"Summary":"The party woke in Astra Goldmark's home to find Halfbie in rough shape after a chaotic night. They debated whether to proceed with their raid on the Golden Fort, now that their presence was known. Halfbie stressed the importance of dismantling the fort to free the seas and uplift nations. Despite initial concerns from Mordecai and Drache, they agreed the raid could positively impact the political landscape. They acknowledged the inevitability of collateral damage but decided to spare fleeing civilians.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":57,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/07-winter-warriors/session-57/","updated":"2026-06-28T20:34:31.463+01:00","dg-note-properties":{"Summary":"The party woke in Astra Goldmark's home to find Halfbie in rough shape after a chaotic night. They debated whether to proceed with their raid on the Golden Fort, now that their presence was known. Halfbie stressed the importance of dismantling the fort to free the seas and uplift nations. Despite initial concerns from Mordecai and Drache, they agreed the raid could positively impact the political landscape. They acknowledged the inevitability of collateral damage but decided to spare fleeing civilians.","Part":"7th Saga - Winter Warriors","type":"session","sessionNum":57,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[Rowan Hales]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -152,7 +152,7 @@ Halfbie expresses a cold pragmatism regarding the casualties, arguing that most 
 (x::With information in hand, they began walking out of the archive to meet up with [[The Party/Mordecai Reverence\|Mordecai]]. Upon leaving, they were greeted by a flurry of notifications from [[The Party/Mordecai Reverence\|Mordecai]], giving them essentially a play-by-play of what happened while they were gone.)
 
 # Trivia
-- The mention of excess Lava made [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] immediately think its connected to one of [[Other Information/The Towers\|The Towers]].
+- The mention of excess Lava made [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] immediately think its connected to one of [[Other Information/The Towers\|Other Information/The Towers]].
 
 # Footnotes
 [^1]: While [[The Party/Halfbie\|Halfbie]] was nursing their hangover, their voice and tone changed slightly, making them almost sound like [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]].

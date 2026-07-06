@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-64/","updated":"2026-06-16T18:17:25.960+01:00","dg-note-properties":{"Summary":"Halfbie loses their memories and briefly abandons the party, eventually rediscovering the truth through a surreal psychic encounter, while Mordecai uncovers Denola’s killer within Greg’s Bakery. As chaos erupts with a destroyed tower and a dying New God, the party is forced into a brutal decision, sacrificing a child to save countless lives.The session is still being written by Sam.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":64,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-64/","updated":"2026-06-28T20:34:31.567+01:00","dg-note-properties":{"Summary":"Halfbie loses their memories and briefly abandons the party, eventually rediscovering the truth through a surreal psychic encounter, while Mordecai uncovers Denola’s killer within Greg’s Bakery. As chaos erupts with a destroyed tower and a dying New God, the party is forced into a brutal decision, sacrificing a child to save countless lives.The session is still being written by Sam.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":64,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information
@@ -95,7 +95,7 @@ Meanwhile, the rest of the party splits up: Mordecai infiltrates Greg’s Bakery
 
 (x::[[The Party/Viktor Malkovich\|Viktor]] turned to [[The Party/Wurinn Fuuldrusch\|Drache]], as he shouted, more from confuse than rage, "Tell me, what that tentacle in the middle town doing there?!?!") 
 
-(x:: "I thought you said [[Other Information/Display Tags/The Towers\|the towers]] would block the gods?") 
+(x:: "I thought you said [[Locations/The Towers\|the towers]] would block the gods?") 
 
 (x:: "Yes, but i dint expect the young lady to punch the fucking tower down!!" said [[The Party/Viktor Malkovich\|Viktor]], "Now what do we do, walk back to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]?!") 
 

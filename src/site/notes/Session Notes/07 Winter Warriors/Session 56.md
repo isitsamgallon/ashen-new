@@ -115,7 +115,7 @@ Despite Viktor’s hostility, [[Named Characters & Beasts/Astra Goldmark\|Astra]
 	Your sincerly,
 	
 	Sir [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] Tallfellow
-	[[Locations/Strixhavem/Strixhaven\|Strixhaven]] University
+	[[Locations/Strixhaven/Strixhaven\|Strixhaven]] University
 	
 	Msci(hons) Magical Theory
 	Msci(hons) Magical Research

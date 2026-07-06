@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.869+01:00","dg-note-properties":{"city type":"Dwarven Nation","Nation":"The Dawn Empire","icon":"place","tags":["Discovered"]}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:24:35.496+01:00","dg-note-properties":{"city type":"Dwarven Nation","Nation":"The Dawn Empire","icon":"place","tags":["Discovered","Tower"],"TS":"Still Standing","TQ_show_tags":true}}
 ---
 
-Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhavem/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies
+Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhaven/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies
 
 > [!Ancient Dwarven Stronghold Puzzles]
 > The first room has puzzle in it. there a 4 pedestals , each with a coloured gem on it. Further into the room were more pedestals this time with riddles on them.. the riddles are as following:

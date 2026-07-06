@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/lightbearers/","updated":"2025-08-11T11:53:32.215+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null}}
+{"dg-publish":true,"permalink":"/other-information/lightbearers/","updated":"2026-06-28T20:34:29.902+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null}}
 ---
 
 
 ### Overview
-This is the name given by the mysterious wraiths to people who attempt to steal or destroy the crystals found within [[Other Information/The Towers\|The Towers]] and [[Locations/The Realm of Mana\|The Realm of Mana]].
+This is the name given by the mysterious wraiths to people who attempt to steal or destroy the crystals found within [[Other Information/The Towers\|Other Information/The Towers]] and [[Locations/The Realm of Mana\|The Realm of Mana]].

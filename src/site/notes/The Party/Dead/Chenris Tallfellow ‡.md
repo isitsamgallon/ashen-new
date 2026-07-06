@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-06-28T12:48:12.878+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-07-06T19:21:10.991+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
 ---
 
 >[!Recite]   Note
@@ -17,10 +17,10 @@
 >  Nationality | [[Locations/Strixhaven/Strixhaven\|Strixhaven]] |
 >  Class | Cleric/ Artificer |
 >  Subclass | Death Domain/ None Selected |
->  Age | 21 |
+>  Age | 81 |
 >  Alignment | Lawful Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents, [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] (Father Figure) |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] (Father Figure) |
 >  Player | [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
