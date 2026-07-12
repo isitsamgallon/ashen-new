@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-64/","updated":"2026-06-28T20:34:31.567+01:00","dg-note-properties":{"Summary":"Halfbie loses their memories and briefly abandons the party, eventually rediscovering the truth through a surreal psychic encounter, while Mordecai uncovers Denola’s killer within Greg’s Bakery. As chaos erupts with a destroyed tower and a dying New God, the party is forced into a brutal decision, sacrificing a child to save countless lives.The session is still being written by Sam.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":64,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-64/","updated":"2026-07-11T12:26:48.451+01:00","dg-note-properties":{"Summary":"Halfbie loses their memories and briefly abandons the party, eventually rediscovering the truth through a surreal psychic encounter, while Mordecai uncovers Denola’s killer within Greg’s Bakery. As chaos erupts with a destroyed tower and a dying New God, the party is forced into a brutal decision, sacrificing a child to save countless lives.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":64,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information
@@ -8,7 +8,7 @@
 **Attendance**: [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]],[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]],[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]],[[The Party/Other Party Members/Meta/Caleb Hamlet\|Caleb Hamlet]],[[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]]
 
 # Session Summary 
-The session begins with the party discovering Denola brutally murdered, only for Viktor to determine that a precise stab to the head killed her before being mutilated post-mortem. He successfully resurrects her, though she remembers nothing of her killer. During the confusion, Halfbie—already doubting their connection to the group due to missing memories, uses the distraction to escape. Seeking answers, they visit Terence Witherfeather, who investigates their mind and confirms that all memories of the party are completely absent. A chaotic attempt to “fix” this with blunt force fails, but an illusion convinces Halfbie of a false version of their companions. After leaving, Halfbie encounters Agolin Winterbor and Alfred Go Fish, leading to a surreal, drug-fuelled journey into an underwater city of mind flayers. There, a psychic intrusion restores fragments of the truth: Mordecai, Viktor, Drache, and Aidan are their real party. However, they awaken to find themselves robbed and alone, forced to improvise and escape in disguise.
+The session begins with the party discovering Denola brutally murdered, only for Viktor to determine that a precise stab to the head killed her before being mutilated post-mortem. He successfully resurrects her, though she remembers nothing of her killer. During the confusion, Halfbie, already doubting their connection to the group due to missing memories, uses the distraction to escape. Seeking answers, they visit Terence Witherfeather, who investigates their mind and confirms that all memories of the party are completely absent. A chaotic attempt to “fix” this with blunt force fails, but an illusion convinces Halfbie of a false version of their companions. After leaving, Halfbie encounters Agolin Winterbor and Alfred Go Fish, leading to a surreal, drug-fuelled journey into an underwater city of mind flayers. There, a psychic intrusion restores fragments of the truth: Mordecai, Viktor, Drache, and Aidan are their real party. However, they awaken to find themselves robbed and alone, forced to improvise and escape in disguise.
 
 Meanwhile, the rest of the party splits up: Mordecai infiltrates Greg’s Bakery to investigate the prophetic bread tied to Denola’s death, while Viktor and Drache search for Halfbie and tend to the deteriorating Cas, discovering she is dying due to a lack of an immune system. Mordecai uncovers the horrifying truth through Detect Thoughts: Chef Greg murdered Denola, and narrowly escapes when the staff turn hostile. Elsewhere, Viktor and Drache’s attempt to bring Cas near a magic-suppressing tower goes disastrously wrong when Myst, overwhelmed by its influence, destroys the tower entirely, unleashing chaos. The party is suddenly reunited through magical portals and confronted by Haldir, who reveals he is dying and demands one of the New God eggs to sustain himself. Despite moral resistance, Chenris calculates the odds and seizes control, forcing the decision. A child is born from the egg and, in a cold act of logic, Chenris kills it instantly to fulfil the deal. As the body is taken through a portal, the party is left in heavy silence, burdened by the cost of their choice.
 
@@ -219,7 +219,7 @@ Meanwhile, the rest of the party splits up: Mordecai infiltrates Greg’s Bakery
 
 (x:: "Success looks like convincing a party to give me a new body and not having to use force") 
 
-(x:: "Funny how things work out", [[[[Chenris Tallfellow ‡\|[[Chenris Tallfellow ‡]]|[[Chenr\|Chenr]]is Tallfellow ‡|[[The Party/Dead/Chenris Tallfellow ‡\|chenris]]]] said, his words were like ice.) 
+(x:: "Funny how things work out", [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] said, his words were like ice.) 
 
 (x:: "Like being stuck as a little man inside the head of an elf. Now I do believe we are done here, Mr Tallfellow," said [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir]], as he clicked his fingers, stopping the manifesting spell, and [[The Party/Dead/Chenris Tallfellow ‡\|chenris]] disappeared.) 
 
@@ -247,7 +247,7 @@ Meanwhile, the rest of the party splits up: Mordecai infiltrates Greg’s Bakery
 - Maintenance [[Named Characters & Beasts/Greg\|greg]]
 - little [[Named Characters & Beasts/Greg\|greg]] 
 - Gregs hq maryhollow, [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]
-- 16 miles from [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] to foxtail
+- For the purposes of this wiki, the unnamed [[Other Information/Races/New Gods\|New God]] will be called [[Named Characters & Beasts/Jane\|Jane]]
 
 # Footnotes
 

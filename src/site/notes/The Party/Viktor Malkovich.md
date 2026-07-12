@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-06-28T12:46:12.202+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"Drow","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"[ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-07-11T12:06:23.840+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"[ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
 ---
 
 
 > [!infobox]
-> # Viktor Malkovich
+> # Dr Victor Lucius Malkovich
 > ![ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | [[Other Information/Races/Drow\|Drow]]/[[dampir\|dampir]] |
+>  Race | [[Other Information/Races/Dhampir\|Dhampir]] |
 >  Nationality | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >  Class | Cleric |
 >  Subclass | The Grave Domain |

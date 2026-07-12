@@ -25,7 +25,7 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 57.md" data-href="Session Notes/07 Winter Warriors/Session 57.md" href="Session Notes/07 Winter Warriors/Session 57.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 57</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
 
 

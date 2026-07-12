@@ -13,6 +13,7 @@ Notably they have strong powers but extremely weak bodies which are apparently v
 - [[Named Characters & Beasts/Important Characters/New God/Cas\|Cas]]
 - [[Named Characters & Beasts/Important Characters/New God/Myst\|Myst]]
 - [[Named Characters & Beasts/Important Characters/New God/Seer\|Seer]]
+- [[Named Characters & Beasts/Jane\|Jane]]
 
 { .block-language-dataview}
 
