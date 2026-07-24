@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/drow/","updated":"2026-05-25T12:33:03.856+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/races/drow/","updated":"2026-07-24T15:24:16.389+01:00","dg-note-properties":{}}
 ---
 
 
@@ -40,11 +40,11 @@
 >  Based on | [Dark elves](https://en.wikipedia.org/wiki/Svart%C3%A1lfar "wikipedia:Svartálfar") from Norse mythology; [trow](https://en.wikipedia.org/wiki/Trow_\(folklore\) "wikipedia:Trow (folklore)") from Scottish folklore |
 
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
 Drow , also known as dark elves, deep elves, night elves, under-elves, and the Dark Ones among orcs, were a dark-skinned sub-race of elves that predominantly lived in the Underdark They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. 
 
 ### ### Known Drow
+- [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}
-

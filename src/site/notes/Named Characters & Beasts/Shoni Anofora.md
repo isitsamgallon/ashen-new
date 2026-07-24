@@ -1,12 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/shoni-anofora/","tags":["NPC"],"updated":"2026-04-21T17:44:54.055+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Female","aliases":["Shonni","Shoni"],"role":null,"pronouns":null,"a":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/shoni-anofora/","tags":["NPC","Important"],"updated":"2026-07-24T15:48:05.504+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"The Desert","town":"Camp Sophia","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Female","aliases":["Shonni","Shoni"],"role":"Possession Specialist","pronouns":"He/ Him","faction":null}}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
-### Overview
-The possession expert from [[The Party/Aiden Knight\|Aiden Knight]] 's trial in the [[Locations/Feywild/Feywild\|Feywild]] in [[Session Notes/04 Ignatius Beckons/Session 34\|Session 34]]. [[The Party/Aiden Knight\|Aiden Knight]] currently wants to finder to see if she can reverse his possession. 
+> [!infobox]
+> #  Shoni Anofora
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | He/ Him |
+> | Occupation | Possession Specialist |
+> | Race | Human |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | The Desert | 
+> | Residence | Camp Sophia | 
+> | Relationships | [[The Party/Viktor Malkovich\|Viktor Malkovich]] (Husband (Estranged)) |
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
 
-### History & Mentions
+
+
+### Overview
+The possession expert first showing [[The Party/Aiden Knight\|Aiden Knight]] 's trial in the [[Locations/Feywild/Feywild\|Feywild]] in [[Session Notes/04 Ignatius Beckons/Session 34\|Session 34]]. [[The Party/Aiden Knight\|Aiden Knight]] currently wants to finder to see if she can reverse his possession. She was also late revealed to be married to [[The Party/Viktor Malkovich\|Viktor Malkovich]]. She is known for being against the gods much live her husband. 
+
+### Appearances & Mentions
 | §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Session Notes/08 Gutenous Guardians/Session 62\|Session 62]] | "Well i mean the next thing on the list was [[Locations/The Desert/The Desert\|the desert]], wasn't it? We need to see [[Named Characters & Beasts/Shoni Anofora\|Shoni]]" said [[The Party/Mordecai Reverence\|Mordecai]], "Sorry [[The Party/Viktor Malkovich\|Viktor]]"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

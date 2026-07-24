@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2026-06-28T20:34:29.530+01:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Status":"Dead","Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Red Dragon","gender":"Female","icon":"vip","faction":["The Auditors"],"aliases":["Uti","Uti †"],"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/niaross/","tags":["NPC","Important"],"updated":"2026-07-24T15:34:19.642+01:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Status":"Dead","Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Dragon","gender":"Female","icon":"vip","faction":["The Auditors"],"aliases":["Uti","Uti †"],"role":null,"pronouns":null}}
 ---
 
 

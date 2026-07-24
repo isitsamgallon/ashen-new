@@ -4,7 +4,7 @@
 
 
 ### Overview
-Lull was a slave from the [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], he is incredibly energic and notably has a metal arm and leg. He lost is arm and leg as apart of a punishment for taking part in the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]. 
+Lull was a slave from the [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]] in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], he is incredibly energic and notably has a metal arm and leg. He lost is arm and leg as apart of a punishment for taking part in the [[First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]. 
 
 ### Notable Information
 

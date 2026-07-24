@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/kase/","tags":["NPC"],"updated":"2026-07-11T09:44:33.998+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Emerald Fort","town":"Blackwall","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Emerald Fort","Organisation of Free Cities (OFC)"],"aliases":["Kase, Son of Genevieve"],"role":"Head of Defence at the OFC","pronouns":"He/ Him"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/kase/","tags":["NPC"],"updated":"2026-07-24T15:51:05.404+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Emerald Fort","town":"Blackwall","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Emerald Fort","Organisation of Free Cities (OFC)"],"aliases":["Kase, Son of Genevieve"],"role":"Head of Defence at the OFC","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]
@@ -26,13 +26,13 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" href="Session Notes/08 Gutenous Guardians/Session 65.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" href="Session Notes/08 Gutenous Guardians/Session 65.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 66.md" data-href="Session Notes/08 Gutenous Guardians/Session 66.md" href="Session Notes/08 Gutenous Guardians/Session 66.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 66</a></span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 ### Overview
-The new leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] after the death of his mother, [[Named Characters & Beasts/Genevieve †\|Genevieve †]]. He now leads the guards and commands the army [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]. 
+The new leader of [[Groups & Factions/The Emerald Fort\|The Emerald Fort]] after the death of his mother, [[Named Characters & Beasts/Genevieve †\|Genevieve †]]. He now leads the guards and commands the army [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]. He is known for being very noble and heroic and for being a good leader. 
 
 ### Appearances & Mentions
 | §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

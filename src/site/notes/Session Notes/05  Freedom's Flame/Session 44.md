@@ -131,7 +131,7 @@ Meanwhile, Korrigan, Drache, and Aiden were preparing for revolution in the slum
 
 (x::They bring a doctor over. He's a [[Other Information/Races/Human\|Human]] with slicked-back black hair, pale skin, and a pair of spectacles. After a short look, he tells [[The Party/Dead/Kal The Korrigan †\|Korrigan]] to stop whatever is causing his wounds, as it isn't good and rubs an ointment on the injuries. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] explains he has an allergy to iron and had no plans to go back after this.)
 
-(x::"Thank you. That's good information right there. I will stop wearing irons on purpose. Would you be able to go..." He grabs the doctor on the shoulder." Would you be able to go and help the slaves? The miners? Heal them when you can? Um... And we will take some hunters and travel to [[Groups & Factions/Luminara\|Luminara]]." The doctor agrees and goes into [[Locations/Lost Haven/Siltwater Slums\|the slums]] with his medkit.)
+(x::"Thank you. That's good information right there. I will stop wearing irons on purpose. Would you be able to go..." He grabs the doctor on the shoulder." Would you be able to go and help the slaves? The miners? Heal them when you can? Um... And we will take some hunters and travel to [[Locations/Lost Haven/Luminara\|Luminara]]." The doctor agrees and goes into [[Locations/Lost Haven/Siltwater Slums\|the slums]] with his medkit.)
 
 (x::A few hunters stay behind, ready to help. [[Named Characters & Beasts/Tish\|Tish]] catches up, exclaiming that it's very bloody in [[Locations/Lost Haven/Siltwater Slums\|the slums]]. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] points to the doctor, saying that he will help where he can. [[Named Characters & Beasts/Tish\|Tish]] sarcastically replies, "I think it's gonna take a bit more than a doctor to reattach a head!" but thanks him none the less.)
 
@@ -154,6 +154,6 @@ Meanwhile, Korrigan, Drache, and Aiden were preparing for revolution in the slum
 
 (x::You're a better one," stated [[The Party/Wurinn Fuuldrusch\|Drache]] with a smile.)
 
-(x::They approached the gate to [[Groups & Factions/Luminara\|Luminara]]. A large group of [[Groups & Factions/Lost Haven Guards\|guards]] stood in front of it, brandishing weapons with steeled determination. 
+(x::They approached the gate to [[Locations/Lost Haven/Luminara\|Luminara]]. A large group of [[Groups & Factions/Lost Haven Guards\|guards]] stood in front of it, brandishing weapons with steeled determination. 
 
 (x::They kept walking forward, ready to make their message clear: **The [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|king]] would die today.**)

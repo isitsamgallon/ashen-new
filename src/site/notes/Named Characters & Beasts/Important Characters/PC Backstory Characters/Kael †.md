@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2026-02-20T15:45:17.079+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"The Slums","icon":"npc","Status":"Dead","age":"Young Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/kael/","tags":["NPC"],"updated":"2026-07-24T15:53:43.397+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"The Slums","icon":"npc","Status":"Dead","age":"Young Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":"He/ Him"}}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
-[[Kal †\|Kal †]] friend
-
-### Notable Information
-
+[[The Party/Dead/Kal The Korrigan †\|KA1]]'s friend from when he was a slave in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 
 ### History & Mentions
 | §                                                               | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

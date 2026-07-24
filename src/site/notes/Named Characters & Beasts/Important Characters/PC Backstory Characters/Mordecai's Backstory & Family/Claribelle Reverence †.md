@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.882+00:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Nation":"Uvam Dynasty","town":"Yokotori","Status":"Dead","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/claribelle-reverence/","tags":["NPC","Important"],"updated":"2026-07-24T15:52:58.424+01:00","dg-note-properties":{"tags":["NPC","Important"],"type":"important","Nation":"Uvam Dynasty","town":"Yokotori","Status":"Dead","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
 >[!infobox]
@@ -23,9 +23,9 @@
 >  Status  | Dead |
 >  
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
-Not much is known about this woman apart from when [[The Party/Mordecai Reverence\|Mordecai Reverence]] first used his magic, he accidentally cast a fireball and blew up his family home, killing his mother and brother. 
+Not much is known about this woman apart from when [[The Party/Mordecai Reverence\|Mordecai Reverence]] first used his magic, he accidentally cast a [[Admin/Spells/Fireball\|fireball]] and blew up his family home, killing his mother and brother. 
 
 ### Notable Information   
 - She is first mentioned during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] when Mordecai burns his cloak to get rid of [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]].

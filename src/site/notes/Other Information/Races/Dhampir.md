@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/dhampir/","updated":"2026-07-11T10:41:25.324+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/races/dhampir/","updated":"2026-07-24T15:38:25.592+01:00","dg-note-properties":{}}
 ---
 
 
@@ -20,7 +20,7 @@
 >  :----: | --- |
 >  Activity Cycle | Any |
 >  Average Lifespan | A century or more, longer than normal |
->  Diet | Omnivore or human blood; Flesh or raw meat, cerebral spinal fluid, psychic energy, dreams, or life energy |
+>  Diet | Omnivore or [[Other Information/Races/Human\|human]] blood; Flesh or raw meat, cerebral spinal fluid, psychic energy, dreams, or life energy |
 >  Vision | Darkvision |
 >  Homeland | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >
@@ -39,15 +39,9 @@
 
 
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 ### Overview
 Dhampyrs, also known as daywalkers and sometimes dhampirs, were living creatures who had inherited some of the tainted blood of vampires.
-
-### Attitudes & Beliefs
-
-
-### History
-
 
 ### ### Known Dhampir
 - [[The Party/Viktor Malkovich\|Viktor Malkovich]]

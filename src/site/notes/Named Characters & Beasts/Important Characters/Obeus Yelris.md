@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.545+00:00","dg-note-properties":{"type":["Missing"],"role":"Companion","class":"Cleric","tags":["NPC","Important"],"Nation":["Ehobel"],"town":"Ishnmel","Status":"Alive","age":"Adult","race":"Half-Elf","gender":"Female","icon":"vip","faction":null,"aliases":["Obeus"],"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2026-07-24T15:17:00.390+01:00","dg-note-properties":{"type":null,"role":"Companion","class":"Cleric","tags":["NPC","Important"],"Nation":["Ehobel"],"town":"Ishnmel","Status":"Alive","age":"Adult","race":"Half-Elf","gender":"Female","icon":"vip","faction":null,"aliases":["Obeus"],"pronouns":null}}
 ---
 
 > [!infobox]
 > 
 > # Obeus Yelris
-> ![Obeus.png\|cover hsmall](/img/user/Admin/Attachments/Obeus.png)
+> ![Obeus.png](/img/user/Admin/Attachments/Obeus.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -40,10 +40,10 @@
 ### Overview
 Obeus Yelris is the daughter of [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] and [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and the current Empress of [[Locations/Ehobel/Ehobel\|Ehobel]]. She is described in books as being a very kind and understanding ruler and has "grand military plans". In reality, she doesn't leave the palace enough to understand what the current situation of her nation is like. 
 
-When [[Other Information/Display Tags/The Party\|The Party]] first met her, she had been locked up in the inner sanctum and had never been outside, due to her compromised immune system. The Party had come to propose trade agreements and warn her of the Bandits nearby with [[Named Characters & Beasts/Grom\|Grom]]. For the first time being interested in the outside world, she demands that [[Other Information/Display Tags/The Party\|The Party]] break her out and take her on an adventure. She has since travelled to many different nations including the [[History & Events/The War for the OFC's Freedom\|OFC]]. [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]].
+When [[Other Information/Display Tags/The Party\|The Party]] first met her, she had been locked up in the inner sanctum and had never been outside, due to her compromised immune system. [[Other Information/Display Tags/The Party\|The Party]] had come to propose trade agreements and warn her of the Bandits nearby with [[Named Characters & Beasts/Grom\|Grom]]. For the first time being interested in the outside world, she demands that [[Other Information/Display Tags/The Party\|The Party]] break her out and take her on an adventure. She has since travelled to many different nations including the [[History & Events/The War for the OFC's Freedom\|OFC]]. [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] and the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]].
 
 ### Personality
-Obeus is a quiet and thought girl who is often happy just to experience the world with the party. Although she is highly intelligent, she is also quite innocent of a lot of things people take for granted. For example, when the party first broke her out of the palace in [[Session Notes/03 The Worst Diplomates/Session 16\|Session 16]] she had no idea what she would need to pack and just stuffed her bag with as many books, gold and furniture as she could. 
+Obeus is a quiet and thought girl who is often happy just to experience the world with [[Other Information/Display Tags/The Party\|the party]]. Although she is highly intelligent, she is also quite innocent of a lot of things people take for granted. For example, when [[Other Information/Display Tags/The Party\|the party]] first broke her out of the palace in [[Session Notes/03 The Worst Diplomates/Session 16\|Session 16]] she had no idea what she would need to pack and just stuffed her bag with as many books, [[Other Information/Money\|gold]] and furniture as she could. 
 
 She is often quick to tears when people accidentally offend her or when people forget to include her in the counts for plans.
 

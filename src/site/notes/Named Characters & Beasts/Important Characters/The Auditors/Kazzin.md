@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/kazzin/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.579+00:00","dg-note-properties":{"tags":["NPC","Important"],"Status":"Alive","Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Black Dragon","gender":"Male","icon":"vip","faction":["The Auditors"],"aliases":["The Black Dragon","Kazzin"],"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/kazzin/","tags":["NPC","Important"],"updated":"2026-07-24T15:34:24.570+01:00","dg-note-properties":{"tags":["NPC","Important"],"Status":"Alive","Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Dragon","gender":"Male","icon":"vip","faction":["The Auditors"],"aliases":["The Black Dragon","Kazzin"],"role":null,"pronouns":null}}
 ---
 
 

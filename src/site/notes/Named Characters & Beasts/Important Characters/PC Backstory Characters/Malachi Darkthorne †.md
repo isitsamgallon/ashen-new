@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-02-20T15:45:17.172+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"Luminara","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":["Malachi","Malachi Darkthorne"],"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/malachi-darkthorne/","tags":["NPC"],"updated":"2026-07-24T15:48:34.582+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Lost Haven","town":"Luminara","icon":"npc","Status":"Dead","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":["Malachi","Malachi Darkthorne"],"role":null,"pronouns":null}}
 ---
 
 >[!infobox]
@@ -15,7 +15,7 @@
 >  Race | [[Other Information/Races/Human\|Human]] |
 >  Languages | Common | 
 >  Nationality | [[Locations/Lost Haven/Lost Haven\|Lost Haven]] | 
->  Residence | [[Groups & Factions/Luminara\|Luminara]] | 
+>  Residence | [[Locations/Lost Haven/Luminara\|Luminara]] | 
 >  ###### Status
 >   Type | Stat |
 >  :----: | --- |
@@ -24,8 +24,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 45.md" data-href="Session Notes/05  Freedom's Flame/Session 45.md" href="Session Notes/05  Freedom's Flame/Session 45.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 45</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 46.md" data-href="Session Notes/05  Freedom's Flame/Session 46.md" href="Session Notes/05  Freedom's Flame/Session 46.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 46</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 44.md" data-href="Session Notes/05  Freedom's Flame/Session 44.md" href="Session Notes/05  Freedom's Flame/Session 44.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 44</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/05  Freedom's Flame/Session 42.md" data-href="Session Notes/05  Freedom's Flame/Session 42.md" href="Session Notes/05  Freedom's Flame/Session 42.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 42</a></span></span> |
 ### Overview
 Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the primary antagonist of the Freedom's Flame saga. He is an incredibly cruel man with an obsession with all things gold. He is even known for turning people into golden statues who still have the ability to think but not move. 
 
@@ -34,13 +34,13 @@ Malachi is the king of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and the p
 Malachi is a slender man dressed in luxurious attire, including an ornate crown. He possesses a golden arm and has long, dark hair.
 
 #### Personality
-Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Groups & Factions/Luminara\|Luminara]]. 
+Malachi is an incredibly cruel man who takes great joy in hurting people he sees as lesser. To him, salvery in the harshest of conditions, where the slaves, who have often been kidnapped from their homes, is not only acceptable but necessary to maintain the lavish lifestyle of himself and the people of [[Locations/Lost Haven/Luminara\|Luminara]]. 
 
-He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[Kal †\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
+He is known to be ruthlessly killing, maiming and experimenting on the slslaveshat live in the [[Locations/Lost Haven/Siltwater Slums\|siltwater slums]]. This was most evident during the [[First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]], when he personally joined the [[Groups & Factions/Lost Haven Guards\|Lost Haven Guards]] in quelling the rebellion and took great delight in specifically torturing and then brutally killing all of Ka1's friends in fropnt of him before 'killing' [[Kal †\|Kal]] and throwing his body into the ocean. After the revolt, it was also revealed that many of the people who took part in the rebellion were maimed, for example, he ordered that [[Named Characters & Beasts/Lull\|Lull]]'s hand and leg were cut off.
 
 By far, his most cruel act was taking [[Kal †\|Kal]]'s best friend, Sara, and turning her into a monstrous cyborg that also acted as the epicentre of the Antimagic field. The machine would constantly electrocute her and force her mind to think and act in specific ways, keeping her in a state of constant fury. 
 
-However, he takes great care of the people of [[Groups & Factions/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
+However, he takes great care of the people of [[Locations/Lost Haven/Luminara\|Luminara]], seeing them as not just ordinary people but worth protecting and exerting effort to help. This was best shown when he turned them into gold to make them easier to protect when [[Other Information/Display Tags/The Party\|the party]] assaulted the palace. 
 
 #### Intelligence
 Malachi has been shown to have an incredibly keen intelligence. The best example of this was when [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] analysed the process he used to turn [[The Party/Halfbie\|Halfbie]] and [[The Party/Mordecai Reverence\|Mordecai]] into gold. It was revealed that Malachi has used alchemy. This was significant because all though powerful wizards of [[Locations/Strixhaven/Strixhaven\|Strixhaven]] believed it was possible to perform alchemy on living matter, none had been able to do it. 

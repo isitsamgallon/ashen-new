@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/aspect-of-ebis-daro/","tags":["NPC"],"updated":"2026-02-20T15:45:13.732+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","icon":"npc","Status":"Unknown","aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/aspect-of-ebis-daro/","tags":["NPC"],"updated":"2026-07-24T15:22:40.163+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","icon":"npc","Status":"Unknown","aliases":null,"role":null,"pronouns":null}}
 ---
 
+>[!Recite]  Ebis Daro
+> This isn't about a about [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]], instead this talks about the Aspects of Ebis Daro. please go to that note for more information on both characters.
 
 ### Overview
 First encountered in [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] 's office in [[Session Notes/04 Ignatius Beckons/Session 32\|Session 32]]. An Aspect is almost like an magical copy of [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] that he sends to try and kill [[Other Information/Display Tags/The Party\|The Party]]. Due to it being a magical construct, killing it does not kill [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] and it also as the ability to shapeshift into other forms when it is damaged too much. 

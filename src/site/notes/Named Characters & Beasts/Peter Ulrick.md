@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/peter-ulrick/","tags":["NPC"],"updated":"2026-04-08T20:55:32.673+01:00","dg-note-properties":{"tags":["NPC"],"Nation":null,"town":null,"icon":"npc","Status":null,"age":null,"race":null,"gender":null,"faction":null,"aliases":null,"role":null,"pronouns":"He/ Him"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/peter-ulrick/","tags":["NPC"],"updated":"2026-07-24T15:41:34.682+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Golden Fort","town":"The Golden Fort Residential Area","icon":"npc","Status":"Alive","age":"Adult","race":"Dwarf","gender":"Male","faction":["The Golden Fleet"],"aliases":null,"role":"Engineer","pronouns":"He/ Him"}}
 ---
 
 > [!infobox]
@@ -10,42 +10,26 @@
 > | :----: | --- |
 > | Type  | NPC |
 > | Pronouns | He/ Him |
-> | Occupation | `=this.role` |
-> | Associated Groups | `=this.faction` |
-> | Race | `=this.race` |
-> | Age | `=this.age` |
+> | Occupation | Engineer |
+> | Associated Groups | The Golden Fleet |
+> | Race | Dwarf |
+> | Age | Adult |
 > | Languages | Common | 
-> | Nationality | `=this.Nation` | 
-> | Residence | `=this.town` | 
+> | Nationality | The Golden Fort | 
+> | Residence | The Golden Fort Residential Area | 
 > ###### Status
 > | Type | Stat |
 > | :----: | --- |
-> | Status  | `=this.status` |
+> | Status  | Alive |
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 58.md" data-href="Session Notes/07 Winter Warriors/Session 58.md" href="Session Notes/07 Winter Warriors/Session 58.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 58</a></span></span> |
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 
 ### Overview
-The fat engineer who was rude 
-
-### Description
-#### Appearance
-
-
-#### Personality
-
-
-### Relationships
-#### 
-
-#### 
-
-### History
-
+The fat engineer who was rude to [[The Party/Mordecai Reverence\|Mordecai]] in the [[Locations/Golden Fort\|Golden Fort]]
 
 ### Appearances & Mentions
 | §                                                              | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]]
-- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
-- [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
-- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
-- [[Session Notes/08 Gutenous Guardians/Session 65\|Session 65]]
+- [[Named Characters & Beasts/Jane\|Jane]]
+- [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]
+- [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]
 
 { .block-language-dataview}
 
@@ -286,32 +286,13 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                                                                                                       | Date of Tagging    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Other Information/Races/Dhampir\|Dhampir]]                                                                                                            | July 11, 2026      |
-| [[Other Information/Races/Drow\|Drow]]                                                                                                                  | May 25, 2026       |
-| [[Other Information/Races/Dragons\|Dragons]]                                                                                                            | April 25, 2026     |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]                                                                                            | April 21, 2026     |
-| [[Named Characters & Beasts/Untitled\|Untitled]]                                                                                                        | May 26, 2026       |
-| [[Named Characters & Beasts/Shoni Anofora\|Shoni Anofora]]                                                                                              | April 21, 2026     |
-| [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]                                                                                                | April 08, 2026     |
-| [[Named Characters & Beasts/Kase\|Kase]]                                                                                                                | July 11, 2026      |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                                                               | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                                                                 | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | July 24, 2026      |
-| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]                                                                                            | June 06, 2026      |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                                                                                                        | July 11, 2026      |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]                                                                                          | May 26, 2026       |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                                                                                                             | September 27, 2025 |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]                                                                                           | September 27, 2025 |
-| [[History & Events/Lost Haven Slave Revolt\|Lost Haven Slave Revolt]]                                                                                   | August 19, 2025    |
-| [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]]                                                                       | August 11, 2025    |
-| [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]                                                                                                | February 20, 2026  |
-| [[Groups & Factions/Luminara\|Luminara]]                                                                                                                | August 30, 2025    |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]                                                                                             | September 27, 2025 |
+| Note                                                              | Date of Tagging    |
+| ----------------------------------------------------------------- | ------------------ |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]   | April 21, 2026     |
+| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]   | June 06, 2026      |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]] | May 26, 2026       |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]               | July 11, 2026      |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]    | September 27, 2025 |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

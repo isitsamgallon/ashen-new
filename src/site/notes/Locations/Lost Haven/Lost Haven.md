@@ -19,8 +19,8 @@
 >   | File                                                               | Discovery Status                           |
 > | ------------------------------------------------------------------ | ------------------------------------------ |
 > | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul>               |
-> | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul>               |
 > | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li><li>Tower</li></ul> |
+> | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul>               |
 > | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul>               |
 > | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul>               |
 > 
@@ -51,17 +51,17 @@ Due to [[Locations/Ehobel/Ehobel\|Ehobel]]'s relation with slavery and other int
 KA1, better known now as [[The Party/Dead/Kal The Korrigan †\|Kal]] (or [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]), survived the attack and later returned with [[Other Information/Display Tags/The Party\|The Party]] to free all of the slaves and to destroy Lost Haven's Tower.
 
 ### NPCs From The Lost Haven
-| File                                                                                                                     | Home Town        | Status  |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------- |
-| [[Named Characters & Beasts/Tish\|Tish]]                                                                              | The Slums        | Dead    |
-| [[Named Characters & Beasts/Misty\|Misty]]                                                                            | The Slums        | Alive   |
-| [[Named Characters & Beasts/Lull\|Lull]]                                                                              | The Slums        | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Unknown |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                               | The Slums        | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Alive   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead    |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead    |
+| File                                                                                                                     | Home Town        | Status |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------ |
+| [[Named Characters & Beasts/Misty\|Misty]]                                                                            | The Slums        | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                               | The Slums        | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead   |
+| [[Named Characters & Beasts/Lull\|Lull]]                                                                              | The Slums        | Alive  |
+| [[Named Characters & Beasts/Tish\|Tish]]                                                                              | The Slums        | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Dead   |
 
 { .block-language-dataview}
 

@@ -51,6 +51,7 @@ No much is known about how the dwarves acted or what they believed in.
 - [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Dhuggith Broadcloak †\|Dhuggith Broadcloak †]]
 - [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall †\|Durdretrude Grayfall †]]
 - [[Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield\|Werrec Whitshield]]
+- [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]
 - [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim Thunderroot]]
 - [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]
 

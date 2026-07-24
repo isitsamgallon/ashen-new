@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2025-09-27T13:12:25.480+01:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","town":null,"tags":["Discovered"]}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2026-07-24T15:50:34.631+01:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","town":null,"tags":["Discovered"]}}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 > [!infobox]
 > 
 > # Luminara
@@ -19,21 +18,9 @@
 > Population | INFORMATION NEEDED |
 > Groups | INFORMATION NEEDED |
 
+
 ### Overview
-
-### Society
-#### Leadership
-
-#### Demographics
-
-#### Notable Residents
-| File                                                                                                                     | Home Town | Status |
-| ------------------------------------------------------------------------------------------------------------------------ | --------- | ------ |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara  | Alive  |
-
-{ .block-language-dataview}
-
-### Other Information
+The area where many of the rich nobles lived in [[Locations/Lost Haven/Lost Haven\|Lost Haven]] before the slave revolt lead by [[Other Information/Display Tags/The Party\|The Party]] demolished the salve trade in the city. 
 
 ### History & Mentions
 | §                                                               | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

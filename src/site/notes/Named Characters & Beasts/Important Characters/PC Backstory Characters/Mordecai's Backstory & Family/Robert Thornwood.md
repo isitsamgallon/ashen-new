@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2026-05-16T12:40:07.301+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Uvam Dynasty","town":"Yokotori","aliases":["Robert","Mr Thornwood"],"race":"Tiefling","age":"Adult","gender":"Male","Status":"Dead","icon":"npc","role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/mordecai-s-backstory-and-family/robert-thornwood/","tags":["NPC","Important"],"updated":"2026-07-24T15:11:06.549+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Uvam Dynasty","town":"Yokotori","aliases":["Robert","Mr Thornwood"],"race":"Tiefling","age":"Adult","gender":"Male","Status":"Dead","icon":"npc","role":null,"pronouns":null}}
 ---
 
 >[!infobox]
@@ -27,6 +27,8 @@
 > | :----: | --- |
 > | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
 > | Last Scene |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
+
+
 ### Overview
 Robert is [[The Party/Mordecai Reverence\|Mordecai]]'s biological father and was the main reason [[The Party/Mordecai Reverence\|Mordecai]] was unable and fearful about returning to the [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]. Since his defeat in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]], he has taken up residence in the OFC after being kicked out of the [[Groups & Factions/Fruit Cutters\|Fruit Cutters]].
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2026-02-20T13:57:22.224+00:00","dg-note-properties":{"tags":"Groups","icon":"group","aliases":null,"hq":"The Golden Fort","alignment":"Lawful Evil","founder":"Captain Red Beard","leader":"Captain Red Beard","influence":"Global"}}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-golden-fleet/","tags":["Groups"],"updated":"2026-07-24T15:54:53.128+01:00","dg-note-properties":{"tags":"Groups","icon":"group","aliases":null,"hq":"The Golden Fort","alignment":"Lawful Evil","founder":"Captain Red Beard","leader":"Captain Red Beard","influence":"Global"}}
 ---
 
 > [!infobox]
@@ -17,12 +17,13 @@
 >  ##### Key Members
 >   | File                                                                  | Gender | Age     | Race        |
 > | --------------------------------------------------------------------- | ------ | ------- | ----------- |
-> | [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]     | Male   | Ancient | Gold Dragon |
 > | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]       | Female | Adult   | Human       |
+> | [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]     | Male   | Ancient | Gold Dragon |
 > | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human       |
 > | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown     |
 > | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown     |
 > | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]   | Female | Unknown | Unknown     |
+> | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]           | Male   | Adult   | Dwarf       |
 > | [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]       | Male   | Adult   | Human       |
 > | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown     |
 > | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]             | Male   | Unknown | Unknown     |
@@ -30,7 +31,7 @@
 > 
 { .block-language-dataview}
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
+
 
 ### Overview
 A fleet of pirates, a very old fleet that owns immeasurable riches. They control the seas and especially the area around [[Locations/Snowport\|Snowport]]. The captain of the fleet is known as [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]].

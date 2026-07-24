@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/jane/","tags":["NPC"],"updated":"2026-07-11T10:08:20.143+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Blackwall","icon":"npc","Status":"Dead","age":"Child","race":"New Gods","gender":"Female","faction":["The Party","Strixhaven"],"aliases":null,"role":"Sacrifice for Haldir Heleyarus","pronouns":"She/ Her"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/jane/","tags":["NPC"],"updated":"2026-07-24T15:55:33.487+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"OFC","town":"Blackwall","icon":"npc","Status":"Dead","age":"Child","race":"New Gods","gender":"Female","faction":["The Party","Strixhaven"],"aliases":null,"role":"Sacrifice for Haldir Heleyarus","pronouns":"She/ Her"}}
 ---
 
 > [!infobox]
@@ -26,6 +26,7 @@
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" href="Session Notes/08 Gutenous Guardians/Session 64.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
+
 
 
 ### Overview

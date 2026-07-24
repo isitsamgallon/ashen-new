@@ -121,4 +121,4 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 - This is was [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s [[Gods & Heralds/Herald\|Herald]] form looks like: ![The korrigan Herald.png](/img/user/Admin/Attachments/The%20korrigan%20Herald.png)
 
 # Footnotes
-[^1]: The symbol is am mixture of Kerrigan's antlers and the mouse that appeared in a book he co-authored before the [[History & Events/First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]] called [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
+[^1]: The symbol is am mixture of Kerrigan's antlers and the mouse that appeared in a book he co-authored before the [[First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]] called [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]

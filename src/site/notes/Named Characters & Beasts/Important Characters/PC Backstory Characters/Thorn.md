@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.352+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Lost Haven","type":"important","Status":"Alive","town":"The Slums","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/thorn/","tags":["NPC","Important"],"updated":"2026-07-24T15:51:15.198+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Lost Haven","type":"important","Status":"Alive","town":"The Slums","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
 Seemingly someone [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] used to know in [[Locations/Lost Haven/Lost Haven\|Lost Haven]], credited as an author of [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
 

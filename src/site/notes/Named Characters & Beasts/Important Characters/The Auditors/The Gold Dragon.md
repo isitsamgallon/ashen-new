@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-gold-dragon/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.682+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Gold Dragon","gender":"Male","icon":"vip","faction":["The Auditors"],"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/the-auditors/the-gold-dragon/","tags":["NPC","Important"],"updated":"2026-07-24T15:34:10.734+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Dragon","gender":"Male","icon":"vip","faction":["The Auditors"],"aliases":null,"role":null,"pronouns":null}}
 ---
 
 

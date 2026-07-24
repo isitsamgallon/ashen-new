@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:17.298+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Lost Haven","Status":"Unknown","town":"The Slums","age":"Adult","race":"Tiefling","gender":"Female","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sera/","tags":["NPC","Important"],"updated":"2026-07-24T15:52:31.999+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Lost Haven","Status":"Dead","town":"The Slums","age":"Adult","race":"Tiefling","gender":"Female","icon":"vip","faction":null,"aliases":null,"role":null,"pronouns":"She/ Her"}}
 ---
 
-#INFORMATION_MISSING_OR_OUT-OF-DATE 
 ### Overview
-She seems to be an old friend of [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]. Not much is known about her apart from when she was mentioned during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] and wrote a [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]] with Korrigan and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]].
+the childhood friend and love interest of [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]. She was  first mentioned during [[Gods & Heralds/Chronovorus/The Black Ritual\|The Black Ritual]] and wrote a [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]] with Korrigan and [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]. She was most likely killed during the first slave revolt in lost haven
 
 ### History & Mentions
 | §                                                                       | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

@@ -1,10 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2026-02-20T15:45:16.122+00:00","dg-note-properties":{"tags":["NPC","Important"],"type":["important"],"Nation":["Strixhaven"],"town":"Strixhaven Residential Area","Status":"Alive","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":"Strixhaven","aliases":["Haldir"],"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/haldir-heleyarus/","tags":["NPC","Important"],"updated":"2026-07-24T14:28:49.324+01:00","dg-note-properties":{"tags":["NPC","Important"],"type":["important"],"Nation":["Strixhaven"],"town":"Strixhaven Residential Area","Status":"Alive","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":"Strixhaven","aliases":["Haldir"],"role":"Headteacher at Stixhaven University","pronouns":"He/ Him"}}
 ---
 
-
+> [!infobox]
+> #  Haldir Heleyarus
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Stat |
+> | :----: | --- |
+> | Type  | NPC |
+> | Pronouns | He/ Him |
+> | Occupation | Headteacher at Stixhaven University |
+> | Associated Groups | Strixhaven |
+> | Race | Human |
+> | Age | Adult |
+> | Languages | Common | 
+> | Nationality | Strixhaven | 
+> | Residence | Strixhaven Residential Area | 
+> | Relationship | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] (Boss), [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] (Former Student) |
+> ###### Status
+> | Type | Stat |
+> | :----: | --- |
+> | Status  | Alive |
+> ##### Appearances
+> | Type | Stat |
+> | :----: | --- |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" href="Session Notes/08 Gutenous Guardians/Session 64.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" href="Session Notes/08 Gutenous Guardians/Session 65.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
+ 
 ### Overview
-Archmage and Headmaster of [[Locations/Strixhaven/Strixhaven\|Strixhaven]], Academy of Magics.
+Haldir Heleyarus  is a figure of profound magical ability and immense age, responsible for maintaining the global portal network and the magical protections of Strixhaven. 
+
+### Description
+Haldir Heleyarus is an archmage of nearly god-like power, described as being second only to the dragons in terms of magical might. He is the headmaster of Strixhaven and is responsible for operating the complex magics that protect the tower housed there and maintain the global portal network that is vital for many factions. Without him, it is suggested that many places would collapse. However, his immense power comes at a cost; he has been dying for the last 5,000 years, and his body can no longer handle the strain of his own abilities.
+
+#### Personality
+Haldir presents himself as a pragmatic and calculating individual, often speaking in a matter-of-fact tone. He views the world through a lens of necessity, believing that the greater good requires difficult, even ruthless, decisions. He is not portrayed as malevolent but rather as someone who has grown weary over millennia and is focused on his own survival to continue his vital work. He shows a degree of respect for intellectual equals, engaging in a petty rivalry with Chenris Tallfellow of magical chess, whom he refers to as "my boy." Despite his power, he prefers to use persuasion rather than force, asking for permission and offering choices, even as he manipulates situations to achieve his desired outcome.
+
+#### Appearance
+Haldir's physical appearance is not described in great detail, but he is known to manifest before the party as a booming voice in their heads. When he appears in person, he does so through a complex magic circle, suggesting a form that is perhaps more ethereal or projected than fully corporeal. He is referred to as "Dr Heleyarus" by Chenris, indicating he holds a scholarly title.
+
+### Notable Information
+Haldir Heleyarus is the headmaster of Strixhaven and is responsible for maintaining the global portal network that is vital for the world's infrastructure. He has been dying for centuries due to his body's inability to contain his immense magical power. He seeks the body of a New God as a vessel to contain his power and extend his life. He is a rival and former teacher of Chenris Tallfellow, with whom he shares a complex history. He is also known to Xekai, who has advised him on how to interact with the party.
 
 ### History & Mentions
 | §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

@@ -18,7 +18,7 @@
 > | Pronouns | He/ Him |
 > | Faction | Unknown |
 ### Overview
-Nehzahr of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore. He is the writer of [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]. He is also known for a verity of other works, including collating [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]] research about [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] into [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]].
+Nehzahr of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore. He is the writer of [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]. He is also known for a verity of other works, including collating [[Named Characters & Beasts/Archivist Thalen\|Archivist Thalen]] research about [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] into [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]].
 
 ### History & Mentions
 | §                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                  |
