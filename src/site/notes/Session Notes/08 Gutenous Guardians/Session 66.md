@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:36:36.058+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:45:14.683+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -68,15 +68,15 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::A flash of red appeared behind him, and [[The Party/Viktor Malkovich\|Viktor]] did not move, unable to fight the gravity of the being that had appeared behind him. His third and final death felt inevitable, but he dared to turn and face his maker. Before him was a being enveloped in a burgundy red mantle with fine gold detailing that covered his body from head to toe. His face was covered by a simple mask clad in gold, reflecting a face of fear. [[The Party/Viktor Malkovich\|Viktor]] lay on the ground covered in mud, ash, and gore, but looking upon [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]], somewhere deep inside his consciousness, his survival instincts told him it was **polite to kneel before a king.**)
 
-(x::[[The Party/Viktor Malkovich\|Viktor]] was pulled into the air by his greying hair. Even with his feet unable to reach the ground, [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] still looked down on the Dampir. Next to him stood a girl who also wore a gold mask. From under Ebis' mantle, he drew an ornate greatsword that set itself ablaze as its metal collided with the burnt air, sounding it. [[The Party/Viktor Malkovich\|Viktor]] instantly recognised from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]' notes, it was the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]]. [[The Party/Viktor Malkovich\|Viktor]] was pulled closer to ebis until his throat met the tip of the blade.)
+(x::[[The Party/Viktor Malkovich\|Viktor]] was pulled into the air by his greying hair. Even with his feet unable to reach the ground, [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] still looked down on the Dampir. Next to him stood a girl who also wore a gold mask. From under Ebis' mantle, he drew an ornate greatsword that set itself ablaze as its metal collided with the burnt air, sounding it. [[The Party/Viktor Malkovich\|Viktor]] instantly recognised is from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]' notes, it was the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]]. [[The Party/Viktor Malkovich\|Viktor]] was pulled closer to Ebis until his throat met the tip of the blade.)
 
-(x::"You put up a good fight, I will give you that" He surveyed the battlefield for a moment. "No use in staying in place... like this, you'll give me everything I need")
+(x::"You put up a good fight, I will give you that" He surveyed the battlefield for a moment. "No use in staying in a place... like this, you'll give me everything I need soon")
 
 (x::Without missing a beat, he withdrew the blade. He slammed it into the earth below him, and [[The Party/Viktor Malkovich\|Viktor]] watched in horror as every single broken and battered soldier became a bonfire, setting the battlefield ablaze with the ferocity of the summer sun. When the fire dulled, the ash from the bodies of once brave men swirled in a vortex of beautiful horror above them before landing behind Ebis as hundreds of [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] soldiers in rank and file formation.)
 
 (x::Ebis' army had at least doubled in size.)
 
-(x::He motioned for them to leave as a massive red portal opened behind him and the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] disappeared as quickly as they had appeared. Ebis turned to [[The Party/Viktor Malkovich\|Viktor]], his mask getting increasingly close to the doctor as he hissed, **"Now show me that [[Gods & Heralds/Herald\|herald]]"**)
+(x::He motioned for them to leave as a massive red portal opened behind him and the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] disappeared just as quickly as they had appeared. Ebis turned to [[The Party/Viktor Malkovich\|Viktor]], his mask getting increasingly close to the doctor as he hissed, "**Now show me that [[Gods & Heralds/Herald\|herald]]**")
 
 (x::Though restrained, [[The Party/Viktor Malkovich\|Viktor]] smirked, "Do you really think I am that stupid that I would let you add a [[Gods & Heralds/Herald\|herald]] to your army?")
 
@@ -84,23 +84,23 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::"Do your worst")
 
-(x::Ebis took a step back and clicked his fingers. The girl behind him nodded before approaching [[The Party/Viktor Malkovich\|Viktor]], forcing him to the ground near Ebis. She seemed incredibly young in a red robe that looked as if she was meant to grow into it. She came to [[The Party/Viktor Malkovich\|Viktor]]'s side, whispering, "I'm so sorry")
+(x::Ebis took a step back and clicked his fingers. The girl behind him nodded before approaching [[The Party/Viktor Malkovich\|Viktor]]. Ebis' magic forced him to the ground to kneel before Ebis. the girl seemed incredibly young in her red robe that had been tailored for her to grow into. She came to [[The Party/Viktor Malkovich\|Viktor]]'s side and whispered "I'm so sorry")
 
 (x::[[The Party/Viktor Malkovich\|Viktor]]'s mind raced as he recognised the voice he had heard recently, but he had no clue from where. She pulled a very ornate golden dagger from within her robes and stabbed it into [[The Party/Viktor Malkovich\|Viktor]]'s cloak. It immediately screamed and writhed on his back as black mist began pouring out of it.)
 
-(x::Far above them all in the sky, the screams of several psychopomps could be heard ringing out over the battlefield as a few remaining [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] began firing motes of flame at them, quickly grounding the beast. Beside [[The Party/Viktor Malkovich\|Viktor]] was the psychopomp that inhabited the cloak, which was beginning to wither away slowly. Ebis' casual battle raging above them created a small wall to stop anything from falling on them.)
+(x::Far above them all in the sky, the screams of several psychopomps could be heard ringing out over the battlefield as a few remaining [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] began firing motes of flame at them, quickly grounding the beasts. Beside [[The Party/Viktor Malkovich\|Viktor]] was the psychopomp that inhabited the cloak, which was beginning to wither away slowly. Ebis casually watched battle raging above them created a small wall to stop anything from falling on them.)
 
 (x::He soon became bored and approached the psychopomp on the floor and stabbed the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|firesoul greatsword]] into it. It was instantly reduced to nothing but flames and cinder before reforming into a psychopomp made of ash and lava.)
 
 (x::[[The Party/Viktor Malkovich\|Viktor]] was raised back into the air again. "See, I always take what is mine" he paused for a moment, inspecting [[The Party/Viktor Malkovich\|Viktor]] like a used toy, "You're not worth the effort of killing")
 
-(x::"Why, of course. What could I ever do to a sorcerer as strong as you?" [[The Party/Viktor Malkovich\|Viktor]] meant to sound braver than he felt.)
+(x::"Why, of course. What could I ever do to a sorcerer as strong as you?" [[The Party/Viktor Malkovich\|Viktor]] had meant to sound braver than he felt.)
 
 (x::"No need for flattery; I have everything I want, and **a tick has no bearing on the schemes of the lion above it. My religion and beliefs are far greater and mightier than the flock of sheep destined for the slaughterhouse. Now run back to the rest of the livestock and tell them that the big bad wolf won't blow their houses down just yet.**")
 
 (x::"See you soon." [[The Party/Viktor Malkovich\|Viktor]] managed as he hung in the air, watching another large portal open behind Ebis. He chuckled before turning on his heel, and with his mantle blowing in the wind, he walked through the portal, followed by the young girl and converted psychopomps. The portal collapsed behind them as [[The Party/Viktor Malkovich\|Viktor]] unceremoniously fell into the mud. He sat panting like a dog, unable to draw in clean air as his lungs would only fill with ash and smoke.)
 
-(x::His slow return to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] was accompanied by the sounds of flames that did not care for the lives they consumed and the cries of families that had no body left to bury. As he reached the gate, he watched for a moment as [[Other Information/Display Tags/The Party\|the party]] desperately tried to help put out the fires and help those nearby. As he stood witness to the destruction of countless lives, he wondered,)
+(x::His slow return to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] was accompanied by the sounds of flames that did not care for the lives they consumed and the cries of families that had no body left to bury. As he reached the gate, he watched for a moment as [[Other Information/Display Tags/The Party\|the party]] desperately tried to extinguish the fires and help those nearby. As he stood witness to the destruction of countless lives, he wondered,)
 
 (x::**How was one supposed to win against [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?**)
 
