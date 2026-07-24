@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-25/","updated":"2026-06-28T20:34:31.003+01:00","dg-note-properties":{"Summary":"We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.","type":"session","sessionNum":"25","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-25/","updated":"2026-07-12T10:53:48.050+01:00","dg-note-properties":{"Summary":"We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.","type":"session","sessionNum":"25","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 # Session Summary
@@ -94,7 +94,7 @@ With the only other way forward being the other room with the necromancer in it,
 (x:: Once Mordecai had let go, Korrigan casts [Hex](https://www.dndbeyond.com/spells/hex) to make it appear like a crown had appeared on his head and jazz up his clothes to make him look almost regal. Mordecai followed suit by using their [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) spell to neaten him and get rid of any blood stains on his clothes. Drache casts [Shield of Faith](https://www.dndbeyond.com/spells/2248-shield-of-faith?srsltid=AfmBOoqu_DF8sE6qkRmhUjxcpFXtY7FZSBWEkVuTMcEw0N2PDufnvzrN) to give Chenris an almost holy aura. With their best efforts to make Chenris look and feel as good as they saw him, Chenris gave them a rare smile before saying his final words:)
 
 ### Final Words to Mordecai
-(x:: They all watched as Chenris turns his gaze to Mordecai, his breath shallow but steady. Despite everything, his voice carried a rare softness. “Mr Reverence, do not mourn my passing. It is unbecoming of a person who liberates those who would join you in the depths of your darkness—you even dragged me out, though I’d never admit it. But there’s more to be done. Don’t just save people from their sadness—tear apart the machinations that create it. Smash the chains of this cruel world, piece by piece. It won’t be easy, but then again, you’ve never taken the easy path, have you?” )
+(x:: They all watched as Chenris turns his gaze to Mordecai, his breath shallow but steady. Despite everything, his voice carried a rare softness. “Mr Reverence, do not mourn my passing. It is unbecoming of a person who liberates those who would join you in the depths of your darkness, you even dragged me out, though I’d never admit it. But there’s more to be done. Don’t just save people from their sadness, tear apart the machinations that create it. Smash the chains of this cruel world, piece by piece. It won’t be easy, but then again, you’ve never taken the easy path, have you?” )
 
 (x:: You watch as smirks weakly, a glimmer of pride in his fading eyes. “You are destined to destroy this world in the most beautiful way possible, and when you are done they will finally understand why they name storms after people. My only regret is not being there to help.”)
 
@@ -105,7 +105,7 @@ Chenris gives a weak smile. “Shape this world, my friend. Make it something wo
 
 ### Final Words to Drache
 Chenris looked at Drache, guilt flickering in his expression.  
-“Drache… I failed you. You’re a good man—a better man than I ever was. I didn’t live up to what you saw in me, and I’m sorry. I’m sorry for every time I let you down… including rigging that dice game to swindle you out of coin.” He chuckled faintly, his breath catching for a moment.  
+“Drache… I failed you. You’re a good man, a better man than I ever was. I didn’t live up to what you saw in me, and I’m sorry. I’m sorry for every time I let you down… including rigging that dice game to swindle you out of coin.” He chuckled faintly, his breath catching for a moment.  
 
 “But I want you to know this: the world needs more men like you. People who see the good in others, even when they don’t deserve it. Keep being that light, Drache. And don’t let anyone… especially not yourself… tell you you’re anything less.”
 
@@ -116,7 +116,7 @@ Chenris’ voice softened further as he looked at Aidan, his tone tinged with ra
 ### Final Words to [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]]
 (x:: Chenris turned his fading gaze toward [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]], his tone almost fatherly but full of caution.  “[[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]]… you remind me too much of myself. Always searching for answers in books, hoping that knowledge alone will protect you. But it won’t. The world is far crueller than any story you’ll read in a library. An insufferable fool taught me that. Don’t lock yourself away, [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus]]. Live. Learn from the world itself, not just its pages.”  )
 
-(vHe paused, as he began to cough violently, quickly hiding the blood on his hand. his expression pained but resolute. “Promise me you’ll see more than just the ink and parchment, that you’ll live a life worthy of your title… and beyond it.”)
+(x::He paused, as he began to cough violently, quickly hiding the blood on his hand. his expression pained but resolute. “Promise me you’ll see more than just the ink and parchment, that you’ll live a life worthy of your title… and beyond it.”)
 
 ### Final Words to the Party as a Whole
 Finally, Chenris looked at the whole party and with a knowing smile, he said:

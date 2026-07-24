@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-07-06T19:21:10.991+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-07-12T10:52:06.316+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
 ---
 
 >[!Recite]   Note
@@ -48,6 +48,7 @@
 > - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
+
 
  > [!Quote|author] Chenris Tallfellow <br>[[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
 > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."

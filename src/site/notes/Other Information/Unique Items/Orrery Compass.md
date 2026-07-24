@@ -25,7 +25,8 @@ _____________
 **Moonlight:** The only way to recharge the compass is to put it out under the moon and let it absorb the moonlight. One night under the moon recharges the compass with one use. 
  
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]] | After a brief pause, the aspect reappeared, disguised as [[The Party/Mordecai Reverence\|Mordecai]]: [[The Party/Wurinn Fuuldrusch\|Drache]] and [[The Party/Aiden Knight\|Aiden Knight]] were all convinced. [[The Party/Viktor Malkovich\|Viktor]] was initially fooled but soon figured it out. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] used the [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]] to figure out where the nearest source of powerful magic was, which was the [[Named Characters & Beasts/Aspect of Ebis Daro\|Aspect of Ebis Daro]]. |
 
 { .block-language-dataview}
