@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:29:54.734+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:36:36.058+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -57,18 +57,18 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::There was a moment of peace inside Leomund's Tiny [[Admin/Spells/Leomund's Tiny Hut\|Hut]] before they all felt it.)
 
-(x::Power)
+(x::**Power**)
 
 (x::Raw and undiluted power.)
 
 (x::It was emanating from the battlefield they had been moments ago. Whatever it was, it felt like a gravity well had just opened up, and they were slowly being absorbed into its centre, where a malignant force waited patiently for their demise. None could so much as breathe before [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] spoke, "Where... is [[The Party/Viktor Malkovich\|Viktor]]...?")
 
 ### [[The Party/Viktor Malkovich\|Viktor]]'s POV
-(x::[[The Party/Viktor Malkovich\|Viktor]] desperately tried his best to catch up with [[Other Information/Display Tags/The Party\|the party]], but the damage he had taken during the fight made it difficult to keep up. Blood and mud made him slip and fall as the soldiers and [[Gods & Heralds/Ignatius/Ash Spawn\|ash spawn]] kept fighting around him, oblivious to his plight.)
+(x::[[The Party/Viktor Malkovich\|Viktor]] desperately tried his best to catch up with [[Other Information/Display Tags/The Party\|the party]], but the damage he had taken during the fight made it difficult to keep up. Blood and mud made him greet the floor as the soldiers and [[Gods & Heralds/Ignatius/Ash Spawn\|ash spawn]] kept fighting around him, oblivious to his plight.)
 
-(x::A flash of red appeared behind him, and [[The Party/Viktor Malkovich\|Viktor]] did not move, unable to fight the gravity of the being that had appeared behind him. His third and final death felt inevitable, but he dared to turn and face his maker. Before him was a being enveloped in a burgundy red mantle with fine gold detailing that covered his body from head to toe. His face was covered by a simple mask clad in gold, reflecting a face of fear. [[The Party/Viktor Malkovich\|Viktor]] lay on the ground covered in mud, ash, and gore, but looking upon [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]], somewhere deep inside his consciousness, his survival instincts told him it was polite to kneel before a king.)
+(x::A flash of red appeared behind him, and [[The Party/Viktor Malkovich\|Viktor]] did not move, unable to fight the gravity of the being that had appeared behind him. His third and final death felt inevitable, but he dared to turn and face his maker. Before him was a being enveloped in a burgundy red mantle with fine gold detailing that covered his body from head to toe. His face was covered by a simple mask clad in gold, reflecting a face of fear. [[The Party/Viktor Malkovich\|Viktor]] lay on the ground covered in mud, ash, and gore, but looking upon [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]], somewhere deep inside his consciousness, his survival instincts told him it was **polite to kneel before a king.**)
 
-(x::[[The Party/Viktor Malkovich\|Viktor]] was pulled into the air by his greying hair. Even with his unable to reach the ground, [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] still looked down on the Dampir. Next to him stood a girl who also wore a gold mask. From under Ebis' mantle, he drew an ornate greatsword that set itself ablaze as its metal collided with the burnt air, sounding it. [[The Party/Viktor Malkovich\|Viktor]] instantly recognised from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]' notes, it was the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]]. [[The Party/Viktor Malkovich\|Viktor]] was pulled closer to ebis until his throat met the tip of the blade.)
+(x::[[The Party/Viktor Malkovich\|Viktor]] was pulled into the air by his greying hair. Even with his feet unable to reach the ground, [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] still looked down on the Dampir. Next to him stood a girl who also wore a gold mask. From under Ebis' mantle, he drew an ornate greatsword that set itself ablaze as its metal collided with the burnt air, sounding it. [[The Party/Viktor Malkovich\|Viktor]] instantly recognised from [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]' notes, it was the [[Books, Documents & Artefacts/Artefacts/Firesoul Greatsword\|Firesoul Greatsword]]. [[The Party/Viktor Malkovich\|Viktor]] was pulled closer to ebis until his throat met the tip of the blade.)
 
 (x::"You put up a good fight, I will give you that" He surveyed the battlefield for a moment. "No use in staying in place... like this, you'll give me everything I need")
 
@@ -76,11 +76,11 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::Ebis' army had at least doubled in size.)
 
-(x::He motioned for them to leave as a massive red portal opened behind him and the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] disappeared as quickly as they had appeared. Ebis turned to [[The Party/Viktor Malkovich\|Viktor]], his mask getting increasingly close to the doctor as he hissed, "Now show me that [[Gods & Heralds/Herald\|herald]]")
+(x::He motioned for them to leave as a massive red portal opened behind him and the [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]] disappeared as quickly as they had appeared. Ebis turned to [[The Party/Viktor Malkovich\|Viktor]], his mask getting increasingly close to the doctor as he hissed, **"Now show me that [[Gods & Heralds/Herald\|herald]]"**)
 
 (x::Though restrained, [[The Party/Viktor Malkovich\|Viktor]] smirked, "Do you really think I am that stupid that I would let you add a [[Gods & Heralds/Herald\|herald]] to your army?")
 
-(x::"You won't be giving me anything, I take what i want")
+(x::"You won't be giving me anything, **I take what I want**")
 
 (x::"Do your worst")
 
@@ -96,13 +96,13 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::"Why, of course. What could I ever do to a sorcerer as strong as you?" [[The Party/Viktor Malkovich\|Viktor]] meant to sound braver than he felt.)
 
-(x::"No need for flattery; I have everything I want, and a tick has no bearing on the schemes of the lion above it. My religion and beliefs are far greater and mightier than the flock of sheep destined for the slaughterhouse. Now run back to the rest of the livestock and tell them that the big bad wolf won't blow their houses down just yet.")
+(x::"No need for flattery; I have everything I want, and **a tick has no bearing on the schemes of the lion above it. My religion and beliefs are far greater and mightier than the flock of sheep destined for the slaughterhouse. Now run back to the rest of the livestock and tell them that the big bad wolf won't blow their houses down just yet.**")
 
 (x::"See you soon." [[The Party/Viktor Malkovich\|Viktor]] managed as he hung in the air, watching another large portal open behind Ebis. He chuckled before turning on his heel, and with his mantle blowing in the wind, he walked through the portal, followed by the young girl and converted psychopomps. The portal collapsed behind them as [[The Party/Viktor Malkovich\|Viktor]] unceremoniously fell into the mud. He sat panting like a dog, unable to draw in clean air as his lungs would only fill with ash and smoke.)
 
 (x::His slow return to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] was accompanied by the sounds of flames that did not care for the lives they consumed and the cries of families that had no body left to bury. As he reached the gate, he watched for a moment as [[Other Information/Display Tags/The Party\|the party]] desperately tried to help put out the fires and help those nearby. As he stood witness to the destruction of countless lives, he wondered,)
 
-(x::How was one supposed to win against [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?)
+(x::**How was one supposed to win against [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?**)
 
 Catching up with the rest of [[Other Information/Display Tags/The Party\|the party]], [[The Party/Viktor Malkovich\|Viktor]] updated everyone on what he had experienced. Recalling the memory, [[The Party/Viktor Malkovich\|Viktor]] was stuck on who the small girl was with the man. Thinking back, she sounded very similar to Siefer. Narrowing his eyes at [[The Party/Mordecai Reverence\|Mordecai]], he asked if she had a daughter. [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] confirmed she didn't have one, stating that 'they' had killed her husband before they had a chance to have one. When pressed for the story, she refused, saying that was for another time. 
 

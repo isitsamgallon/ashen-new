@@ -265,8 +265,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]]
+- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 - [[Session Notes/08 Gutenous Guardians/Session 65\|Session 65]]
