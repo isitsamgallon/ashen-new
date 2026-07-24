@@ -80,7 +80,6 @@ Humans were the primary fighting force during [[History & Events/The Sundering\|
 - [[Named Characters & Beasts/Illusion Master\|Illusion Master]]
 - [[Named Characters & Beasts/Important Characters/Archivist Thalen\|Archivist Thalen]]
 - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
-- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]]
 - [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]

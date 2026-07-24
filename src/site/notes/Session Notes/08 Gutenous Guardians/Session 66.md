@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:13:50.220+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:29:54.734+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -103,3 +103,21 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 (x::His slow return to [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] was accompanied by the sounds of flames that did not care for the lives they consumed and the cries of families that had no body left to bury. As he reached the gate, he watched for a moment as [[Other Information/Display Tags/The Party\|the party]] desperately tried to help put out the fires and help those nearby. As he stood witness to the destruction of countless lives, he wondered,)
 
 (x::How was one supposed to win against [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?)
+
+Catching up with the rest of [[Other Information/Display Tags/The Party\|the party]], [[The Party/Viktor Malkovich\|Viktor]] updated everyone on what he had experienced. Recalling the memory, [[The Party/Viktor Malkovich\|Viktor]] was stuck on who the small girl was with the man. Thinking back, she sounded very similar to Siefer. Narrowing his eyes at [[The Party/Mordecai Reverence\|Mordecai]], he asked if she had a daughter. [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] confirmed she didn't have one, stating that 'they' had killed her husband before they had a chance to have one. When pressed for the story, she refused, saying that was for another time. 
+
+After some prodding, [[The Party/Viktor Malkovich\|Viktor]] teased [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] by saying, "But did you have sex [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]] though?"
+
+"Ew no why would I have sex with that disgusting half-man?" she retorted disgust hanging heavy on her voice. 
+
+"Excuse me?" said [[The Party/Viktor Malkovich\|Viktor]]. 
+
+"He's a weird man."
+
+"You two seem quite well acquainted." said [[The Party/Mordecai Reverence\|Mordecai]] 
+
+"Tell us more!" said [[The Party/Wurinn Fuuldrusch\|Drache]]. 
+
+"We fought on the same side in this big war. I'm not sure if you've heard of it... [[History & Events/The Sundering\|the Sundering]]. We were both commanders, so I guess we worked closely; he was always a creep." she explained. 
+
+She explained that Ebis wasn't a pervert or sexual harasser, but he was just 'weird' but would not explain further than. Eventually, she agreed that if they ever encountered the girl again, [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] would have a good go at figuring out who she was.

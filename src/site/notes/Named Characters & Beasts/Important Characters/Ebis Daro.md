@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2026-02-20T15:49:52.484+00:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Unknown/Unclear","type":"important","Status":"Alive","town":"Unknown/Unclear","age":"Adult","race":"Human","gender":"Male","icon":"vip","faction":["Unknown"],"aliases":null,"role":"BBEG (?)","pronouns":"Unknown"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/ebis-daro/","tags":["NPC","Important"],"updated":"2026-07-24T13:30:24.082+01:00","dg-note-properties":{"tags":["NPC","Important"],"Nation":"Unknown/Unclear","type":"important","Status":"Alive","town":"Unknown/Unclear","age":"Adult","race":null,"gender":null,"icon":"vip","faction":["Unknown"],"aliases":["Ebis"],"role":"BBEG (?)","pronouns":"Unknown"}}
 ---
 
 > [!infobox]
@@ -12,7 +12,7 @@
 > | Pronouns | Unknown |
 > | Occupation | BBEG (?) |
 > | Associated Groups | Unknown |
-> | Race | Human |
+> | Race | `=this.race` |
 > | Age | Adult |
 > | Languages | Common | 
 > | Nationality | Unknown/Unclear | 

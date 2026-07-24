@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]
 - [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]]
 - [[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
 - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
 - [[Session Notes/08 Gutenous Guardians/Session 65\|Session 65]]
-- [[Session Notes/08 Gutenous Guardians/Session 64\|Session 64]]
 
 { .block-language-dataview}
 
@@ -301,7 +301,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                                                               | February 20, 2026  |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                                                         | February 20, 2026  |
-| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | February 20, 2026  |
+| [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]                                                                                 | July 24, 2026      |
 | [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]                                                                                            | June 06, 2026      |
 | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                                                                                                        | July 11, 2026      |
 | [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]                                                                                          | May 26, 2026       |
