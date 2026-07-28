@@ -265,11 +265,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Session Notes/All Sessions\|All Sessions]]
+- [[Gallery\|Gallery]]
+- [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
 - [[Named Characters & Beasts/Jane\|Jane]]
 - [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]
-- [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]
-- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]
 
 { .block-language-dataview}
 

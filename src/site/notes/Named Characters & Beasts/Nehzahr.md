@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/nehzahr/","tags":["NPC"],"updated":"2026-02-20T15:45:19.706+00:00","dg-note-properties":{"tags":["NPC"],"type":["important","The Auditors"],"Status":"Unknown","icon":"npc","age":"Adult","race":"Human","gender":"Male","faction":null,"aliases":null,"role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/nehzahr/","tags":["NPC"],"updated":"2026-07-24T15:59:28.898+01:00","dg-note-properties":{"tags":["NPC"],"type":["important"],"Status":"Alive","icon":"npc","age":"N/A","race":"N/A","gender":"Male","faction":null,"aliases":null,"role":"World Scribe","pronouns":null}}
 ---
 
 > [!infobox]
@@ -17,8 +17,12 @@
 > | Alignment | Unknown |
 > | Pronouns | He/ Him |
 > | Faction | Unknown |
+
+
 ### Overview
 Nehzahr of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore. He is the writer of [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]. He is also known for a verity of other works, including collating [[Named Characters & Beasts/Archivist Thalen\|Archivist Thalen]] research about [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] into [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]].
+
+It was revealed that he is 'constantly writing everything down' implicating that they are some kind of scribe for the world. 
 
 ### History & Mentions
 | §                                                                   | Interactions                                                                                                                                                                                                                                                                                                                                                  |

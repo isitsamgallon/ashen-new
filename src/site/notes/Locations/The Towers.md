@@ -19,10 +19,10 @@ The Towers power something called [[History & Events/Skyfall Ward\|Skyfall Ward]
 | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]      | Unknown        |
 | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                         | Still Standing |
 | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]                                     | Destroyed      |
-| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
-| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
-| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
 | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                         | Destroyed      |
+| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
+| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
+| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
 
 { .block-language-dataview}
 

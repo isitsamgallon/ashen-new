@@ -25,8 +25,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" href="Session Notes/08 Gutenous Guardians/Session 65.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 66.md" data-href="Session Notes/08 Gutenous Guardians/Session 66.md" href="Session Notes/08 Gutenous Guardians/Session 66.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 66</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 66.md" data-href="Session Notes/08 Gutenous Guardians/Session 66.md" href="Session Notes/08 Gutenous Guardians/Session 66.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 66</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
 
 ### Overview
 Seifer was previously a high-ranking Tactician and General in [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Army during [[History & Events/The Sundering\|the Sundering]]. She died during a particular fierce battle during the war. Many of her followers venerated her and even put her on a par with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. This constant belief manifested as her soul gaining greater powers. She was eventually sealed inside a crown kept on [[Locations/Itone Isles\|Itone]], until Moredcai touched it and she came to possess them. 
