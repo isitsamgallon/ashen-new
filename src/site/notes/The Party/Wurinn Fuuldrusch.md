@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2026-06-28T12:46:34.716+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Barbarian/Paladin","Nation":"The Tulan Fort","town":"The Tulan Fort","aliases":["Drache","Wurinn 'Drache' Fuuldrusch"],"Nickname":["Drache"],"icon":"party","faction":["The Party","The Tulan Fort"],"race":"Dragonborn","gender":"Male","age":"Adult","Cover":"[DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2026-08-07T11:03:28.095+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Barbarian/Paladin","Nation":"The Tulan Fort","town":"The Tulan Fort","aliases":["Drache","Wurinn 'Drache' Fuuldrusch"],"Nickname":["Drache"],"icon":"party","faction":["The Party","The Tulan Fort"],"race":"Dragonborn","gender":"Male","age":"Adult","Cover":"[DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)"}}
 ---
 
 
 > [!infobox]
 > # Wurinn Fuuldrusch
-> ![Screen Shot 2025-01-18 at 4.23.25 pm.png\|cover hsmall](/img/user/Admin/Attachments/Screen%20Shot%202025-01-18%20at%204.23.25%20pm.png)
+> ![Screen Shot 2025-01-18 at 4.23.25 pm.png](/img/user/Admin/Attachments/Screen%20Shot%202025-01-18%20at%204.23.25%20pm.png)
 > ###### Basic Information
 > 
 >  Type | Stat |
@@ -34,10 +34,9 @@
 >AC | 18 |
 >Senses | Sight |
 >Languages | Common, Draconic|
->
 >##### Unique Items 
-> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > - [[Other Information/Unique Items/Greataxe of Storms\|Greataxe of Storms]]
+> - [[Other Information/Unique Items/Obsidian Obliterator\|Obsidian Obliterator]]
 > 
 { .block-language-dataview}
 

@@ -1,21 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","tags":["dracheitem"],"updated":"2026-06-06T14:27:42.164+01:00","dg-note-properties":{"tags":["dracheitem"],"itemdesc":"A +2 Greataxe with a black steel crescent heads with metallic blue streaks.","slot":"Hand","item":"Weapon (greataxe)","rarity":"Very Rare","require":"Required","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"1D12+5 & 2D6 Lightning Damage","damagetype":"Slashing"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","updated":"2026-08-07T11:27:57.681+01:00","dg-note-properties":{"tags":null,"itemdesc":"A +2 Greataxe with a black steel crescent heads with metallic blue streaks.","slot":"Hand","item":"Weapon (greataxe)","rarity":"Very Rare","require":"Required","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"1D12+5 & 2D6 Lightning Damage","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
 ---
 
-**Hand (Weapon (greataxe)) | Very Rare | Required** 
-A +2 Greataxe with a black steel crescent heads with metallic blue streaks.
-_____________
-------
+> [!infobox]
+> #  Greataxe of Storms
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Info |
+> | :----: | :---: |
+> | Type  | Hand (Weapon (greataxe)) |
+> | Rarity | Very Rare |
+> | Attunement | Required |
+> ##### Usage
+> | Type | Info |
+> | :----: | :---: |
+> | Charges | No charges |
+> | Properties | Heavy,Two-Handed |
+> | Recharge | N/A |
+> | Value |  gp | 
+> | Attack Type | Melee |
+> |Damage | 1D12+5 & 2D6 Lightning Damage |
+> | Damage Type(s) | Slashing |  
+> ##### 
+> | Basic Description |
+> | :----: |
+> | A +2 Greataxe with a black steel crescent heads with metallic blue streaks. |
+> #####
+> | Belongs To |
+> | :----: |
+> | Wurinn 'Drache' Fuuldrusch |
 
-**Charges**: No charges
-**Properties**: Heavy,Two-Handed
-**Recharge**: N/A
 
-**Attack Type:** Melee
-**Damage:** 1D12+5 & 2D6 Lightning Damage 
-**Damage Type:** Slashing
-
-----
 
 ### Overview
 An that [[The Party/Wurinn Fuuldrusch\|Drache]] looted from [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]'s corpse. 

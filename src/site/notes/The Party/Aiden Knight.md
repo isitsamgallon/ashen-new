@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-06-28T12:43:53.287+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","Cover":"[AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-08-07T11:31:31.193+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","Cover":"[AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)"}}
 ---
-
-
 
 > [!infobox]
 > 
@@ -19,7 +17,7 @@
 >  Age | Mid 20s |
 >  Alignment | True Neutral |
 >  Pronouns | He/ Him |
->  Family | Unnamed Parents, [[Named Characters & Beasts/Freya\|Freya]] (sister) |
+>  Family | Unnamed Parents, [[Named Characters & Beasts/Freya\|Freya]] (Sister) |
 >  Player | [[The Party/Other Party Members/Meta/Jae Knight\|Jae Knight]] |
 >  ##### Stats
 > Skill | Score | Mod | Prof |
@@ -39,10 +37,11 @@
 >Languages | Common, Elvish, Goblin, Primordial, Thieves’ Cant|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
 > - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
+> - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
 > 
 { .block-language-dataview}
+
 
 
   > [!Quote|author] Aidan Knight <br>

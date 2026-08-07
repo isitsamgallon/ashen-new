@@ -20,8 +20,8 @@
 > | ------------------------------------------------------------------------------------------------ | ------ | ----- | ----- |
 > | [[Named Characters & Beasts/Genevieve †\|Genevieve †]]                                        | Female | Adult | Human |
 > | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] | Female | Adult | Human |
-> | [[Named Characters & Beasts/Kaes\|Kaes]]                                                      | Male   | Adult | Human |
 > | [[Named Characters & Beasts/Kase\|Kase]]                                                      | Male   | Adult | Human |
+> | [[Named Characters & Beasts/Kaes\|Kaes]]                                                      | Male   | Adult | Human |
 > 
 { .block-language-dataview}
 

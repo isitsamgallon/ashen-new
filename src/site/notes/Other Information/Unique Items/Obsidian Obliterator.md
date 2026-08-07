@@ -1,18 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","tags":["dracheitem"],"updated":"2026-06-06T14:27:27.781+01:00","dg-note-properties":{"tags":["dracheitem"],"itemdesc":"A large black Obsidian greatsword","slot":"Hand","item":"Weapon (greatsword)","rarity":"Rare","require":"No Requirement","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"2d6+5","damagetype":"Slashing"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","updated":"2026-08-07T11:28:04.339+01:00","dg-note-properties":{"tags":null,"itemdesc":"A large black Obsidian greatsword","slot":"Hand","item":"Weapon (greatsword)","rarity":"Rare","require":"No Requirement","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"2d6+5","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
 ---
 
-**Hand (Weapon (greatsword)) | Rare | No Requirement** 
-A large black Obsidian greatsword
-_____________
-------
+> [!infobox]
+> #  Obsidian Obliterator
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Info |
+> | :----: | :---: |
+> | Type  | Hand (Weapon (greatsword)) |
+> | Rarity | Rare |
+> | Attunement | No Requirement |
+> ##### Usage
+> | Type | Info |
+> | :----: | :---: |
+> | Charges | No charges |
+> | Properties | Heavy,Two-Handed |
+> | Recharge | N/A |
+> | Value |  gp | 
+> | Attack Type | Melee |
+> |Damage | 2d6+5 |
+> | Damage Type(s) | Slashing |  
+> ##### 
+> | Basic Description |
+> | :----: |
+> | A large black Obsidian greatsword |
+> #####
+> | Belongs To |
+> | :----: |
+> | Wurinn 'Drache' Fuuldrusch |
 
-**Charges**: No charges
-**Properties**: Heavy,Two-Handed
-**Recharge**: N/A
-**Value**:  gp 
 
-----
 
 ### Overview
 A weapon that [[The Party/Wurinn Fuuldrusch\|Drache]] looted from [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]'s corpse in the councillors hall in the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]

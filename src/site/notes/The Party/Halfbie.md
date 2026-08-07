@@ -1,40 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-06-28T12:42:29.060+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"[halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-08-07T11:12:02.180+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"[halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)"}}
 ---
 
 
-> [!infobox|wikipedia]
+> [!infobox]
 > 
 > # Halfbie
 > ![halfbie 2.png](/img/user/Admin/Attachments/halfbie%202.png)
 > ###### Basic Information
 > 
-> Type | Stat |
-> :----: | --- |
->  Race | [[Other Information/Races/Eladrin\|Eladrin]] |
->  Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
->  Class | Wizard/ Artificer |
->  Subclass | Order of Scribes/ Artillerist |
->  Age | ~1300 (Mentally), 21(Physically) |
->  Alignment | Seelie |
->  Pronouns | Any |
->  Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) |
->  Player | [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
->  ##### Stats
-> Skill | Score | Mod | Prof |
-> :---: | :---: | :---: | :---: |
->  STR | 10 | +0 | <input type="checkbox" unchecked> |
->  DEX | 14 | +2 |  <input type="checkbox" unchecked> |
->  CON | 14 | +2 | <input type="checkbox" unchecked> |
->  INT | 20 | +5 | <input type="checkbox" checked>|
->  WIS | 15 | +2 | <input type="checkbox" checked> |
->  CHA | 12 | +1 | <input type="checkbox" unchecked> |
->  
->Type | Stat |
->:---: | --- |
->AC | 13 (15 MA) |
->Senses | Darkvision 60ft |
->Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
+>| Type | Stat |
+>| :----: | --- |
+>| Race | [[Other Information/Races/Eladrin\|Eladrin]] |
+>| Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
+>| Class | Wizard/ Artificer |
+>| Subclass | Order of Scribes/ Artillerist |
+>| Age | ~1300 (Mentally), 21(Physically) |
+>| Alignment | Seelie |
+>| Pronouns | Any |
+>| Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) |
+>| Player | [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
+>##### Stats
+>| Skill | Score | Mod | Prof |
+>| :---: | :---: | :---: | :---: |
+>| STR | 10 | +0 | <input type="checkbox" unchecked> |
+>| DEX | 14 | +2 |  <input type="checkbox" unchecked> |
+>| CON | 14 | +2 | <input type="checkbox" unchecked> |
+>| INT | 20 | +5 | <input type="checkbox" checked>|
+>| WIS | 15 | +2 | <input type="checkbox" checked> |
+>| CHA | 12 | +1 | <input type="checkbox" unchecked> |
+>#####
+>| Type | Stat |
+>| :---: | --- |
+>| AC | 13 (15 [[Admin/Spells/Mage Armor\|Mage Armor]]) |
+>| Senses | Darkvision 60ft |
+>| Languages | Common, Ancient Dwarvish, Elvish, Primordial, Undercommon |
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]

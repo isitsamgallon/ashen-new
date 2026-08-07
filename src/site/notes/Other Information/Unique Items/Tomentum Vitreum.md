@@ -1,18 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","tags":["morditem"],"updated":"2026-06-16T18:29:49.657+01:00","dg-note-properties":{"tags":["morditem"],"itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally.","value":"12,000-18,000 gp"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","updated":"2026-08-07T10:53:36.658+01:00","dg-note-properties":{"belong":"Mordecai Reverence","itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally. See Recharge section for more details","value":"12,000-18,000 gp"}}
 ---
 
-**Ring (Wondrous Item) | Very Rare | Required** 
-A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.
-_____________
-------
+> [!infobox]
+> #  Tomentum Vitreum
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Info |
+> | :----: | :---: |
+> | Type  | Ring (Wondrous Item) |
+> | Rarity | Very Rare |
+> | Attunement | Required |
+> ##### Usage
+> | Type | Info |
+> | :----: | :---: |
+> | Charges | 10 |
+> | Properties | Ring,Magical |
+> | Recharge | This ring does not recharge naturally. See Recharge section for more details |
+> | Value | 12,000-18,000 gp | 
+> ##### 
+> | Basic Description |
+> | :----: |
+> | A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood. |
+> #####
+> | Belongs To |
+> | :----: |
+> | Mordecai Reverence |
 
-**Charges**: 10
-**Properties**: Ring,Magical
-**Recharge**: This ring does not recharge naturally.
-**Value**: 12,000-18,000 gp 
 
-----
 
 ### Features
 **Glassbound Offering:** at the start of each of your turns you may expend 1 or more charges (no action require). For each charge expended, you remove 10% of your maximum hit points (rounded up). If the reduction of maximum health takes you below 0 hit points you then **Vitreous Ruin**. This effect last till the end of combat.
@@ -41,6 +56,7 @@ _____________
 |      8      |       80%        |      20      |    30    |
 |      9      |       90%        |     22.5     |    35    |
 |     10      |       100%       |      25      |    40    |
+
 ![Screenshot 2026-06-16 at 18-27-59 AnyDice.png](/img/user/Admin/Attachments/Screenshot%202026-06-16%20at%2018-27-59%20AnyDice.png)
 
 ### History & Mentions

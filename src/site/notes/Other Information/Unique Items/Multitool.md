@@ -1,6 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/multitool/","tags":["halfbieitem","chenrisitem"],"updated":"2025-08-11T11:53:32.318+01:00","dg-note-properties":{"tags":["halfbieitem","chenrisitem"]}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/multitool/","tags":["halfbieitem"],"updated":"2026-08-07T11:18:24.602+01:00","dg-note-properties":{"tags":["halfbieitem"],"itemdesc":"A small object reminiscent of a screwdriver with a magical circuits running throught and a button on top.","slot":"Item","item":"Wondrous Item","rarity":"Unknown","require":"No Requirement","charges":"5 (Intelligence Modifier)","properties":["Magical"],"Recharge":"No Recharge Required","value":"Unknown","belong":"Halfbie"}}
 ---
+
+> [!infobox]
+> #  Multitool
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Info |
+> | :----: | :---: |
+> | Type  | Item (Wondrous Item) |
+> | Rarity | Unknown |
+> | Attunement | No Requirement |
+> ##### Usage
+> | Type | Info |
+> | :----: | :---: |
+> | Charges | 5 (Intelligence Modifier) |
+> | Properties | Magical |
+> | Recharge | No Recharge Required |
+> | Value | Unknown | 
+> ##### 
+> | Basic Description |
+> | :----: |
+> | A small object reminiscent of a screwdriver with a magical circuits running throught and a button on top. |
+> #####
+> | Belongs To |
+> | :----: |
+> | Halfbie &  Chenris Tallfellow ‡ |
+
 
 ### Overview
 [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'s tool fashioned after [Doctor Who's Sonic Screwdriver](https://tardis.fandom.com/wiki/Sonic_screwdriver), in reality it is his [Magical Tinkering](https://www.dndbeyond.com/sources/tcoe/artificer#MagicalTinkering) feature. it has the following abilities:

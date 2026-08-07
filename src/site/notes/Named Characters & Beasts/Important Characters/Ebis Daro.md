@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  [[Session Notes/03 The Worst Diplomates/Session 15\|Session 15]] |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 66.md" data-href="Session Notes/08 Gutenous Guardians/Session 66.md" href="Session Notes/08 Gutenous Guardians/Session 66.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 66</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 26.md" data-href="Session Notes/03 The Worst Diplomates/Session 26.md" href="Session Notes/03 The Worst Diplomates/Session 26.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 26</a></span></span> |
 
 
 ### Overview

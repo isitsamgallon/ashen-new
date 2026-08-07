@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-06-28T12:45:26.458+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Sorcerer/Bard","Nation":"Uvam Dynasty","town":"Yokotori","Nickname":["Mord","Twink"],"icon":"party","aliases":["Mord","Mordecai","Paul (In Gregs)","Twink","Dave Healthyton (As a health Inspector)"],"faction":["The Party"],"race":"Tiefling","Cover":"[MordProfilePicNEW.jpeg](/img/user/Admin/Attachments/MordProfilePicNEW.jpeg)"}}
+{"dg-publish":true,"permalink":"/the-party/mordecai-reverence/","updated":"2026-08-07T10:59:33.200+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Sorcerer/Bard","Nation":"Uvam Dynasty","town":"Yokotori","Nickname":["Mord","Twink"],"icon":"party","aliases":["Mord","Mordecai","Paul (In Gregs)","Twink","Dave Healthyton (As a health Inspector)"],"faction":["The Party"],"race":"Tiefling","Cover":"[MordProfilePicNEW.jpeg](/img/user/Admin/Attachments/MordProfilePicNEW.jpeg)"}}
 ---
 
 
@@ -46,8 +46,8 @@
 >Languages | Common, Infernal, Draconic|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 > - [[Other Information/Unique Items/Mantel of Flames\|Mantel of Flames]]
+> - [[Other Information/Unique Items/Tomentum Vitreum\|Tomentum Vitreum]]
 > 
 { .block-language-dataview}
 

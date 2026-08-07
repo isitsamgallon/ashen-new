@@ -1,18 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/orrery-compass/","tags":["halfbieitem"],"updated":"2026-07-24T13:50:52.754+01:00","dg-note-properties":{"tags":["halfbieitem"],"itemdesc":"A small mechanical compass filled with tiny rotating brass planets. The compass can be used as a spellcasting focus.","slot":"Item","item":"Wondrous Item","rarity":"Rare","require":"No Requirement","charges":"2","properties":["Compass","Magical"],"Recharge":"Recharges 1 charge when left out under the Moon","value":" 12,000 - 18,000 gp"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/orrery-compass/","tags":["halfbieitem"],"updated":"2026-08-07T11:07:53.815+01:00","dg-note-properties":{"tags":["halfbieitem"],"itemdesc":"A small mechanical compass filled with tiny rotating brass planets. The compass can be used as a spellcasting focus.","slot":"Item","item":"Wondrous Item","rarity":"Rare","require":"No Requirement","charges":"2","properties":["Compass","Magical"],"Recharge":"Recharges 1 charge when left out under the Moon","value":" 12,000 - 18,000 gp","belong":"Halfbie"}}
 ---
 
-**Item (Wondrous Item) | Rare | No Requirement** 
-A small mechanical compass filled with tiny rotating brass planets. The compass can be used as a spellcasting focus.
-_____________
-------
+> [!infobox]
+> #  Orrery Compass
+> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ###### General Information
+> | Type | Info |
+> | :----: | :---: |
+> | Type  | Item (Wondrous Item) |
+> | Rarity | Rare |
+> | Attunement | No Requirement |
+> ##### Usage
+> | Type | Info |
+> | :----: | :---: |
+> | Charges | 2 |
+> | Properties | Compass,Magical |
+> | Recharge | Recharges 1 charge when left out under the Moon |
+> | Value |  12,000 - 18,000 gp | 
+> ##### 
+> | Basic Description |
+> | :----: |
+> | A small mechanical compass filled with tiny rotating brass planets. The compass can be used as a spellcasting focus. |
+> #####
+> | Belongs To |
+> | :----: |
+> | Halfbie |
 
-**Charges**: 2
-**Properties**: Compass,Magical
-**Recharge**: Recharges 1 charge when left out under the Moon
-**Value**:  12,000 - 18,000 gp 
-
-----
 
 ### Features
 **Once per long rest, you may ask the compass one of the following:**
