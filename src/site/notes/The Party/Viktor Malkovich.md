@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-07-11T12:06:23.840+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"[ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-08-10T12:53:26.210+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"[ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
 ---
 
 
@@ -13,7 +13,7 @@
 >  Race | [[Other Information/Races/Dhampir\|Dhampir]] |
 >  Nationality | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >  Class | Cleric |
->  Subclass | The Grave Domain |
+>  Subclass | [[Other Information/Classes/cleric-grave-domain-xge\|Grave Domain]] (Previous) [[Other Information/Classes/cleric-twilight-domain-tce\|Twilight Domain]] (Current)|
 >  Age | 144 |
 >  Alignment | Lawful Good|
 >  Pronouns | He/Him |
@@ -51,7 +51,7 @@ Hailing from the bleak expanse of [[Locations/The Deadlands/The Deadlands\|The D
 Viktor has appeared to be a kind and caring doctor. 
 
 ### Description
-Viktor is a travelling doctor. His features are slightly vampiric with sharp jawline and hollow cheeks. He has pointed ears and black short hair with grey streaks running through them. He looks around middle aged with definite signs of aging and he's rather thin. He wears round red tinted glasses and has a ruffled cloak of dull feathers and down grants around his shoulders connected via a clasp in the shape of a small skull around his neck.
+Viktor is a travelling doctor. His features are slightly vampiric with sharp jawline and hollow cheeks. He has pointed ears and black short hair with grey streaks running through them. He looks around middle aged with definite signs of aging and he's rather thin. He wears round red tinted glasses and has a ruffled [[Other Information/Unique Items/Viktor's Cloak\|cloak]] of dull feathers and down grants around his shoulders connected via a clasp in the shape of a small skull around his neck.
 
 ### Backstory Summary
 Viktor's backstory hasn't been revealed yet. 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/edge-of-the-onyx-sands/","updated":"2026-08-07T11:28:51.105+01:00","dg-note-properties":{"tags":null,"itemdesc":"A Black Steel dagger, once belonging to the Black Cult.","slot":"Hand","item":"Weapon (Dagger)","rarity":"Very Rare","require":"Required","charges":1,"properties":["Finesse","Light","Thrown"],"Recharge":"Regains 1 charge on a Long Rest","value":"Unknown","attacktype":"Melee","damage":"1d4+6 & 2 Necrotic Damage","damagetype":["Slashing","Piercing","Necrotic"],"belong":"Aiden Knight"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/edge-of-the-onyx-sands/","updated":"2026-08-10T13:07:50.192+01:00","dg-note-properties":{"tags":null,"itemdesc":"A Black Steel dagger, once belonging to the Black Cult.","slot":"Hand","item":"Weapon (Dagger)","rarity":"Very Rare","require":"Required","charges":1,"properties":["Finesse","Light","Thrown"],"Recharge":"Regains 1 charge on a Long Rest","value":"Unknown","attacktype":"Melee","damage":"1d4+6 & 2 Necrotic Damage","damagetype":["Slashing","Piercing","Necrotic"],"belong":"Aiden Knight"}}
 ---
 
 > [!infobox]
 > #  Edge of the Onyx Sands
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![c841aeeecf3eed79d715ece960a8675c.jpg](/img/user/Admin/Attachments/c841aeeecf3eed79d715ece960a8675c.jpg)
 > ###### General Information
 > | Type | Info |
 > | :----: | :---: |

@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-07-12T10:52:06.316+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-08-10T12:32:44.032+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
 ---
+
+>[!Recite]   Notes With Similar Names
+> This note contains information on the player character 'Chenris Tallfellow ‡'. For information on him after his ascension to Godhood in [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]] please refer to the note titled '[[Gods & Heralds/Chenris/Chenris\|Chenris]]'.
 
 >[!Recite]   Note
 >This is a very long note as [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] started playing with the idea that [[Locations/Strixhaven/Strixhaven\|Strixhaven]] was possible keeping an eye on him so this is the dossier that they held on him. 
@@ -8,16 +11,16 @@
 > [!infobox]
 > 
 > # Chenris Tallfellow
-> ![IMG_0309.jpg\|cover hsmall](/img/user/Admin/Attachments/IMG_0309.jpg)
+> ![IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)
 > ###### Basic Information
 > 
 >  Type | Stat |
 > :----: | --- |
->  Race | Half-Eladrin |
+>  Race | Half-[[Other Information/Races/Eladrin\|Eladrin]] |
 >  Nationality | [[Locations/Strixhaven/Strixhaven\|Strixhaven]] |
->  Class | Cleric/ Artificer |
->  Subclass | Death Domain/ None Selected |
->  Age | 81 |
+>  Class | [[Other Information/Classes/cleric\|Cleric]]/ [[Other Information/Classes/artificer-tce\|Artificer]] |
+>  Subclass | [[Other Information/Classes/cleric-death-domain\|Death Domain]]/ None Selected |
+>  Age | 81(at time of death) |
 >  Alignment | Lawful Neutral |
 >  Pronouns | He/ Him |
 >  Family | Unnamed Parents, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] (Father Figure) |
@@ -38,19 +41,22 @@
 >Senses | Darkvision 60ft |
 >Languages | Common, Ancient Dwarfish, Elvish, Primordial, Undercommon|
 >
->Traits |
->---|
->Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.
+>| Traits |
+>| :---: |
+>|Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
+> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
 > 
 { .block-language-dataview}
 
 
  > [!Quote|author] Chenris Tallfellow <br>[[Session Notes/03 The Worst Diplomates/Session 25\|Session 25]]
 > “You all annoyed me more than I ever thought possible… but you were also the greatest honour of my life. I don’t deserve the time we had, but I’m grateful for it all the same. The gods will judge you one day, but don’t let their arrogance weigh on you. Their sins outnumber your own a thousandfold... I know I was never a hero like any of you and probably never could be… but if this is how I make amends for my mistakes by giving my life so you can live… then maybe I can leave behind something more than just a trail of failures. Be great. Be better than I ever was."
+
+ > [!Quote|author] Chenris Tallfellow to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] <br>[[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]
+> “Between the heavens and the earth, you alone are the one I hate the most. There is not a level of hell I would not willingly descend to if I were told you would have to join me there. When I am through with you, I will reduced down to nothing a fun fact whispered amongst bored co-workers becasue will have broken you in such a beautiful way, you would have thanked me for it. I'll see you in hell."
 
 ### Overview
 Chenris Tallfellow is a Half-Eldarin who used to live and study at [[Locations/Strixhaven/Strixhaven\|Strixhaven]]. He was a Cleric/ Artificer Multi-class and was among the original 3 members of [[Other Information/Display Tags/The Party\|The Party]] that awoke in the dungeons of [[Groups & Factions/Religious Organisations/The Red Cult\|The Red Cult]]. He is known for his sharp wit and even sharper tongue, Chenris was the brains of the party, often researching and figuring out solutions to whatever situation the party found themselves in. He was notability from a noble lineage, however, he refused to elaborate on how. Played by [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]].
@@ -67,6 +73,21 @@ Chenris' appearance takes on the colourful form associated with the Eldarin when
 Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of Eladrin nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]. 
 
 Later on, Leotoris was one of the stewards on a field trip to a local dungeon. Chenris begged his beloved teacher to let him tag along who eventually relented and snuck him onto the trip. This trip was designed for a much more advanced class than Chenris so it was no surprise when he accidentally activated a trap. Leotoris dove in between them and the trap at the last second, sparing Chenris but leaving the professor with lethal injuries. With his dying breath, he passed Chenris [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] and begged him to solve the problem on it. 
+
+### Quotes
+| §                                       | Quote                                                                                                                                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                         |
+| [[Other Information/Quotes\|Quotes]] | "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]]                                                                     |
+| [[Other Information/Quotes\|Quotes]] | "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]                                                                                    |
+| [Quotes]] | " It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡](/img/user/Other%20Information/Quotes.md) |
+| [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                        |
+| [[Other Information/Quotes\|Quotes]] | "I am definitely proposing the library" _boing_ - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                |
+| [[Other Information/Quotes\|Quotes]] | "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                         |
+| [[Other Information/Quotes\|Quotes]] | "I understand you want that tiefling bussy" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                    |
+
+{ .block-language-dataview}
+
 
 ### Dossier Reports on Chenris Tallfellow
 **Background Overview:**
@@ -155,7 +176,7 @@ Subject displayed extreme emotional distress upon encountering a burning library
 Subject was instrumental in uncovering the duplicitous nature of the [[Groups & Factions/Ivory Crest\|Ivory Crest]] guild, though his reckless decision to investigate their premises nearly resulted in catastrophic consequences for the team. Despite warnings from allies, he proceeded to engage with dangerous elements of the guild, leading to the brainwashing of one of his companions (Drache).
 
 **Interaction with Deities & Temples**
-During visits to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s and [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]’s temples, the subject was offered crucial information in exchange for forgetting his origins. His eventual decision to compromise knowledge of his family’s history reflects his growing ambivalence toward his past, signaling a significant shift in his values.
+During visits to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]'s and [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]’s temples, the subject was offered crucial information in exchange for forgetting his origins. His eventual decision to compromise knowledge of his family’s history reflects his growing ambivalence toward his past, signaling a significant shift in his values.
 
 **Encounter with [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]**
 In a subsequent encounter within the criminal underworld, subject’s behavior became increasingly erratic. His obsession with arcane knowledge pushed him to recklessly pursue information, leading [[Other Information/Display Tags/The Party\|The Party]] into a notorious establishment run by dangerous figures. His involvement in the rescue of [[Aidan Knight\|Aidan Knight]] during this episode highlights his resourcefulness but also his growing disregard for personal safety.
@@ -376,19 +397,6 @@ Headmaster of [[Locations/Strixhaven/Strixhaven\|Strixhaven]], Academy of Magics
 
 
 
-### Quotes
-| §                                       | Quote                                                                                                                                                                     |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                         |
-| [[Other Information/Quotes\|Quotes]] | "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]]                                                                     |
-| [[Other Information/Quotes\|Quotes]] | "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]                                                                                      |
-| [Quotes]] | " It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡](/img/user/Other%20Information/Quotes.md) |
-| [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                        |
-| [[Other Information/Quotes\|Quotes]] | "I am definitely proposing the library" _boing_ - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                |
-| [[Other Information/Quotes\|Quotes]] | "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                         |
-| [[Other Information/Quotes\|Quotes]] | "I understand you want that tiefling bussy" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                    |
-
-{ .block-language-dataview}
 
 ### Trivia
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 

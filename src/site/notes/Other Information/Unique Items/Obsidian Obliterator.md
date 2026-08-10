@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","updated":"2026-08-07T11:28:04.339+01:00","dg-note-properties":{"tags":null,"itemdesc":"A large black Obsidian greatsword","slot":"Hand","item":"Weapon (greatsword)","rarity":"Rare","require":"No Requirement","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"2d6+5","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/obsidian-obliterator/","updated":"2026-08-10T13:05:25.774+01:00","dg-note-properties":{"tags":null,"itemdesc":"A large black Obsidian greatsword","slot":"Hand","item":"Weapon (greatsword)","rarity":"Rare","require":"No Requirement","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"2d6+5","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
 ---
 
 > [!infobox]
 > #  Obsidian Obliterator
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![Pasted image 20260810130523.png](/img/user/Admin/Attachments/Pasted%20image%2020260810130523.png)
 > ###### General Information
 > | Type | Info |
 > | :----: | :---: |

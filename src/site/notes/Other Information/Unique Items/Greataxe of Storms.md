@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","updated":"2026-08-07T11:27:57.681+01:00","dg-note-properties":{"tags":null,"itemdesc":"A +2 Greataxe with a black steel crescent heads with metallic blue streaks.","slot":"Hand","item":"Weapon (greataxe)","rarity":"Very Rare","require":"Required","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"1D12+5 & 2D6 Lightning Damage","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/greataxe-of-storms/","updated":"2026-08-10T13:03:45.605+01:00","dg-note-properties":{"tags":null,"itemdesc":"A +2 Greataxe with a black steel crescent heads with metallic blue streaks.","slot":"Hand","item":"Weapon (greataxe)","rarity":"Very Rare","require":"Required","charges":"No charges","properties":["Heavy","Two-Handed"],"Recharge":"N/A","value":" gp","attacktype":"Melee","damage":"1D12+5 & 2D6 Lightning Damage","damagetype":"Slashing","belong":"Wurinn 'Drache' Fuuldrusch"}}
 ---
 
 > [!infobox]
 > #  Greataxe of Storms
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![Pasted image 20260810130343.png](/img/user/Admin/Attachments/Pasted%20image%2020260810130343.png)
 > ###### General Information
 > | Type | Info |
 > | :----: | :---: |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-15/","updated":"2026-06-28T20:34:30.228+01:00","dg-note-properties":{"Summary":"Chenris destroyed the Ishnmel Tower’s crystal despite Mordecai’s desperate attempts to stop him, collapsing the tower and feeding its power to Terathra. In the aftermath, painful backstories were revealed, but trust within the party continued to fracture.","type":"session","sessionNum":"15","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
+{"dg-publish":true,"permalink":"/session-notes/03-the-worst-diplomates/session-15/","updated":"2026-08-09T20:09:24.660+01:00","dg-note-properties":{"Summary":"Chenris destroyed the Ishnmel Tower’s crystal despite Mordecai’s desperate attempts to stop him, collapsing the tower and feeding its power to Terathra. In the aftermath, painful backstories were revealed, but trust within the party continued to fracture.","type":"session","sessionNum":"15","part":"3rd Saga - The Worst Diplomates","icon":"session"}}
 ---
 
 # Session Summary
@@ -65,7 +65,7 @@ Back at the Adventurers Guild, Mordecai confronts Chenris about his obsessive pu
 
 (x::After some time like this, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]] was going on a field trip to a local dungeon that [[Locations/Strixhaven/Strixhaven\|Strixhaven]] had wrapped nearby. Having never really been out of the confines of the city, Chenris begged to go on the trip. Leotoris finally relented and snuck his name on the list. Unfortunately, because Chenris was inexperienced with dungeons, he accidentally triggered a trap, but at least in the second, Leotoris jumped in, saved him, and died in his place. With his dying breath, he passed him [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] and said, "Learn all the secrets of this world and solve this problem, if it's the last thing you do.")
 
-(x::However, the memory was so traumatic for Chenris that he completely forgot the details of his professor's death. For ages, he walked around with a hole in his memory until he was contacted by [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] to make a deal. He was allowed to learn anything he liked and chose to learn about the gap in his knowledge. Remembering everything, Chenris was reinvigorated to learn all he could.)
+(x::However, the memory was so traumatic for Chenris that he completely forgot the details of his professor's death. For ages, he walked around with a hole in his memory until he was contacted by [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] to make a deal. He was allowed to learn anything he liked and chose to learn about the gap in his knowledge. Remembering everything, Chenris was reinvigorated to learn all he could.)
 
 (x::Directly after Leotoris's death, the field trip was wrapped up early, and by the time Chenris got back onto school grounds, Leotoris's classroom and belongings had already been scrubbed clean. The only thing left of his beloved professor was the note he gave Chenris.)
 

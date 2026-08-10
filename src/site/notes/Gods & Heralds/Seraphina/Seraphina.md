@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2025-10-17T21:06:35.024+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-08-09T20:09:23.393+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
 ---
 
 > [!infobox]
@@ -27,7 +27,7 @@ carry. She does not promise to fix all things - only that none will be left to s
 ### General Information
 Although there is no distinction between the moral standing of the deities, she often considered the closet to being a 'moral good' God. It seems she has temples in most major cities that can be used to access healing. 
 
-Each of her temples has a [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]], which also acts as her [[Gods & Heralds/Herald\|Herald]], that provides all the healing for the people in place of Seraphina since she is unable to enter [[Locations/The Amber Realms\|The Amber Realms]]. It was revealed early on that Seraphina hates [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]].
+Each of her temples has a [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]], which also acts as her [[Gods & Heralds/Herald\|Herald]], that provides all the healing for the people in place of Seraphina since she is unable to enter [[Locations/The Amber Realms\|The Amber Realms]]. It was revealed early on that Seraphina hates [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]].
 
 ### Divine Attributes
 - Seraphina is the goddess of Compassion, Healing, Protection, Mercy, and Fate- a radiant presence who soothes sorrow, shields the vulnerable, and guides the wounded toward hope. She walks the threads of destiny with gentle hands, offering grace where others might bring judgment.
@@ -40,7 +40,7 @@ Seraphina, goddess of Compassion, Healing, Protection, and Fate, is the gentle h
 
 One such moment is enshrined in the tale of a dying queen, her people on the brink of collapse. Seraphina, moved by the queen's unwavering devotion to peace, descended in silence and healed her. The queen lived, and her reign ushered in an age of harmony that echoed  across generations. Such is Seraphina's way-quiet, rare, and utterly transformative.
 
-She is also known as The Mother of Duality, for from  her were born two of the most powerful gods: [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], the Bringer of Light, and [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], the Harbinger of Chaos. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] she adores and often visits in the radiant Golden Plane, where mother and daughter share wisdom beyond time. But [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] is her sorrow-a child born of grief, who twisted the flow of time into disorder. Yet even in her heartbreak, Seraphina's love endures. She does not shun him, but watches with aching hope that he may one day return to her light.
+She is also known as The Mother of Duality, for from  her were born two of the most powerful gods: [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]], the Bringer of Light, and [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], the Harbinger of Chaos. [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] she adores and often visits in the radiant Golden Plane, where mother and daughter share wisdom beyond time. But [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] is her sorrow-a child born of grief, who twisted the flow of time into disorder. Yet even in her heartbreak, Seraphina's love endures. She does not shun him, but watches with aching hope that he may one day return to her light.
 
 Her will is most often made manifest through her heralds, the Compassionate Angels-divine beings in the form of harpies, reborn as radiant messengers of healing and mercy. Where they pass, the air grows warm, the scent of blossoms fills the breeze, and suffering yields to serenity. One tale tells of a village stricken by plague, its people near death, when an Angel descended in light and cured them all with a single breath. Since then, the villagers have tended a shrine of lilies in her honour, never letting it wilt.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-06-28T20:34:31.284+01:00","dg-note-properties":{"Summary":"The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-08-09T20:09:25.804+01:00","dg-note-properties":{"Summary":"The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -149,6 +149,6 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 [^4]: Everyone looks at [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] due to [[Kal †\|Kal †]] setting fire to a forest in the [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]] when [[Other Information/Display Tags/The Party\|The Party]] was attacked by the [[Groups & Factions/Goblin Mafia\|Goblin Mafia]]. NOTE: [[The Party/Halfbie\|Halfbie]] is unaware of this at the time.
 
-[^5]: This is in reference to [[The Party/Halfbie\|Halfbie]] giving away that information in a deal with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]]
+[^5]: This is in reference to [[The Party/Halfbie\|Halfbie]] giving away that information in a deal with [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] in [[Session Notes/04 Ignatius Beckons/Session 36\|Session 36]]
 
 [^6]: [[The Party/Halfbie\|Halfbie]] is 21 years-old

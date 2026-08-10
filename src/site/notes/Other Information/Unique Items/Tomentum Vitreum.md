@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","updated":"2026-08-07T10:53:36.658+01:00","dg-note-properties":{"belong":"Mordecai Reverence","itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally. See Recharge section for more details","value":"12,000-18,000 gp"}}
+{"dg-publish":true,"permalink":"/other-information/unique-items/tomentum-vitreum/","updated":"2026-08-10T13:13:27.157+01:00","dg-note-properties":{"belong":"Mordecai Reverence","itemdesc":"A thin band of smoky glass shot through with hairline cracks that glow faintly when you draw blood.","slot":"Ring","item":"Wondrous Item","rarity":"Very Rare","require":"Required","charges":"10","properties":["Ring","Magical"],"Recharge":"This ring does not recharge naturally. See Recharge section for more details","value":"12,000-18,000 gp"}}
 ---
 
 > [!infobox]
 > #  Tomentum Vitreum
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![17i1549zll1d1.png](/img/user/Admin/Attachments/17i1549zll1d1.png)
 > ###### General Information
 > | Type | Info |
 > | :----: | :---: |

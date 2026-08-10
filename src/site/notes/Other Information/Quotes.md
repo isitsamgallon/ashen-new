@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2026-01-20T22:39:07.893+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/quotes/","updated":"2026-08-09T20:09:23.966+01:00","dg-note-properties":{}}
 ---
 
 A collection Quotes said during DND Sessions. 
@@ -30,7 +30,7 @@ A collection Quotes said during DND Sessions.
 (x::  "I am big and fast" - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x::  "I Buried a lot of bodies in the past. I'm not proud of any of it. I hate myself for it." - [[The Party/Wurinn Fuuldrusch\|Drache]])
 (x:: IT'S THE BLACK MAN!! - [[The Party/Aiden Knight\|Aiden Knight]])
-(x:: "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]])
+(x:: "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]])
 (x::" It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]])
 (x:: "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]])
 (x:: "We are not friends" - as [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] DIES IN FRONT ON HIM)

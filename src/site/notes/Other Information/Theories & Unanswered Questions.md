@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2026-06-28T20:34:30.068+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2026-08-09T20:09:24.128+01:00","dg-note-properties":{}}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -7,7 +7,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 ### Unanswered Questions
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] care for us so much, and what is his plan?
 - [ ] Who is [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?
-- [ ] why is [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] responsible for [[Other Information/Display Tags/The Party\|The Party]]'s level-ups?
+- [ ] why is [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] responsible for [[Other Information/Display Tags/The Party\|The Party]]'s level-ups?
 - [x] how did [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]] end up in [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]]?  [completion:: 2025-12-12]
 - [ ] Who was the strange druid near the start of the campaign?
 - [ ] What is the portal magic that every overpowered character uses?
@@ -45,7 +45,7 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] was behind [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] resurrection 
   
 ### Incorrect Theories
-- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Other Information/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]], [[The Party/Aiden Knight\|Aiden Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[Kal †\|Kal †]]
+- [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] had a theory that each member of [[Other Information/Display Tags/The Party\|The Party]] would become associated with a God at the beginning of the campaign. [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] with [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]], [[The Party/Aiden Knight\|Aiden Knight]] with [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]], [[The Party/Mordecai Reverence\|Mordecai Reverence]] with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]], [[The Party/Wurinn Fuuldrusch\|Drache]] with [[Gods & Heralds/Eldros/Eldros\|Eldros]] or [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] - they just couldn't place [[Kal †\|Kal †]]
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thought [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was rewarded by a powerful group like [[Groups & Factions/The Auditors\|The Auditors]] for leading the charge in the sundering and keeping the balance of the gods. OR he found a way with dark magic to extend his life so he could be with [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] before she rejected him for [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]].
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks that [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] went mad because he was researching [[Other Information/The Towers\|Other Information/The Towers]] and accidentally absorbed some of their energy and couldn't take it. - this was explained by [[Named Characters & Beasts/Important Characters/Haldir Heleyarus\|Haldir Heleyarus]] in [[Session Notes/04 Ignatius Beckons/Session 31\|Session 31]]/ [[Session Notes/04 Ignatius Beckons/Session 32\|Session 32]]
 

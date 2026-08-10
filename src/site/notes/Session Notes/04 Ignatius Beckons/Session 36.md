@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-36/","updated":"2025-09-25T18:00:35.012+01:00","dg-note-properties":{"Summary":"Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":36,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-36/","updated":"2026-08-09T20:09:25.602+01:00","dg-note-properties":{"Summary":"Mordecai chose mercy over revenge, sparing his father and reconciling with his past. The party uncovered cryptic divine interference and discovered the Wall's eerie magical guardians while racing to find Emmeline.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":36,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 14th Apr 2025
@@ -147,11 +147,11 @@ As she turned to face them, she simply said, 'Find me.' before the dream dispatc
 
 [[The Party/Halfbie\|Halfbie]] took a seat and began to think; [[The Party/Mordecai Reverence\|Mordecai]] half-sarcastically laughed at what the wise man was feeling and told him to be quiet. [[The Party/Halfbie\|Halfbie]] opened their eyes and said that because they couldn't figure out where the portal went, it must mean it took Emmaline somewhere not in their realm. They then began to examine the magical residue more and to try and learn which realm she went to. 
 
-(X:: As they did so, a golden feeling began to gnaw at the back of their head. They instantly accepted, and when they opened their eyes, they found themselves in [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] 's Library. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] stood before them, and Chenris stood beside her, although he refused to speak when [[The Party/Halfbie\|Halfbie]] said hi. )
+(X:: As they did so, a golden feeling began to gnaw at the back of their head. They instantly accepted, and when they opened their eyes, they found themselves in [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] 's Library. [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] stood before them, and Chenris stood beside her, although he refused to speak when [[The Party/Halfbie\|Halfbie]] said hi. )
 
-(X:: "oh, well, I guess it's time for our second deal, [[The Party/Halfbie\|Halfbie]]. Well, we've made one before, didn't we?" [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] said with a smirk.)
+(X:: "oh, well, I guess it's time for our second deal, [[The Party/Halfbie\|Halfbie]]. Well, we've made one before, didn't we?" [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] said with a smirk.)
 
-(X:: [[The Party/Halfbie\|Halfbie]], a bit confused, said it wasn't really a deal and that they would always be happy to have a friend with them. They both ignored Chenris, who was obviously rolling his eyes. [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] explained that that was the deal, but it didn't matter now. Halfbies looked at their hands before exclaiming, "I'm a businessman!!")
+(X:: [[The Party/Halfbie\|Halfbie]], a bit confused, said it wasn't really a deal and that they would always be happy to have a friend with them. They both ignored Chenris, who was obviously rolling his eyes. [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] explained that that was the deal, but it didn't matter now. Halfbies looked at their hands before exclaiming, "I'm a businessman!!")
 
 (X:: "Anyway, I will tell you exactly where [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline\|Emmeline]] and who the other Ronin is. Exchange for... I've got to think now... In exchange for knowledge of the lands which you came from.")
 

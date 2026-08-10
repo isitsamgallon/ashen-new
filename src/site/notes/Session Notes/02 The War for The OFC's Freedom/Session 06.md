@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-06/","updated":"2025-08-29T22:44:56.843+01:00","dg-note-properties":{"Summary":"We travel to The Dawn Empire, have a run-in with Ivory Crest and meet the Emperor for the first time.","type":"session","sessionNum":"06","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
+{"dg-publish":true,"permalink":"/session-notes/02-the-war-for-the-ofc-s-freedom/session-06/","updated":"2026-08-09T20:09:24.385+01:00","dg-note-properties":{"Summary":"We travel to The Dawn Empire, have a run-in with Ivory Crest and meet the Emperor for the first time.","type":"session","sessionNum":"06","part":"2nd Saga - The War for The OFC's Freedom","icon":"session"}}
 ---
 
 
@@ -25,12 +25,12 @@ Immediately any negative thought of the Ivory Crest was replaced with love and a
 
 Mordecai has to play the “I’m sick you have to look after me” card to hit the mum friend overdrive and is then violently hungover and vomits everywhere fr lol.
 
-They rest in the adventurers guild and venture to the temple of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] to try and cure Drache. Chenris decides to go to [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s temple instead and walks the correct direction to get there (the rest of the party was shaken). 
+They rest in the adventurers guild and venture to the temple of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] to try and cure Drache. Chenris decides to go to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]'s temple instead and walks the correct direction to get there (the rest of the party was shaken). 
 
 ### [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]'s Temple
 (x:: The two big Rizzmeisters (Korrigan and Mordecai) drag Drache to the temple to ask for her help in fixing him. Seraphina says that it interferes too much for her to do so but fixes Mordecais killer hangover. Korrigan then remembers the celestial phrase that Terrance Witherfeather used when he freed Korrigan from the ivory Crest years ago and found that it kinda put Drache into stasis.)
 
-### [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s Temple
+### [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]'s Temple
 (x:: Chenris and Aidan went to Aeloria’s temple and Chenris was offered the exact location of the wizard in exchange for him not remembering where he was from. Chenris renegotiated with the Goddess for a more general location of where Terrance was in exchange for his knowledge of his family home.)
 
 (x:: They reconvene and go talk to [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] to talk politics. [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] greets them there and warns them not to bullshit anything and Chenris does all the appropriate etiquette things because turns out he was a Nobel this entire time)

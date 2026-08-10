@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2025-08-11T11:53:31.380+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"icon":"god"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2026-08-09T20:09:23.414+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"icon":"god"}}
 ---
 
 ### Overview
 Many of the mortals in the [[Locations/The Amber Realms\|The Amber Realms]] worship one of the many deities, with each follower often mimicking the god they worship. 
 
-### [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]
+### [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]
 Her followers are seekers of truth-scholars, sages, and visionaries who devote their lives to the pursuit of knowledge. They believe that wisdom is the purest form of light, capable of dispelling even the deepest darkness.
 
 ### [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]] 

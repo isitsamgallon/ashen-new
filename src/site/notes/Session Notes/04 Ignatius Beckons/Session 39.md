@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2025-08-29T22:44:57.914+01:00","dg-note-properties":{"Summary":"The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.","Part":"Season 4 - Ignatius Beckons","type":"session","sessionNum":39,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"tags":["LevelUp"],"part":"4th Saga - Ignatius Beckons"}}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-39/","tags":["LevelUp"],"updated":"2026-08-09T20:09:25.968+01:00","dg-note-properties":{"Summary":"The party returns to Oceanvale, discovering a town plagued by exhaustion and disappearances. In a grim cave outside the city, they face and defeat the returning Herald, the Angel Under the Well.","Part":"Season 4 - Ignatius Beckons","type":"session","sessionNum":39,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"tags":["LevelUp"],"part":"4th Saga - Ignatius Beckons"}}
 ---
 
 # Session Information
@@ -76,4 +76,4 @@ Upon reaching Oceanvale, the city was revealed to be a near-empty fishing villag
 (x:: They charge one enough, and after a long and difficult fight, The "Fatebreakers finally defeat "the [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]]. As "its body began to fade away, it snarled its final words, "You will never truly kill me, I will be back, and you will die a painful death.")
 
 # Footnotes
-[^1]: For those that are curious, [[The Party/Halfbie\|Halfbie]] saw the following people:  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]] and [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]. 
+[^1]: For those that are curious, [[The Party/Halfbie\|Halfbie]] saw the following people:  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]], [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] and [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]. 

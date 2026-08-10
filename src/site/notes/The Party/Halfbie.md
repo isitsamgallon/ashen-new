@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-08-07T11:12:02.180+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"[halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-08-10T13:19:26.311+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"[halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)"}}
 ---
 
 
@@ -13,8 +13,8 @@
 >| :----: | --- |
 >| Race | [[Other Information/Races/Eladrin\|Eladrin]] |
 >| Nationality | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] |
->| Class | Wizard/ Artificer |
->| Subclass | Order of Scribes/ Artillerist |
+>| Class | [[Other Information/Classes/wizard\|Wizard]]/ [[Other Information/Classes/artificer-tce\|Artificer]] |
+>| Subclass | [[Other Information/Classes/wizard-order-of-scribes-tce\|Order of Scribes]]/ [[Other Information/Classes/artificer-artillerist-tce\|Artillerist]] |
 >| Age | ~1300 (Mentally), 21(Physically) |
 >| Alignment | Seelie |
 >| Pronouns | Any |
@@ -39,6 +39,7 @@
 >##### Unique Items 
 > - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > 
 { .block-language-dataview}
 

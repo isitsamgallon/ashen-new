@@ -190,7 +190,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]]
 - [[Gods & Heralds/Ignatius/The Crucible Eternal\|The Crucible Eternal]]
 - [[Gods & Heralds/Lorwyn/The Feywilds (Domain)\|The Feywilds (Domain)]]
-- [[Gods & Heralds/Aeloria/The Golden Plane\|The Golden Plane]]
+- [[Gods & Heralds/Aeloria ‡/The Golden Plane\|The Golden Plane]]
 - [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]]
 - [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]]
 - [[Gods & Heralds/Eldros/The Verdant Equilibrium\|The Verdant Equilibrium]]

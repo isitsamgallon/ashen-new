@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:34:29.233+01:00","dg-note-properties":{"city type":"Building","Nation":"The Dawn Empire","tags":["Discovered","Tower"],"icon":"place","TS":"Destroyed"}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/the-all-father-temple/","tags":["Discovered","Tower"],"updated":"2026-08-09T20:09:23.653+01:00","dg-note-properties":{"city type":"Building","Nation":"The Dawn Empire","tags":["Discovered","Tower"],"icon":"place","TS":"Destroyed"}}
 ---
 
 ### Overview
@@ -18,10 +18,10 @@ Standing before the portal leading to [[Gods & Heralds/Chronovorus/Chronovorus\|
 
 At the back of the room, near the altar, a large disturbance in time rippled through the air like the surface of a disturbed pond. Crystals floated lazily around the disturbance, and [[The Party/Dead/Kal The Korrigan †\|Korrigan]]’s sharp eyes immediately recognized them. These were the same crystals that crowned the tops of [[Other Information/The Towers\|Other Information/The Towers]], remnants of the ancient magic that guarded the boundaries of time itself.
 
-### [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]'s Room
+### [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]'s Room
 The air around it shimmered with magic, as though the very fabric of reality was thinner here, fragile and delicate. Crossing the threshold, the room that greeted them was a place of quiet wonder and ethereal beauty. Books floated in mid-air, pages turning softly without being touched, the written words glowing faintly as though alive with knowledge. Scrolls drifted lazily, circling the room as if they had been weightless for centuries. The walls were lined with shelves that stretched into infinity, housing tomes that likely held the secrets of ages. It was a library not bound by the constraints of time or space. Everything here moved in a constant, gentle flow as if the room itself were a living, breathing thing.
 
-At the heart of the room, resting upon an ornate altar, was a shimmering orb of light. Its glow was soft but constant, casting the entire space in a golden hue. It looked almost identical to the one found in [[Gods & Heralds/Aeloria/Aeloria\|Aeloria]]’s grand library—radiating a silent power and wisdom that filled the room with reverence. The air hummed with the weight of untold knowledge, and anyone who entered knew this was a place where the ordinary laws of life and death could be bent, or even broken.
+At the heart of the room, resting upon an ornate altar, was a shimmering orb of light. Its glow was soft but constant, casting the entire space in a golden hue. It looked almost identical to the one found in [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]’s grand library—radiating a silent power and wisdom that filled the room with reverence. The air hummed with the weight of untold knowledge, and anyone who entered knew this was a place where the ordinary laws of life and death could be bent, or even broken.
 
 ### [[Gods & Heralds/Somnora/Somnora\|Somnora]]'s Room
 This room is unexplored.
