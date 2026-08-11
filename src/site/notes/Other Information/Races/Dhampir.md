@@ -44,6 +44,7 @@
 Dhampyrs, also known as daywalkers and sometimes dhampirs, were living creatures who had inherited some of the tainted blood of vampires.
 
 ### ### Known Dhampir
+- [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]]
 - [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}

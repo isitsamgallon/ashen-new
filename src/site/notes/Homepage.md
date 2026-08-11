@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-08-04T21:14:56.638+01:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage"}}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-08-11T11:36:31.097+01:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage","cssclasses":null}}
 ---
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 1100">
@@ -202,7 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                           | Saga                          | Summary                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]  | 9th Saga - Dangerous Deities  | The session is still being written by Sam.                                                                                                                                                                                                                                                                                                                                                               |
+| [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]  | 9th Saga - Dangerous Deities  | Chenris, secretly in control of Halfbie's body, hijacked the party's teleportation to the Deadlands, where he absorbed a tower-crystal's power and ascended to godhood, killing Aeloria with Chronovorus's help. After the battle, Chenris resurrected Halfbie and Viktor, with Halfbie waking up frantically searching for thing called Gil-Galad.                                                      |
 | [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]] | 8th Saga - Gutenous Guardians | The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him. |
 | [[Session Notes/08 Gutenous Guardians/Session 65\|Session 65]] | 8th Saga - Gutenous Guardians | The party grappled with the aftermath of Myst and the unnamed New Gods' death, with Halfbie struggling under Chenris's control while Mordecai and Halfbie spoke through song and puppet theater. As Viktor bargained with Chenris for information about Haldir's plans, Ebis Daro detected the scrying attempt and launched an assault on Blackwall with an Ash Spawn army and the terrifying aspect.    |
 | [[Session Notes/08 Gutenous Guardians/Session 64\|Session 64]] | 8th Saga - Gutenous Guardians | Halfbie loses their memories and briefly abandons the party, eventually rediscovering the truth through a surreal psychic encounter, while Mordecai uncovers Denola’s killer within Greg’s Bakery. As chaos erupts with a destroyed tower and a dying New God, the party is forced into a brutal decision, sacrificing a child to save countless lives.                                                  |
@@ -247,8 +247,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
@@ -256,8 +256,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
 | [[Books, Documents & Artefacts/An Incomplete Guide to the Gods\|An Incomplete Guide to the Gods]]                                                         | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/'Prince Of Fire' Flyer\|'Prince Of Fire' Flyer]]                                                                           | Low              | [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar\|The Pyromancer’s Legacy - The Chronicles of Kaelis Ignithar]] | Medium           | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult\|The Sundering - As told by The Ashen Cult]]                                     | Medium           | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Chronicles of the Grayfall Empire - A Dwarven Legacy\|The Chronicles of the Grayfall Empire - A Dwarven Legacy]]       | Medium           | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Divine Pillars & the World’s Mantle\|Divine Pillars & the World’s Mantle]]                                                 | Medium           | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                    | July 31, 2025 |
 
@@ -265,20 +265,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Admin/Sam's Play Ground\|Sam's Play Ground]]
-- [[Other Information/Display Tags/The Party\|The Party]]
-- [[The Party/Halfbie\|Halfbie]]
-- [[Other Information/Unique Items/Unique Items\|Unique Items]]
-- [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
+- [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]
+- [[Gods & Heralds/Celestial Planes\|Celestial Planes]]
+- [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]
+- [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]
+- [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]
 
 { .block-language-dataview}
 
 ### Recently Created
+- [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]]
 - [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]
 - [[Gods & Heralds/Chenris/Chenris\|Chenris]]
 - [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]]
 - [[Other Information/Races/Dhampir\|Dhampir]]
-- [[Named Characters & Beasts/Jane\|Jane]]
 
 { .block-language-dataview}
 
@@ -286,15 +286,15 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                              | Date of Tagging    |
-| ----------------------------------------------------------------- | ------------------ |
-| [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]  | August 09, 2026    |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]   | April 21, 2026     |
-| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]   | June 06, 2026      |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]               | July 11, 2026      |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]] | May 26, 2026       |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]    | September 27, 2025 |
-| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                    | August 09, 2026    |
+| Note                                                                 | Date of Tagging    |
+| -------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]      | April 21, 2026     |
+| [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]] | August 11, 2026    |
+| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]      | June 06, 2026      |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | September 27, 2025 |
+| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | August 09, 2026    |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026      |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026       |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2026-04-08T17:18:07.745+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"pronouns":"They/Them","occupation":null}}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/meta/sam-gallon/","tags":["Player"],"updated":"2026-08-11T13:41:03.585+01:00","dg-note-properties":{"tags":["Player"],"Nickname":null,"pronouns":"They/Them","occupation":null}}
 ---
 
 > [!infobox]
@@ -13,7 +13,7 @@
 > | Residence | Kent | 
 
 
-Primary Editor and Creator of This Archive. Also played [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and currently plays [[The Party/Halfbie\|Halfbie]] in the campaign. 
+Primary Editor and Creator of this Archive. Also played [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] and currently plays [[The Party/Halfbie\|Halfbie]] in the campaign. 
 
 ### Quotes
 | §                                       | Quote                                                                                            |

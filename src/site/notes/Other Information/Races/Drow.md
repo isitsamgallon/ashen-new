@@ -45,6 +45,7 @@
 Drow , also known as dark elves, deep elves, night elves, under-elves, and the Dark Ones among orcs, were a dark-skinned sub-race of elves that predominantly lived in the Underdark They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed. 
 
 ### ### Known Drow
+- [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]]
 - [[The Party/Viktor Malkovich\|Viktor Malkovich]]
 
 { .block-language-dataview}

@@ -24,7 +24,7 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 31.md" data-href="Session Notes/04 Ignatius Beckons/Session 31.md" href="Session Notes/04 Ignatius Beckons/Session 31.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 31</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/03 The Worst Diplomates/Session 15.md" data-href="Session Notes/03 The Worst Diplomates/Session 15.md" href="Session Notes/03 The Worst Diplomates/Session 15.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 15</a></span></span> |
 > | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" href="Session Notes/08 Gutenous Guardians/Session 64.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
 
 ### Overview
