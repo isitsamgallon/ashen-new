@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2026-08-07T11:03:28.095+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Barbarian/Paladin","Nation":"The Tulan Fort","town":"The Tulan Fort","aliases":["Drache","Wurinn 'Drache' Fuuldrusch"],"Nickname":["Drache"],"icon":"party","faction":["The Party","The Tulan Fort"],"race":"Dragonborn","gender":"Male","age":"Adult","Cover":"[DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/wurinn-fuuldrusch/","updated":"2026-08-12T12:30:59.678+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Barbarian/Paladin","Nation":"The Tulan Fort","town":"The Tulan Fort","aliases":["Drache","Wurinn 'Drache' Fuuldrusch"],"Nickname":["Drache"],"icon":"party","faction":["The Party","The Tulan Fort"],"race":"Dragonborn","gender":"Male","age":"Adult","Cover":"![DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)","Status":"Alive"}}
 ---
 
 

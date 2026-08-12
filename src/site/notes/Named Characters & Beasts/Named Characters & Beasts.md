@@ -17,7 +17,7 @@
 | [[Named Characters & Beasts/Important Characters/Kaelis Ignithar\|Kaelis Ignithar]]                                                                     | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                                                                          | Unknown/Unclear              | Unknown/Unclear             |
 | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]                                                                    | Unknown/Unclear              | Unknown/Unclear             |
-| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                                           | <ul><li>Ehobel</li></ul>     | Ishnmel                     |
+| [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]]                                                                           | Ehobel                       | Ishnmel                     |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]]                                                           | The Tulan Fort               | The Tulan Fort              |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †\|Professor Varitan Leotoris †]]                   | <ul><li>Strixhaven</li></ul> | Strixhaven Residential Area |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Uvam Dynasty                 | Yokotori                    |

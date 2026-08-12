@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-08-11T17:44:33.269+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"[IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-08-12T12:32:10.238+01:00","dg-note-properties":{"Status":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"![IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)","type":"Ascended"}}
 ---
 
 >[!Recite]   Notes With Similar Names

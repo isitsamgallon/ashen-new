@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-62/","updated":"2026-07-11T12:26:24.942+01:00","dg-note-properties":{"Summary":"The party returned to Blackwall with a million gold and a new commander, Kase, only to discover the three \"New God\" children now living in the tower. As Halfbie sleepwalked into covering their room with indecipherable magical theorems, Drache made a fey pact in his dreams, and Mordecai bonded with Cas, accepting her for who she is rather than trying to \"fix\" her.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":62,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-62/","updated":"2026-08-12T12:22:50.228+01:00","dg-note-properties":{"Summary":"The party returned to Blackwall with a million gold and a new commander, Kase, only to discover the three \"New God\" children now living in the tower. As Halfbie sleepwalked into covering their room with indecipherable magical theorems, Drache made a fey pact in his dreams, and Mordecai bonded with Cas, accepting her for who she is rather than trying to \"fix\" her.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":62,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"]}}
 ---
 
 # Session Information
@@ -101,13 +101,13 @@ That night brought disturbing developments: Halfbie woke to find their room cove
 
 (x::"Well, you know my room is right next door to yours, so if you need anyone to talk to that's not someone in your head then just say hi," [[The Party/Mordecai Reverence\|Mordecai]] said with a kind smile.)
 
-(x::"Oh i don't really talk with the guy upstairs... he's a [[The Party/Other Party Members/Familiars/Bit\|bit]] scary.")
+(x::"Oh i don't really talk with the guy upstairs... he's a [[The Party/Other Party Members/Familiars/Bits\|Bits]] scary.")
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] let out a knowing chuckle, "Ah we hated each other for a really long time...")
 
 (x::Before [[The Party/Mordecai Reverence\|Mordecai]] could finish what they were saying [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] pinged a [[Admin/Spells/Message\|message]] saying "Still do")
 
-(x::"See?" the mod said, gesturing to the [[Admin/Spells/Message\|message]]. "He was always an arsehole, but towards the end of his life, he changed a [[The Party/Other Party Members/Familiars/Bit\|bit]]. He wasn't kind by any means, but he seemed to have found his humanity... I also know how it feels to have things feel completely out of your control. If things start to feel that way, you know where I am")
+(x::"See?" the mod said, gesturing to the [[Admin/Spells/Message\|message]]. "He was always an arsehole, but towards the end of his life, he changed a [[The Party/Other Party Members/Familiars/Bits\|Bits]]. He wasn't kind by any means, but he seemed to have found his humanity... I also know how it feels to have things feel completely out of your control. If things start to feel that way, you know where I am")
 
 (x::"Do you feel out of control now?" asked [[The Party/Halfbie\|Halfbie]].)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-08-07T11:31:31.193+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","Cover":"[AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)"}}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-08-12T12:30:22.363+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","cover":"![AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)","Status":"Alive"}}
 ---
 
 > [!infobox]

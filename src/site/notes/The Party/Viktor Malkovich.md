@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-08-10T12:53:26.210+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"[ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-08-12T12:09:17.788+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"![ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)"}}
 ---
 
 

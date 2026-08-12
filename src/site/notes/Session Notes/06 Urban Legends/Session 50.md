@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2026-02-20T15:20:32.438+00:00","dg-note-properties":{"Summary":"The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":50,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2026-08-12T12:22:50.083+01:00","dg-note-properties":{"Summary":"The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":50,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -66,7 +66,7 @@ Leaving Seraphina’s realm, the party crossed back over the ancient bridge. Dur
 
 (x::[[Other Information/Display Tags/The Party\|The party]] silently waited towards the back until she beckoned them over. She spoke gently, but her tone made her sound bored. She greeted them and asked what they wanted.)  
 
-(x::"We have a [[The Party/Other Party Members/Familiars/Bit\|bit]] of a situation at the moment, and we were looking for some guidance, some help, " said [[The Party/Wurinn Fuuldrusch\|Drache]].)  
+(x::"We have a [[The Party/Other Party Members/Familiars/Bits\|Bits]] of a situation at the moment, and we were looking for some guidance, some help, " said [[The Party/Wurinn Fuuldrusch\|Drache]].)  
 
 (x::Seraphine nodded for him to continue, "We're currently in a place called [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], are you aware of what is happening there at the moment?")  
 

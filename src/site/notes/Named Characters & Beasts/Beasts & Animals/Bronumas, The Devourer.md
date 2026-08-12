@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2026-02-20T15:45:13.973+00:00","dg-note-properties":{"race":"Demon","aliases":["Bronumas"],"icon":"npc","role":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/beasts-and-animals/bronumas-the-devourer/","updated":"2026-08-12T12:22:49.611+01:00","dg-note-properties":{"race":"Demon","aliases":["Bronumas"],"icon":"npc","role":null,"pronouns":null}}
 ---
 
 > [!infobox]
@@ -24,7 +24,7 @@
 >Languages | Celestial, Draconic, Abyssal, Telepathy |
 
 ### Overview
-During [[Other Information/Display Tags/The Party\|the party]]'s second trip to [[Locations/Strixhaven/Strixhaven\|Strixhaven]], they ended up getting very drunk at a frat party. At the time [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s summons, [[The Party/Other Party Members/Familiars/Bit\|Bit]] and [[The Party/Other Party Members/Familiars/Bobs\|Bobs]], had been killed in a recent battle and required resummoning. unfortunately he attempted this while drunk at the party and while blacked out he accidentally summoned a demon that he married. 
+During [[Other Information/Display Tags/The Party\|the party]]'s second trip to [[Locations/Strixhaven/Strixhaven\|Strixhaven]], they ended up getting very drunk at a frat party. At the time [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s summons, [[The Party/Other Party Members/Familiars/Bits\|Bits]] and [[The Party/Other Party Members/Familiars/Bobs\|Bobs]], had been killed in a recent battle and required resummoning. unfortunately he attempted this while drunk at the party and while blacked out he accidentally summoned a demon that he married. 
 
 Once he woke up the next day Bronumas was happy to see their husband and couldn't wait for the wedding and honeymoon. [[The Party/Dead/Kal The Korrigan †\|Korrigan]] immediately broke off the engagement, much to Bronumas distain and threatened to have their brother beat up [[Other Information/Display Tags/The Party\|the party]]. 
 

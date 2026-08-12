@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-07-24T13:45:14.683+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/08-gutenous-guardians/session-66/","updated":"2026-08-12T12:22:50.403+01:00","dg-note-properties":{"Summary":"The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him.","Part":"8th Saga - Gutenous Guardians","type":"session","sessionNum":66,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -33,7 +33,7 @@ Viktor, separated from the party during the retreat, was confronted by Ebis Daro
 
 (x::"Barely!" [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer]] huffed "You were on the floor for five fucking minutes!")
 
-(x::"i needed a powernap" replied [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] curtly, "Sometimes when you're up late drawing arithmancy puns on the walls to frighten the mind you share a body with, it takes a little [[The Party/Other Party Members/Familiars/Bit\|bit]] out of you!!")
+(x::"i needed a powernap" replied [[The Party/Dead/Chenris Tallfellow ‡\|Chenris]] curtly, "Sometimes when you're up late drawing arithmancy puns on the walls to frighten the mind you share a body with, it takes a little [[The Party/Other Party Members/Familiars/Bits\|Bits]] out of you!!")
 
 (x::"Well maybe if you weren't such a cunt, you two would have a nicer time together!")
 

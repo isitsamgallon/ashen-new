@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2025-08-16T13:08:41.586+01:00","dg-note-properties":{"type":"Travelling","class":"Paladin","role":"Companion","town":"Iron Forge","Nation":"Dwarven Empire","Nickname":null,"icon":"npc","race":"Automaton"}}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/bruce/","updated":"2026-08-12T12:17:19.945+01:00","dg-note-properties":{"type":"Travelling","class":"Paladin","role":"Companion","town":"Iron Forge","Nation":"Dwarven Empire","Nickname":null,"icon":"npc","race":"Automaton","cover":"![BruceWeb.png](/img/user/Admin/Attachments/BruceWeb.png)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-02-20T15:45:19.932+00:00","dg-note-properties":{"tags":["NPC"],"Nation":"Snowport","town":"Snowport","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Hunter's Society"],"type":"In The Party","role":"Companion","class":"Ranger","aliases":null,"pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-08-12T16:07:06.192+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Snowport","town":"Snowport","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Hunter's Society"],"type":"Travelling","role":"Companion","class":"Ranger","aliases":null,"pronouns":null,"cover":"![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)"}}
 ---
 
 >[!infobox]
@@ -40,8 +40,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 55.md" data-href="Session Notes/07 Winter Warriors/Session 55.md" href="Session Notes/07 Winter Warriors/Session 55.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 55</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
 
 
 
@@ -52,13 +52,96 @@ The Hunter [[Other Information/Display Tags/The Party\|The Party]] first met in 
 #### Personality
 He is a very gruff and stern man who doesn't want to talk very often. He also doesn't like to to talk or explain himself, adding to the party's suspicions that he is more than he lets on.
 
-### Relationships
-#### 
-
-#### 
-
-### History
-
+### Combat Statblock
+> [!statblocks|columns 4]
+> 
+>> [!blank]  
+>> ![ImagePlaceholder.png\|right cover htiny wtiny circle lp](/img/user/Admin/Attachments/ImagePlaceholder.png)
+>> # Ringo
+>> > Description
+>> 
+>> *Basics*
+>> 
+>> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+|78 |16 |+4 |
+>>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+| 12 | 18 | 14 | 11| 16 | 10  |  |
+| +1  | +4 | +2 | +1 | +3 | +0 | **Mod** |
+|  | +7 |  |  | +6 |  | **Sav** |
+>>
+|  |  |
+| ---:|:--- |
+| **Speed** | 30 |
+| **Passive Perception (WIS)** | 17 |
+| **Proficiency Bonus** | +3 |
+| **Darkvision** | Yes |
+>> 
+>> ---
+>> 
+>>> [!checks|no-t] 
+>>> - 
+>>>	- **Spell Slots**
+>>>	- [ ] 
+>>>	- [ ] 
+>>> - **Death Saves**
+>>>	- ❌
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- ✔
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- [ ] 
+>> 
+> 
+> 
+>> [!blank]
+>> ### Traits
+>> **Hunter’s Tactics**
+>> Once per turn, deals an extra 1d8 damage to a creature an ally has damaged this round.
+>> 
+>> **Favored Terrain**
+>>Advantage on Survival checks to track, forage, and navigate in chosen terrain; leaves no tracks unless desired.
+>>
+>>**Natural Explorer**
+ >>Ignores difficult terrain; cannot be surprised while conscious; advantage on initiative rolls.
+ >>
+ >>**Evasion**
+ >>Takes no damage on a successful Dex save for half; half damage on a failed save.
+ >>
+ >>**Hunter’s Mark (3/day)**
+ >>Bonus action to mark a creature; adds 1d6 damage to attacks; lasts 1 hour or until concentration ends.
+ >>
+ >> **Primeval Awareness**
+ >>Can sense certain creature types within 1 mile, 3/day (no location revealed).
+ >>
+ >>### Actions
+>>  **Multiattack**
+>> Makes two attacks with bow or melee weapon.
+>> 
+>> **Longbow**
+>> +8 to hit, range 150/600 ft., one target. Hit: 1d8+4 piercing damage (plus Hunter’s Mark if active).
+>> 
+>> **Shortsword**
+>> +5 to hit, reach 5 ft., one target. Hit: 1d6+1 piercing damage (plus Hunter’s Mark if active).
+>> 
+>> **Snare Shot (Recharge 5–6)**
+>> On a hit with a ranged attack, target makes a DC 15 Strength save or becomes restrained until the end of its next turn.
+>
+>> ### Bonus Actions
+>>  **Cunning Step**
+>> Can Dash or Disengage as a bonus action.
+>> 
+>> ### Reactions
+>> **Covering Fire**
+>> When an ally within 30 ft. is attacked, imposes disadvantage on the attack by firing a distracting shot.
+>> 
+>> ### Equipment
+>> Studded leather armor, longbow (40 arrows), shortsword, hunting traps, snow cloak, arctic survival gear.
 
 ### Appearances & Mentions
 | §                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -103,7 +186,7 @@ He is a very gruff and stern man who doesn't want to talk very often. He also do
 
 { .block-language-dataview}
 
-**(Current HP: 9)**
+
 
 ```statblock
 name: Hunter Ally

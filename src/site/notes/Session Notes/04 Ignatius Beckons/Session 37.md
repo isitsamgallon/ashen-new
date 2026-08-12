@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-08-09T20:09:25.804+01:00","dg-note-properties":{"Summary":"The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
+{"dg-publish":true,"permalink":"/session-notes/04-ignatius-beckons/session-37/","updated":"2026-08-12T12:22:49.950+01:00","dg-note-properties":{"Summary":"The party uncovered grim truths about the desert’s armies, recruited an old friend, and accidentally incited a workers' revolt at Tulan Fort. Their cover was blown, and now they must fight for their lives against a bloodthirsty force.","Part":"Season 4 - Ignatius Beckons","type":["session"],"sessionNum":38,"icon":"session","part":"4th Saga - Ignatius Beckons"}}
 ---
 
 **Session Date:** 23rd Apr 2025 
@@ -111,7 +111,7 @@ Through blushing red cheeks and after a loud laughter from Sylvia, Kerrigan expl
 
 "Oh yeah, I want to kill the king as well," he interjected. 
 
-"you said something about, yeah, your friend, some girl or something; you kept mentioning her name or whatever. It's a [[The Party/Other Party Members/Familiars/Bit\|bit]] weird, but whatever, I'm not jealous." she stated.
+"you said something about, yeah, your friend, some girl or something; you kept mentioning her name or whatever. It's a [[The Party/Other Party Members/Familiars/Bits\|Bits]] weird, but whatever, I'm not jealous." she stated.
 
 (x::Kerrigan confirmed this, saying that her name, [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]], was one of the few people he remembered after his new role. He then explained that his new goal was to head up to [[Locations/Lost Haven/Lost Haven\|Lost Haven]] with his party, and she was more than welcome to join them, saying it would be like old times. Sylvia agreed to join them, stating that [[Locations/Lost Haven/Lost Haven\|Lost Haven]] was known for polluting a lot, and it would be good to stop that by killing the king and killing everyone involved in destroying the environment. )
 

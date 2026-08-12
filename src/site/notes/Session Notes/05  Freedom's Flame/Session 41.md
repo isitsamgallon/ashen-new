@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-41/","updated":"2026-06-28T20:34:31.448+01:00","dg-note-properties":{"Summary":"After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.","type":"session","sessionNum":41,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-41/","updated":"2026-08-12T12:22:49.954+01:00","dg-note-properties":{"Summary":"After a harrowing duel, the party wakes to find themselves enslaved in the cursed mines of Lost Haven. With no magic, no gear, and Korrigan’s past closing in, their fight for freedom has only just begun.","type":"session","sessionNum":41,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales\|Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 8th Jul 2025 
@@ -114,7 +114,7 @@ The priest preached a hopeful but twisted version of the teachings of Ignatius, 
 
 (x::"Yeah They don't allow much in nowadays." said the priest)
 
-(x::[[The Party/Halfbie\|Halfbie]] agreed, saying, "It was written a few hundred years ago. So it would have been a [[The Party/Other Party Members/Familiars/Bit\|bit]] of a relic")
+(x::[[The Party/Halfbie\|Halfbie]] agreed, saying, "It was written a few hundred years ago. So it would have been a [[The Party/Other Party Members/Familiars/Bits\|Bits]] of a relic")
 
 (x::The priest looked sad for a moment before continuing, "Now tell me, my children, you've seen [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]], you've seen the villainy of these so-called protectors, ones that whip us, the ones that treat us like dogs." He paused a moment before continuing, "How would you like a change? A change from whips, a change from chains?")
 

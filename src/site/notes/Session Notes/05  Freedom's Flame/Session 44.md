@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-44/","updated":"2026-06-28T20:34:31.459+01:00","dg-note-properties":{"Summary":"Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.","type":"session","sessionNum":44,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"Part":"5th Saga - Freedom's Flame"}}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-44/","updated":"2026-08-12T12:22:49.961+01:00","dg-note-properties":{"Summary":"Chenris and Mordecai infiltrate the palace and face off against a grief-stricken Sera in a giant antimagic mech, barely surviving. Meanwhile, Korrigan and Drache ignite the revolution in the slums and prepare for the final assault on the king.","type":"session","sessionNum":44,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 # Session Information
@@ -103,7 +103,7 @@ Meanwhile, Korrigan, Drache, and Aiden were preparing for revolution in the slum
 
 (x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] said their only other option was to use their bow to shoot the [[Groups & Factions/Lost Haven Guards\|guards]] as soon as they walked in. [[The Party/Wurinn Fuuldrusch\|Drache]] raised an eyebrow, stating, "Surely now is the time to start the revolution. If all options lead to us dying, why not go out with a fight?")
 
-(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] looks at [[Named Characters & Beasts/Tish\|Tish]] and asks if he has any opinions on this. [[Named Characters & Beasts/Tish\|Tish]], looking tired but determined, simply states, "I think it's a [[The Party/Other Party Members/Familiars/Bit\|bit]] late for being passive. I think at this point we have to fight.")
+(x::[[The Party/Dead/Kal The Korrigan †\|Korrigan]] looks at [[Named Characters & Beasts/Tish\|Tish]] and asks if he has any opinions on this. [[Named Characters & Beasts/Tish\|Tish]], looking tired but determined, simply states, "I think it's a [[The Party/Other Party Members/Familiars/Bits\|Bits]] late for being passive. I think at this point we have to fight.")
 
 (x::At that moment, [[Named Characters & Beasts/Lull\|Lull]] walked in, and with a huge grin, he said, "We have to fight, no doubt about it.")
 

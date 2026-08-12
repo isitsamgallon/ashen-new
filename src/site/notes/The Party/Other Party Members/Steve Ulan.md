@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC","Important"],"updated":"2026-05-25T11:40:22.524+01:00","dg-note-properties":{"type":"Other","role":"Companion","class":"Fighter","Nation":"OFC","town":"Steelwick","tags":["NPC","Important"],"Status":"Alive","Nickname":null,"icon":"npc","race":"Human","aliases":["Steve"]}}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/steve-ulan/","tags":["NPC","Important"],"updated":"2026-08-12T12:18:01.751+01:00","dg-note-properties":{"type":"Other","role":"Companion","class":"Fighter","Nation":"OFC","town":"Steelwick","tags":["NPC","Important"],"Status":"Alive","Nickname":null,"icon":"npc","race":"Human","aliases":["Steve"],"cover":"![SteveUlanWeb.png](/img/user/Admin/Attachments/SteveUlanWeb.png)","":null}}
 ---
 
 > [!infobox]

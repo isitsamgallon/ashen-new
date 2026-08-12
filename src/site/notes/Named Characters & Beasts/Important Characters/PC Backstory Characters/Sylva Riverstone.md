@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2026-02-20T15:45:17.456+00:00","dg-note-properties":{"tags":["Important","NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Elf","gender":"Female","Status":"Alive","icon":"vip","aliases":["Sylva"],"role":"Companion","type":"Missing","class":"Druid","pronouns":null}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/pc-backstory-characters/sylva-riverstone/","tags":["Important","NPC"],"updated":"2026-08-12T12:20:38.501+01:00","dg-note-properties":{"tags":["Important","NPC"],"Nation":"Unknown/Unclear","town":"Unknown/Unclear","age":"Adult","race":"Elf","gender":"Female","Status":"Alive","icon":"vip","aliases":["Sylva"],"role":"Companion","type":"Missing","class":"Druid","pronouns":null,"cover":"![1581111423-144885740 1.png](/img/user/Admin/Attachments/1581111423-144885740%201.png)"}}
 ---
 
 
