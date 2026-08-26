@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-08-12T15:37:36.192+01:00","dg-note-properties":{"aliases":["The Fatebreakers"]}}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-08-26T11:32:31.434+01:00","dg-note-properties":{"aliases":["The Fatebreakers"],"cssclasses":["dvl-c"]}}
 ---
 
 ### Core Party Members
-> [!cards|dataview]
->  | Image                                                                 | Column Name                                                 | Class             | Nation          | Race       |
-> | --------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------- | --------------- | ---------- |
-> | ![Admin/Attachments/AidenKnightWeb.png\|AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)         | **[[The Party/Aiden Knight\|Aiden Knight]]**             | Rogue/Warlock     | Unknown/Unclear | Human      |
-> | ![Admin/Attachments/halfbieWeb.png\|halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)                 | **[[The Party/Halfbie\|Halfbie]]**                       | Wizard/Artificer  | Kearlin Atoll   | Eladrin    |
-> | ![Admin/Attachments/MordProfilePicNEW.jpeg\|MordProfilePicNEW.jpeg](/img/user/Admin/Attachments/MordProfilePicNEW.jpeg) | **[[The Party/Mordecai Reverence\|Mordecai Reverence]]** | Sorcerer/Bard     | Uvam Dynasty    | Tiefling   |
-> | ![Admin/Attachments/ViktorConcept.png\|ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)           | **[[The Party/Viktor Malkovich\|Viktor Malkovich]]**     | Cleric            | The Deadlands   | dhampir    |
-> | ![Admin/Attachments/DracheWeb.png\|DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)                   | **[[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]**   | Barbarian/Paladin | The Tulan Fort  | Dragonborn |
-> 
+| Image                                                                 | Column Name                                                 | Class             | Nation          | Race       |
+| --------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------- | --------------- | ---------- |
+| ![Admin/Attachments/AidenKnightWeb.png\|AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)         | **[[The Party/Aiden Knight\|Aiden Knight]]**             | Rogue/Warlock     | Unknown/Unclear | Human      |
+| ![Admin/Attachments/halfbieWeb.png\|halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)                 | **[[The Party/Halfbie\|Halfbie]]**                       | Wizard/Artificer  | Kearlin Atoll   | Eladrin    |
+| ![Admin/Attachments/MordProfilePicNEW.jpeg\|MordProfilePicNEW.jpeg](/img/user/Admin/Attachments/MordProfilePicNEW.jpeg) | **[[The Party/Mordecai Reverence\|Mordecai Reverence]]** | Sorcerer/Bard     | Uvam Dynasty    | Tiefling   |
+| ![Admin/Attachments/ViktorConcept.png\|ViktorConcept.png](/img/user/Admin/Attachments/ViktorConcept.png)           | **[[The Party/Viktor Malkovich\|Viktor Malkovich]]**     | Cleric            | The Deadlands   | dhampir    |
+| ![Admin/Attachments/DracheWeb.png\|DracheWeb.png](/img/user/Admin/Attachments/DracheWeb.png)                   | **[[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]**   | Barbarian/Paladin | The Tulan Fort  | Dragonborn |
+
 { .block-language-dataview}
 
 ### Previous Party Members
