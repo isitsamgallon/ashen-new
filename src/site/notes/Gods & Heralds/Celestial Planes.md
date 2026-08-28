@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/celestial-planes/","updated":"2026-08-11T18:37:58.452+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"update ":null,"icon":"god","aliases":["Celestial Plane"]}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/celestial-planes/","updated":"2026-08-28T17:47:23.831+01:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/the-blooming-heart/","updated":"2025-08-11T11:53:31.431+01:00","dg-note-properties":{"tags":null,"Nation":"The Realm of The Gods","town":null,"update ":null,"icon":"place"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/the-blooming-heart/","updated":"2026-08-28T17:16:56.845+01:00","dg-note-properties":{"tags":null,"Nation":"The Realm of The Gods","town":null,"update ":null,"icon":"place","speciality":null,"title":null,"heralds":null,"realm":null}}
 ---
 
 

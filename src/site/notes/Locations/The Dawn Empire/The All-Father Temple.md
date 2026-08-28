@@ -3,7 +3,7 @@
 ---
 
 ### Overview
-The All Father Temple is a combined church for every member of [[The Ashen Pantheon\|The Ashen Pantheon]], including [[Gods & Heralds/Aetherion/The All-Father\|The All-Father]]. Located near the border of [[Locations/OFC/Organisation of Free Cities (OFC)\|The OFC]] and [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], it is a large marble building with a small encampment around it. Inside was a truly massive library that had a door to each of the Gods going to their dedicated room.
+The All Father Temple is a combined church for every member of [[The Ashen Pantheon\|The Ashen Pantheon]], including [[The All-Father\|The All-Father]]. Located near the border of [[Locations/OFC/Organisation of Free Cities (OFC)\|The OFC]] and [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]], it is a large marble building with a small encampment around it. Inside was a truly massive library that had a door to each of the Gods going to their dedicated room.
 
 ### [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Room
 The heavy heat radiating from the entrance was palpable, even from a distance. As they stepped through the arched doorway, the air around them thickened with an almost oppressive warmth. The room inside was bathed in the glow of countless flames, flickering and casting wild shadows across the walls. Fire brazers lined the perimeter, their flames crackling and dancing with a life of their own. Torches mounted on every column cast long, jagged shadows that seemed to sway and twist, reflecting the chaotic nature of the god to whom the room was dedicated.

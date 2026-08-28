@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2026-08-09T20:09:23.414+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"icon":"god"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/worshipers/","updated":"2026-08-28T17:16:57.155+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"icon":"god","speciality":null,"title":null,"heralds":null,"realm":null}}
 ---
 
 ### Overview

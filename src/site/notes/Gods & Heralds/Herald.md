@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2026-06-28T20:34:28.580+01:00","dg-note-properties":{"icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/herald/","updated":"2026-08-28T17:16:56.626+01:00","dg-note-properties":{"icon":"god","update ":null,"speciality":null,"title":null,"heralds":null,"realm":null}}
 ---
 
 ### Overview

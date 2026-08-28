@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-ethertwist-haunter/","updated":"2025-08-11T11:53:31.410+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"aliases":["The haunter"]}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/the-ethertwist-haunter/","updated":"2026-08-28T17:52:01.119+01:00","dg-note-properties":{"aliases":["The haunter"]}}
 ---
 
 ### Overview

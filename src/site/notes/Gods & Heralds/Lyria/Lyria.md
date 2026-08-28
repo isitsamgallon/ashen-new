@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2025-08-11T11:53:31.429+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","title":"Goddess of Love, Passion, Desire, and Betrayal","updated":"2026-08-28T17:28:18.797+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null,"speciality":"Love, Passion, Desire, Seduction, Unity, and Betrayal","title":"Goddess of Love, Passion, Desire, and Betrayal","heralds":"\tUnknown","realm":"The Blooming Heart","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181415.png]]"}}
 ---
 
 > [!infobox]
@@ -18,6 +18,7 @@
 > | Celestial Realm | [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]] |
 > | Herald(s) | Unknown |
 
+[[Gods & Heralds/Lyria/Lyria\|lyria]]
 > "AND BEHOLD, LYRIA CAME FORTH AS THE FLAME of Yearning, clothed in the perfume of twilight and crowned with the blush of first Jove. Her breath stirred hearts to longing, and her touch awakened the slumbering soul. She is the Whisper in the garden, the Sacred Temptation, the covenant of pleasure and pain for in her embrace is both ecstasy and ruin, and many are they who fall willingly."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 
 ### Overview

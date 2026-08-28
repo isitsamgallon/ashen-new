@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2026-08-11T17:15:47.805+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","title":"The Temporal Harbinger, Bringer of Chaos","updated":"2026-08-28T17:25:19.399+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Time, Chaos, Destruction, Entropy, and Manipulation","title":"The Temporal Harbinger, Bringer of Chaos","heralds":"The Ethertwist Haunter","realm":"The Black Woods","cover":"![[Admin/Attachments/ChronovorusWeb.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Chronovorus
-> ![Screenshot 2025-06-09 181301.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181301.png)
+>![ChronovorusWeb.png](/img/user/Admin/Attachments/ChronovorusWeb.png)
 > ###### Basic Information
 > 
 > | Type | Stat |

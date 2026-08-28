@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2025-08-31T20:32:18.267+01:00","dg-note-properties":{"race":"God","icon":"god","update":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","title":"The Fey Sovereign, Supreme Trickster","updated":"2026-08-28T17:27:23.308+01:00","dg-note-properties":{"race":"God","icon":"god","update":null,"speciality":"Deception, Chaos, Trickery, and Change","title":"The Fey Sovereign, Supreme Trickster","heralds":"The Korrigan","realm":"The Feywilds (Domain)","cover":"![[Admin/Attachments/LorwynWeb.png]]"}}
 ---
 
 > [!infobox]
@@ -17,6 +17,7 @@
 > | Pronouns | She/ Her |
 > | Celestial Realm | [[Gods & Heralds/Lorwyn/The Feywilds (Domain)\|The Feywilds (Domain)]] |
 > | Herald(s)| [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] |
+
 
 > "AND LORWYN DANCED UPON THE WIND, VEILED IN Purple and crowned with madness, the jester-Queen of Shadows. Her laughter confounded kings and prophets Alike, for she spoke in riddles and cloaked the truth in Illusion, that the wise might stumble and the fool see Clearly.""<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

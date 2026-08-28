@@ -266,11 +266,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Session Notes/04 Ignatius Beckons/Session 38\|Session 38]]
-- [[Named Characters & Beasts/Selene\|Selene]]
-- [[Named Characters & Beasts/Mm\|Mm]]
-- [[Admin/Spells/wall-of-thorns\|wall-of-thorns]]
-- [[Admin/Spells/wall-of-stone\|wall-of-stone]]
+- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
+- [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]
+- [[Gods & Heralds/Aetherion/Terathra\|Terathra]]
+- [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]
+- [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]
 
 { .block-language-dataview}
 
@@ -287,16 +287,16 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                 | Date of Tagging    |
-| -------------------------------------------------------------------- | ------------------ |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]      | April 21, 2026     |
-| [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]] | August 11, 2026    |
-| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]      | June 06, 2026      |
-| [[Groups & Factions/Crimson Vanguard\|Crimson Vanguard]]          | August 28, 2026    |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026       |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026      |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | September 27, 2025 |
-| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | August 09, 2026    |
+| Note                                                                 | Date of Tagging |
+| -------------------------------------------------------------------- | --------------- |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]      | April 21, 2026  |
+| [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]] | August 11, 2026 |
+| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]      | June 06, 2026   |
+| [[Groups & Factions/Crimson Vanguard\|Crimson Vanguard]]          | August 28, 2026 |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026    |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026   |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | August 28, 2026 |
+| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | August 28, 2026 |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

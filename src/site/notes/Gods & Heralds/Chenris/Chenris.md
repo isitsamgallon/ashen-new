@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chenris/chenris/","updated":"2026-08-09T20:19:50.634+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chenris/chenris/","title":"The God of Light, Bringer of Knowledge","updated":"2026-08-28T17:46:31.758+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"speciality":"Light, Knowledge, Hope, and Enlightenment","title":"The God of Light, Bringer of Knowledge","heralds":"The Golden Ones","realm":"The Golden Plane","cover":"![[Admin/Attachments/ImagePlaceholder.png]]","race":"God"}}
 ---
 
 >[!Recite]   Notes With Similar Names

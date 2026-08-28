@@ -14,7 +14,6 @@ The Towers power something called [[History & Events/Skyfall Ward\|Skyfall Ward]
 | [[Other Information/Forge of the Astral Blades/locations/The Elderwood\|The Elderwood]] | Destroyed      |
 | [[Locations/The Deadlands/The Deadlands\|The Deadlands]]                                | Still Standing |
 | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                         | Unknown        |
-| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]              | Destroyed      |
 | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                          | Still Standing |
 | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]      | Unknown        |
 | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                         | Still Standing |
@@ -23,6 +22,7 @@ The Towers power something called [[History & Events/Skyfall Ward\|Skyfall Ward]
 | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
 | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
 | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
+| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]              | Destroyed      |
 
 { .block-language-dataview}
 

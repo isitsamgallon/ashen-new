@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2025-08-11T11:53:31.436+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","title":"The Keeper of Dreams and Memories","updated":"2026-08-28T17:29:43.049+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","title":"The Keeper of Dreams and Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181435.png]]"}}
 ---
 
 > [!infobox]

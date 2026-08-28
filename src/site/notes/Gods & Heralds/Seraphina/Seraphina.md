@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-08-09T20:09:23.393+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","title":"The Compassionate One, Bringer of Health","updated":"2026-08-28T17:29:11.840+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Compassion, Healing, Protection, Mercy, and Fate","title":"The Compassionate One, Bringer of Health","heralds":"Healing Guardian, Divine Harpies","realm":"The Sanctum Of Mercy","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181424.png]]"}}
 ---
 
 > [!infobox]
@@ -17,6 +17,7 @@
 > | Pronouns | She/ Her |
 > | Celestial Realm | [[Gods & Heralds/Seraphina/The Sanctum Of Mercy\|The Sanctum Of Mercy]] |
 > | Herald(s)| [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]], [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]] |
+
 
 > "AND SERAPHINA MOVED AS LIGHT THROUGH broken glass, the Healer of Wounds and Restorer of the Forsaken. Her hands, anointed with celestial fire, knit together flesh and spirit; her song brought balm to the weary and peace to the tormented. Clad in the dawn 's embrace, she walks where sorrow dwells, and by her touch, the sick rise, the shattered are made whole, and the forgotten remember Jove."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 

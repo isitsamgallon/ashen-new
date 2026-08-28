@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/healing-guardian/","updated":"2025-08-11T11:53:31.439+01:00","dg-note-properties":{"race":"Herald","icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/healing-guardian/","updated":"2026-08-28T17:16:56.854+01:00","dg-note-properties":{"race":"Herald","icon":"god","update ":null,"speciality":null,"title":null,"heralds":null,"realm":null}}
 ---
 
 The [[Gods & Heralds/Herald\|Herald]] of [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]] who acts as healing conduit for the Goddess. 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","updated":"2026-04-08T22:22:48.949+01:00","dg-note-properties":{"tags":null,"icon":"god","update ":null}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/vaelrith/vaelrith/","title":"God of Death, Silence and Endings","updated":"2026-08-28T17:32:07.037+01:00","dg-note-properties":{"tags":null,"icon":"god","update ":null,"speciality":"Death, Silence, Endings, Memory, and the Afterlife","title":"God of Death, Silence and Endings","heralds":"Psychopomps","realm":"The Still Lands","cover":"![[Admin/Attachments/VaelrithWeb.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Vaelrith
-> ![Vaelrith.png](/img/user/Admin/Attachments/Vaelrith.png)
+> ![VaelrithWeb.png](/img/user/Admin/Attachments/VaelrithWeb.png)
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -15,7 +15,7 @@
 > | Titles | **God of Death, Silence and Endings** |
 > | Typical Alignment | Neutral |
 > | Pronouns | He/ Him |
-> | Herald(s)| Unknown |
+> | Herald(s)| Psychopomps |
 >| Godly Realm | [[Gods & Heralds/Vaelrith/The Still Lands\|The Still Lands]] |
 
 > "AND AT THE SETTING OF ALL THINGS CAME Vaelrith, the Stillness Beyond, the Crown of Death, upon whom time dare not lay its hand. Cloaked in silence and crowned with bone, he walks not in wrath, but in solemn promise- for to each living breath, he is the Amen. The stars falter in his passing, and the earth yields without protest, for his hand is gentle and final. He is the keeper of endings, the last word in the book of days."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>

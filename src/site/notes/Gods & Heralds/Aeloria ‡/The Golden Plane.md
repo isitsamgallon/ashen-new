@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2026-08-09T20:09:23.148+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"The Realm of The Gods","town":null,"icon":"place"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/the-golden-plane/","tags":["Discovered"],"updated":"2026-08-28T17:16:55.892+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"The Realm of The Gods","town":null,"icon":"place","speciality":null,"title":null,"heralds":null,"realm":null}}
 ---
 
 ![Screenshot 2025-06-09 181520.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181520.png) 
