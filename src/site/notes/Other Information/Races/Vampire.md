@@ -50,5 +50,7 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 - [[Named Characters & Beasts/Calathus\|Calathus]]
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
 - [[Named Characters & Beasts/Veranius\|Veranius]]
+- [[Named Characters & Beasts/Mm\|Mm]]
+- [[Named Characters & Beasts/Selene\|Selene]]
 
 { .block-language-dataview}

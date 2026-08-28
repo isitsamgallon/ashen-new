@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2026-08-12T12:20:07.416+01:00","dg-note-properties":{"type":null,"role":"Companion","class":"Cleric","tags":["NPC","Important"],"Nation":"Ehobel","town":"Ishnmel","Status":"Alive","age":"Adult","race":"Half-Elf","gender":"Female","icon":"vip","faction":null,"aliases":["Obeus"],"pronouns":null,"cover":"![Obeus.png](/img/user/Admin/Attachments/Obeus.png)"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/important-characters/obeus-yelris/","tags":["NPC","Important"],"updated":"2026-08-12T12:20:07.416+01:00","dg-note-properties":{"type":null,"role":"Companion","class":"Cleric","tags":["NPC","Important"],"Nation":"Ehobel","town":"Ishnmel","Status":"Alive","age":"Adult","race":"Half-Elf","gender":"Female","icon":"vip","faction":null,"aliases":["Obeus"],"pronouns":null,"cover":"![[Admin/Attachments/Obeus.png]]"}}
 ---
 
 > [!infobox]

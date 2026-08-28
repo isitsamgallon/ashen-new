@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/ranger/","tags":["class/ranger","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.372+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/ranger","compendium/src/5e/phb"],"aliases":["Ranger"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/ranger/","contentClasses":"json5e-class","tags":["class/ranger","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.372+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/ranger","compendium/src/5e/phb"],"aliases":["Ranger"]}}
 ---
 
 # Ranger

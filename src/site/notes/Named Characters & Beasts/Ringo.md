@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-08-12T16:07:06.192+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Snowport","town":"Snowport","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Hunter's Society"],"type":"Travelling","role":"Companion","class":"Ranger","aliases":null,"pronouns":null,"cover":"![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)"}}
+{"dg-publish":true,"permalink":"/named-characters-and-beasts/ringo/","tags":["NPC"],"updated":"2026-08-12T16:07:06.192+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"Snowport","town":"Snowport","icon":"npc","Status":"Alive","age":"Adult","race":"Human","gender":"Male","faction":["The Hunter's Society"],"type":"Travelling","role":"Companion","class":"Ranger","aliases":null,"pronouns":null,"cover":"![[Admin/Attachments/ImagePlaceholder.png]]"}}
 ---
 
 >[!infobox]
@@ -40,8 +40,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 53.md" data-href="Session Notes/07 Winter Warriors/Session 53.md" href="Session Notes/07 Winter Warriors/Session 53.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 53</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
 
 
 

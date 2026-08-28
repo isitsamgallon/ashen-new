@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/sorcerer-wild-magic/","tags":["compendium/src/5e/phb","subclass/sorcerer/wild"],"updated":"2026-08-11T13:23:47.634+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/sorcerer/wild"],"aliases":["Wild Magic"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/sorcerer-wild-magic/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/sorcerer/wild"],"updated":"2026-08-11T13:23:47.634+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/sorcerer/wild"],"aliases":["Wild Magic"]}}
 ---
 
 # Wild Magic
-*[Sorcerer](sorcerer.md): Sorcerous Origin*  
+*[[Other Information/Classes/sorcerer\|Sorcerer]]: Sorcerous Origin*  
 *Source: Player's Handbook p. 103*  
 
 

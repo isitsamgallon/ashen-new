@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/cleric-grave-domain-xge/","tags":["compendium/src/5e/xge","domain/grave","subclass/cleric/grave"],"updated":"2026-08-11T13:23:46.929+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","domain/grave","subclass/cleric/grave"],"aliases":["Grave Domain"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/cleric-grave-domain-xge/","contentClasses":"json5e-class","tags":["compendium/src/5e/xge","domain/grave","subclass/cleric/grave"],"updated":"2026-08-11T13:23:46.929+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","domain/grave","subclass/cleric/grave"],"aliases":["Grave Domain"]}}
 ---
 
 # Grave Domain
-*[Cleric](cleric.md): Divine Domain*  
+*[[Other Information/Classes/cleric\|Cleric]]: Divine Domain*  
 *Source: Xanathar's Guide to Everything p. 19*  
 
 

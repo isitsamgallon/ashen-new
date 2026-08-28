@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/sorcerer/","tags":["class/sorcerer","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.729+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/sorcerer","compendium/src/5e/phb"],"aliases":["Sorcerer"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/sorcerer/","contentClasses":"json5e-class","tags":["class/sorcerer","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.729+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/sorcerer","compendium/src/5e/phb"],"aliases":["Sorcerer"]}}
 ---
 
 # Sorcerer

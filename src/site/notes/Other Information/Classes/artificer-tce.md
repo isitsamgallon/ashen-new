@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/artificer-tce/","tags":["class/artificer","compendium/src/5e/tce"],"updated":"2026-08-11T13:23:46.702+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/artificer","compendium/src/5e/tce"],"aliases":["Artificer"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/artificer-tce/","contentClasses":"json5e-class","tags":["class/artificer","compendium/src/5e/tce"],"updated":"2026-08-11T13:23:46.702+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/artificer","compendium/src/5e/tce"],"aliases":["Artificer"]}}
 ---
 
 # Artificer

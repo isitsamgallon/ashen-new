@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/bard-college-of-eloquence-tce/","tags":["compendium/src/5e/tce","subclass/bard/eloquence"],"updated":"2026-08-11T13:23:46.823+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/bard/eloquence"],"aliases":["College of Eloquence"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/bard-college-of-eloquence-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/bard/eloquence"],"updated":"2026-08-11T13:23:46.823+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/bard/eloquence"],"aliases":["College of Eloquence"]}}
 ---
 
 # College of Eloquence
-*[Bard](bard.md): Bard College*  
+*[[Other Information/Classes/bard\|Bard]]: Bard College*  
 *Source: Tasha's Cauldron of Everything p. 29*  
 
 

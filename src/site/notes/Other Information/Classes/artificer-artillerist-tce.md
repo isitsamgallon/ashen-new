@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/artificer-artillerist-tce/","tags":["compendium/src/5e/tce","subclass/artificer/artillerist"],"updated":"2026-08-11T13:23:46.783+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/artificer/artillerist"],"aliases":["Artillerist"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/artificer-artillerist-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/artificer/artillerist"],"updated":"2026-08-11T13:23:46.783+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/artificer/artillerist"],"aliases":["Artillerist"]}}
 ---
 
 # Artillerist
-*[Artificer](artificer-tce.md): Artificer Specialist*  
+*[[Other Information/Classes/artificer-tce\|Artificer]]: Artificer Specialist*  
 *Source: Tasha's Cauldron of Everything p. 17, Eberron: Rising from the Last War p. 59*  
 
 

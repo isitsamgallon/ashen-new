@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/barbarian-path-of-the-totem-warrior/","tags":["compendium/src/5e/phb","subclass/barbarian/totem-warrior"],"updated":"2026-08-11T13:23:46.732+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/barbarian/totem-warrior"],"aliases":["Path of the Totem Warrior"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/barbarian-path-of-the-totem-warrior/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/barbarian/totem-warrior"],"updated":"2026-08-11T13:23:46.732+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/barbarian/totem-warrior"],"aliases":["Path of the Totem Warrior"]}}
 ---
 
 # Path of the Totem Warrior
-*[Barbarian](barbarian.md): Primal Path*  
+*[[Other Information/Classes/barbarian\|Barbarian]]: Primal Path*  
 *Source: Player's Handbook p. 50*  
 
 

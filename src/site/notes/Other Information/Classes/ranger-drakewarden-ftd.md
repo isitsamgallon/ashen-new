@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/ranger-drakewarden-ftd/","tags":["compendium/src/5e/ftd","subclass/ranger/drakewarden"],"updated":"2026-08-11T13:23:47.381+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/ftd","subclass/ranger/drakewarden"],"aliases":["Drakewarden"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/ranger-drakewarden-ftd/","contentClasses":"json5e-class","tags":["compendium/src/5e/ftd","subclass/ranger/drakewarden"],"updated":"2026-08-11T13:23:47.381+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/ftd","subclass/ranger/drakewarden"],"aliases":["Drakewarden"]}}
 ---
 
 # Drakewarden
-*[Ranger](ranger.md): Ranger Archetype*  
+*[[Other Information/Classes/ranger\|Ranger]]: Ranger Archetype*  
 *Source: Fizban's Treasury of Dragons p. 15*  
 
 

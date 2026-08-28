@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/barbarian/","tags":["class/barbarian","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.725+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/barbarian","compendium/src/5e/phb"],"aliases":["Barbarian"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/barbarian/","contentClasses":"json5e-class","tags":["class/barbarian","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.725+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/barbarian","compendium/src/5e/phb"],"aliases":["Barbarian"]}}
 ---
 
 # Barbarian

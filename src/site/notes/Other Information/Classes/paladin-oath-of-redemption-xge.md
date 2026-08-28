@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-redemption-xge/","tags":["compendium/src/5e/xge","subclass/paladin/redemption"],"updated":"2026-08-11T13:23:47.088+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/redemption"],"aliases":["Oath of Redemption"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-redemption-xge/","contentClasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/redemption"],"updated":"2026-08-11T13:23:47.088+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/redemption"],"aliases":["Oath of Redemption"]}}
 ---
 
 # Oath of Redemption
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 38*  
 
 

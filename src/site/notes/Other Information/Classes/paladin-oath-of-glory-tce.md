@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-glory-tce/","tags":["compendium/src/5e/tce","subclass/paladin/glory"],"updated":"2026-08-11T13:23:47.040+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/glory"],"aliases":["Oath of Glory"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-glory-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/glory"],"updated":"2026-08-11T13:23:47.040+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/glory"],"aliases":["Oath of Glory"]}}
 ---
 
 # Oath of Glory
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 53*  
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/spellcaster-sidekick-tce/","tags":["class/spellcaster-sidekick","compendium/src/5e/tce"],"updated":"2026-08-11T13:23:47.579+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/spellcaster-sidekick","compendium/src/5e/tce"],"aliases":["Spellcaster Sidekick"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/spellcaster-sidekick-tce/","contentClasses":"json5e-class","tags":["class/spellcaster-sidekick","compendium/src/5e/tce"],"updated":"2026-08-11T13:23:47.579+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/spellcaster-sidekick","compendium/src/5e/tce"],"aliases":["Spellcaster Sidekick"]}}
 ---
 
 # Spellcaster Sidekick

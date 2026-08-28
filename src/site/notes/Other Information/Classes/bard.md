@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/bard/","tags":["class/bard","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.746+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/bard","compendium/src/5e/phb"],"aliases":["Bard"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/bard/","contentClasses":"json5e-class","tags":["class/bard","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.746+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/bard","compendium/src/5e/phb"],"aliases":["Bard"]}}
 ---
 
 # Bard

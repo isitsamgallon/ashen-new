@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-vengeance/","tags":["compendium/src/5e/phb","subclass/paladin/vengeance"],"updated":"2026-08-11T13:23:47.225+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/vengeance"],"aliases":["Oath of Vengeance"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-vengeance/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/vengeance"],"updated":"2026-08-11T13:23:47.225+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/vengeance"],"aliases":["Oath of Vengeance"]}}
 ---
 
 # Oath of Vengeance
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 87*  
 
 

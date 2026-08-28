@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/wizard/","tags":["class/wizard","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.737+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/wizard","compendium/src/5e/phb"],"aliases":["Wizard"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/wizard/","contentClasses":"json5e-class","tags":["class/wizard","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.737+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/wizard","compendium/src/5e/phb"],"aliases":["Wizard"]}}
 ---
 
 # Wizard

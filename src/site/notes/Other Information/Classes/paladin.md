@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin/","tags":["class/paladin","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.161+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/paladin","compendium/src/5e/phb"],"aliases":["Paladin"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin/","contentClasses":"json5e-class","tags":["class/paladin","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.161+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/paladin","compendium/src/5e/phb"],"aliases":["Paladin"]}}
 ---
 
 # Paladin

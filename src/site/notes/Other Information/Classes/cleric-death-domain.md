@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/cleric-death-domain/","tags":["compendium/src/5e/dmg","domain/death","subclass/cleric/death"],"updated":"2026-08-11T13:23:46.866+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/dmg","domain/death","subclass/cleric/death"],"aliases":["Death Domain"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/cleric-death-domain/","contentClasses":"json5e-class","tags":["compendium/src/5e/dmg","domain/death","subclass/cleric/death"],"updated":"2026-08-11T13:23:46.866+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/dmg","domain/death","subclass/cleric/death"],"aliases":["Death Domain"]}}
 ---
 
 # Death Domain
-*[Cleric](cleric.md): Divine Domain*  
+*[[Other Information/Classes/cleric\|Cleric]]: Divine Domain*  
 *Source: Dungeon Master's Guide p. 96*  
 
 

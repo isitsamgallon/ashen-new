@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-devotion/","tags":["compendium/src/5e/phb","subclass/paladin/devotion"],"updated":"2026-08-11T13:23:47.000+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/devotion"],"aliases":["Oath of Devotion"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-devotion/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/devotion"],"updated":"2026-08-11T13:23:47.000+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/devotion"],"aliases":["Oath of Devotion"]}}
 ---
 
 # Oath of Devotion
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 85. Available in the SRD.*  
 
 

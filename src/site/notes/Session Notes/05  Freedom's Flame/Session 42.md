@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2026-06-28T20:34:31.453+01:00","dg-note-properties":{"Summary":" Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.","type":"session","sessionNum":42,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]","[[Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-42/","updated":"2026-06-28T20:34:31.453+01:00","dg-note-properties":{"Summary":" Korrigan’s memories return in full as he uncovers the ruins of his past and reignites the spark of rebellion in Lost Haven. With the truth revealed, the slaves rally to his side, preparing for a second uprising.","type":"session","sessionNum":42,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]","[[The Party/Other Party Members/Meta/Jae Knight]]"],"Part":"5th Saga - Freedom's Flame"}}
 ---
 
 **Session Date:** 19/07/2025

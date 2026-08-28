@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-08-12T12:30:22.363+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","cover":"![AidenKnightWeb.png](/img/user/Admin/Attachments/AidenKnightWeb.png)","Status":"Alive"}}
+{"dg-publish":true,"permalink":"/the-party/aiden-knight/","updated":"2026-08-12T12:30:22.363+01:00","dg-note-properties":{"type":"In The Party","role":"Party Member","class":"Rogue/Warlock","Nation":"Unknown/Unclear","town":"Unknown/Unclear","Nickname":null,"icon":"party","faction":["The Party"],"race":"Human","cover":"![[Admin/Attachments/AidenKnightWeb.png]]","Status":"Alive"}}
 ---
 
 > [!infobox]
@@ -37,8 +37,8 @@
 >Languages | Common, Elvish, Goblin, Primordial, Thieves’ Cant|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 > - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
+> - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
 > 
 { .block-language-dataview}
 

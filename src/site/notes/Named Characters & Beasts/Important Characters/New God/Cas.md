@@ -25,8 +25,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" href="Session Notes/08 Gutenous Guardians/Session 65.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 67.md" data-href="Session Notes/09 Dangerous Deities/Session 67.md" href="Session Notes/09 Dangerous Deities/Session 67.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 67</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 60.md" data-href="Session Notes/07 Winter Warriors/Session 60.md" href="Session Notes/07 Winter Warriors/Session 60.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 60</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
 
 
 

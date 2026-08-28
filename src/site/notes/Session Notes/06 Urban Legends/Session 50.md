@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2026-08-12T12:22:50.083+01:00","dg-note-properties":{"Summary":"The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":50,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/06-urban-legends/session-50/","updated":"2026-08-12T12:22:50.083+01:00","dg-note-properties":{"Summary":"The party met Seraphina in her radiant realm, learning the truth of her detached divinity and the fate of her slain herald. Returning to Blackwall, they planned their next move, only for Halfbie’s nightmarish vision to unsettle them all with a chilling omen.","Part":"6th Saga - Urban Legends","type":"session","sessionNum":50,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]"]}}
 ---
 
 # Session Information

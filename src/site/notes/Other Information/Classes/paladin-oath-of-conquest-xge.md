@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-conquest-xge/","tags":["compendium/src/5e/xge","subclass/paladin/conquest"],"updated":"2026-08-11T13:23:46.967+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/conquest"],"aliases":["Oath of Conquest"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-conquest-xge/","contentClasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/conquest"],"updated":"2026-08-11T13:23:46.967+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/xge","subclass/paladin/conquest"],"aliases":["Oath of Conquest"]}}
 ---
 
 # Oath of Conquest
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Xanathar's Guide to Everything p. 37*  
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bits/","tags":["NPC"],"updated":"2026-08-12T12:24:17.334+01:00","dg-note-properties":{"Nation":"Itone","town":"Uti's Cave","type":"Other","tags":["NPC"],"role":"Companion","class":"Summon","icon":"npc","race":"Fey Creature","cover":"![7a9eed1505ff22c614783a731a8bdecc.jpg](/img/user/Admin/Attachments/7a9eed1505ff22c614783a731a8bdecc.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/familiars/bits/","tags":["NPC"],"updated":"2026-08-12T12:24:17.334+01:00","dg-note-properties":{"Nation":"Itone","town":"Uti's Cave","type":"Other","tags":["NPC"],"role":"Companion","class":"Summon","icon":"npc","race":"Fey Creature","cover":"![[Admin/Attachments/7a9eed1505ff22c614783a731a8bdecc.jpg]]"}}
 ---
 
 > [!infobox]

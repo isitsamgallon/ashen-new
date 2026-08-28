@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/ranger-beast-master/","tags":["compendium/src/5e/phb","subclass/ranger/beast-master"],"updated":"2026-08-11T13:23:47.308+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/ranger/beast-master"],"aliases":["Beast Master"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/ranger-beast-master/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/ranger/beast-master"],"updated":"2026-08-11T13:23:47.308+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/ranger/beast-master"],"aliases":["Beast Master"]}}
 ---
 
 # Beast Master
-*[Ranger](ranger.md): Ranger Archetype*  
+*[[Other Information/Classes/ranger\|Ranger]]: Ranger Archetype*  
 *Source: Player's Handbook p. 93*  
 
 

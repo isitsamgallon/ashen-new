@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2026-08-12T12:23:47.337+01:00","dg-note-properties":{"type":"Travelling","role":"Companion","class":"Unknown","Nation":"Iron Forge (?)","Nickname":null,"icon":"npc","race":"Corvum","cover":"![CorvusWeb.jpg](/img/user/Admin/Attachments/CorvusWeb.jpg)"}}
+{"dg-publish":true,"permalink":"/the-party/other-party-members/corvus/","updated":"2026-08-12T12:23:47.337+01:00","dg-note-properties":{"type":"Travelling","role":"Companion","class":"Unknown","Nation":"Iron Forge (?)","Nickname":null,"icon":"npc","race":"Corvum","cover":"![[Admin/Attachments/CorvusWeb.jpg]]"}}
 ---
 
 

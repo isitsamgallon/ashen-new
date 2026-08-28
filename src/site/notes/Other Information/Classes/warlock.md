@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/warlock/","tags":["class/warlock","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.668+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/warlock","compendium/src/5e/phb"],"aliases":["Warlock"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/warlock/","contentClasses":"json5e-class","tags":["class/warlock","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:47.668+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/warlock","compendium/src/5e/phb"],"aliases":["Warlock"]}}
 ---
 
 # Warlock

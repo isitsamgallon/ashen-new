@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/wizard-order-of-scribes-tce/","tags":["compendium/src/5e/tce","subclass/wizard/scribes"],"updated":"2026-08-11T13:23:47.747+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/wizard/scribes"],"aliases":["Order of Scribes"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/wizard-order-of-scribes-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/wizard/scribes"],"updated":"2026-08-11T13:23:47.747+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/wizard/scribes"],"aliases":["Order of Scribes"]}}
 ---
 
 # Order of Scribes
-*[Wizard](wizard.md): Arcane Tradition*  
+*[[Other Information/Classes/wizard\|Wizard]]: Arcane Tradition*  
 *Source: Tasha's Cauldron of Everything p. 77*  
 
 

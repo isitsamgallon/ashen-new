@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oathbreaker/","tags":["compendium/src/5e/dmg","subclass/paladin/oathbreaker"],"updated":"2026-08-11T13:23:47.153+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/dmg","subclass/paladin/oathbreaker"],"aliases":["Oathbreaker"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oathbreaker/","contentClasses":"json5e-class","tags":["compendium/src/5e/dmg","subclass/paladin/oathbreaker"],"updated":"2026-08-11T13:23:47.153+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/dmg","subclass/paladin/oathbreaker"],"aliases":["Oathbreaker"]}}
 ---
 
 # Oathbreaker
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Dungeon Master's Guide p. 97*  
 
 

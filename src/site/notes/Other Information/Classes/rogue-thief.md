@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/rogue-thief/","tags":["compendium/src/5e/phb","subclass/rogue/thief"],"updated":"2026-08-11T13:23:47.538+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/rogue/thief"],"aliases":["Thief"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/rogue-thief/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/rogue/thief"],"updated":"2026-08-11T13:23:47.538+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/rogue/thief"],"aliases":["Thief"]}}
 ---
 
 # Thief
-*[Rogue](rogue.md): Roguish Archetype*  
+*[[Other Information/Classes/rogue\|Rogue]]: Roguish Archetype*  
 *Source: Player's Handbook p. 97. Available in the SRD and the Basic Rules.*  
 
 

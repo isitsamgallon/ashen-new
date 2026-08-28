@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/09-dangerous-deities/session-67/","updated":"2026-08-11T20:19:08.292+01:00","dg-note-properties":{"Summary":"Chenris, secretly in control of Halfbie's body, hijacked the party's teleportation to the Deadlands, where he absorbed a tower-crystal's power and ascended to godhood, killing Aeloria with Chronovorus's help. After the battle, Chenris resurrected Halfbie and Viktor, with Halfbie waking up frantically searching for thing called Gil-Galad.","Part":"9th Saga - Dangerous Deities","type":"session","sessionNum":67,"icon":"session","attendance":["[[Sam Gallon]]","[[Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers\|Tom Brothers]]","[[Caleb Hamlet]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/09-dangerous-deities/session-67/","updated":"2026-08-28T11:03:36.937+01:00","dg-note-properties":{"Summary":"Chenris, secretly in control of Halfbie's body, hijacked the party's teleportation to the Deadlands, where he absorbed a tower-crystal's power and ascended to godhood, killing Aeloria with Chronovorus's help. After the battle, Chenris resurrected Halfbie and Viktor, with Halfbie waking up frantically searching for thing called Gil-Galad.","Part":"9th Saga - Dangerous Deities","type":"session","sessionNum":67,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]"]}}
 ---
 
 # Session Information
@@ -31,7 +31,7 @@ Chenris revealed his true plan: to become a god and kill Aeloria. He absorbed th
 
 (x::[[The Party/Viktor Malkovich\|Viktor]] returned to [[Locations/OFC/Blackwall/The Black Tower\|the black tower]]. However, instead of going to his room, he went to the library to do some research before quickly falling asleep on his research.)
 
-(x::### [[The Party/Wurinn Fuuldrusch\|Drache]]'s POV)
+### [[The Party/Wurinn Fuuldrusch\|Drache]]'s POV
 
 (x::While sleeping, [[The Party/Wurinn Fuuldrusch\|Drache]] starts having an incredibly vivid dream; he soon recognised the lush forest he found himself walking through was the [[Locations/Feywild/Feywild\|Feywilds]] but kept walking forward anyway, looking for his friend. He soon found himself in a lush pond. He stood admiring the view for a moment before he was interrupted by a large group of frogs that had surrounded him. Before he could react, suddenly a frog larger than him appeared behind him. It stared blankly at him before letting out a large and powerful roar that sent [[The Party/Wurinn Fuuldrusch\|Drache]] flying backwards and into the pond.)
 
@@ -41,7 +41,7 @@ Chenris revealed his true plan: to become a god and kill Aeloria. He absorbed th
 
 (x::[[The Party/Mordecai Reverence\|Mordecai]] called through the wall they shared, asking if they were ok. [[The Party/Wurinn Fuuldrusch\|Drache]] said he was ok as he rubbed his bruised shoulder. They proceeded to talk a bit more through the wall, which quickly aroused most people who were sleeping in the area.)
 
-(x::### Chernis' POV)
+### Chernis' POV
 
 (x::[[The Party/Dead/Chenris Tallfellow ‡\|Chenris]]'s Trance finished in the early hours of the morning as the sun was cresting the horizon. He instantly got off the bed and found the map he influenced [[The Party/Halfbie\|Halfbie]] to keep when [[Other Information/Display Tags/The Party\|the Party]] all claimed their rooms. Unfurling it on the floor, he used [[The Party/Halfbie\|halfbie]]'s knowledge of navigation to plot a point in [[Locations/The Deadlands/The Deadlands\|the Deadlands]]. For this plan to work, he needed a tower. From his research and calculations, he was sure at least 5 towers were remaining, one in [[Locations/The Deadlands/The Deadlands\|the Deadlands]], one at [[Locations/The Desert/Ember Peak\|Ember Peak]], one in [[Locations/Strixhaven/Strixhaven\|Strixhaven]], and two in [[Locations/Ehobel/Ehobel\|Ehobel]]. He decided on the one in [[Locations/The Deadlands/The Deadlands\|the Deadlands]] as [[Other Information/Display Tags/The Party\|the Party]] had never gone there before. He was also curious about the followers of [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] who had traveled from there to help [[The Party/Halfbie\|Halfbie]] after they had absorbed [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]'s spirit.)
 
@@ -291,7 +291,7 @@ Chenris revealed his true plan: to become a god and kill Aeloria. He absorbed th
 
 (x::Down in the mortal realm, [[Other Information/Display Tags/The Party\|the party]] watched as a new body began forming out of light and divine energy to form [[The Party/Halfbie\|Halfbie]]. the body was gently placed on the floor before both [[The Party/Halfbie\|Halfbie]] and [[The Party/Viktor Malkovich\|Viktor]] gasped for air.)
 
-(x::[[The Party/Halfbie\|Halfbie]] jolted upright before exclaiming, "[[The Party/Halfbie\|Gil-Galad]], I need to find [[The Party/Halfbie\|Gil-Galad]]!!")
+(x::[[The Party/Halfbie\|Halfbie]] jolted upright before exclaiming, "Gil-Galad, I need to find Gil-Galad!!")
 
 # Footnotes
 

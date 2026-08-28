@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/cleric/","tags":["class/cleric","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.886+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/cleric","compendium/src/5e/phb"],"aliases":["Cleric"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/cleric/","contentClasses":"json5e-class","tags":["class/cleric","compendium/src/5e/phb"],"updated":"2026-08-11T13:23:46.886+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["class/cleric","compendium/src/5e/phb"],"aliases":["Cleric"]}}
 ---
 
 # Cleric

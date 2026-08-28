@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/cleric-twilight-domain-tce/","tags":["compendium/src/5e/tce","domain/twilight","subclass/cleric/twilight"],"updated":"2026-08-11T13:23:46.833+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","domain/twilight","subclass/cleric/twilight"],"aliases":["Twilight Domain"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/cleric-twilight-domain-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","domain/twilight","subclass/cleric/twilight"],"updated":"2026-08-11T13:23:46.833+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","domain/twilight","subclass/cleric/twilight"],"aliases":["Twilight Domain"]}}
 ---
 
 # Twilight Domain
-*[Cleric](cleric.md): Divine Domain*  
+*[[Other Information/Classes/cleric\|Cleric]]: Divine Domain*  
 *Source: Tasha's Cauldron of Everything p. 34*  
 
 

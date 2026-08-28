@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","updated":"2026-08-25T16:54:27.441+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit","Gil-Galad"],"Cover":"![halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)","Status":"Alive"}}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","contentClasses":"wikicallout","updated":"2026-08-28T11:15:16.286+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit"],"Cover":"![[Admin/Attachments/halfbieWeb.png]]","Status":"Alive"}}
 ---
 
 
@@ -18,7 +18,7 @@
 >| Age | ~1300 (Mentally), 21(Physically) |
 >| Alignment | Seelie |
 >| Pronouns | Any |
->| Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) |
+>| Family | Unnamed Parents, [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]] (Child?) | 
 >| Player | [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] |
 >##### Stats
 >| Skill | Score | Mod | Prof |
@@ -38,8 +38,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
-> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > 
 { .block-language-dataview}
 

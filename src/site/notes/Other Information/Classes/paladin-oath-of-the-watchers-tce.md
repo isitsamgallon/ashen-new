@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-the-watchers-tce/","tags":["compendium/src/5e/tce","subclass/paladin/watchers"],"updated":"2026-08-11T13:23:47.264+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/watchers"],"aliases":["Oath of the Watchers"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-the-watchers-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/watchers"],"updated":"2026-08-11T13:23:47.264+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/paladin/watchers"],"aliases":["Oath of the Watchers"]}}
 ---
 
 # Oath of the Watchers
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Tasha's Cauldron of Everything p. 54*  
 
 

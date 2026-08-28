@@ -20,9 +20,9 @@
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]         | Male   | Adult | Human    |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                     | Male   | Adult | Dragon   |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Adult | Dragon   |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human    |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] | Female | Adult | Halfling |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Adult | Dragon   |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human    |
 > 
 { .block-language-dataview}
 

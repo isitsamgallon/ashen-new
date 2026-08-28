@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-the-ancients/","tags":["compendium/src/5e/phb","subclass/paladin/ancients"],"updated":"2026-08-11T13:23:47.145+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/ancients"],"aliases":["Oath of the Ancients"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/paladin-oath-of-the-ancients/","contentClasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/ancients"],"updated":"2026-08-11T13:23:47.145+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/phb","subclass/paladin/ancients"],"aliases":["Oath of the Ancients"]}}
 ---
 
 # Oath of the Ancients
-*[Paladin](paladin.md): Sacred Oath*  
+*[[Other Information/Classes/paladin\|Paladin]]: Sacred Oath*  
 *Source: Player's Handbook p. 86*  
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","updated":"2026-08-11T18:00:50.187+01:00","dg-note-properties":{"priority":"High","received ":"file.ctime","booklocal":"[[The All-Father Temple]]","tags":null,"icon":"book","update":null}}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/a-chronicle-of-akin-netch-the-man-of-many-faces/","updated":"2026-08-11T18:00:50.187+01:00","dg-note-properties":{"priority":"High","received ":"file.ctime","booklocal":"[[Locations/The Dawn Empire/The All-Father Temple]]","tags":null,"icon":"book","update":null}}
 ---
 
 Written by [[Named Characters & Beasts/Nehzahr\|Nehzahr]] of the [[Groups & Factions/Ebon Quill\|Ebon Quill]], Keeper of Forgotten Lore

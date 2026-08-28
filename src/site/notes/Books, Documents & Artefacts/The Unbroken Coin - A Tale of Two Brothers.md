@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/","updated":"2026-07-11T11:42:05.753+01:00","dg-note-properties":{"priority":"High","received ":null,"booklocal":"[[Wyvern Cave]]","tags":null,"icon":"book","update":null}}
+{"dg-publish":true,"permalink":"/books-documents-and-artefacts/the-unbroken-coin-a-tale-of-two-brothers/","updated":"2026-07-11T11:42:05.753+01:00","dg-note-properties":{"priority":"High","received ":null,"booklocal":"[[Locations/The Dawn Empire/Wyvern Cave]]","tags":null,"icon":"book","update":null}}
 ---
 
 ### Preface

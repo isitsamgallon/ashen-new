@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/classes/ranger-fey-wanderer-tce/","tags":["compendium/src/5e/tce","subclass/ranger/fey-wanderer"],"updated":"2026-08-11T13:23:47.413+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/ranger/fey-wanderer"],"aliases":["Fey Wanderer"]}}
+{"dg-publish":true,"permalink":"/other-information/classes/ranger-fey-wanderer-tce/","contentClasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/ranger/fey-wanderer"],"updated":"2026-08-11T13:23:47.413+01:00","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":"json5e-class","tags":["compendium/src/5e/tce","subclass/ranger/fey-wanderer"],"aliases":["Fey Wanderer"]}}
 ---
 
 # Fey Wanderer
-*[Ranger](ranger.md): Ranger Archetype*  
+*[[Other Information/Classes/ranger\|Ranger]]: Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 58*  
 
 

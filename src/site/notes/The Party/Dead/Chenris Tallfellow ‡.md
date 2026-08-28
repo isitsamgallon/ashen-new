@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-08-12T12:32:10.238+01:00","dg-note-properties":{"Status":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"![IMG_0309.jpg](/img/user/Admin/Attachments/IMG_0309.jpg)","type":"Ascended"}}
+{"dg-publish":true,"permalink":"/the-party/dead/chenris-tallfellow/","updated":"2026-08-12T12:32:10.238+01:00","dg-note-properties":{"Status":"Dead","role":"Party Member","class":"Cleric/Artificer","Nation":"Strixhaven","town":"Strixhaven Residential Area","Nickname":["Old Man"],"icon":"party","faction":["The Party","Strixhaven"],"race":"Half-Elf","age":"Adult","gender":"Male","aliases":["Chenris"],"Cover":"![[Admin/Attachments/IMG_0309.jpg]]","type":"Ascended"}}
 ---
 
 >[!Recite]   Notes With Similar Names
@@ -46,8 +46,8 @@
 >|Chenris' appearance takes on the colourful form associated with the Eldarin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness, Spring with happiness, Summer with rage and Autumn with confusion.|
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
 > - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
+> - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
 > 
 { .block-language-dataview}
 

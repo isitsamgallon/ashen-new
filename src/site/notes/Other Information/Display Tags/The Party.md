@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"updated":"2026-08-26T11:32:31.434+01:00","dg-note-properties":{"aliases":["The Fatebreakers"],"cssclasses":["dvl-c"]}}
+{"dg-publish":true,"permalink":"/other-information/display-tags/the-party/","hideInGraph":true,"contentClasses":"dvl-c !important !important dvl-c","updated":"2026-08-28T11:30:29.945+01:00","dg-note-properties":{"aliases":["The Fatebreakers"],"cssclasses":["dvl-c","!important","!important dvl-c"]}}
 ---
 
 ### Core Party Members
