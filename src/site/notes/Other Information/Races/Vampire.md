@@ -49,8 +49,11 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 ### Known Vampires
 - [[Named Characters & Beasts/Calathus\|Calathus]]
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
-- [[Named Characters & Beasts/Veranius\|Veranius]]
 - [[Named Characters & Beasts/Mm\|Mm]]
 - [[Named Characters & Beasts/Selene\|Selene]]
+- [[Named Characters & Beasts/Veranius\|Veranius]]
+- [[Named Characters & Beasts/The Hand\|The Hand]]
+- [[Named Characters & Beasts/The Mouth\|The Mouth]]
+- [[Named Characters & Beasts/The Ear\|The Ear]]
 
 { .block-language-dataview}

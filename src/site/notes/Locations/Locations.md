@@ -147,6 +147,7 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | Unknown/Unclear |
 | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | Unknown/Unclear |
 | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | Unknown/Unclear |
+| [[Locations/The Deadlands/Marcel's Crypt\|Marcel's Crypt]]           | \-              |
 
 { .block-language-dataview}
 ### [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]

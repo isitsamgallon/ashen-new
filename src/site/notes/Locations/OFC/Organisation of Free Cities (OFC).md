@@ -18,13 +18,13 @@
 > | --------------------------------------------------------------- | ------------------------------------------ |
 > | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | <ul><li>Discovered</li><li>Tower</li></ul> |
 > | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>                  |
+> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul>               |
 > | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul>               |
 > | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul>               |
-> | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul>               |
-> | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul>               |
 > | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul>               |
-> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul>               |
+> | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul>               |
 > | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul>               |
+> | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul>               |
 > 
 { .block-language-dataview}
 
@@ -79,8 +79,8 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | [[Named Characters & Beasts/Jane\|Jane]]                                                                                               | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
-| [[Named Characters & Beasts/Greg\|Greg]]                                                                                               | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
+| [[Named Characters & Beasts/Greg\|Greg]]                                                                                               | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |

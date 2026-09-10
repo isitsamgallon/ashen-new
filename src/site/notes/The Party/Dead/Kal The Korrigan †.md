@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2026-08-12T12:30:11.465+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Ranger/Druid","Nation":"The Feywilds","town":"Seelie Court","Nickname":["Korri","Antlers"],"icon":"party","aliases":["Korrigan","Korri","Kal †","Kal","Kal ‡","KA1"],"faction":["The Party"],"race":"Fey","gender":"Male","age":"Adult","cover":"![[Admin/Attachments/KalThekorriganWeb.png]]","Status":"Dead"}}
+{"dg-publish":true,"permalink":"/the-party/dead/kal-the-korrigan/","updated":"2026-08-29T12:21:12.199+01:00","dg-note-properties":{"type":"Dead","role":"Party Member","class":"Ranger/Druid","Nation":"The Feywilds","town":"Seelie Court","Nickname":["Korri","Antlers"],"icon":"party","aliases":["Korrigan","Korri","Kal †","Kal","Kal ‡","KA1"],"faction":["The Party"],"race":"Fey","gender":"Male","age":"Adult","cover":"![[Admin/Attachments/KalThekorriganWeb.png|300]]","Status":"Dead"}}
 ---
 
 > [!Recite] Similar names

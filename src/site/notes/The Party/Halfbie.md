@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/halfbie/","contentClasses":"wikicallout","updated":"2026-08-28T11:15:16.286+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit"],"Cover":"![[Admin/Attachments/halfbieWeb.png]]","Status":"Alive"}}
+{"dg-publish":true,"permalink":"/the-party/halfbie/","contentClasses":"wikicallout","updated":"2026-08-29T12:45:15.970+01:00","dg-note-properties":{"role":"Party Member","type":"In The Party","class":"Wizard/Artificer","Nation":"Kearlin Atoll","town":"Paraton","Nickname":["Halfwit"],"cssclasses":["wikicallout"],"icon":"party","faction":["The Party"],"race":"Eladrin","aliases":["Halfwit"],"Cover":"![[Admin/Attachments/halfbieWeb.png|300]]","Status":"Alive"}}
 ---
 
 
 > [!infobox]
 > 
 > # Halfbie
-> ![Admin/Attachments/halfbieWeb.png\|halfbieWeb.png](/img/user/Admin/Attachments/halfbieWeb.png)
+> ![Admin/Attachments/halfbieWeb.png\|300](/img/user/Admin/Attachments/halfbieWeb.png)
 > ###### Basic Information
 > 
 >| Type | Stat |
@@ -37,8 +37,8 @@
 >| Languages | Common, Ancient Dwarvish, Elvish, Primordial, Undercommon |
 >
 >##### Unique Items 
-> - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 > - [[Other Information/Unique Items/Multitool\|Multitool]]
+> - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
 > 
 { .block-language-dataview}

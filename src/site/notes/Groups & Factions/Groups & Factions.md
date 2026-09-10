@@ -13,6 +13,7 @@ Here is a list of all current known groups and factions within the campaign
 - [[Groups & Factions/Halos Emporium\|Halos Emporium]]
 - [[Groups & Factions/Ivory Crest\|Ivory Crest]]
 - [[Groups & Factions/Mage's Guild\|Mage's Guild]]
+- [[Groups & Factions/Marcel's Clan\|Marcel's Clan]]
 - [[Groups & Factions/Merchant Guild\|Merchant Guild]]
 - [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]
 - [[Groups & Factions/The Auditors\|The Auditors]]

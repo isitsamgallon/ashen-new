@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"contentClasses":"dvl-c !important !important dvl-c","updated":"2026-08-28T17:58:17.543+01:00","dg-note-properties":{"aliases":["The Ashen Pantheon"],"cssclasses":["dvl-c","!important","!important dvl-c"]}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"contentClasses":"dvl-c !important !important dvl-c","updated":"2026-08-28T18:03:20.393+01:00","dg-note-properties":{"aliases":["The Ashen Pantheon"],"cssclasses":["dvl-c","!important","!important dvl-c"]}}
 ---
 
 ![Screenshot 2025-06-09 215201.png\|cover](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)
 
 ### Overview
-The Ashen Gods are known across the realms. Their names are etched into the stones of ancient sanctuaries and spoken in the rituals of cities both great and forgotten. Their symbols adorn crests, tombs, and the whispered corners of everyday life. And yet- despite
-their reach, their presence, their undeniable weight- so few truly understand them.
+The Ashen Gods are known across the realms. Their names are etched into the stones of ancient sanctuaries and spoken in the rituals of cities both great and forgotten. Their symbols adorn crests, tombs, and the whispered corners of everyday life. And yet- despite their reach, their presence, their undeniable weight- so few truly understand them.
 
 The Ashen Gods are not tidy. They are not moral. They are not concerned with our categories of good and evil. Some call them tricksters, others tyrants, others still, necessary evils or forgotten truths. The more you study them, the less sure you become of who is observing whom.
 

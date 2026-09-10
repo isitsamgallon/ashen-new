@@ -202,6 +202,7 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 ### Sessions
 | Session                                                           | Saga                          | Summary                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/09 Dangerous Deities/Session 69\|Session 69]]  | 9th Saga - Dangerous Deities  | The party escaped the vampire horde into hidden tunnels beneath the church, led by a group of deformed vampires called The Hand, The Ears, The Eyes, The Mouth, and The Manner, who took them to meet Marcel. After Korrigan cursed Drache into entering Marcel's chamber, the awakened Vampire Lord forced the party to sign a magical contract binding them to kill Vaelrith.                          |
 | [[Session Notes/09 Dangerous Deities/Session 68\|Session 68]]  | 9th Saga - Dangerous Deities  | After Chenris's ascension, Viktor revealed his own transformation into a living tower-crystal, while Halfbie woke up confused and searching for Gil-Galad. The party was besieged by the Crimson Vanguard vampire horde in the Deadlands, until Halfbie Geased their queen into attacking her own tribe, allowing the party to escape into a hidden corridor beneath the church.                         |
 | [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]]  | 9th Saga - Dangerous Deities  | Chenris, secretly in control of Halfbie's body, hijacked the party's teleportation to the Deadlands, where he absorbed a tower-crystal's power and ascended to godhood, killing Aeloria with Chronovorus's help. After the battle, Chenris resurrected Halfbie and Viktor, with Halfbie waking up frantically searching for thing called Gil-Galad.                                                      |
 | [[Session Notes/08 Gutenous Guardians/Session 66\|Session 66]] | 8th Saga - Gutenous Guardians | The party barely defeated the Aspect of Ebis Daro in a brutal battle, only to face the devastating arrival of Ebis himself, who converted the fallen soldiers into Ash Spawn and forcibly transformed Viktor's cloak's psychopomp into a corrupted minion. Ebis spared Viktor as a messenger, leaving the party to grapple with the horrific aftermath and the impossible question of how to defeat him. |
@@ -211,7 +212,6 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Session Notes/08 Gutenous Guardians/Session 62\|Session 62]] | 8th Saga - Gutenous Guardians | The party returned to Blackwall with a million gold and a new commander, Kase, only to discover the three "New God" children now living in the tower. As Halfbie sleepwalked into covering their room with indecipherable magical theorems, Drache made a fey pact in his dreams, and Mordecai bonded with Cas, accepting her for who she is rather than trying to "fix" her.                            |
 | [[Session Notes/07 Winter Warriors/Session 61\|Session 61]]    | 7th Saga - Winter Warriors    | The party defeats Auric, outplays Astra for a huge reward, and Mordecai confronts their past in a fiery turning point that sets up future conflicts.                                                                                                                                                                                                                                                     |
 | [[Session Notes/07 Winter Warriors/Session 60\|Session 60]]    | 7th Saga - Winter Warriors    | The party rescues the New God eggs using Bags of Holding and secret tunnels, only to receive a chilling warning that Mordecai’s father must not be stopped, no matter the cost. As hostage-filled airships arrive and Astra sacrifices herself, the party finally stands ready to face Auric.The session is still being written by Sam.                                                                  |
-| [[Session Notes/07 Winter Warriors/Session 59\|Session 59]]    | 7th Saga - Winter Warriors    | The party infiltrated a dragon-centric R&D facility, discovering horrific experiments on dragons and a mysterious liquid connected to Drache's past. After a tense confrontation with two reality-warping "New God" children guarding captive dragons, the party befriended the kids, rescued a golden dragon egg, and hatched a new one ally named Cas.                                                 |
 
 { .block-language-dataview}
 
@@ -248,8 +248,8 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
@@ -266,20 +266,20 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
-- [[Gods & Heralds/Chronovorus/The Pages\|The Pages]]
-- [[Gods & Heralds/Aetherion/Terathra\|Terathra]]
-- [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]]
-- [[Gods & Heralds/Aetherion/Aetherion\|Aetherion]]
+- [[Session Notes/09 Dangerous Deities/Session 69\|Session 69]]
+- [[Named Characters & Beasts/The Manner\|The Manner]]
+- [[Named Characters & Beasts/The Eyes\|The Eyes]]
+- [[Named Characters & Beasts/The Ear\|The Ear]]
+- [[Named Characters & Beasts/The Mouth\|The Mouth]]
 
 { .block-language-dataview}
 
 ### Recently Created
-- [[Admin/Spells/wall-of-thorns\|wall-of-thorns]]
-- [[Admin/Spells/wall-of-stone\|wall-of-stone]]
-- [[Admin/Spells/wall-of-sand-xge\|wall-of-sand-xge]]
-- [[Admin/Spells/wall-of-light-xge\|wall-of-light-xge]]
-- [[Admin/Spells/wall-of-ice\|wall-of-ice]]
+- [[Named Characters & Beasts/The Manner\|The Manner]]
+- [[Named Characters & Beasts/The Eyes\|The Eyes]]
+- [[Named Characters & Beasts/The Ear\|The Ear]]
+- [[Named Characters & Beasts/The Mouth\|The Mouth]]
+- [[Groups & Factions/Marcel's Clan\|Marcel's Clan]]
 
 { .block-language-dataview}
 
@@ -287,16 +287,18 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Tagged as Having Incomplete Or Out-of-Date Information
-| Note                                                                 | Date of Tagging |
-| -------------------------------------------------------------------- | --------------- |
-| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]      | April 21, 2026  |
-| [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]] | August 11, 2026 |
-| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]      | June 06, 2026   |
-| [[Groups & Factions/Crimson Vanguard\|Crimson Vanguard]]          | August 28, 2026 |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026    |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026   |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | August 28, 2026 |
-| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | August 28, 2026 |
+| Note                                                                 | Date of Tagging    |
+| -------------------------------------------------------------------- | ------------------ |
+| [[Session Notes/04 Ignatius Beckons/Session 35\|Session 35]]      | April 21, 2026     |
+| [[Named Characters & Beasts/Important Characters/Marcel\|Marcel]] | August 11, 2026    |
+| [[Named Characters & Beasts/Alfred Go Fish\|Alfred Go Fish]]      | June 06, 2026      |
+| [[Locations/The Deadlands/Marcel's Crypt\|Marcel's Crypt]]        | September 10, 2026 |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026       |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026      |
+| [[Groups & Factions/Marcel's Clan\|Marcel's Clan]]                | September 10, 2026 |
+| [[Groups & Factions/Crimson Vanguard\|Crimson Vanguard]]          | August 28, 2026    |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | August 28, 2026    |
+| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | August 28, 2026    |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

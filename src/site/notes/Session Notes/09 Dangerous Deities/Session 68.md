@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/09-dangerous-deities/session-68/","updated":"2026-08-28T16:32:22.884+01:00","dg-note-properties":{"Summary":"After Chenris's ascension, Viktor revealed his own transformation into a living tower-crystal, while Halfbie woke up confused and searching for Gil-Galad. The party was besieged by the Crimson Vanguard vampire horde in the Deadlands, until Halfbie Geased their queen into attacking her own tribe, allowing the party to escape into a hidden corridor beneath the church.","Part":"9th Saga - Dangerous Deities","type":"session","sessionNum":68,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]","[[The Party/Other Party Members/Meta/Jae Knight]]"]}}
+{"dg-publish":true,"permalink":"/session-notes/09-dangerous-deities/session-68/","updated":"2026-08-29T20:49:27.148+01:00","dg-note-properties":{"Summary":"After Chenris's ascension, Viktor revealed his own transformation into a living tower-crystal, while Halfbie woke up confused and searching for Gil-Galad. The party was besieged by the Crimson Vanguard vampire horde in the Deadlands, until Halfbie Geased their queen into attacking her own tribe, allowing the party to escape into a hidden corridor beneath the church.","Part":"9th Saga - Dangerous Deities","type":"session","sessionNum":68,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]","[[The Party/Other Party Members/Meta/Jae Knight]]"]}}
 ---
 
 # Session Information
@@ -196,14 +196,6 @@ That night, the party was surrounded by hundreds of vampires from the Crimson Va
 (x::Just as they passed the threshold of the corridor, a horde of vampires entered the church and began charging at them. But the corridor disappeared before they could reach [[Other Information/Display Tags/The Party\|the party]].)
 
 (x::[[Other Information/Display Tags/The Party\|The party]] stood in the darkness of the corridor, huffing for air.)
-
-
-
-
-
-
-
-
 
 # Trivia & Notes
 - (o:: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] revealed that the [[Other Information/Races/Vampire\|Vampire]] in the red dress was called [[Named Characters & Beasts/Selene\|Selene]]. He also explained that her ability is to be able to analysis all the magic she sees and counter it.)
