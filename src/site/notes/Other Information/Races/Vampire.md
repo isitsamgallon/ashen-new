@@ -51,9 +51,9 @@ Vampires enjoyed finer things in unlife and engaged in decadent behavior, often 
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
 - [[Named Characters & Beasts/Mm\|Mm]]
 - [[Named Characters & Beasts/Selene\|Selene]]
-- [[Named Characters & Beasts/Veranius\|Veranius]]
 - [[Named Characters & Beasts/The Hand\|The Hand]]
-- [[Named Characters & Beasts/The Mouth\|The Mouth]]
+- [[Named Characters & Beasts/Veranius\|Veranius]]
 - [[Named Characters & Beasts/The Ear\|The Ear]]
+- [[Named Characters & Beasts/The Mouth\|The Mouth]]
 
 { .block-language-dataview}

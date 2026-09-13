@@ -12,9 +12,9 @@ The name is given to the group of people that travel with [[Other Information/Di
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sylva Riverstone\|Sylva Riverstone]] | Druid   | Companion | Missing    |
 | [[Named Characters & Beasts/Ringo\|Ringo]]                                                                    | Ranger  | Companion | Travelling |
 | [[The Party/Other Party Members/Bruce\|Bruce]]                                                                | Paladin | Companion | Travelling |
+| [[The Party/Other Party Members/Familiars/Bits\|Bits]]                                                        | Summon  | Companion | Other      |
 | [[The Party/Other Party Members/Corvus\|Corvus]]                                                              | Unknown | Companion | Travelling |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                      | Fighter | Companion | Other      |
-| [[The Party/Other Party Members/Familiars/Bits\|Bits]]                                                        | Summon  | Companion | Other      |
 
 { .block-language-dataview}
 

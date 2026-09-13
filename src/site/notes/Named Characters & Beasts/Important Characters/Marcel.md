@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 67.md" data-href="Session Notes/09 Dangerous Deities/Session 67.md" href="Session Notes/09 Dangerous Deities/Session 67.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 67</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 68.md" data-href="Session Notes/09 Dangerous Deities/Session 68.md" href="Session Notes/09 Dangerous Deities/Session 68.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 68</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 69.md" data-href="Session Notes/09 Dangerous Deities/Session 69.md" href="Session Notes/09 Dangerous Deities/Session 69.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 69</a></span></span> |
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 
 

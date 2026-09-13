@@ -32,7 +32,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  | [[Session Notes/05  Freedom's Flame/Session 46\|Session 46]] |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" href="Session Notes/08 Gutenous Guardians/Session 64.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 69.md" data-href="Session Notes/09 Dangerous Deities/Session 69.md" href="Session Notes/09 Dangerous Deities/Session 69.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 69</a></span></span> |
 >Fey Spellcasting |
 >---|
 >Spells cast by Korrigan are done with fey magic, they all have a magenta mist surrounding them |

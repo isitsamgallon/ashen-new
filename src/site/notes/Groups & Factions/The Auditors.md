@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2026-02-20T13:47:27.307+00:00","dg-note-properties":{"tags":"Groups","icon":"group","update ":null}}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-auditors/","tags":["Groups"],"updated":"2026-09-13T15:38:38.193+01:00","dg-note-properties":{"tags":"Groups","icon":"group","update ":null}}
 ---
 
 > [!infobox]
@@ -18,11 +18,11 @@
 >   | File                                                                                                  | Gender | Age   | Race     |
 > | ----------------------------------------------------------------------------------------------------- | ------ | ----- | -------- |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]         | Male   | Adult | Human    |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Adult | Dragon   |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                     | Male   | Adult | Dragon   |
-> | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human    |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Healing Halfling\|Healing Halfling]] | Female | Adult | Halfling |
 > | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]               | Female | Adult | Dragon   |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]                     | Male   | Adult | Dragon   |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]   | Male   | Adult | Dragon   |
+> | [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]]                       | Male   | Adult | Human    |
 > 
 { .block-language-dataview}
 
@@ -35,6 +35,8 @@ Each member of the Auditors has a piece of Akin, binding them to the same missio
 
 # Known Business Partners
 - [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]
+- [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]]
+- [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]
 - [[Other Information/Display Tags/The Party\|The Party]] 
 
 ### History & Mentions

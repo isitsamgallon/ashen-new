@@ -46,9 +46,9 @@
 Immensely powerful magical beings. There were several types of dragons, the most common of which were [chromatic](https://forgottenrealms.fandom.com/wiki/Chromatic_dragon "Chromatic dragon") and [metallic](https://forgottenrealms.fandom.com/wiki/Metallic_dragon "Metallic dragon"), which were [evil](https://forgottenrealms.fandom.com/wiki/Evil "Evil") and [good](https://forgottenrealms.fandom.com/wiki/Good "Good") respectively. Dragons are also often qualified by the their age in terms of how powerful. Young dragons are the weakest, adult dragons are standard and ancient dragons are the strongest although they are very rare. 
 
 ### ### Known Dragons
-- [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]
-- [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]
 - [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]
 
 { .block-language-dataview}
 
