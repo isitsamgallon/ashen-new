@@ -16,9 +16,9 @@
 > | Influence | Minor |
 >  ##### Key Members
 >   | File                                        | Gender | Age   | Race  |
-> | ------------------------------------------- | ------ | ----- | ----- |
-> | [[Named Characters & Beasts/Greg\|Greg]] | Male   | Adult | Human |
-> 
+>  | ------------------------------------------- | ------ | ----- | ----- |
+>  | [[Named Characters & Beasts/Greg\|Greg]] | Male   | Adult | Human |
+>  
 { .block-language-dataview}
 
 

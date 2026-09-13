@@ -38,9 +38,9 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Tome of Unfinished Stories\|Tome of Unfinished Stories]]
-> - [[Other Information/Unique Items/Multitool\|Multitool]]
-> - [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
-> 
+>- [[Other Information/Unique Items/Multitool\|Multitool]]
+>- [[Other Information/Unique Items/Orrery Compass\|Orrery Compass]]
+>
 { .block-language-dataview}
 
   > [!Quote|author] Halfbie <br>[[Session Notes/06 Urban Legends/Session 48\|Session 48]]

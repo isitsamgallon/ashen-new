@@ -16,8 +16,8 @@
 >  Current Leader | Unknown |
 >  ##### Known Members
 >   | File | Gender | Age | Race |
-> | ---- | ------ | --- | ---- |
-> 
+>  | ---- | ------ | --- | ---- |
+>  
 { .block-language-dataview}
 
 ### Overview

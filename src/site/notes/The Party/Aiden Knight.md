@@ -38,8 +38,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Edge of the Onyx Sands\|Edge of the Onyx Sands]]
-> - [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
-> 
+>- [[Other Information/Unique Items/Coin of The Borrowed Face\|Coin of The Borrowed Face]]
+>
 { .block-language-dataview}
 
 

@@ -8,8 +8,8 @@
 > ![Bedine_and_D'tarig.webp\|cover hsmall](/img/user/Admin/Attachments/Bedine_and_D'tarig.webp)
 >  ##### Key Members
 >   | File | Gender | Age | Race |
-> | ---- | ------ | --- | ---- |
-> 
+>  | ---- | ------ | --- | ---- |
+>  
 { .block-language-dataview}
 
 

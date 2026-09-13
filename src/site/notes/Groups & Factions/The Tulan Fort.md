@@ -17,13 +17,13 @@
 >  Previous Leader | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]] |
 >  ##### Key Members
 >   | File                                                                                             | Gender | Age         | Race       |
-> | ------------------------------------------------------------------------------------------------ | ------ | ----------- | ---------- |
-> | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]                                | Male   | Adult       | Human      |
-> | [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]                                | Male   | Young Adult | Human      |
-> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]] | Male   | Adult       | Human      |
-> | [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]                        | Male   | Adult       | Dwarf      |
-> | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                            | Male   | Adult       | Dragonborn |
-> 
+>  | ------------------------------------------------------------------------------------------------ | ------ | ----------- | ---------- |
+>  | [[Named Characters & Beasts/Damascus Klyn †\|Damascus Klyn †]]                                | Male   | Adult       | Human      |
+>  | [[Named Characters & Beasts/Dave McDuffin †\|Dave McDuffin †]]                                | Male   | Young Adult | Human      |
+>  | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †\|Olgrik †]] | Male   | Adult       | Human      |
+>  | [[Named Characters & Beasts/Vormomli Bronzehand\|Vormomli Bronzehand]]                        | Male   | Adult       | Dwarf      |
+>  | [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                            | Male   | Adult       | Dragonborn |
+>  
 { .block-language-dataview}
 
 ### Overview

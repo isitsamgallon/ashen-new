@@ -16,9 +16,9 @@
 >  Current Leader | Unknown |
 >  ##### Known Members
 >   | File                                      | Gender | Age   | Race  |
-> | ----------------------------------------- | ------ | ----- | ----- |
-> | [[Named Characters & Beasts/Mau\|Mau]] | Male   | Adult | Human |
-> 
+>  | ----------------------------------------- | ------ | ----- | ----- |
+>  | [[Named Characters & Beasts/Mau\|Mau]] | Male   | Adult | Human |
+>  
 { .block-language-dataview}
 
 ### Overview

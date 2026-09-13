@@ -16,13 +16,13 @@
 > | Influence | Minor |
 >  ##### Key Members
 >   | File                                                    | Gender | Age     | Race        |
-> | ------------------------------------------------------- | ------ | ------- | ----------- |
-> | [[Named Characters & Beasts/The Eyes\|The Eyes]]     | Female | Unknown | Vampire/Fae |
-> | [[Named Characters & Beasts/The Hand\|The Hand]]     | Male   | Unknown | Vampire     |
-> | [[Named Characters & Beasts/The Ear\|The Ear]]       | Male   | Unknown | Vampire     |
-> | [[Named Characters & Beasts/The Manner\|The Manner]] | Female | Unknown | Vampire/Fae |
-> | [[Named Characters & Beasts/The Mouth\|The Mouth]]   | Male   | Unknown | Vampire     |
-> 
+>  | ------------------------------------------------------- | ------ | ------- | ----------- |
+>  | [[Named Characters & Beasts/The Eyes\|The Eyes]]     | Female | Unknown | Vampire/Fae |
+>  | [[Named Characters & Beasts/The Hand\|The Hand]]     | Male   | Unknown | Vampire     |
+>  | [[Named Characters & Beasts/The Ear\|The Ear]]       | Male   | Unknown | Vampire     |
+>  | [[Named Characters & Beasts/The Manner\|The Manner]] | Female | Unknown | Vampire/Fae |
+>  | [[Named Characters & Beasts/The Mouth\|The Mouth]]   | Male   | Unknown | Vampire     |
+>  
 { .block-language-dataview}
 
 

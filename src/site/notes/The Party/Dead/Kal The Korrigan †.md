@@ -44,7 +44,7 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Ancient Elven Lightning Longbow\|Ancient Elven Lightning Longbow]]
-> 
+>
 { .block-language-dataview}
  
    > [!Quote|author] Kal The Korrigan <br>[[Session Notes/05  Freedom's Flame/Session 44\|Session 44]]

@@ -47,8 +47,8 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Clockwork Bird\|Clockwork Bird]]
-> - [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
-> 
+>- [[Other Information/Unique Items/Bag of Devouring\|Bag of Devouring]]
+>
 { .block-language-dataview}
 
 
@@ -80,7 +80,7 @@ Later on, Leotoris was one of the stewards on a field trip to a local dungeon. C
 | [[Other Information/Quotes\|Quotes]] | "Maybe one bollock to the wall" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] "i'm happy to be one bollock" - [[The Party/Mordecai Reverence\|Mordecai Reverence]]                                                         |
 | [[Other Information/Quotes\|Quotes]] | "Makey man make things!!" - referring to [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] -  [[The Party/Dead/Kal The Korrigan †\|Korrigan]]                                                                     |
 | [[Other Information/Quotes\|Quotes]] | "You be speaking mad facts" -  [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] when speaking to [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]                                                                                    |
-| [Quotes]] | " It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡](/img/user/Other%20Information/Quotes.md) |
+| [[Other Information/Quotes\|Quotes]] | " It was kinda how you say… ![✨](https://discord.com/assets/10cfdf082083ea92.svg)spenny![✨](https://discord.com/assets/10cfdf082083ea92.svg) " - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] |
 | [[Other Information/Quotes\|Quotes]] | "I did want a stud..." - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] addressing [[The Party/Wurinn Fuuldrusch\|Wurinn Fuuldrusch]]                                                                                        |
 | [[Other Information/Quotes\|Quotes]] | "I am definitely proposing the library" _boing_ - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                                |
 | [[Other Information/Quotes\|Quotes]] | "Are you okay?" - [[The Party/Aiden Knight\|Aiden Knight]] "I am a ghost...No" - [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]                                                                                         |
@@ -269,7 +269,7 @@ The blood test that followed confirmed Chenris’ noble lineage—an unsurprisin
 The luxury of their temporary lodgings was soon marred by a prank Chenris orchestrated. Angered by Aidan’s previous theft of his cloak, Chenris stole Aidan’s prized dagger and had a slave dispose of it via portal, ensuring its permanent disappearance. While pranks and minor acts of revenge are not uncommon in adventuring parties, the casual cruelty with which Chenris enacted this one is unsettling. He reveled in the discomfort it caused Aidan, making a mockery of the dagger's disappearance over breakfast while Aidan frantically searched for it. The cold calculation behind the prank suggests a growing callousness in Chenris’ psyche, one that could endanger the unity of his party.
 
 **The Audience with Empress Yelris**
-The manner in which Chenris and his companions sought favor with Lord Folre [[Locations/Ehobel/Enelion/Enelion\|Enelion]] to secure an audience with Empress [[[[Obeus Yelris\|[[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] Yelris]] continued to highlight Chenris' manipulative tendencies. While the rest of [[Other Information/Display Tags/The Party\|The Party]] flattered Lord [[Locations/Ehobel/Enelion/Enelion\|Enelion]], Chenris quickly capitalized on the favor and disengaged, moving away from the situation with haste. His use of social maneuvering is impressive, but it is the underlying intent that concerns me. Chenris has become adept at using people to advance his own goals, and I fear what this skill might evolve into, given time.
+The manner in which Chenris and his companions sought favor with Lord Folre [[Locations/Ehobel/Enelion/Enelion\|Enelion]] to secure an audience with Empress [[[[Obeus Yelris\|[[Obeus Yelris]] Yelris]] continued to highlight Chenris' manipulative tendencies. While the rest of [[Other Information/Display Tags/The Party\|The Party]] flattered Lord [[Locations/Ehobel/Enelion/Enelion\|Enelion]], Chenris quickly capitalized on the favor and disengaged, moving away from the situation with haste. His use of social maneuvering is impressive, but it is the underlying intent that concerns me. Chenris has become adept at using people to advance his own goals, and I fear what this skill might evolve into, given time.
 
 **Aidan's Dagger Scam in [[Locations/Ehobel/Nas Anor\|Nas Anor]]**
 Chenris' involvement in Aidan's scheme to sell and then magically recall his dagger in [[Locations/Ehobel/Nas Anor\|Nas Anor]] further illustrates his willingness to engage in morally dubious activities. While his sale of wyvern poison might be deemed pragmatic, the overarching trend of behavior speaks to a growing detachment from ethical concerns. It is as though Chenris views every interaction, every decision, as a piece in a larger game—one where only the end goal matters, regardless of who might be hurt along the way.

@@ -37,7 +37,7 @@
 >
 >##### Unique Items 
 > - [[Other Information/Unique Items/Viktor's Cloak\|Viktor's Cloak]]
-> 
+>
 { .block-language-dataview}
 
 

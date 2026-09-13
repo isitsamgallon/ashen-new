@@ -16,9 +16,9 @@
 >  Current Leader | Unknown |
 >  ##### Known Members
 >   | File                                            | Gender | Age   | Race   |
-> | ----------------------------------------------- | ------ | ----- | ------ |
-> | [[Named Characters & Beasts/Bing †\|Bing †]] | Male   | Adult | Goblin |
-> 
+>  | ----------------------------------------------- | ------ | ----- | ------ |
+>  | [[Named Characters & Beasts/Bing †\|Bing †]] | Male   | Adult | Goblin |
+>  
 { .block-language-dataview}
 
 ### Overview

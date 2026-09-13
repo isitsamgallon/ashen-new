@@ -15,18 +15,18 @@
 >  Current Leader | None |
 >  ##### Cities & Towns 
 >   | File                                                                               | Discovery Status                             |
-> | ---------------------------------------------------------------------------------- | -------------------------------------------- |
-> | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | <ul><li>Discovered</li></ul>                 |
-> | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li><li>Tower</li></ul> |
-> | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul>               |
-> | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | <ul><li>Undiscovered</li></ul>               |
-> 
+>  | ---------------------------------------------------------------------------------- | -------------------------------------------- |
+>  | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Sumene\|Sumene]]                                         | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | <ul><li>Discovered</li></ul>                 |
+>  | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | <ul><li>Undiscovered</li><li>Tower</li></ul> |
+>  | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | <ul><li>Undiscovered</li></ul>               |
+>  | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | <ul><li>Undiscovered</li></ul>               |
+>  
 { .block-language-dataview}
 ### Overview
 A large desert is found to the south of [[Locations/The Dawn Empire/The Dawn Empire\|the Dawn Empire]] and [[Locations/Ehobel/Ehobel\|Ehobel]]. This Desert is home to [[Locations/The Desert/Ember Peak\|Ember Peak]], where [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] was first able to enter [[Locations/The Amber Realms\|the Amber Realms]], thanks to [[Groups & Factions/Religious Organisations/The Ashen Cult\|The Ashen Cult]]. 

@@ -16,9 +16,9 @@
 >  Current Leader | Various depending on the town |
 >  ##### Key Members
 >   | File                                                                                                                                                 | Gender | Age         | Race     |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | -------- |
-> | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]] | Male   | Young Adult | Tiefling |
-> 
+>  | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | -------- |
+>  | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]] | Male   | Young Adult | Tiefling |
+>  
 { .block-language-dataview}
 
 ### Overview

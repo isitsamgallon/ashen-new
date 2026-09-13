@@ -16,9 +16,9 @@
 > | Influence | Unknown |
 >  ##### Key Members
 >   | File                                    | Gender | Age     | Race    |
-> | --------------------------------------- | ------ | ------- | ------- |
-> | [[Named Characters & Beasts/Mm\|Mm]] | Male   | Unknown | Vampire |
-> 
+>  | --------------------------------------- | ------ | ------- | ------- |
+>  | [[Named Characters & Beasts/Mm\|Mm]] | Male   | Unknown | Vampire |
+>  
 { .block-language-dataview}
 
 
