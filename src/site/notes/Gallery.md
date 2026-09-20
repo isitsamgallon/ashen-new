@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-09-13T15:40:21.537+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-09-17T19:20:21.187+01:00","dg-note-properties":{}}
 ---
 
 > [!grid]
@@ -17,3 +17,4 @@
 > ![Tarot_Drache.png](/img/user/Admin/Attachments/Tarot_Drache.png)
 > ![Tarot_Halfbie.png](/img/user/Admin/Attachments/Tarot_Halfbie.png)
 > ![Tarot_Mordecai.png](/img/user/Admin/Attachments/Tarot_Mordecai.png)
+> ![YoungViktor.png](/img/user/Admin/Attachments/YoungViktor.png)
