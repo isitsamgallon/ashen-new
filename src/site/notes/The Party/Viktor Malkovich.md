@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-09-17T18:52:23.651+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"![[Admin/Attachments/ViktorConcept.png|300]]"}}
+{"dg-publish":true,"permalink":"/the-party/viktor-malkovich/","tags":["NPC"],"updated":"2026-09-29T19:32:51.684+01:00","dg-note-properties":{"tags":["NPC"],"Nation":"The Deadlands","town":"Unknown/Unclear","icon":"npc","Status":"Alive","age":"Adult","race":"dhampir","gender":"Male","faction":["The Party"],"aliases":["Dr Viktor Malkovich","Viktor","Victor Lucius Malkovich"],"type":"In The Party","class":"Cleric","role":"Party Member","Cover":"![[Admin/Attachments/ViktorConcept.png|300]]"}}
 ---
 
 
@@ -13,7 +13,7 @@
 >  Race | [[Other Information/Races/Dhampir\|Dhampir]] |
 >  Nationality | [[Locations/The Deadlands/The Deadlands\|The Deadlands]] |
 >  Class | Cleric |
->  Subclass | [[Other Information/Classes/cleric-grave-domain-xge\|Grave Domain]] (Previous) [[Other Information/Classes/cleric-twilight-domain-tce\|Twilight Domain]] (Current)|
+>  Subclass | [[Other Information/Classes/cleric-grave-domain-xge\|Grave Domain]] (Previous) Tower Domain (Current) |
 >  Age | 144 |
 >  Alignment | Lawful Good|
 >  Pronouns | He/Him |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"contentClasses":"dvl-c !important !important dvl-c","updated":"2026-08-28T18:03:20.393+01:00","dg-note-properties":{"aliases":["The Ashen Pantheon"],"cssclasses":["dvl-c","!important","!important dvl-c"]}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/gods-and-heralds/","hideInGraph":true,"contentClasses":"dvl-c !important !important dvl-c","updated":"2026-09-29T19:37:51.161+01:00","dg-note-properties":{"aliases":["The Ashen Pantheon"],"cssclasses":["dvl-c","!important","!important dvl-c"]}}
 ---
 
 ![Screenshot 2025-06-09 215201.png\|cover](/img/user/Admin/Attachments/Screenshot%202025-06-09%20215201.png)

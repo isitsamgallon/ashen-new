@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","title":"The Cleansing Flame, Destroyer of worlds","updated":"2026-08-28T17:26:31.208+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Fire, Destruction, Purification, Rebirth, and Wrath","title":"The Cleansing Flame, Destroyer of worlds","heralds":"The Crucible Eternal","realm":"Seifer Willow ‡, Ash Spawn","cover":"![[Admin/Attachments/IgnatiusWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2026-09-29T19:36:18.220+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Fire, Destruction, Purification, Rebirth, and Wrath","nickname":"The Cleansing Flame, Destroyer of worlds","heralds":"The Crucible Eternal","realm":"Seifer Willow ‡, Ash Spawn","cover":"![[Admin/Attachments/IgnatiusWeb.png]]"}}
 ---
 
 > [!infobox]

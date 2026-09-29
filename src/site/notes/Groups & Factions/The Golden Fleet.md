@@ -20,11 +20,11 @@
 >  | [[Named Characters & Beasts/Auric Thalassar\|Auric Thalassar]]     | Male   | Ancient | Gold Dragon |
 >  | [[Named Characters & Beasts/Astra Goldmark\|Astra Goldmark]]       | Female | Adult   | Human       |
 >  | [[Named Characters & Beasts/Captain Red Beard\|Captain Red Beard]] | Male   | Adult   | Human       |
->  | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown     |
 >  | [[Named Characters & Beasts/Lux Calder\|Lux Calder]]               | Male   | Unknown | Unknown     |
+>  | [[Named Characters & Beasts/Mirabel Thorne\|Mirabel Thorne]]       | Female | Unknown | Unknown     |
 >  | [[Named Characters & Beasts/Nyssa Brightscar\|Nyssa Brightscar]]   | Female | Unknown | Unknown     |
->  | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown     |
 >  | [[Named Characters & Beasts/Peter Ulrick\|Peter Ulrick]]           | Male   | Adult   | Dwarf       |
+>  | [[Named Characters & Beasts/Rhea Sunfall\|Rhea Sunfall]]           | Female | Unknown | Unknown     |
 >  | [[Named Characters & Beasts/Receptionist 3\|Receptionist 3]]       | Male   | Adult   | Human       |
 >  | [[Named Characters & Beasts/Sevrin Hale\|Sevrin Hale]]             | Male   | Unknown | Unknown     |
 >  | [[Named Characters & Beasts/Veyra Kest\|Veyra Kest]]               | Male   | Unknown | Unknown     |

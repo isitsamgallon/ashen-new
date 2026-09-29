@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","title":"The Fey Sovereign, Supreme Trickster","updated":"2026-08-28T17:27:23.308+01:00","dg-note-properties":{"race":"God","icon":"god","update":null,"speciality":"Deception, Chaos, Trickery, and Change","title":"The Fey Sovereign, Supreme Trickster","heralds":"The Korrigan","realm":"The Feywilds (Domain)","cover":"![[Admin/Attachments/LorwynWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2026-09-29T19:36:27.424+01:00","dg-note-properties":{"race":"God","icon":"god","update":null,"speciality":"Deception, Chaos, Trickery, and Change","nickname":"The Fey Sovereign, Supreme Trickster","heralds":"The Korrigan","realm":"The Feywilds (Domain)","cover":"![[Admin/Attachments/LorwynWeb.png]]"}}
 ---
 
 > [!infobox]

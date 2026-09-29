@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","title":"The Goddess of Light, Bringer of Knowledge","updated":"2026-08-28T17:23:53.895+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Light, Knowledge, Hope, and Enlightenment","title":"The Goddess of Light, Bringer of Knowledge","heralds":"The Golden Ones","realm":"The Golden Plane","cover":"![[Admin/Attachments/AeloriaWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/aeloria/aeloria/","updated":"2026-09-29T19:35:53.743+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Light, Knowledge, Hope, and Enlightenment","nickname":"The Goddess of Light, Bringer of Knowledge","heralds":"The Golden Ones","realm":"The Golden Plane","cover":"![[Admin/Attachments/AeloriaWeb.png]]"}}
 ---
 
 
