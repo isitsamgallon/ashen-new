@@ -254,11 +254,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Gallery\|Gallery]]
+- [[The Party/Aiden Knight\|Aiden Knight]]
 - [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
 - [[Gods & Heralds/Chenris/Chenris\|Chenris]]
 - [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
-- [[Gods & Heralds/Somnora/Somnora\|Somnora]]
-- [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
 
 { .block-language-dataview}
 
