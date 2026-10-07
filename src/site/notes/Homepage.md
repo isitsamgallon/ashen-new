@@ -236,10 +236,10 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Books, Documents & Artefacts/Diary Entry Found In The Crypts of Dawnhaven\|Diary Entry Found In The Crypts of Dawnhaven]]                               | High             | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | July 31, 2025 |
 | [[Books, Documents & Artefacts/Ashen Gods\|Ashen Gods]]                                                                                                   | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
 | [[Books, Documents & Artefacts/A Chronicle of Akin Netch - The Man of Many Faces\|A Chronicle of Akin Netch - The Man of Many Faces]]                     | High             | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | July 31, 2025 |
-| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower\|Unnamed Book on the History of The Black Tower]]                           | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
-| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
+| [[Books, Documents & Artefacts/Unnamed Book on The Ashen Pantheon\|Unnamed Book on The Ashen Pantheon]]                                                   | Low              | [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]                       | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Tale of The Dreamer & The Wanderer\|The Tale of The Dreamer & The Wanderer]]                                           | Low              | Unknown                                                                               | July 31, 2025 |
+| [[Books, Documents & Artefacts/The Rebel Who Walked the Glade\|The Rebel Who Walked the Glade]]                                                           | Low              | Unknown                                                                               | July 31, 2025 |
 | [[Books, Documents & Artefacts/The Loneliest Dragon\|The Loneliest Dragon]]                                                                               | Low              | [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]]                           | July 31, 2025 |
 | [[Books, Documents & Artefacts/Poems from the Sand Dunes\|Poems from the Sand Dunes]]                                                                     | Low              | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]                              | July 31, 2025 |
 | [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]                                                         | Low              | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]                    | July 31, 2025 |
@@ -254,11 +254,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gallery\|Gallery]]
-- [[The Party/Aiden Knight\|Aiden Knight]]
 - [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
-- [[Gods & Heralds/Chenris/Chenris\|Chenris]]
-- [[Gods & Heralds/Vaelrith/Vaelrith\|Vaelrith]]
+- [[Gods & Heralds/Somnora/Somnora\|Somnora]]
+- [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
+- [[Gods & Heralds/Lyria/Lyria\|Lyria]]
+- [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
 
 { .block-language-dataview}
 
@@ -283,10 +283,9 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 | [[Locations/The Deadlands/Marcel's Crypt\|Marcel's Crypt]]        | September 10, 2026 |
 | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]                  | July 11, 2026      |
 | [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]]    | May 26, 2026       |
-| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | August 28, 2026    |
-| [[Gods & Heralds/Chenris/Chenris\|Chenris]]                       | September 29, 2026 |
 | [[Groups & Factions/Marcel's Clan\|Marcel's Clan]]                | September 10, 2026 |
 | [[Groups & Factions/Crimson Vanguard\|Crimson Vanguard]]          | August 28, 2026    |
+| [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]]       | August 28, 2026    |
 
 { .block-language-dataview}
 >[!Recite]  Get the most out of DND

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-09-29T19:36:55.152+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams and Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181435.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-10-07T18:29:47.761+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams and Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/SommnoraGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Somnora
-> ![Screenshot 2025-06-09 181435.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181435.png)
+> ![Admin/Attachments/SommnoraGlass.png\|SommnoraGlass.png](/img/user/Admin/Attachments/SommnoraGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -18,7 +19,9 @@
 > | Celestial Realm | [[Gods & Heralds/Somnora/The Slumbering Veil\|The Slumbering Veil]] |
 > | Herald(s)| [[Gods & Heralds/Somnora/Angel Under The Well\|Angel Under The Well]] |
 
-> "AND IN THE HUSH OF THE NINTH HOUR CAME Somnora, the Veil of Night, whose mantle is woven of stars and whose breath brings sleep to kings and beggars alike. She walks the hidden paths between waking and wonder, and in her shadow bloom the dreams of men. Her voice is the hush before the storm, the lullaby of eternity, and she binds the restless with visions both divine and dreadful. For in her dominion, the soul is laid bare, and truth is whispered in riddles."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
+
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND IN THE HUSH OF THE NINTH HOUR CAME Somnora, the Veil of Night, whose mantle is woven of stars and whose breath brings sleep to kings and beggars alike. She walks the hidden paths between waking and wonder, and in her shadow bloom the dreams of men. Her voice is the hush before the storm, the lullaby of eternity, and she binds the restless with visions both divine and dreadful. For in her dominion, the soul is laid bare, and truth is whispered in riddles."
 
 ### Overview
 Somnora drifts through the folds of night, her form shrouded in shadow and starlight. She speaks in dreams, in symbols, in the quiet just before sleep takes hold. Neither kind nor cruel, she shows mortals what they most need to see - or what they fear they already

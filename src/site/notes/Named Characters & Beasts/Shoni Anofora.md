@@ -24,8 +24,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 67.md" data-href="Session Notes/09 Dangerous Deities/Session 67.md" href="Session Notes/09 Dangerous Deities/Session 67.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 67</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 35.md" data-href="Session Notes/04 Ignatius Beckons/Session 35.md" href="Session Notes/04 Ignatius Beckons/Session 35.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 35</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 37.md" data-href="Session Notes/04 Ignatius Beckons/Session 37.md" href="Session Notes/04 Ignatius Beckons/Session 37.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 37</a></span></span> |
 
 
 

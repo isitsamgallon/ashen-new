@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2026-09-29T19:35:59.894+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Nature, Balance, Equilibrium, Renewal, and Preservation","nickname":"The Verdant Arbiter, Bringer of Balance","heralds":"Unknown","realm":"The Verdant Equilibrium","cover":"![[Admin/Attachments/EldrosWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2026-10-07T18:27:01.354+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Nature, Balance, Equilibrium, Renewal, and Preservation","nickname":"The Verdant Arbiter, Bringer of Balance","heralds":"Unknown","realm":"The Verdant Equilibrium","cover":"![[Admin/Attachments/EldarosGlass.png]]"}}
 ---
 
 
 > [!infobox]
 > 
 > # Eldros
-> ![EldrosWeb.png](/img/user/Admin/Attachments/EldrosWeb.png)
+> ![Admin/Attachments/EldarosGlass.png\|EldarosGlass.png](/img/user/Admin/Attachments/EldarosGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -19,8 +20,11 @@
 > | Celestial Realm | [[Gods & Heralds/Eldros/The Verdant Equilibrium\|The Verdant Equilibrium]] |
 > | Herald(s)| None |
 
-> "AND ELDROS STOOD AMIDST THE GOLDEN FIELDS, The Reaper of Seasons, whose scythe moved in circles Unbroken. He who sows in silence and reaps with Wisdom, turning the wheel of life and death by divine Ordinance, his plates spinning with the fates of men. " <cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
 
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND ELDROS STOOD AMIDST THE GOLDEN FIELDS, The Reaper of Seasons, whose scythe moved in circles Unbroken. He who sows in silence and reaps with Wisdom, turning the wheel of life and death by divine Ordinance, his plates spinning with the fates of men."
+ 
+ 
 ### Overview
 Eldros is a towering, ageless figure who tends the Endless fields of existence, his scythe moving in slow, Deliberate arcs. He is not a god of death, but of turning - The quiet rhythm of beginnings and endings. Seasons Pass in his shadow, and all cycles, whether of harvest or
 Heartbreak, eventually come under his care. He speaks Little, but in his silence, all things grow or return.

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-09-29T19:36:47.396+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Compassion, Healing, Protection, Mercy, and Fate","nickname":"The Compassionate One, Bringer of Health","heralds":"Healing Guardian, Divine Harpies","realm":"The Sanctum Of Mercy","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181424.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-10-07T18:29:13.955+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Compassion, Healing, Protection, Mercy, and Fate","nickname":"The Compassionate One, Bringer of Health","heralds":"Healing Guardian, Divine Harpies","realm":"The Sanctum Of Mercy","cover":"![[Admin/Attachments/SeraphinaGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Seraphina
-> ![Screenshot 2025-06-09 181424.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181424.png)
+> ![Admin/Attachments/SeraphinaGlass.png\|SeraphinaGlass.png](/img/user/Admin/Attachments/SeraphinaGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -19,8 +20,10 @@
 > | Herald(s)| [[Gods & Heralds/Seraphina/Healing Guardian\|Healing Guardian]], [[Gods & Heralds/Seraphina/Divine Harpies\|Divine Harpies]] |
 
 
-> "AND SERAPHINA MOVED AS LIGHT THROUGH broken glass, the Healer of Wounds and Restorer of the Forsaken. Her hands, anointed with celestial fire, knit together flesh and spirit; her song brought balm to the weary and peace to the tormented. Clad in the dawn 's embrace, she walks where sorrow dwells, and by her touch, the sick rise, the shattered are made whole, and the forgotten remember Jove."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
-
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND SERAPHINA MOVED AS LIGHT THROUGH broken glass, the Healer of Wounds and Restorer of the Forsaken. Her hands, anointed with celestial fire, knit together flesh and spirit; her song brought balm to the weary and peace to the tormented. Clad in the dawn's embrace, she walks where sorrow dwells, and by her touch, the sick rise, the shattered are made whole, and the forgotten remember love."
+ 
+ 
 ### Overview
 Seraphina is a calm and radiant presence whose touch restores what was broken, not with spectacle, but with quiet devotion. Clad in soft light and the scent of clean air after rain, she moves among the wounded and forgotten, healing not just bodies, but the burdens they
 carry. She does not promise to fix all things - only that none will be left to suffer alone. In her presence, silence becomes sanctuary.

@@ -47,8 +47,8 @@ Immensely powerful magical beings. There were several types of dragons, the most
 
 ### ### Known Dragons
 - [[Named Characters & Beasts/Important Characters/The Auditors/Kazzin\|Kazzin]]
-- [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]
 - [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]]
+- [[Named Characters & Beasts/Important Characters/The Auditors/The Gold Dragon\|The Gold Dragon]]
 
 { .block-language-dataview}
 

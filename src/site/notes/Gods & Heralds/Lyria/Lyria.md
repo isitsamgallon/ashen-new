@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2026-09-29T19:36:39.870+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null,"speciality":"Love, Passion, Desire, Seduction, Unity, and Betrayal","Nickname":"Goddess of Love, Passion, Desire, and Betrayal","heralds":"\tUnknown","realm":"The Blooming Heart","cover":"![[Admin/Attachments/Screenshot 2025-06-09 181415.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2026-10-07T18:28:05.783+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null,"speciality":"Love, Passion, Desire, Seduction, Unity, and Betrayal","Nickname":"Goddess of Love, Passion, Desire, and Betrayal","heralds":"\tUnknown","realm":"The Blooming Heart","cover":"![[Admin/Attachments/LyraGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Lyria
-> ![Screenshot 2025-06-09 181415.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181415.png)
+> ![Admin/Attachments/LyraGlass.png\|LyraGlass.png](/img/user/Admin/Attachments/LyraGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -18,8 +19,9 @@
 > | Celestial Realm | [[Gods & Heralds/Lyria/The Blooming Heart\|The Blooming Heart]] |
 > | Herald(s) | Unknown |
 
-[[Gods & Heralds/Lyria/Lyria\|lyria]]
-> "AND BEHOLD, LYRIA CAME FORTH AS THE FLAME of Yearning, clothed in the perfume of twilight and crowned with the blush of first Jove. Her breath stirred hearts to longing, and her touch awakened the slumbering soul. She is the Whisper in the garden, the Sacred Temptation, the covenant of pleasure and pain for in her embrace is both ecstasy and ruin, and many are they who fall willingly."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
+
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND BEHOLD, LYRIA CAME FORTH AS THE FLAME of Yearning, clothed in the perfume of twilight and crowned with the blush of first Jove. Her breath stirred hearts to longing, and her touch awakened the slumbering soul. She is the Whisper in the garden, the Sacred Temptation, the covenant of pleasure and pain for in her embrace is both ecstasy and ruin, and many are they who fall willingly."
 
 ### Overview
 Lyria is a soft, sensual force who moves through the world as a sigh in the dark - a tender whisper in moments of longing. She is the embodiment of love in all its forms: aching, euphoric, and ruinous. Draped in twilight hues and surrounded by the scent of memory,

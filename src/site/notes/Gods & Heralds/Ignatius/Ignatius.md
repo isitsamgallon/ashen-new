@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2026-09-29T19:36:18.220+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Fire, Destruction, Purification, Rebirth, and Wrath","nickname":"The Cleansing Flame, Destroyer of worlds","heralds":"The Crucible Eternal","realm":"Seifer Willow ‡, Ash Spawn","cover":"![[Admin/Attachments/IgnatiusWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/ignatius/ignatius/","updated":"2026-10-07T18:26:50.202+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Fire, Destruction, Purification, Rebirth, and Wrath","nickname":"The Cleansing Flame, Destroyer of worlds","heralds":"The Crucible Eternal","realm":"Seifer Willow ‡, Ash Spawn","cover":"![[Admin/Attachments/IgnatiusGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Ignatius
-> ![IgnatiusWeb.png](/img/user/Admin/Attachments/IgnatiusWeb.png)
+> ![Admin/Attachments/IgnatiusGlass.png\|IgnatiusGlass.png](/img/user/Admin/Attachments/IgnatiusGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -19,7 +20,8 @@
 > | Herald(s)| [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]], [[Gods & Heralds/Ignatius/Ash Spawn\|Ash Spawn]]? |
 
 
-> "AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose Armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND THERE ROSE IGNATIUS, THE BURNING BLADE, Whose Armor was forged in the crucible of wrath, and Whose sword was flame eternal. Upon the earth he Brought judgment, his footsteps thunder, his fury Sanctified by fire, that the impure might be purged."
 
 ### Overview
 Ignatius is a living furnace of war and will, encased in Crimson and gold armor that pulses with inner fire. Towering and wrathful, he is the embodiment of conflict Forged into purpose - not chaos, but cleansing flame. His sword is a roaring truth, and his presence demands Action, forcing the world to choose between fear and Defiance. He does not rest, for the battle never truly Ends.

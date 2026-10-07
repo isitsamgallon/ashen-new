@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2025-12-30T10:13:07.775+00:00","dg-note-properties":{"Summary":"The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.","Part":"5th Saga - Freedom's Flame","type":"session","sessionNum":46,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]"],"tags":["LevelUp"]}}
+{"dg-publish":true,"permalink":"/session-notes/05-freedom-s-flame/session-46/","tags":["LevelUp"],"updated":"2026-09-29T20:01:10.969+01:00","dg-note-properties":{"Summary":"The party defeated Malachi in a brutal battle, but Korrigan sacrificed himself to destroy the golden golem, leaving his friends heartbroken as Lorwyn claimed his soul. In the aftermath, the survivors regrouped, met the cleric Viktor, and set their sights on the OFC and the Blackwall.","Part":"5th Saga - Freedom's Flame","type":"session","sessionNum":46,"icon":"session","attendance":["[[The Party/Other Party Members/Meta/Sam Gallon]]","[[The Party/Other Party Members/Meta/Rowan Hales]]","[[The Party/Other Party Members/Meta/Tom Brothers]]","[[The Party/Other Party Members/Meta/Caleb Hamlet]]"],"tags":["LevelUp"]}}
 ---
 
 # Session Information
@@ -108,17 +108,9 @@ In the aftermath, a week passed as Mordecai received urgent care while Halfbie a
 
 (x::[[The Party/Halfbie\|Halfbie]] began to explain the location of the [[Locations/OFC/Blackwall/Blackwall\|Blackwall]] to the Dwarf, but he soon revealed that the Dwarfs originally named it [[Locations/OFC/Blackwall/Blackwall\|Blackwall]], and he knew exactly where to go. [[The Party/Halfbie\|Halfbie]] sheepishly remarked on how weird it was that none had wanted to change this name, but [[Named Characters & Beasts/Ruldrim Thunderroot\|Ruldrim]] countered by saying it was the most remarkable thing about the place, and you didn't want to advertise the riches that lay within. They all nodded with understanding, as the tob began to shift once again back to the [[Locations/OFC/Organisation of Free Cities (OFC)\|OFC]].)
 
-
-
-
-
-
-
-
-
 # Trivia & Notes
 - (o:: [[The Party/Other Party Members/Meta/James Absolom\|James Absolom]] later revealed out of session how the Antimagic Field worked. Essentially [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] had reengineered [[Other Information/The Towers\|The Tower]] to force all magic in the affect area to go through it rather than  just straight from [[Locations/The Realm of Mana\|The Realm of Mana]] to the material plane. He could then hook into [[Other Information/The Towers\|the tower]] and control which spell happened and what didn't. this is also how he was able to hear [[The Party/Mordecai Reverence\|Mordecai]] speak while they were turned into [[gold\|gold]] as he could understand all magical communication happening within [[Other Information/The Towers\|the tower]]'s reach.)
 - This is was [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]]'s [[Gods & Heralds/Herald\|Herald]] form looks like: ![The korrigan Herald.png](/img/user/Admin/Attachments/The%20korrigan%20Herald.png)
 
 # Footnotes
-[^1]: The symbol is am mixture of Kerrigan's antlers and the mouse that appeared in a book he co-authored before the [[First Lost Haven Slave Revolt\|First Lost Haven Slave Revolt]] called [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]
+[^1]: The symbol is am mixture of Kerrigan's antlers and the mouse that appeared in a book he co-authored before the First Lost Haven Slave Revolt called [[Books, Documents & Artefacts/Mousebert & the Emperor's Folly\|Mousebert & the Emperor's Folly]]

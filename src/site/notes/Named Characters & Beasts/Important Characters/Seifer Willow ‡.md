@@ -25,8 +25,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 67.md" data-href="Session Notes/09 Dangerous Deities/Session 67.md" href="Session Notes/09 Dangerous Deities/Session 67.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 67</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 68.md" data-href="Session Notes/09 Dangerous Deities/Session 68.md" href="Session Notes/09 Dangerous Deities/Session 68.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 68</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 33.md" data-href="Session Notes/04 Ignatius Beckons/Session 33.md" href="Session Notes/04 Ignatius Beckons/Session 33.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 33</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 36.md" data-href="Session Notes/04 Ignatius Beckons/Session 36.md" href="Session Notes/04 Ignatius Beckons/Session 36.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 36</a></span></span> |
 
 ### Overview
 Seifer was previously a high-ranking Tactician and General in [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]]' Army during [[History & Events/The Sundering\|the Sundering]]. She died during a particular fierce battle during the war. Many of her followers venerated her and even put her on a par with [[Gods & Heralds/Ignatius/Ignatius\|Ignatius]] himself. This constant belief manifested as her soul gaining greater powers. She was eventually sealed inside a crown kept on [[Locations/Itone Isles\|Itone]], until Moredcai touched it and she came to possess them. 

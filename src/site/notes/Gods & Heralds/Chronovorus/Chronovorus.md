@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2026-09-29T19:35:37.106+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Time, Chaos, Destruction, Entropy, and Manipulation","nickname":"The Temporal Harbinger, Bringer of Chaos","heralds":"The Ethertwist Haunter","realm":"The Black Woods","cover":"![[Admin/Attachments/ChronovorusWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2026-10-07T18:24:58.803+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Time, Chaos, Destruction, Entropy, and Manipulation","nickname":"The Temporal Harbinger, Bringer of Chaos","heralds":"The Ethertwist Haunter","realm":"The Black Woods","cover":"![[Admin/Attachments/ChronovourisGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Chronovorus
->![ChronovorusWeb.png](/img/user/Admin/Attachments/ChronovorusWeb.png)
+> ![Admin/Attachments/ChronovourisGlass.png\|ChronovourisGlass.png](/img/user/Admin/Attachments/ChronovourisGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -19,8 +20,8 @@
 > | Herald(s)| [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] |
 
 
->"AND FROM THE BREACH IN THE FABRIC OF TIME came the Chronovorus, the Eater of Days, whose form was not fixed, and whose hunger knew no end. He passed unseen through ages, devouring what was and what might be, until even memory turned to dust." <cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
-
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND FROM THE BREACH IN THE FABRIC OF TIME came the Chronovorus, the Eater of Days, whose form was not fixed, and whose hunger knew no end. He passed unseen through ages, devouring what was and what might be, until even memory turned to dust." 
 ### Overview
 Chronovorus is a shifting, formless being born of Broken time, a presence that slips through cracks in Causality and memory. It does not speak, only consumes - Eras, events, and identities vanishing in its wake. To Witness it is to feel moments unravel, as if the world Itself forgets its own story. It does not hunger out of Malice, but simply because it exists where time no Longer holds meaning.
 

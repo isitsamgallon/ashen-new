@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2026-09-29T19:36:27.424+01:00","dg-note-properties":{"race":"God","icon":"god","update":null,"speciality":"Deception, Chaos, Trickery, and Change","nickname":"The Fey Sovereign, Supreme Trickster","heralds":"The Korrigan","realm":"The Feywilds (Domain)","cover":"![[Admin/Attachments/LorwynWeb.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lorwyn/lorwyn/","updated":"2026-10-07T18:27:40.256+01:00","dg-note-properties":{"race":"God","icon":"god","update":null,"speciality":"Deception, Chaos, Trickery, and Change","nickname":"The Fey Sovereign, Supreme Trickster","heralds":"The Korrigan","realm":"The Feywilds (Domain)","cover":"![[Admin/Attachments/LorwynnGlass.png]]"}}
 ---
 
 > [!infobox]
 > 
 > # Lorwyn
-> ![Screenshot 2025-06-09 181404.png](/img/user/Admin/Attachments/Screenshot%202025-06-09%20181404.png)
+> ![Admin/Attachments/LorwynnGlass.png\|LorwynnGlass.png](/img/user/Admin/Attachments/LorwynnGlass.png)
+> Art by Rho Grace
 > ###### Basic Information
 > 
 > | Type | Stat |
@@ -19,8 +20,9 @@
 > | Herald(s)| [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] |
 
 
-> "AND LORWYN DANCED UPON THE WIND, VEILED IN Purple and crowned with madness, the jester-Queen of Shadows. Her laughter confounded kings and prophets Alike, for she spoke in riddles and cloaked the truth in Illusion, that the wise might stumble and the fool see Clearly.""<cite> [[Named Characters & Beasts/Nehzahr\|Nehzahr]] </cite>
-
+> [!Quote|author] [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
+ >"AND LORWYN DANCED UPON THE WIND, VEILED IN Purple and crowned with madness, the jester-Queen of Shadows. Her laughter confounded kings and prophets Alike, for she spoke in riddles and cloaked the truth in Illusion, that the wise might stumble and the fool see Clearly."
+  
 ### Overview
 Lorwyn is a trickster cloaked in illusion and crowned in Laughter, dancing on the edge of dreams and madness. She wears royalty like a costume and truth like a riddle, Reshaping reality with a flick of her fingers. To know her Is to question what is real - not because she lies, but Because she shows how fragile certainty can be. She is Chaos wrapped in beauty, and beauty wrapped in a joke No one fully understands.
 

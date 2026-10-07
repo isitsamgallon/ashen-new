@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2026-08-09T20:09:24.128+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/theories-and-unanswered-questions/","updated":"2026-09-29T20:02:58.040+01:00","dg-note-properties":{}}
 ---
 
 A list of all current, proven false and proven correct theories, as well as all unanswered questions.
@@ -8,30 +8,29 @@ A list of all current, proven false and proven correct theories, as well as all 
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] care for us so much, and what is his plan?
 - [ ] Who is [[Named Characters & Beasts/Important Characters/Ebis Daro\|Ebis Daro]]?
 - [ ] why is [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]] responsible for [[Other Information/Display Tags/The Party\|The Party]]'s level-ups?
-- [x] how did [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]] end up in [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]]?  [completion:: 2025-12-12]
+- [x] how did [[Named Characters & Beasts/Important Characters/Seifer Willow ‡\|Seifer Willow ‡]] end up in [[Books, Documents & Artefacts/Artefacts/The Crown of the Lost\|The Crown of the Lost]]? 
 - [ ] Who was the strange druid near the start of the campaign?
 - [ ] What is the portal magic that every overpowered character uses?
 - [ ] With [[Books, Documents & Artefacts/Artefacts/Leotoris' Last Problem\|Leotoris' Last Problem]] destroyed, is [[Gods & Heralds/Chronovorus/The Ethertwist Haunter\|The Ethertwist Haunter]] dead?
 - [ ] Questions about Player Backstories:
-	- [ ] How was [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] from a noble lineage?
-	- [ ] Why does [[The Party/Mordecai Reverence\|Mordecai Reverence]] have to run away from his father?
-	- [ ] What is [[Kal †\|Kal †]]'s unfinished business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]?
-	- [ ] How does [[The Party/Aiden Knight\|Aiden Knight]] have time manipulation abilities?
-	- [ ] What is [[The Party/Halfbie\|Halfbie]]?
-- [x] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?  [completion:: 2025-12-12]
-- [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] live for so long? ✅ 2024-12-25
+	- [x] How was [[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]] from a noble lineage?
+	- [x] Why does [[The Party/Mordecai Reverence\|Mordecai Reverence]] have to run away from his father?
+	- [x] What is [[Kal †\|Kal †]]'s unfinished business in [[Locations/Lost Haven/Lost Haven\|Lost Haven]]?
+	- [x] How does [[The Party/Aiden Knight\|Aiden Knight]] have time manipulation abilities?
+	- [x] What is [[The Party/Halfbie\|Halfbie]]?
+- [x] How did [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] and [[Named Characters & Beasts/Genevieve †\|Genevieve †]] live for so long as humans?  
+- [x] How did [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] live for so long? 
 - [ ] Who is the [[Named Characters & Beasts/Illusion Master\|Illusion Master]]?
-- [x] What made [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] go mad?  [completion:: 2025-02-18]
-- [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]? ✅ 2024-12-25
+- [x] What made [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]] go mad?  
+- [x] What happened to [[Named Characters & Beasts/Historically Significant  Characters/Enel Cubus †\|Enel Cubus †]]? 
 - [ ] Who is [[Named Characters & Beasts/Nehzahr\|Nehzahr]]
 - [ ] Why was [[Named Characters & Beasts/Important Characters/The Auditors/Xekai\|Xekai]] working with [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]] was it a part of his larger plan?
 - [ ] Why does [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]] come back every 50 years?
 - [ ] why did Xekai get angry at [[The Party/Dead/Kal The Korrigan †\|Kal The Korrigan †]] when they mentioned [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]?
 - [ ] How do people become Perpetuals?
-	- [x] [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]  [completion:: 2025-12-12]
-	- [x] [[Named Characters & Beasts/Genevieve †\|Genevieve †]]  [completion:: 2025-12-12]
-	- [x] [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]  [completion:: 2024-12-25]
-- 
+	- [x] [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]]  
+	- [x] [[Named Characters & Beasts/Genevieve †\|Genevieve †]]  
+	- [x] [[Named Characters & Beasts/Important Characters/Galen Verix ‡\|Galen Verix ‡]]  
 
 ### Current Theories
 - [[The Party/Other Party Members/Meta/Sam Gallon\|Sam Gallon]] thinks the man with the golden mask from [[Session Notes/04 Ignatius Beckons/Session 27\|Session 27]] was [[Named Characters & Beasts/Important Characters/The Auditors/Akin Netch ‡\|Akin Netch ‡]]
