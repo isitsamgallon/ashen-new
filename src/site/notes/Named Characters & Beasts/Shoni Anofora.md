@@ -24,8 +24,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 35.md" data-href="Session Notes/04 Ignatius Beckons/Session 35.md" href="Session Notes/04 Ignatius Beckons/Session 35.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 35</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/04 Ignatius Beckons/Session 37.md" data-href="Session Notes/04 Ignatius Beckons/Session 37.md" href="Session Notes/04 Ignatius Beckons/Session 37.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 37</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 58.md" data-href="Session Notes/07 Winter Warriors/Session 58.md" href="Session Notes/07 Winter Warriors/Session 58.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 58</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" href="Session Notes/07 Winter Warriors/Session 59.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
 
 
 

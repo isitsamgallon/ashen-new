@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chenris/chenris/","updated":"2026-10-07T18:22:39.311+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"speciality":"Light, Knowledge, Hope, and Enlightenment","nickname":"The God of Light, Bringer of Knowledge","heralds":"The Golden Ones","realm":"The Golden Plane","cover":"![[Admin/Attachments/ChenrisGlass.png]]","race":"God"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chenris/chenris/","updated":"2026-10-23T15:31:31.762+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"speciality":"Light, Knowledge, Hope, and Enlightenment","nickname":"The God of Light & Bringer of Knowledge","heralds":"The Golden Ones","realm":"The Golden Plane","cover":"![[Admin/Attachments/ChenrisGlass.png]]","race":"God"}}
 ---
 
 >[!Recite]   Notes With Similar Names
 > This note contains information on the NPC and God 'Chenris'. For information on him before his ascension to Godhood in [[Session Notes/09 Dangerous Deities/Session 67\|Session 67]] please refer to the note titled '[[The Party/Dead/Chenris Tallfellow ‡\|Chenris Tallfellow ‡]]'.
+
+
 
 > [!infobox]
 > 

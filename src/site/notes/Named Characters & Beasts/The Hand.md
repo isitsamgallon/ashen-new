@@ -24,8 +24,8 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 70.md" data-href="Session Notes/09 Dangerous Deities/Session 70.md" href="Session Notes/09 Dangerous Deities/Session 70.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 70</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 69.md" data-href="Session Notes/09 Dangerous Deities/Session 69.md" href="Session Notes/09 Dangerous Deities/Session 69.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 69</a></span></span> |
+> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 69.md" data-href="Session Notes/09 Dangerous Deities/Session 69.md" href="Session Notes/09 Dangerous Deities/Session 69.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 69</a></span></span> |
+> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 70.md" data-href="Session Notes/09 Dangerous Deities/Session 70.md" href="Session Notes/09 Dangerous Deities/Session 70.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 70</a></span></span> |
 
 
 ### Overview
