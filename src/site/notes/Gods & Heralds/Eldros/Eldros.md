@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2026-10-07T18:27:01.354+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Nature, Balance, Equilibrium, Renewal, and Preservation","nickname":"The Verdant Arbiter, Bringer of Balance","heralds":"Unknown","realm":"The Verdant Equilibrium","cover":"![[Admin/Attachments/EldarosGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/eldros/eldros/","updated":"2026-10-23T15:32:06.523+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Nature, Balance, Equilibrium, Renewal, and Preservation","nickname":"The Verdant Arbiter & Bringer of Balance","heralds":"Unknown","realm":"The Verdant Equilibrium","cover":"![[Admin/Attachments/EldarosGlass.png]]"}}
 ---
 
 

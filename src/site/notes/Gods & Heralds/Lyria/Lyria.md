@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2026-10-07T18:28:05.783+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null,"speciality":"Love, Passion, Desire, Seduction, Unity, and Betrayal","Nickname":"Goddess of Love, Passion, Desire, and Betrayal","heralds":"\tUnknown","realm":"The Blooming Heart","cover":"![[Admin/Attachments/LyraGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/lyria/lyria/","updated":"2026-10-23T15:35:07.014+01:00","dg-note-properties":{"tags":null,"Nation":null,"town":null,"race":"God","age":"God","gender":"Female","icon":"god","update ":null,"speciality":"Love, Passion, Desire, Seduction, Unity, and Betrayal","Nickname":"The Goddess of Love & Cupid's Master","heralds":"\tUnknown","realm":"The Blooming Heart","cover":"![[Admin/Attachments/LyraGlass.png]]"}}
 ---
 
 > [!infobox]

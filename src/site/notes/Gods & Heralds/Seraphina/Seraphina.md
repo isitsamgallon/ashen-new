@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-10-07T18:29:13.955+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Compassion, Healing, Protection, Mercy, and Fate","nickname":"The Compassionate One, Bringer of Health","heralds":"Healing Guardian, Divine Harpies","realm":"The Sanctum Of Mercy","cover":"![[Admin/Attachments/SeraphinaGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/seraphina/seraphina/","updated":"2026-10-23T15:34:10.441+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Compassion, Healing, Protection, Mercy, and Fate","nickname":"The Compassionate One & Bringer of Health","heralds":"Healing Guardian & Divine Harpies","realm":"The Sanctum Of Mercy","cover":"![[Admin/Attachments/SeraphinaGlass.png]]"}}
 ---
 
 > [!infobox]

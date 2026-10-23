@@ -254,11 +254,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Gods & Heralds/Chronovorus/Chronovorus\|Chronovorus]]
-- [[Gods & Heralds/Chenris/Chenris\|Chenris]]
-- [[Gods & Heralds/Aeloria ‡/Aeloria ‡\|Aeloria ‡]]
-- [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]]
+- [[Gallery\|Gallery]]
+- [[Gods & Heralds/Lyria/Lyria\|Lyria]]
 - [[Gods & Heralds/Somnora/Somnora\|Somnora]]
+- [[Gods & Heralds/Seraphina/Seraphina\|Seraphina]]
+- [[Gods & Heralds/Lorwyn/Lorwyn\|Lorwyn]]
 
 { .block-language-dataview}
 

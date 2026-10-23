@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-10-07T18:29:47.761+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams and Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/SommnoraGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-10-23T15:34:55.600+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams & Archivist of Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/SommnoraGlass.png]]"}}
 ---
 
 > [!infobox]

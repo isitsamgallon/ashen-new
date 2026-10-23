@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2026-10-07T18:24:58.803+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Time, Chaos, Destruction, Entropy, and Manipulation","nickname":"The Temporal Harbinger, Bringer of Chaos","heralds":"The Ethertwist Haunter","realm":"The Black Woods","cover":"![[Admin/Attachments/ChronovourisGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/chronovorus/chronovorus/","updated":"2026-10-23T15:31:52.332+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Time, Chaos, Destruction, Entropy, and Manipulation","nickname":"The Temporal Harbinger & Bringer of Chaos","heralds":"The Ethertwist Haunter","realm":"The Black Woods","cover":"![[Admin/Attachments/ChronovourisGlass.png]]"}}
 ---
 
 > [!infobox]
