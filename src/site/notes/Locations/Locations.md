@@ -97,18 +97,26 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 # Other
 ### [[Locations/The Desert/The Desert\|The Desert]]
-| §                                                                                  | City Type  |
-| ---------------------------------------------------------------------------------- | ---------- |
-| [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | Unknown    |
-| [[Locations/The Desert/Camp Sophia\|Camp Sophia]]                               | Small Town |
-| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Unknown    |
-| [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Unknown    |
-| [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Unknown    |
-| [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Building   |
-| [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Unknown    |
-| [[Locations/The Desert/Sumene\|Sumene]]                                         | Unknown    |
-| [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Unknown    |
-| [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Unknown    |
+| §                                                                                  | City Type |
+| ---------------------------------------------------------------------------------- | --------- |
+| [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | Unknown   |
+| [[Locations/The Desert/Desert Camps/Camp Dustblood\|Camp Dustblood]]            | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Khard\|Camp Khard]]                    | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Namar\|Camp Namar]]                    | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Sahir\|Camp Sahir]]                    | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Solari\|Camp Solari]]                  | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Sophia\|Camp Sophia]]                  | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Veyra\|Camp Veyra]]                    | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Yrandes\|Camp Yrandes]]                | Camp      |
+| [[Locations/The Desert/Desert Camps/Camp Zareem\|Camp Zareem]]                  | Camp      |
+| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Unknown   |
+| [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Unknown   |
+| [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Unknown   |
+| [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Building  |
+| [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Unknown   |
+| [[Locations/The Desert/Sumene\|Sumene]]                                         | Unknown   |
+| [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Unknown   |
+| [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Unknown   |
 
 { .block-language-dataview}
 
@@ -161,6 +169,8 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
+- [[Locations/Stilltusk/Drumscar\|Drumscar]]
+- [[Locations/Luminarch Concord/Elyndor's Gate\|Elyndor's Gate]]
 - [[Locations/Strixhaven/Faculty of Arcane Warfare & Defensive Arts\|Faculty of Arcane Warfare & Defensive Arts]]
 - [[Locations/Strixhaven/Faculty of Bardic Arts & Resonant Magic\|Faculty of Bardic Arts & Resonant Magic]]
 - [[Locations/Strixhaven/Faculty of Chronomancy & Temporal Studies\|Faculty of Chronomancy & Temporal Studies]]
@@ -176,13 +186,20 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 - [[Locations/Fort Moldan\|Fort Moldan]]
 - [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
+- [[Locations/Stilltusk/Ironhowl\|Ironhowl]]
 - [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]
+- [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]]
+- [[Locations/Luminarch Concord/Luminarch Concord\|Luminarch Concord]]
 - [[Locations/Morak Hold\|Morak Hold]]
+- [[Locations/Stilltusk/Oathcrag\|Oathcrag]]
 - [[Locations/Snowport\|Snowport]]
+- [[Locations/Luminarch Concord/Solmire\|Solmire]]
+- [[Locations/Stilltusk/Stilltusk\|Stilltusk]]
 - [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
 - [[Locations/Terrathra (World Map)\|Terrathra (World Map)]]
 - [[Locations/The Towers\|The Towers]]
+- [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]
 
 { .block-language-dataview}
 

@@ -6,7 +6,8 @@
 A place in [[Locations/The Deadlands/The Deadlands\|The Deadlands]].
 
 ### History & Mentions
-| § | Interactions |
-| - | ------------ |
+| §                                                                | Interactions                                                                                                                                        |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session Notes/09 Dangerous Deities/Session 71\|Session 71]] | I don't really care for the coffee, but there's a good place in my hometown, [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]. You can thank me by getting me some fresh blood. |
 
 { .block-language-dataview}

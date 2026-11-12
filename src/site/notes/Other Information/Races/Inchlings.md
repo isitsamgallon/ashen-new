@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2025-09-27T12:55:01.319+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/other-information/races/inchlings/","updated":"2026-11-11T21:32:51.467+00:00","dg-note-properties":{}}
 ---
 
 
@@ -23,7 +23,6 @@
 >  Language(s) | Common |
 >  Vision | Normal vision |
 >  Homeland | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] |
->
 >##### Appearance
 > Type | Stat |
 >  :----: | --- |

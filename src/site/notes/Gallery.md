@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-10-23T15:56:35.449+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-11-11T20:20:01.456+00:00","dg-note-properties":{}}
 ---
 
 >[!Recite]  Artwork Credits 
@@ -14,6 +14,7 @@
 > 
 > ![IMG_4834.jpg](/img/user/Admin/Attachments/IMG_4834.jpg) 
 > ![ChenrisVAeloria.png](/img/user/Admin/Attachments/ChenrisVAeloria.png)
+> ![HeavenManacles.png](/img/user/Admin/Attachments/HeavenManacles.png)
 
 # Character Art
 > [!Grid]
