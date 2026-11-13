@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Undiscovered","Tower"],"updated":"2026-06-28T20:29:51.747+01:00","dg-note-properties":{"tags":["Undiscovered","Tower"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place","TS":"Still Standing","TQ_show_tags":true}}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Tower","Discovered"],"updated":"2026-11-13T19:10:03.979+00:00","dg-note-properties":{"tags":["Tower","Discovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place","TS":"Destroyed","TQ_show_tags":true,"discovery":"Discovered"}}
 ---
 
 > [!infobox]
 > 
 > # The Deadlands
-> ![TheDeadlands Map.png](/img/user/Admin/Attachments/TheDeadlands%20Map.png)
+> ![@TheDeadlands_New.jpg](/img/user/Admin/Attachments/@TheDeadlands_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |
@@ -18,14 +18,16 @@
 >  | ----------------------------------------------------------------------- | ------------------------------ |
 >  | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | <ul><li>Undiscovered</li></ul> |
 >  | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | <ul><li>Undiscovered</li></ul> |
 >  | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | <ul><li>Undiscovered</li></ul> |
 >  | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
 >  | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Discovered</li></ul>   |
 >  
 { .block-language-dataview}
+
+
 
 ### Overview
 A region found southeast of [[Locations/Lost Haven/Lost Haven\|Lost Haven]] and is primarily known by [[Other Information/Display Tags/The Party\|The Party]] for creating [[Other Information/Name Poison\|Name Poison]]s and being where [[The Party/Viktor Malkovich\|Viktor Malkovich]] is from. Not much else is currently known about it. 

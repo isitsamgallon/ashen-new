@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/peyabo/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.823+01:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered"],"icon":"place","city type":"Unknown"}}
+{"dg-publish":true,"permalink":"/locations/the-desert/peyabo/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:24.058+00:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered"],"icon":"place","city type":"Unknown","discovery":"Undiscovered"}}
 ---
 
 ### Overview

@@ -1,6 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/ember-peak/","tags":["Undiscovered","Tower"],"updated":"2026-06-28T20:30:18.550+01:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered","Tower"],"icon":"place","city type":"Unknown","TS":"Unknown","TQ_show_tags":true}}
+{"dg-publish":true,"permalink":"/locations/the-desert/ember-peak/","tags":["Undiscovered","Tower"],"updated":"2026-11-13T19:10:24.015+00:00","dg-note-properties":{"Nation":"The Desert","tags":["Undiscovered","Tower"],"icon":"place","city type":"Unknown","TS":"Unknown","TQ_show_tags":true,"discovery":"Undiscovered"}}
 ---
+
+> [!infobox]
+> 
+>  # Ember Peak
+> ![@EmberPeak_New.jpg](/img/user/Admin/Attachments/@EmberPeak_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+
 
 ### Overview
 A tall volcano found in [[Locations/The Desert/Emberfall\|Emberfall]]. It is a mountain said to be the gateway between worlds. The peak was no ordinary mountain; it was a living embodiment of elemental fury, a place where the boundaries between planes grew thin, and where the gods themselves could be trapped—if the right sacrifice was made.

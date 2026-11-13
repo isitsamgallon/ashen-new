@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/farpost/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.777+01:00","dg-note-properties":{"city type":"Large Town","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/farpost/","tags":["Discovered"],"updated":"2026-11-13T19:08:43.334+00:00","dg-note-properties":{"city type":"Large Town","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place","discovery":"Discovered"}}
 ---
 
 ### Overview

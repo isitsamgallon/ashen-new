@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/yokotori/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.850+01:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Capital"}}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/yokotori/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:55.733+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Capital","discovery":"Discovered"}}
 ---
 
 ### Overview

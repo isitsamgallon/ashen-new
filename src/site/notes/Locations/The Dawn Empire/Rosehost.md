@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2025-12-30T09:50:46.526+00:00","dg-note-properties":{"city type":"Small Town","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/rosehost/","tags":["Discovered"],"updated":"2026-11-13T19:09:36.309+00:00","dg-note-properties":{"city type":"Small Town","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place","discovery":"Undiscovered"}}
 ---
 
 ### Overview

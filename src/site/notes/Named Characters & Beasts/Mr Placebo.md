@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" href="Session Notes/06 Urban Legends/Session 48.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
+> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/06 Urban Legends/Session 48.md" data-href="Session Notes/06 Urban Legends/Session 48.md" aria-label="Session Notes/06 Urban Legends/Session 48.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 48</a></span></span> |
 
 
 ### Overview

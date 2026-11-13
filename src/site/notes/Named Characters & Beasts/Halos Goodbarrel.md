@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" href="Session Notes/06 Urban Legends/Session 49.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
+> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
 
 ### Overview
 Halos Goodbarrel is the creator and founder of the incredibly lucrative and famous general and magic item store [[Groups & Factions/Halos Emporium\|Halos Emporium]]. [[Other Information/Display Tags/The Party\|The Party]] first met Halos as a part of [[The Party/Halfbie\|Halfbie]]'s [[Other Information/Money\|money]] making scheme in [[Session Notes/06 Urban Legends/Session 49\|Session 49]].

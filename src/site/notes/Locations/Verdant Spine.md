@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/verdant-spine/","tags":["Display"],"updated":"2025-08-11T11:53:31.689+01:00","dg-note-properties":{"tags":["Display"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/verdant-spine/","tags":["Display"],"updated":"2026-11-13T19:04:13.121+00:00","dg-note-properties":{"tags":["Display"],"icon":"place","discovery":null}}
 ---
 
 ### Overview

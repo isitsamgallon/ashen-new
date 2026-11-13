@@ -1,29 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2025-12-30T10:52:32.243+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Capital","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:41.043+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Capital","icon":"place","discovery":"Undiscovered"}}
 ---
 
 > [!infobox]
 > 
 >  # The Merrihollows
-> ![The Merrihollows.png](/img/user/Admin/Attachments/The%20Merrihollows.png)
+> ![@TheMerryhollows_New.jpg](/img/user/Admin/Attachments/@TheMerryhollows_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |
 > :----: | --- |
->  Primary Race | Unknown |
+>  Primary Race | [[Other Information/Races/Halflings\|Halflings]] |
 >  Founder | Unknown |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                     | Discovery Status               |
->  | -------------------------------------------------------- | ------------------------------ |
->  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]   | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]   | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]] | <ul><li>Undiscovered</li></ul> |
+>   | File                                                           | Discovery Status               |
+>  | -------------------------------------------------------------- | ------------------------------ |
+>  | [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Merrihollows/Wickshire\|Wickshire]]         | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]         | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]       | <ul><li>Undiscovered</li></ul> |
 >  
 { .block-language-dataview}
 
 ### Overview
-A nation found to the East of [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]], The Maryhollows is a nation that entirely comprised of large corporations. Very little is known about the nation except for the fact that famed business man, [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]] of [[Groups & Factions/Halos Emporium\|Halos Emporium]] lives there. 
+A nation found to the East of [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]], The Merrihollows is a nation that entirely comprised of large corporations. Very little is known about the nation except for the fact that famed business man, [[Named Characters & Beasts/Halos Goodbarrel\|Halos Goodbarrel]] of [[Groups & Factions/Halos Emporium\|Halos Emporium]] lives there. 
 
 ### Society
 Not enough information

@@ -1,6 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.832+01:00","dg-note-properties":{"Nation":"The Desert","icon":"place","tags":["Discovered"],"city type":"Unknown"}}
+{"dg-publish":true,"permalink":"/locations/the-desert/the-great-wall/","tags":["Discovered"],"updated":"2026-11-13T19:10:24.072+00:00","dg-note-properties":{"Nation":"The Desert","icon":"place","tags":["Discovered"],"city type":"Unknown","discovery":"Undiscovered"}}
 ---
+
+> [!infobox]
+> 
+>  # The Great Wall
+> ![@TheWall_New.jpg](/img/user/Admin/Attachments/@TheWall_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Various |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+
 
 ### Overview  
 The Great Wall is a monumental fortification that divides the **Verdant Peninsula** from **The Desert**. Constructed in the aftermath of the **First Sundering**, the Wall serves as the first and greatest line of defence against external threats. Towering over 50 feet tall and stretching beyond the horizon, the Wall remains an enduring symbol of vigilance, sacrifice, and mystery.

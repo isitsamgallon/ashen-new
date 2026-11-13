@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/l-ombre-depravee/","tags":["Undiscovered"],"updated":"2025-12-30T10:19:54.060+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/l-ombre-depravee/","tags":["Discovered"],"updated":"2026-11-13T19:10:12.992+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place","discovery":"Discovered"}}
 ---
 
 ### Overview

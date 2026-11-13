@@ -40,8 +40,8 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" href="Session Notes/07 Winter Warriors/Session 61.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" href="Session Notes/08 Gutenous Guardians/Session 62.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
+> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/07 Winter Warriors/Session 61.md" data-href="Session Notes/07 Winter Warriors/Session 61.md" aria-label="Session Notes/07 Winter Warriors/Session 61.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 61</a></span></span> |
+> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/08 Gutenous Guardians/Session 62.md" data-href="Session Notes/08 Gutenous Guardians/Session 62.md" aria-label="Session Notes/08 Gutenous Guardians/Session 62.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 62</a></span></span> |
 
 
 

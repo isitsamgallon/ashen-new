@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/desert-camps/camp-yrandes/","tags":["Undiscovered"],"updated":"2026-11-12T17:49:57.474+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Desert","city type":"Camp","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-desert/desert-camps/camp-yrandes/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:23.872+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Desert","city type":"Camp","icon":"place","discovery":"Undiscovered"}}
 ---
 
 

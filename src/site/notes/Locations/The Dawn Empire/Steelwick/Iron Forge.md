@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:24:35.496+01:00","dg-note-properties":{"city type":"Dwarven Nation","Nation":"The Dawn Empire","icon":"place","tags":["Discovered","Tower"],"TS":"Still Standing","TQ_show_tags":true}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/steelwick/iron-forge/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:08:43.578+00:00","dg-note-properties":{"city type":"Dwarven Nation","Nation":"The Dawn Empire","icon":"place","tags":["Discovered","Tower"],"TS":"Still Standing","TQ_show_tags":true,"discovery":"Discovered"}}
 ---
 
 Found in the mines connected to [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]. [[Other Information/Display Tags/The Party\|The Party]] found the place by accepting a quest from [[Locations/Strixhaven/Strixhaven\|Strixhaven]] to investigate some strange doors in the [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]] mines. The Dungeon was full of puzzles and enemies

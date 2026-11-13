@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/gimsu/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.835+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town"}}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/gimsu/","tags":["Discovered"],"updated":"2026-11-13T19:10:55.637+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town","discovery":"Discovered"}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-merrihollows/goldburrow/","tags":["Undiscovered"],"updated":"2025-12-30T10:41:56.712+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Large Town","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-merrihollows/goldburrow/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:40.978+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Large Town","icon":"place","discovery":"Undiscovered"}}
 ---
 
 ### Overview

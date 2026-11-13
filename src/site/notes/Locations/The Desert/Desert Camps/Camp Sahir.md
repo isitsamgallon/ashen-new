@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-desert/desert-camps/camp-sahir/","tags":["Undiscovered"],"updated":"2026-11-12T17:50:36.626+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Desert","city type":"Camp","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-desert/desert-camps/camp-sahir/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:23.783+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Desert","city type":"Camp","icon":"place","discovery":"Undiscovered"}}
 ---
 
 

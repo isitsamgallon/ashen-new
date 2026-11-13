@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-towers/","updated":"2026-07-05T20:16:04.560+01:00","dg-note-properties":{"aliases":["The Pillars"]}}
+{"dg-publish":true,"permalink":"/locations/the-towers/","tags":["#Standalone"],"updated":"2026-11-13T19:12:29.972+00:00","dg-note-properties":{"aliases":["The Pillars"],"tags":["#Standalone"],"discovery":"Undiscovered"}}
 ---
 
 Ancient devices used to keep the [[Gods & Heralds/Gods & Heralds\|Ashen Pantheon]] from interacting with our world. They were created by [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] sometime after [[History & Events/The Sundering\|The Sundering]] when a meteor fell from the sky and created a massive creator under what is now [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]].
@@ -12,17 +12,17 @@ The Towers power something called [[History & Events/Skyfall Ward\|Skyfall Ward]
 | Location                                                                                   | Tower Status   |
 | ------------------------------------------------------------------------------------------ | -------------- |
 | [[Other Information/Forge of the Astral Blades/locations/The Elderwood\|The Elderwood]] | Destroyed      |
-| [[Locations/The Deadlands/The Deadlands\|The Deadlands]]                                | Still Standing |
-| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                         | Unknown        |
-| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]              | Destroyed      |
-| [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                          | Still Standing |
-| [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]      | Unknown        |
+| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
+| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
+| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                         | Destroyed      |
 | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]                                     | Destroyed      |
 | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                         | Still Standing |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                         | Destroyed      |
-| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
-| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
-| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
+| [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]      | Unknown        |
+| [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                          | Still Standing |
+| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]              | Destroyed      |
+| [[Locations/The Deadlands/The Deadlands\|The Deadlands]]                                | Destroyed      |
+| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                         | Unknown        |
 
 { .block-language-dataview}
 

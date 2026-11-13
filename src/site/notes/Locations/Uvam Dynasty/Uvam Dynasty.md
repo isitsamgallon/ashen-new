@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.845+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town"}}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2026-11-13T19:10:55.758+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town","discovery":"Discovered"}}
 ---
 
 > [!infobox]
 > 
 > # Uvam Dynasty
-> ![Uvam_Dynasty_Map.jpg](/img/user/Admin/Attachments/Uvam_Dynasty_Map.jpg)
+> ![@Uvam_New.jpg](/img/user/Admin/Attachments/@Uvam_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |
@@ -14,17 +14,17 @@
 >  Founder | Unknown  |
 >  Current Leader | None |
 >  ##### Cities & Towns 
->   | File                                                                          | Discovery Status               |
->  | ----------------------------------------------------------------------------- | ------------------------------ |
->  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                             | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>   |
->  | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | <ul><li>Undiscovered</li></ul> |
+>   | File                                                                          | Discovery Status                                 |
+>  | ----------------------------------------------------------------------------- | ------------------------------------------------ |
+>  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                             | <ul><li>Discovered</li><li>#Standalone</li></ul> |
+>  | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>                     |
 >  
 { .block-language-dataview}
 
@@ -38,8 +38,8 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 ### Notable NPCs
 | File                                                                                                                                                       | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | Yokotori  | \-     |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]               | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
