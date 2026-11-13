@@ -26,7 +26,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span>-</span></span> |
-> | Last Scene |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/07 Winter Warriors/Session 56.md" data-href="Session Notes/07 Winter Warriors/Session 56.md" href="Session Notes/07 Winter Warriors/Session 56.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 56</a></span></span> |
+> | Last Scene |  <span><span><a class="internal-link" href="Session Notes/07 Winter Warriors/Session 56.md" data-href="Session Notes/07 Winter Warriors/Session 56.md" aria-label="Session Notes/07 Winter Warriors/Session 56.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 56</a></span></span> |
 
 
 ### Overview

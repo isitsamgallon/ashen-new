@@ -25,7 +25,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  [[Session Notes/04 Ignatius Beckons/Session 38\|Session 38]] |
-> | Last Mention |  <span><span><a data-tooltip-position="top" aria-label="Session Notes/09 Dangerous Deities/Session 68.md" data-href="Session Notes/09 Dangerous Deities/Session 68.md" href="Session Notes/09 Dangerous Deities/Session 68.md" class="internal-link" target="_blank" rel="noopener nofollow">Session 68</a></span></span> |
+> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/09 Dangerous Deities/Session 71.md" data-href="Session Notes/09 Dangerous Deities/Session 71.md" aria-label="Session Notes/09 Dangerous Deities/Session 71.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 71</a></span></span> |
 
 
 
