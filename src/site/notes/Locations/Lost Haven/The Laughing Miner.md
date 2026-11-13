@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/the-laughing-miner/","tags":["Discovered"],"updated":"2025-08-31T15:22:38.417+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Building","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/the-laughing-miner/","tags":["Discovered"],"updated":"2026-11-13T19:07:03.283+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Building","icon":"place","discovery":"Discovered"}}
 ---
 
 

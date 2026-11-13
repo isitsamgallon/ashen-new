@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2025-12-30T11:43:19.852+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/locations/","hideInGraph":true,"updated":"2026-11-13T19:14:17.224+00:00","dg-note-properties":{"discovery":null}}
 ---
 
 # Overview
@@ -7,87 +7,87 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 # [[Locations/Verdant Peninsula\|Verdant Peninsula]]
 ### [[Locations/OFC/Organisation of Free Cities (OFC)\|Organisation of Free Cities (OFC)]]
-| §                                                                 | City Type             |
-| ----------------------------------------------------------------- | --------------------- |
-| [[Locations/OFC/Balance Ranch\|Balance Ranch]]                 | Small Village         |
-| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]] | \-                    |
-| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]               | Capital               |
-| [[Locations/OFC/Firebranch Range\|Firebranch Range]]           | Small Village         |
-| [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]           | Small Village         |
-| [[Locations/OFC/Silkhorn\|Silkhorn]]                           | Small Fishing Village |
-| [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]   | Building              |
-| [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]   | Large Town            |
-| [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]          | Building              |
-| [[Locations/OFC/Twopines Estate\|Twopines Estate]]             | Estate                |
-| [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]            | Large Town            |
+| §                                                                 | City Type             | Discovery Status |
+| ----------------------------------------------------------------- | --------------------- | ---------------- |
+| [[Locations/OFC/Balance Ranch\|Balance Ranch]]                 | Small Village         | Discovered       |
+| [[Locations/OFC/Blackwall/Better Blackwall\|Better Blackwall]] | \-                    | Discovered       |
+| [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]               | Capital               | Discovered       |
+| [[Locations/OFC/Firebranch Range\|Firebranch Range]]           | Small Village         | Discovered       |
+| [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]           | Small Village         | Discovered       |
+| [[Locations/OFC/Silkhorn\|Silkhorn]]                           | Small Fishing Village | Discovered       |
+| [[Locations/OFC/Blackwall/The Black Tower\|The Black Tower]]   | Building              | Discovered       |
+| [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]]   | Large Town            | Discovered       |
+| [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]          | Building              | Discovered       |
+| [[Locations/OFC/Twopines Estate\|Twopines Estate]]             | Estate                | Discovered       |
+| [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]            | Large Town            | Discovered       |
 
 { .block-language-dataview}
 
 ### [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]] or [[Locations/The Dawn Empire/The Dawn Empire\|The Shattered Dawn]]
-| §                                                                                     | City Type      |
-| ------------------------------------------------------------------------------------- | -------------- |
-| [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | Large Town     |
-| [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | Large Town     |
-| [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | Capital        |
-| [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | Small Village  |
-| [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | Small Town     |
-| [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | Large Town     |
-| [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | Large Town     |
-| [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | Dwarven Nation |
-| [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | Large Town     |
-| [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | Large Town     |
-| [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]                               | Small Town     |
-| [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | City           |
-| [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | Large Town     |
-| [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | Small Town     |
-| [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | City           |
-| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | Building       |
-| [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | Capital        |
-| [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | Building       |
-| [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | Dwarven Nation |
+| §                                                                                     | City Type      | Discovery Status |
+| ------------------------------------------------------------------------------------- | -------------- | ---------------- |
+| [[Locations/The Dawn Empire/Baytown\|Baytown]]                                     | Large Town     | Discovered       |
+| [[Locations/The Dawn Empire/Cliffhall\|Cliffhall]]                                 | Large Town     | Discovered       |
+| [[Locations/The Dawn Empire/Dawnhaven/Dawnhaven\|Dawnhaven]]                       | Capital        | Discovered       |
+| [[Locations/The Dawn Empire/Dusthall\|Dusthall]]                                   | Small Village  | Discovered       |
+| [[Locations/The Dawn Empire/Dustwood\|Dustwood]]                                   | Small Town     | Discovered       |
+| [[Locations/The Dawn Empire/Fairset Port\|Fairset Port]]                           | Large Town     | Discovered       |
+| [[Locations/The Dawn Empire/Farpost\|Farpost]]                                     | Large Town     | Discovered       |
+| [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                     | Dwarven Nation | Discovered       |
+| [[Locations/The Dawn Empire/Ironfalls\|Ironfalls]]                                 | Large Town     | Undiscovered     |
+| [[Locations/The Dawn Empire/Newhall\|Newhall]]                                     | Large Town     | Undiscovered     |
+| [[Locations/The Dawn Empire/Oak's Rest\|Oak's Rest]]                               | Small Town     | Undiscovered     |
+| [[Locations/The Dawn Empire/Oceanvale\|Oceanvale]]                                 | City           | Discovered       |
+| [[Locations/The Dawn Empire/Old Earthgrog\|Old Earthgrog]]                         | Large Town     | Discovered       |
+| [[Locations/The Dawn Empire/Rosehost\|Rosehost]]                                   | Small Town     | Undiscovered     |
+| [[Locations/The Dawn Empire/Steelwick/Steelwick\|Steelwick]]                       | City           | Discovered       |
+| [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]         | Building       | Discovered       |
+| [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]] | Capital        | Discovered       |
+| [[Locations/The Dawn Empire/Dawnhaven/The Silent Shade\|The Silent Shade]]         | Building       | Discovered       |
+| [[Locations/The Dawn Empire/Wyvern Cave\|Wyvern Cave]]                             | Dwarven Nation | Discovered       |
 
 { .block-language-dataview}
 
 ### [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]
-| §                                                                             | City Type  |
-| ----------------------------------------------------------------------------- | ---------- |
-| [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | Large Town |
-| [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | Large Town |
-| [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | Large Town |
-| [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | Large Town |
-| [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | Large Town |
-| [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | Large Town |
-| [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | Capital    |
+| §                                                                             | City Type  | Discovery Status |
+| ----------------------------------------------------------------------------- | ---------- | ---------------- |
+| [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | Large Town | Discovered       |
+| [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | Large Town | Discovered       |
+| [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | Large Town | Undiscovered     |
+| [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | Large Town | Discovered       |
+| [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | Large Town | Undiscovered     |
+| [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | Large Town | Discovered       |
+| [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | Capital    | Discovered       |
 
 { .block-language-dataview}
 
 ### [[Locations/Ehobel/Ehobel\|Ehobel]] 
-| §                                                                          | City Type     |
-| -------------------------------------------------------------------------- | ------------- |
-| [[Locations/Ehobel/Caalona\|Caalona]]                                   | Large Town    |
-| [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | Building      |
-| [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | Large Town    |
-| [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | Building      |
-| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | Building      |
-| [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | City          |
-| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | Capital       |
-| [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | Building      |
-| [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | City          |
-| [[Locations/Ehobel/Renabel\|Renabel]]                                   | Large Town    |
-| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | Building      |
-| [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | Building      |
-| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | Building      |
-| [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | Building      |
-| [[Locations/Ehobel/Yren\|Yren]]                                         | Small Village |
+| §                                                                          | City Type     | Discovery Status |
+| -------------------------------------------------------------------------- | ------------- | ---------------- |
+| [[Locations/Ehobel/Caalona\|Caalona]]                                   | Large Town    | Discovered       |
+| [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | Building      | Discovered       |
+| [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | Large Town    | Discovered       |
+| [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | Building      | Discovered       |
+| [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | Building      | Undiscovered     |
+| [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | City          | Undiscovered     |
+| [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | Capital       | Discovered       |
+| [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | Building      | Undiscovered     |
+| [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | City          | Discovered       |
+| [[Locations/Ehobel/Renabel\|Renabel]]                                   | Large Town    | Undiscovered     |
+| [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | Building      | Discovered       |
+| [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | Building      | Discovered       |
+| [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | Building      | Undiscovered     |
+| [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | Building      | Discovered       |
+| [[Locations/Ehobel/Yren\|Yren]]                                         | Small Village | Discovered       |
 
 { .block-language-dataview}
 ### [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
-| §                                                                  | City Type  |
-| ------------------------------------------------------------------ | ---------- |
-| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | Small Town |
-| [[Locations/Lost Haven/Luminara\|Luminara]]                     | \-         |
-| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | Large Town |
-| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | Building   |
+| §                                                                  | City Type  | Discovery Status |
+| ------------------------------------------------------------------ | ---------- | ---------------- |
+| [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | Small Town | Discovered       |
+| [[Locations/Lost Haven/Luminara\|Luminara]]                     | \-         | Discovered       |
+| [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | Large Town | Discovered       |
+| [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | Building   | Discovered       |
 
 { .block-language-dataview}
 
@@ -97,109 +97,125 @@ Below is a lost of all locations found within the campaign. The Majority of the 
 
 # Other
 ### [[Locations/The Desert/The Desert\|The Desert]]
-| §                                                                                  | City Type |
-| ---------------------------------------------------------------------------------- | --------- |
-| [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | Unknown   |
-| [[Locations/The Desert/Desert Camps/Camp Dustblood\|Camp Dustblood]]            | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Khard\|Camp Khard]]                    | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Namar\|Camp Namar]]                    | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Sahir\|Camp Sahir]]                    | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Solari\|Camp Solari]]                  | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Sophia\|Camp Sophia]]                  | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Veyra\|Camp Veyra]]                    | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Yrandes\|Camp Yrandes]]                | Camp      |
-| [[Locations/The Desert/Desert Camps/Camp Zareem\|Camp Zareem]]                  | Camp      |
-| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Unknown   |
-| [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Unknown   |
-| [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Unknown   |
-| [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Building  |
-| [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Unknown   |
-| [[Locations/The Desert/Sumene\|Sumene]]                                         | Unknown   |
-| [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Unknown   |
-| [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Unknown   |
+| §                                                                                  | City Type | Discovery Status |
+| ---------------------------------------------------------------------------------- | --------- | ---------------- |
+| [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | Unknown   | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Dustblood\|Camp Dustblood]]            | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Khard\|Camp Khard]]                    | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Namar\|Camp Namar]]                    | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Sahir\|Camp Sahir]]                    | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Sofia\|Camp Sofia]]                    | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Solari\|Camp Solari]]                  | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Veyra\|Camp Veyra]]                    | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Yrandes\|Camp Yrandes]]                | Camp      | Undiscovered     |
+| [[Locations/The Desert/Desert Camps/Camp Zareem\|Camp Zareem]]                  | Camp      | Undiscovered     |
+| [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Unknown   | Undiscovered     |
+| [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Unknown   | Undiscovered     |
+| [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Unknown   | Undiscovered     |
+| [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Building  | Undiscovered     |
+| [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Unknown   | Undiscovered     |
+| [[Locations/The Desert/Sumene\|Sumene]]                                         | Unknown   | Undiscovered     |
+| [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Unknown   | Undiscovered     |
+| [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Unknown   | Undiscovered     |
 
 { .block-language-dataview}
 
 ### [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]]
-| §                                                   | City Type |
-| --------------------------------------------------- | --------- |
-| [[Locations/Kearlin Atoll/Carryn\|Carryn]]       | Unknown   |
-| [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]] | Unknown   |
-| [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]       | Unknown   |
-| [[Locations/Kearlin Atoll/Paraton\|Paraton]]     | Unknown   |
-| [[Locations/Kearlin Atoll/Teria\|Teria]]         | Capital   |
-| [[Locations/Kearlin Atoll/Thornlore\|Thornlore]] | Unknown   |
-| [[Locations/Kearlin Atoll/Totala\|Totala]]       | Unknown   |
+| §                                                   | City Type | Discovery Status |
+| --------------------------------------------------- | --------- | ---------------- |
+| [[Locations/Kearlin Atoll/Carryn\|Carryn]]       | Unknown   | Undiscovered     |
+| [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]] | Unknown   | Undiscovered     |
+| [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]       | Unknown   | Undiscovered     |
+| [[Locations/Kearlin Atoll/Paraton\|Paraton]]     | Unknown   | Discovered       |
+| [[Locations/Kearlin Atoll/Teria\|Teria]]         | Capital   | Undiscovered     |
+| [[Locations/Kearlin Atoll/Thornlore\|Thornlore]] | Unknown   | Undiscovered     |
+| [[Locations/Kearlin Atoll/Totala\|Totala]]       | Unknown   | Undiscovered     |
 
 { .block-language-dataview}
 
 ### [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
-| §                                                                      | City Type     |
-| ---------------------------------------------------------------------- | ------------- |
-| [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Small Village |
-| [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | Castle        |
-| [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Small Village |
-| [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | Small Village |
-| [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Building      |
+| §                                                                      | City Type     | Discovery Status |
+| ---------------------------------------------------------------------- | ------------- | ---------------- |
+| [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Small Village | Undiscovered     |
+| [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | Castle        | Undiscovered     |
+| [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Small Village | Undiscovered     |
+| [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | Small Village | Undiscovered     |
+| [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Building      | Undiscovered     |
 
 { .block-language-dataview}
 
 ### [[Locations/The Deadlands/The Deadlands\|The Deadlands]]
-| §                                                                       | City Type       |
-| ----------------------------------------------------------------------- | --------------- |
-| [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | Unknown/Unclear |
-| [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | Unknown/Unclear |
-| [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | Unknown/Unclear |
-| [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | Unknown/Unclear |
-| [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | Unknown/Unclear |
-| [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | Unknown/Unclear |
-| [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | Unknown/Unclear |
-| [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | Unknown/Unclear |
-| [[Locations/The Deadlands/Marcel's Crypt\|Marcel's Crypt]]           | \-              |
+| §                                                                       | City Type       | Discovery Status |
+| ----------------------------------------------------------------------- | --------------- | ---------------- |
+| [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | Unknown/Unclear | Discovered       |
+| [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | Unknown/Unclear | Undiscovered     |
+| [[Locations/The Deadlands/Marcel's Crypt\|Marcel's Crypt]]           | \-              | Undiscovered     |
 
 { .block-language-dataview}
 ### [[Locations/The Merrihollows/The Merrihollows\|The Merrihollows]]
-| §                                                        | City Type  |
-| -------------------------------------------------------- | ---------- |
-| [[Locations/The Merrihollows/Goldburrow\|Goldburrow]] | Large Town |
-| [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]   | Large Town |
-| [[Locations/The Merrihollows/Pennymead\|Pennymead]]   | Large Town |
+| §                                                              | City Type  | Discovery Status |
+| -------------------------------------------------------------- | ---------- | ---------------- |
+| [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | Large Town | Undiscovered     |
+| [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]       | Large Town | Undiscovered     |
+| [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]         | Large Town | Undiscovered     |
+| [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | Large Town | Undiscovered     |
+| [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | Large Town | Undiscovered     |
+| [[Locations/The Merrihollows/Wickshire\|Wickshire]]         | Large Town | Undiscovered     |
+
+{ .block-language-dataview}
+
+### [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
+| §                                                                                                                                                                | City Type         | Discovery Status |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------- |
+| [[Locations/Strixhaven/Faculty of Arcane Warfare & Defensive Arts\|Faculty of Arcane Warfare & Defensive Arts]]                                               | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Bardic Arts & Resonant Magic\|Faculty of Bardic Arts & Resonant Magic]]                                                     | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Chronomancy & Temporal Studies\|Faculty of Chronomancy & Temporal Studies]]                                                 | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Divination, Fate & Causality\|Faculty of Divination, Fate & Causality]]                                                     | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Foundational Arcane Sciences\|Faculty of Foundational Arcane Sciences]]                                                     | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Illusion, Mind & Perception\|Faculty of Illusion, Mind & Perception]]                                                       | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Magical Society & Governance\|Faculty of Magical Society & Governance]]                                                     | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Magical Theory & Research\|Faculty of Magical Theory & Research]]                                                           | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Natural & Living Magic\|Faculty of Natural & Living Magic]]                                                                 | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Necrology & Esoteric Studies (Officially Discontinued)\|Faculty of Necrology & Esoteric Studies (Officially Discontinued)]] | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Planar & Divine Studies\|Faculty of Planar & Divine Studies]]                                                               | Stixhaven Faculty | Undiscovered     |
+| [[Locations/Strixhaven/Faculty of Spellcraft & Arcane Engineering\|Faculty of Spellcraft & Arcane Engineering]]                                               | Stixhaven Faculty | Undiscovered     |
+
+{ .block-language-dataview}
+
+### [[Locations/Luminarch Concord/Luminarch Concord\|Luminarch Concord]]
+| §                                                                 | City Type | Discovery Status |
+| ----------------------------------------------------------------- | --------- | ---------------- |
+| [[Locations/Luminarch Concord/Elyndor's Gate\|Elyndor's Gate]] | Town      | Undiscovered     |
+| [[Locations/Luminarch Concord/Solmire\|Solmire]]               | Town      | Undiscovered     |
+| [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]             | Town      | Undiscovered     |
+
+{ .block-language-dataview}
+
+### [[Locations/Stilltusk/Stilltusk\|Stilltusk]]
+| §                                                     | City Type | Discovery Status |
+| ----------------------------------------------------- | --------- | ---------------- |
+| [[Locations/Stilltusk/Drumscar\|Drumscar]]         | Town      | Undiscovered     |
+| [[Locations/Stilltusk/Ironhowl\|Ironhowl]]         | Town      | Undiscovered     |
+| [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]] | Capital   | Undiscovered     |
+| [[Locations/Stilltusk/Oathcrag\|Oathcrag]]         | Town      | Undiscovered     |
 
 { .block-language-dataview}
 
 ### Standalone Locations
 - [[Locations/Ancient Dwarven Tomb\|Ancient Dwarven Tomb]]
-- [[Locations/Stilltusk/Drumscar\|Drumscar]]
-- [[Locations/Luminarch Concord/Elyndor's Gate\|Elyndor's Gate]]
-- [[Locations/Strixhaven/Faculty of Arcane Warfare & Defensive Arts\|Faculty of Arcane Warfare & Defensive Arts]]
-- [[Locations/Strixhaven/Faculty of Bardic Arts & Resonant Magic\|Faculty of Bardic Arts & Resonant Magic]]
-- [[Locations/Strixhaven/Faculty of Chronomancy & Temporal Studies\|Faculty of Chronomancy & Temporal Studies]]
-- [[Locations/Strixhaven/Faculty of Divination, Fate & Causality\|Faculty of Divination, Fate & Causality]]
-- [[Locations/Strixhaven/Faculty of Foundational Arcane Sciences\|Faculty of Foundational Arcane Sciences]]
-- [[Locations/Strixhaven/Faculty of Illusion, Mind & Perception\|Faculty of Illusion, Mind & Perception]]
-- [[Locations/Strixhaven/Faculty of Magical Society & Governance\|Faculty of Magical Society & Governance]]
-- [[Locations/Strixhaven/Faculty of Magical Theory & Research\|Faculty of Magical Theory & Research]]
-- [[Locations/Strixhaven/Faculty of Natural & Living Magic\|Faculty of Natural & Living Magic]]
-- [[Locations/Strixhaven/Faculty of Necrology & Esoteric Studies (Officially Discontinued)\|Faculty of Necrology & Esoteric Studies (Officially Discontinued)]]
-- [[Locations/Strixhaven/Faculty of Planar & Divine Studies\|Faculty of Planar & Divine Studies]]
-- [[Locations/Strixhaven/Faculty of Spellcraft & Arcane Engineering\|Faculty of Spellcraft & Arcane Engineering]]
 - [[Locations/Fort Moldan\|Fort Moldan]]
-- [[Locations/Golden Fort\|Golden Fort]]
 - [[Locations/Goldpass Bridge\|Goldpass Bridge]]
-- [[Locations/Stilltusk/Ironhowl\|Ironhowl]]
-- [[Locations/Itone Isles\|Itone Isles]]
 - [[Locations/Jub’s Tribe/Jub's Tribe\|Jub's Tribe]]
-- [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]]
-- [[Locations/Luminarch Concord/Luminarch Concord\|Luminarch Concord]]
 - [[Locations/Morak Hold\|Morak Hold]]
-- [[Locations/Stilltusk/Oathcrag\|Oathcrag]]
 - [[Locations/Snowport\|Snowport]]
-- [[Locations/Luminarch Concord/Solmire\|Solmire]]
-- [[Locations/Stilltusk/Stilltusk\|Stilltusk]]
-- [[Locations/Strixhaven/Strixhaven\|Strixhaven]]
 - [[Locations/Terrathra (World Map)\|Terrathra (World Map)]]
 - [[Locations/The Towers\|The Towers]]
-- [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]
 
 { .block-language-dataview}
 

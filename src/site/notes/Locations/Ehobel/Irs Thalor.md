@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/irs-thalor/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.698+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Undiscovered"],"icon":"place","city type":"City"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/irs-thalor/","tags":["Undiscovered"],"updated":"2026-11-13T19:05:26.736+00:00","dg-note-properties":{"Nation":"Ehobel","tags":["Undiscovered"],"icon":"place","city type":"City","discovery":"Undiscovered"}}
 ---
 
 ### Overview

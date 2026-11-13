@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/astral-plane/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.660+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Plane of Existence","city type":null,"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/astral-plane/","tags":["Discovered"],"updated":"2026-11-13T19:04:09.687+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Plane of Existence","city type":null,"icon":"place","discovery":null}}
 ---
 
 ### Overview

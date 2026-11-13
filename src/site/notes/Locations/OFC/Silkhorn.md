@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.759+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Small Fishing Village"}}
+{"dg-publish":true,"permalink":"/locations/ofc/silkhorn/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.616+00:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Small Fishing Village","discovery":"Discovered"}}
 ---
 
 ### Overview

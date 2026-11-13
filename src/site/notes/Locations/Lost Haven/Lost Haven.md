@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:34:46.169+01:00","dg-note-properties":{"tags":["Discovered","Tower"],"Nation":"Lost Haven","icon":"place","city type":"Capital","TQ_show_tags":true,"TS":"Destroyed"}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:07:03.184+00:00","dg-note-properties":{"tags":["Discovered","Tower"],"Nation":"Lost Haven","icon":"place","city type":"Capital","TQ_show_tags":true,"TS":"Destroyed","discovery":"Discovered"}}
 ---
 
 
 > [!infobox]
 > 
 > # Lost Haven
-> ![Lost Haven.png](/img/user/Admin/Attachments/Lost%20Haven.png)
+> ![@LostHaven_New.jpg](/img/user/Admin/Attachments/@LostHaven_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |
@@ -20,8 +20,8 @@
 >  | ------------------------------------------------------------------ | ------------------------------------------ |
 >  | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li><li>Tower</li></ul> |
->  | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul>               |
+>  | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul>               |
 >  
 { .block-language-dataview}
@@ -56,11 +56,11 @@ KA1, better known now as [[The Party/Dead/Kal The Korrigan †\|Kal]] (or [[The 
 | [[Named Characters & Beasts/Tish\|Tish]]                                                                              | The Slums        | Dead   |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                                            | The Slums        | Alive  |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                                              | The Slums        | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]                               | The Slums        | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]]                             | The Slums        | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]                               | The Slums        | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]]                             | The Slums        | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] | Luminara         | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Elandra †\|Elandra †]]                       | Hunters Quarters | Dead   |
 
 { .block-language-dataview}

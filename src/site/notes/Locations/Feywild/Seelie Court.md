@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/seelie-court/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.749+01:00","dg-note-properties":{"Nation":"The Feywilds","tags":["Discovered"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/feywild/seelie-court/","tags":["Discovered"],"updated":"2026-11-13T19:06:21.203+00:00","dg-note-properties":{"Nation":"The Feywilds","tags":["Discovered"],"icon":"place","discovery":"Discovered"}}
 ---
 
 ### Overview

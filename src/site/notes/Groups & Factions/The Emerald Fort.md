@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-emerald-fort/","updated":"2025-08-11T11:53:31.543+01:00","dg-note-properties":{"Nation":"The Forts","icon":"place","aliases":["Emerald Fort"]}}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-emerald-fort/","updated":"2026-11-13T18:31:51.046+00:00","dg-note-properties":{"Nation":"The Forts","icon":"place","aliases":["Emerald Fort"]}}
 ---
 
 > [!infobox]
 > 
 >  # The Emerald Fort
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![@TheEmraldFort_New.jpg](/img/user/Admin/Attachments/@TheEmraldFort_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |

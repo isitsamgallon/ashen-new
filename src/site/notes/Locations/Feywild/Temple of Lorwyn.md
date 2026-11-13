@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/temple-of-lorwyn/","tags":["Discovered"],"updated":"2025-08-29T22:44:55.784+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"The Feywilds","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/feywild/temple-of-lorwyn/","tags":["Discovered"],"updated":"2026-11-13T19:04:09.847+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"The Feywilds","icon":"place","discovery":null}}
 ---
 
 ### Overview

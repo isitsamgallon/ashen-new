@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2025-09-27T12:55:00.810+01:00","dg-note-properties":{"aliases":["OFC"],"tags":["Discovered"],"icon":"place","Nation":"OFC","city type":null}}
+{"dg-publish":true,"permalink":"/locations/ofc/organisation-of-free-cities-ofc/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.575+00:00","dg-note-properties":{"aliases":["OFC"],"tags":["Discovered"],"icon":"place","Nation":"OFC","city type":null,"discovery":"Discovered"}}
 ---
 
 > [!infobox]
 > 
 >  # Organisation of Free Cities (OFC)
-> ![OFC_Map.jpg](/img/user/Admin/Attachments/OFC_Map.jpg)
+> ![@OFC_New.jpg](/img/user/Admin/Attachments/@OFC_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |
@@ -16,14 +16,14 @@
 >  ##### Cities & Towns 
 >   | File                                                            | Discovery Status                           |
 >  | --------------------------------------------------------------- | ------------------------------------------ |
->  | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul>               |
->  | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]          | <ul><li>Discovered</li><li>Tower</li></ul> |
 >  | [[Locations/OFC/Whitespire/The Pyramid\|The Pyramid]]        | <ul><li>Missing</li></ul>                  |
+>  | [[Locations/OFC/Twopines Estate\|Twopines Estate]]           | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/OFC/Silkhorn\|Silkhorn]]                         | <ul><li>Discovered</li></ul>               |
->  | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul>               |
+>  | [[Locations/OFC/The Inchling Kingdom\|The Inchling Kingdom]] | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/OFC/Foxtail Orchards\|Foxtail Orchards]]         | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/OFC/Blackwall/Blackwall\|Blackwall]]             | <ul><li>Discovered</li></ul>               |
+>  | [[Locations/OFC/Firebranch Range\|Firebranch Range]]         | <ul><li>Discovered</li></ul>               |
 >  | [[Locations/OFC/Balance Ranch\|Balance Ranch]]               | <ul><li>Discovered</li></ul>               |
 >  
 { .block-language-dataview}
@@ -73,14 +73,14 @@ During one of the illusions in [[Gods & Heralds/Chronovorus/The Black Woods\|The
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [[The Party/Other Party Members/Steve Ulan\|Steve Ulan]]                                                                               | Steelwick        | Alive   |
 | [[Named Characters & Beasts/Sage Billington\|Sage Billington]]                                                                         | Inchling Village | Alive   |
-| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Parsley Billington\|Parsley Billington]]                                                                   | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Oregano Billington †\|Oregano Billington †]]                                                               | Inchling Village | Dead    |
+| [[Named Characters & Beasts/Mr Placebo\|Mr Placebo]]                                                                                   | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Jane\|Jane]]                                                                                               | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Caden SteelBreaker †\|Caden SteelBreaker †]] | Blackwall        | Dead    |
 | [[Named Characters & Beasts/Historically Significant  Characters/Agolin Winterbor\|Agolin Winterbor]]                                  | Blackwall        | Alive   |
-| [[Named Characters & Beasts/Greg\|Greg]]                                                                                               | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Freya\|Freya]]                                                                                             | Whitespire       | Unknown |
+| [[Named Characters & Beasts/Greg\|Greg]]                                                                                               | Blackwall        | Alive   |
 | [[Named Characters & Beasts/Dill Billington\|Dill Billington]]                                                                         | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Cumin Billington\|Cumin Billington]]                                                                       | Inchling Village | Alive   |
 | [[Named Characters & Beasts/Captain Bridges\|Captain Bridges]]                                                                         | Silkhorn         | Alive   |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/enelion/enelion-town-inn/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.853+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"town":"Enelion","icon":"place","city type":"Building"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/enelion/enelion-town-inn/","tags":["Discovered"],"updated":"2026-11-13T19:05:13.708+00:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"town":"Enelion","icon":"place","city type":"Building","discovery":"Discovered"}}
 ---
 
 ### Overview

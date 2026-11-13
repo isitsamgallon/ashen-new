@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2025-09-27T13:12:04.821+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Large Town","icon":"place","aliases":["The Slums"]}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/siltwater-slums/","tags":["Discovered"],"updated":"2026-11-13T19:07:03.216+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Large Town","icon":"place","aliases":["The Slums"],"discovery":"Discovered"}}
 ---
 
 
@@ -36,8 +36,8 @@ Mixed races, nothing of note.
 | [[Named Characters & Beasts/Tish\|Tish]]                                                  | The Slums | Dead   |
 | [[Named Characters & Beasts/Misty\|Misty]]                                                | The Slums | Alive  |
 | [[Named Characters & Beasts/Lull\|Lull]]                                                  | The Slums | Alive  |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn\|Thorn]]   | The Slums | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera ‡\|Sera ‡]] | The Slums | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Rae †\|Rae †]]   | The Slums | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Kael †\|Kael †]] | The Slums | Dead   |
 

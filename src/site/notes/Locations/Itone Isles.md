@@ -1,6 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Discovered"],"updated":"2025-12-30T11:09:48.396+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Itone","icon":"place","aliases":["Itone"]}}
+{"dg-publish":true,"permalink":"/locations/itone-isles/","tags":["Discovered"],"updated":"2026-11-13T19:12:11.009+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Itone","icon":"place","aliases":["Itone"],"discovery":"Discovered"}}
 ---
+
+> [!infobox]
+> 
+>  # Itone Isles
+> ![@ItoneIsle_New.jpg](/img/user/Admin/Attachments/@ItoneIsle_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | [[Other Information/Races/Dragons\|Dragons]] |
+>  Founder | [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Niaross †]] |
+>  Current Leader | None |
+
 
 ### Overview
 A snowy nation found to the north of [[Locations/The Dawn Empire/The Dawn Empire\|The Dawn Empire]]. The island where [[Named Characters & Beasts/Important Characters/The Auditors/Niaross †\|Uti]], lived. It is described like the following: "Isolated and inhospitable, [[Locations/Itone Isles\|Itone Isles]] is but a graveyard of a forgotten civilisation, a silent testament to an era lost in the mists of time."

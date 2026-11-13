@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dusthall/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.773+01:00","dg-note-properties":{"city type":"Small Village","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dusthall/","tags":["Discovered"],"updated":"2026-11-13T19:08:43.306+00:00","dg-note-properties":{"city type":"Small Village","Nation":"The Dawn Empire","tags":["Discovered"],"icon":"place","discovery":"Discovered"}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/hunter-s-quarters/","tags":["Discovered"],"updated":"2026-07-24T15:54:17.918+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Small Town","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/hunter-s-quarters/","tags":["Discovered"],"updated":"2026-11-13T19:07:03.175+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Lost Haven","city type":"Small Town","icon":"place","discovery":"Discovered"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-magical-society-and-governance/","updated":"2026-01-24T19:31:50.394+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-magical-society-and-governance/","updated":"2026-11-13T19:08:04.522+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Magic in the real world.*

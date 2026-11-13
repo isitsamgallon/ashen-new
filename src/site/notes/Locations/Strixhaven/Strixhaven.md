@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/strixhaven/","tags":["Tower","Discovered"],"updated":"2026-06-28T20:34:31.577+01:00","dg-note-properties":{"Nation":"Strixhaven","icon":"place","tags":["Tower","Discovered"],"TS":"Still Standing","TQ_show_tags":true}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/strixhaven/","tags":["Tower","Discovered"],"updated":"2026-11-13T19:08:18.702+00:00","dg-note-properties":{"icon":"place","tags":["Tower","Discovered"],"TS":"Still Standing","TQ_show_tags":true,"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Discovered"}}
 ---
 
 
 > [!infobox]
 > 
 > # Strixhaven
-> ![Screenshot 2025-02-13 at 6.26.58 pm.png](/img/user/Admin/Attachments/Screenshot%202025-02-13%20at%206.26.58%20pm.png)
+> ![@Strixhaven_New.jpg](/img/user/Admin/Attachments/@Strixhaven_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.665+01:00","dg-note-properties":{"Nation":"Dwarven Empire","town":null,"tags":["Undiscovered"],"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/fort-moldan/","tags":["Undiscovered","#Standalone"],"updated":"2026-11-13T19:11:42.128+00:00","dg-note-properties":{"Nation":"Dwarven Empire","city type":"Fort","tags":["Undiscovered","#Standalone"],"icon":"place","discovery":"Undiscovered"}}
 ---
 
 ### Overview

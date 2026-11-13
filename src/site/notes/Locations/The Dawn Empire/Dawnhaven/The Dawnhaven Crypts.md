@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-dawnhaven-crypts/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:25:02.580+01:00","dg-note-properties":{"city type":"Capital","Nation":"The Dawn Empire","icon":"place","tags":["Discovered","Tower"],"TS":"Unknown","TQ_show_tags":true}}
+{"dg-publish":true,"permalink":"/locations/the-dawn-empire/dawnhaven/the-dawnhaven-crypts/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:08:43.168+00:00","dg-note-properties":{"city type":"Capital","Nation":"The Dawn Empire","icon":"place","tags":["Discovered","Tower"],"TS":"Unknown","TQ_show_tags":true,"discovery":"Discovered"}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/the-tower-of-ishnmel/","tags":["Discovered"],"updated":"2026-06-28T20:34:29.068+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"icon":"place","city type":"Building"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/the-tower-of-ishnmel/","tags":["Discovered"],"updated":"2026-11-13T19:05:14.204+00:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered"],"icon":"place","city type":"Building","discovery":"Discovered"}}
 ---
 
 ### Overview

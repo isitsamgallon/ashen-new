@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-chronomancy-and-temporal-studies/","updated":"2026-01-24T19:31:50.184+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-chronomancy-and-temporal-studies/","updated":"2026-11-13T19:08:04.471+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Time is not a suggestion.*

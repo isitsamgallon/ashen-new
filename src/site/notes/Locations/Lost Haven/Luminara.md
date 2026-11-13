@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2026-07-24T15:50:34.631+01:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","town":null,"tags":["Discovered"]}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/luminara/","tags":["Discovered"],"updated":"2026-11-13T19:07:03.234+00:00","dg-note-properties":{"icon":"group","Nation":"Lost Haven","town":null,"tags":["Discovered"],"discovery":"Discovered"}}
 ---
 
 > [!infobox]

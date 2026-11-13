@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/twopines-estate/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.766+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","aliases":["Twopines"],"city type":"Estate"}}
+{"dg-publish":true,"permalink":"/locations/ofc/twopines-estate/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.632+00:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","aliases":["Twopines"],"city type":"Estate","discovery":"Discovered"}}
 ---
 
 ### Overview

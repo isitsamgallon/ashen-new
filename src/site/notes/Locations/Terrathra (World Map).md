@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/terrathra-world-map/","tags":["Discovered","Undiscovered"],"updated":"2026-05-25T20:44:58.202+01:00","dg-note-properties":{"tags":["Discovered","Undiscovered"],"Nation":null,"city type":null,"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/terrathra-world-map/","tags":["#Standalone"],"updated":"2026-11-13T19:04:11.252+00:00","dg-note-properties":{"tags":["#Standalone"],"Nation":null,"city type":null,"icon":"place","discovery":null}}
 ---
 
 ![Terrathra.jpg](/img/user/Admin/Attachments/Terrathra.jpg)

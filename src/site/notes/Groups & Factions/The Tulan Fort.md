@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/groups-and-factions/the-tulan-fort/","updated":"2025-08-11T11:53:31.552+01:00","dg-note-properties":{"Nation":"The Forts","icon":"place"}}
+{"dg-publish":true,"permalink":"/groups-and-factions/the-tulan-fort/","updated":"2026-11-13T18:32:11.592+00:00","dg-note-properties":{"Nation":"The Forts","icon":"place"}}
 ---
 
 > [!infobox]
 > 
 >  # The Tulan Fort
-> ![ImagePlaceholder.png](/img/user/Admin/Attachments/ImagePlaceholder.png)
+> ![@Tulan_New.jpg](/img/user/Admin/Attachments/@Tulan_New.jpg)
 > ###### Basic Information
 > 
 >  Type | Info |

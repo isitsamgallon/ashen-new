@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-divination-fate-and-causality/","updated":"2026-01-24T19:31:50.226+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-divination-fate-and-causality/","updated":"2026-11-13T19:08:04.459+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Knowing before acting.*

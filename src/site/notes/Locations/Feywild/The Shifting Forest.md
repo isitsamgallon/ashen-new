@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/the-shifting-forest/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.720+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":["The Feywilds"],"city type":"Large, Magical Forest","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/feywild/the-shifting-forest/","tags":["Discovered"],"updated":"2026-11-13T19:04:09.804+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":["The Feywilds"],"city type":"Large, Magical Forest","icon":"place","discovery":null}}
 ---
 
 

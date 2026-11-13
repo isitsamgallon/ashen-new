@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-natural-and-living-magic/","updated":"2026-01-24T19:31:50.479+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-natural-and-living-magic/","updated":"2026-11-13T19:08:04.549+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Magic as a living system.*

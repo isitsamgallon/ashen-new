@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/feywild/feywild/","updated":"2025-08-29T22:44:55.746+01:00","dg-note-properties":{"Nation":"The Feywilds","icon":"place","aliases":["Feywilds"]}}
+{"dg-publish":true,"permalink":"/locations/feywild/feywild/","updated":"2026-11-13T19:04:09.765+00:00","dg-note-properties":{"Nation":"The Feywilds","icon":"place","aliases":["Feywilds"],"discovery":null}}
 ---
 
 ### Overview

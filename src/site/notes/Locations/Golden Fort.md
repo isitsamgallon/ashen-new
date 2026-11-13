@@ -1,6 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/locations/golden-fort/","updated":"2025-08-11T11:53:31.666+01:00","dg-note-properties":{"Nation":"Snowport","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/golden-fort/","updated":"2026-11-13T19:11:43.950+00:00","dg-note-properties":{"Nation":"Snowport","icon":"place","discovery":"Discovered"}}
 ---
+
+> [!infobox]
+> 
+>  # Golden Fort
+> ![@TheGoldenFort_New.jpg](/img/user/Admin/Attachments/@TheGoldenFort_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+
 
 ### Overview
 Not much is known about this location, It could be connected to [[Groups & Factions/The Golden Fleet\|The Golden Fleet]]. Found by looking at the map.

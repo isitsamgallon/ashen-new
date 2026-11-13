@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-necrology-and-esoteric-studies-officially-discontinued/","updated":"2026-01-24T19:31:50.502+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-necrology-and-esoteric-studies-officially-discontinued/","updated":"2026-11-13T19:08:04.628+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Death, souls, and forbidden continuity.*

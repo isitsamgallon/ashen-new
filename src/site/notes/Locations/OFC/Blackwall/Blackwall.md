@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/blackwall/blackwall/","tags":["Discovered"],"updated":"2026-07-11T10:10:58.535+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Capital"}}
+{"dg-publish":true,"permalink":"/locations/ofc/blackwall/blackwall/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.505+00:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Capital","discovery":"Discovered"}}
 ---
 
 #INFORMATION_MISSING_OR_OUT-OF-DATE 

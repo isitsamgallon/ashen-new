@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/whitespire/whitespire/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:23:19.218+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered","Tower"],"icon":"place","city type":"Large Town","TQ_show_tags":true,"TS":"Destroyed"}}
+{"dg-publish":true,"permalink":"/locations/ofc/whitespire/whitespire/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:07:31.666+00:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered","Tower"],"icon":"place","city type":"Large Town","TQ_show_tags":true,"TS":"Destroyed","discovery":"Discovered"}}
 ---
 
 ### Overview

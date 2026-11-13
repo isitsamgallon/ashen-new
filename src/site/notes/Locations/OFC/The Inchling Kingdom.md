@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.764+01:00","dg-note-properties":{"tags":["Discovered"],"Nation":"OFC","city type":"Large Town","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/ofc/the-inchling-kingdom/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.603+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"OFC","city type":"Large Town","icon":"place","discovery":"Discovered"}}
 ---
 
 

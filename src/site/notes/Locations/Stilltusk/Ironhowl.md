@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/stilltusk/ironhowl/","tags":["Undiscovered"],"updated":"2026-11-12T17:56:25.667+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Stilltusk","city type":"Town","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/stilltusk/ironhowl/","tags":["Undiscovered"],"updated":"2026-11-13T19:07:46.310+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Stilltusk","city type":"Town","icon":"place","discovery":"Undiscovered"}}
 ---
 
 ### Overview

@@ -1,6 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/locations/luminarch-concord/luminarch-concord/","tags":["Undiscovered"],"updated":"2026-11-12T17:59:38.172+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Luminarch Concord","city type":null,"icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/luminarch-concord/luminarch-concord/","tags":["Undiscovered"],"updated":"2026-11-13T19:07:16.256+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Luminarch Concord","city type":null,"icon":"place","discovery":"Undiscovered"}}
 ---
+
+> [!infobox]
+> 
+>  # Luminarch Concord
+> ![@LuminarchConcord_New.jpg](/img/user/Admin/Attachments/@LuminarchConcord_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+>  ##### Cities & Towns 
+>   | File                                                              | Discovery Status               |
+>  | ----------------------------------------------------------------- | ------------------------------ |
+>  | [[Locations/Luminarch Concord/Solmire\|Solmire]]               | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/Luminarch Concord/Elyndor's Gate\|Elyndor's Gate]] | <ul><li>Undiscovered</li></ul> |
+>  | [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]             | <ul><li>Undiscovered</li></ul> |
+>  
+{ .block-language-dataview}
 
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-arcane-warfare-and-defensive-arts/","updated":"2026-04-08T21:17:27.235+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/locations/strixhaven/faculty-of-arcane-warfare-and-defensive-arts/","updated":"2026-11-13T19:08:04.442+00:00","dg-note-properties":{"nation":"Stixhaven","city type":"Stixhaven Faculty","discovery":"Undiscovered"}}
 ---
 
 *Magic under pressure.*

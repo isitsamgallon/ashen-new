@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2026-06-28T20:34:28.937+01:00","dg-note-properties":{"Nation":"Ehobel","icon":"place"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/ehobel/","updated":"2026-11-13T19:05:13.465+00:00","dg-note-properties":{"Nation":"Ehobel","icon":"place","discovery":"Discovered"}}
 ---
 
 > [!infobox]
 > 
 > # Ehobel
-> ![Ehobel_Map.jpg](/img/user/Admin/Attachments/Ehobel_Map.jpg)
+> ![@Ehobel_new.jpg](/img/user/Admin/Attachments/@Ehobel_new.jpg)]
 > ###### Basic Information
 > 
 >  Type | Info |
@@ -14,24 +14,24 @@
 >  Previous Leader | [[Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Ashira Yelris †\|Ashira Yelris †]] |
 >  Current Leader | [[Named Characters & Beasts/Important Characters/Obeus Yelris\|Obeus Yelris]] |
 >  ##### Cities & Towns 
->   | File                                                                       | Discovery Status                             |
->  | -------------------------------------------------------------------------- | -------------------------------------------- |
->  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul>               |
->  | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li><li>Tower</li></ul>   |
->  | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul>               |
->  | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul>               |
->  | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li><li>Tower</li></ul>   |
->  | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul>               |
->  | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li><li>Tower</li></ul> |
->  | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul>               |
->  | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>                 |
->  | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>                 |
+>   | File                                                                       | Discovery Status                                 |
+>  | -------------------------------------------------------------------------- | ------------------------------------------------ |
+>  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                          | <ul><li>Discovered</li><li>#Standalone</li></ul> |
+>  | [[Locations/Ehobel/Yren\|Yren]]                                         | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Vulwin Slave Company\|Vulwin Slave Company]]         | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                           | <ul><li>Discovered</li><li>Tower</li></ul>       |
+>  | [[Locations/Ehobel/Renabel\|Renabel]]                                   | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Ehobel/Nas Anor\|Nas Anor]]                                 | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Jassin Slave Company\|Jassin Slave Company]]         | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                           | <ul><li>Discovered</li><li>Tower</li></ul>       |
+>  | [[Locations/Ehobel/Ishnmel/Wooden Hearth Inn\|Wooden Hearth Inn]]       | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Ishnmel/The Tower of Ishnmel\|The Tower of Ishnmel]] | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Irs Thalor\|Irs Thalor]]                             | <ul><li>Undiscovered</li></ul>                   |
+>  | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                         | <ul><li>Undiscovered</li><li>Tower</li></ul>     |
+>  | [[Locations/Ehobel/Enelion/Enelion Town Inn\|Enelion Town Inn]]         | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Enelion/Enelion\|Enelion]]                           | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Caalona\|Caalona]]                                   | <ul><li>Discovered</li></ul>                     |
+>  | [[Locations/Ehobel/Cyran Slave Company\|Cyran Slave Company]]           | <ul><li>Undiscovered</li></ul>                   |
 >  
 { .block-language-dataview}
 

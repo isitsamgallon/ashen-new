@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ofc/foxtail-orchards/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.753+01:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Small Village"}}
+{"dg-publish":true,"permalink":"/locations/ofc/foxtail-orchards/","tags":["Discovered"],"updated":"2026-11-13T19:07:31.563+00:00","dg-note-properties":{"Nation":"OFC","tags":["Discovered"],"icon":"place","city type":"Small Village","discovery":"Discovered"}}
 ---
 
 ### Overview

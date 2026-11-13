@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/ishnmel/","tags":["Discovered","Tower"],"updated":"2026-06-28T20:22:10.858+01:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered","Tower"],"icon":"place","aliases":null,"city type":"Capital","TQ_show_tags":true,"TS":"Destroyed"}}
+{"dg-publish":true,"permalink":"/locations/ehobel/ishnmel/ishnmel/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:05:14.380+00:00","dg-note-properties":{"Nation":"Ehobel","tags":["Discovered","Tower"],"icon":"place","aliases":null,"city type":"Capital","TQ_show_tags":true,"TS":"Destroyed","discovery":"Discovered"}}
 ---
 
 ### Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/goldpass-bridge/","tags":["Discovered"],"updated":"2025-08-11T11:53:31.669+01:00","dg-note-properties":{"Nation":["Ehobel","Uvam Dynasty"],"icon":"place","tags":["Discovered"]}}
+{"dg-publish":true,"permalink":"/locations/goldpass-bridge/","tags":["Discovered","#Standalone"],"updated":"2026-11-13T19:12:01.799+00:00","dg-note-properties":{"Nation":"Ehobel & Uvam Dynasty","icon":"place","tags":["Discovered","#Standalone"],"discovery":"Discovered"}}
 ---
 
 ### Overview

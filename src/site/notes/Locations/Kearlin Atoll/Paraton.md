@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/paraton/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.734+01:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Kearlin Atoll","icon":"place","city type":"Unknown"}}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/paraton/","tags":["Undiscovered"],"updated":"2026-11-13T19:06:40.951+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Kearlin Atoll","icon":"place","city type":"Unknown","discovery":"Discovered"}}
 ---
 
 

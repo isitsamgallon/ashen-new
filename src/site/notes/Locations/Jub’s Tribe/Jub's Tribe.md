@@ -1,6 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","tags":["Undiscovered"],"updated":"2025-08-11T11:53:31.721+01:00","dg-note-properties":{"Nation":"Jub's Tribe","icon":"place","tags":["Undiscovered"]}}
+{"dg-publish":true,"permalink":"/locations/jub-s-tribe/jub-s-tribe/","tags":["Undiscovered","#Standalone"],"updated":"2026-11-13T19:06:30.517+00:00","dg-note-properties":{"Nation":"Jub's Tribe","icon":"place","tags":["Undiscovered","#Standalone"],"discovery":"Undiscovered"}}
 ---
+
+> [!infobox]
+> 
+>  # Jub's Tribe
+> ![@JubsTribe_New.jpg](/img/user/Admin/Attachments/@JubsTribe_New.jpg)
+> ###### Basic Information
+> 
+>  Type | Info |
+> :----: | --- |
+>  Primary Race | Unknown |
+>  Founder | Unknown |
+>  Current Leader | Unknown |
+
+
 
 ### Overview
 A [[Other Information/Races/Goblin\|Goblin]] settlement found to the north of [[Locations/Ehobel/Ehobel\|Ehobel]], not much is known about this place as [[Other Information/Display Tags/The Party\|The Party]] have never gone here.
