@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2026-11-13T19:10:55.758+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town","discovery":"Discovered"}}
+{"dg-publish":true,"permalink":"/locations/uvam-dynasty/uvam-dynasty/","tags":["Discovered"],"updated":"2026-11-13T19:24:03.741+00:00","dg-note-properties":{"tags":["Discovered"],"Nation":"Uvam Dynasty","icon":"place","city type":"Large Town","discovery":"Discovered"}}
 ---
 
 > [!infobox]
@@ -14,17 +14,17 @@
 >  Founder | Unknown  |
 >  Current Leader | None |
 >  ##### Cities & Towns 
->   | File                                                                          | Discovery Status                                 |
->  | ----------------------------------------------------------------------------- | ------------------------------------------------ |
->  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                             | <ul><li>Discovered</li><li>#Standalone</li></ul> |
->  | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | <ul><li>Discovered</li></ul>                     |
->  | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | <ul><li>Discovered</li></ul>                     |
->  | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | <ul><li>Discovered</li></ul>                     |
->  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | <ul><li>Undiscovered</li></ul>                   |
->  | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | <ul><li>Undiscovered</li></ul>                   |
->  | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | <ul><li>Discovered</li></ul>                     |
->  | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | <ul><li>Undiscovered</li></ul>                   |
->  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | <ul><li>Discovered</li></ul>                     |
+>   | File                                                                          | Discovery Status |
+>  | ----------------------------------------------------------------------------- | ---------------- |
+>  | [[Locations/Goldpass Bridge\|Goldpass Bridge]]                             | Discovered       |
+>  | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | Discovered       |
+>  | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | Discovered       |
+>  | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | Discovered       |
+>  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | Undiscovered     |
+>  | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | Undiscovered     |
+>  | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | Discovered       |
+>  | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | Discovered       |
+>  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | Discovered       |
 >  
 { .block-language-dataview}
 

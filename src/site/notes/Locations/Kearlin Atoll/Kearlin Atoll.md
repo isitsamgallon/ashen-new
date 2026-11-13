@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Undiscovered"],"updated":"2026-11-13T19:04:10.028+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Kearlin Atoll","icon":"place","city type":"Unknown","discovery":null}}
+{"dg-publish":true,"permalink":"/locations/kearlin-atoll/kearlin-atoll/","tags":["Undiscovered"],"updated":"2026-11-13T19:24:18.476+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Kearlin Atoll","icon":"place","city type":"Unknown","discovery":null}}
 ---
 
 > [!infobox]
@@ -14,16 +14,16 @@
 >  Founder | Unknown |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                        | Discovery Status               |
->  | ----------------------------------------------------------- | ------------------------------ |
->  | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Totala\|Totala]]               | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | <ul><li>Undiscovered</li></ul> |
+>   | File                                                        | Discovery Status |
+>  | ----------------------------------------------------------- | ---------------- |
+>  | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | \-               |
+>  | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Totala\|Totala]]               | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | Discovered       |
 >  
 { .block-language-dataview}
 

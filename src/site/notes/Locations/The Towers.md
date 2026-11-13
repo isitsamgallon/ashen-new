@@ -15,14 +15,14 @@ The Towers power something called [[History & Events/Skyfall Ward\|Skyfall Ward]
 | [[Locations/Ehobel/Ishnmel/Ishnmel\|Ishnmel]]                                           | Destroyed      |
 | [[Locations/Ehobel/Saleh Tower\|Saleh Tower]]                                           | Still Standing |
 | [[Locations/Ehobel/Horith Tower\|Horith Tower]]                                         | Still Standing |
-| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                         | Destroyed      |
 | [[Locations/OFC/Whitespire/Whitespire\|Whitespire]]                                     | Destroyed      |
 | [[Locations/Strixhaven/Strixhaven\|Strixhaven]]                                         | Still Standing |
 | [[Locations/The Dawn Empire/Dawnhaven/The Dawnhaven Crypts\|The Dawnhaven Crypts]]      | Unknown        |
 | [[Locations/The Dawn Empire/Steelwick/Iron Forge\|Iron Forge]]                          | Still Standing |
 | [[Locations/The Dawn Empire/The All-Father Temple\|The All-Father Temple]]              | Destroyed      |
-| [[Locations/The Deadlands/The Deadlands\|The Deadlands]]                                | Destroyed      |
 | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                         | Unknown        |
+| [[Locations/The Deadlands/The Deadlands\|The Deadlands]]                                | Destroyed      |
+| [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                                         | Destroyed      |
 
 { .block-language-dataview}
 

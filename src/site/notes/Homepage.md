@@ -295,11 +295,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
-- [[Locations/Locations\|Locations]]
-- [[Locations/The Towers\|The Towers]]
-- [[Locations/The Realm of Mana\|The Realm of Mana]]
-- [[Locations/Snowport\|Snowport]]
-- [[Locations/Morak Hold\|Morak Hold]]
+- [[Admin/Templates/New Nation\|New Nation]]
+- [[Locations/The Forest of Rhen/The Forest of Rhen\|The Forest of Rhen]]
+- [[Locations/Ehobel/Ehobel\|Ehobel]]
+- [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]]
+- [[Locations/Lost Haven/Lost Haven\|Lost Haven]]
 
 { .block-language-dataview}
 

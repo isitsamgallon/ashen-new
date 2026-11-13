@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:07:03.184+00:00","dg-note-properties":{"tags":["Discovered","Tower"],"Nation":"Lost Haven","icon":"place","city type":"Capital","TQ_show_tags":true,"TS":"Destroyed","discovery":"Discovered"}}
+{"dg-publish":true,"permalink":"/locations/lost-haven/lost-haven/","tags":["Discovered","Tower"],"updated":"2026-11-13T19:24:17.094+00:00","dg-note-properties":{"tags":["Discovered","Tower"],"Nation":"Lost Haven","icon":"place","city type":"Capital","TQ_show_tags":true,"TS":"Destroyed","discovery":"Discovered"}}
 ---
 
 
@@ -16,13 +16,13 @@
 >  Previous  Leader | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Malachi Darkthorne †\|Malachi Darkthorne †]] |
 >  Current Leader | Unknown/ None |
 >  ##### Cities & Towns 
->   | File                                                               | Discovery Status                           |
->  | ------------------------------------------------------------------ | ------------------------------------------ |
->  | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | <ul><li>Discovered</li></ul>               |
->  | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | <ul><li>Discovered</li><li>Tower</li></ul> |
->  | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | <ul><li>Discovered</li></ul>               |
->  | [[Locations/Lost Haven/Luminara\|Luminara]]                     | <ul><li>Discovered</li></ul>               |
->  | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | <ul><li>Discovered</li></ul>               |
+>   | File                                                               | Discovery Status |
+>  | ------------------------------------------------------------------ | ---------------- |
+>  | [[Locations/Lost Haven/Hunter's Quarters\|Hunter's Quarters]]   | Discovered       |
+>  | [[Locations/Lost Haven/Lost Haven\|Lost Haven]]                 | Discovered       |
+>  | [[Locations/Lost Haven/Siltwater Slums\|Siltwater Slums]]       | Discovered       |
+>  | [[Locations/Lost Haven/Luminara\|Luminara]]                     | Discovered       |
+>  | [[Locations/Lost Haven/The Laughing Miner\|The Laughing Miner]] | Discovered       |
 >  
 { .block-language-dataview}
 

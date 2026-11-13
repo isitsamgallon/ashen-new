@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/the-forest-of-rhen/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:32.996+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Forest of Rhen","city type":null,"icon":"place","discovery":"Undiscovered"}}
+{"dg-publish":true,"permalink":"/locations/the-forest-of-rhen/the-forest-of-rhen/","tags":["Undiscovered"],"updated":"2026-11-13T19:24:21.974+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"The Forest of Rhen","city type":null,"icon":"place","discovery":"Undiscovered"}}
 ---
 
 > [!infobox]
@@ -14,13 +14,13 @@
 >  Founder | Unknown  |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                                   | Discovery Status               |
->  | ---------------------------------------------------------------------- | ------------------------------ |
->  | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | <ul><li>Undiscovered</li></ul> |
+>   | File                                                                   | Discovery Status |
+>  | ---------------------------------------------------------------------- | ---------------- |
+>  | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | Undiscovered     |
 >  
 { .block-language-dataview}
 ### Overview

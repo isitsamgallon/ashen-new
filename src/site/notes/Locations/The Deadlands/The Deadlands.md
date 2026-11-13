@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Tower","Discovered"],"updated":"2026-11-13T19:10:03.979+00:00","dg-note-properties":{"tags":["Tower","Discovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place","TS":"Destroyed","TQ_show_tags":true,"discovery":"Discovered"}}
+{"dg-publish":true,"permalink":"/locations/the-deadlands/the-deadlands/","tags":["Tower","Discovered"],"updated":"2026-11-13T19:24:09.456+00:00","dg-note-properties":{"tags":["Tower","Discovered"],"Nation":"The Deadlands","city type":"Unknown/Unclear","icon":"place","TS":"Destroyed","TQ_show_tags":true,"discovery":"Discovered"}}
 ---
 
 > [!infobox]
@@ -14,16 +14,16 @@
 >  Founder | Unknown  |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                                    | Discovery Status               |
->  | ----------------------------------------------------------------------- | ------------------------------ |
->  | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | <ul><li>Discovered</li></ul>   |
+>   | File                                                                    | Discovery Status |
+>  | ----------------------------------------------------------------------- | ---------------- |
+>  | [[Locations/The Deadlands/Le Vole Du Diable\|Le Vole Du Diable]]     | Undiscovered     |
+>  | [[Locations/The Deadlands/Le Deuxieme Fils\|Le Deuxieme Fils]]       | Undiscovered     |
+>  | [[Locations/The Deadlands/La Garde De Nuit\|La Garde De Nuit]]       | Undiscovered     |
+>  | [[Locations/The Deadlands/La Troisième Fille\|La Troisième Fille]]   | Undiscovered     |
+>  | [[Locations/The Deadlands/La Luxure d'Abysse\|La Luxure d'Abysse]]   | Undiscovered     |
+>  | [[Locations/The Deadlands/la Baroud D'honneur\|la Baroud D'honneur]] | Undiscovered     |
+>  | [[Locations/The Deadlands/Celui D'origine\|Celui D'origine]]         | Undiscovered     |
+>  | [[Locations/The Deadlands/l'Ombre Dépravée\|l'Ombre Dépravée]]       | Discovered       |
 >  
 { .block-language-dataview}
 

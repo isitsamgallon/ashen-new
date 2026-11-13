@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2026-11-13T19:10:41.043+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Capital","icon":"place","discovery":"Undiscovered"}}
+{"dg-publish":true,"permalink":"/locations/the-merrihollows/the-merrihollows/","tags":["Undiscovered"],"updated":"2026-11-13T19:24:07.593+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Maryhollows","city type":"Capital","icon":"place","discovery":"Undiscovered"}}
 ---
 
 > [!infobox]
@@ -14,14 +14,14 @@
 >  Founder | Unknown |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                           | Discovery Status               |
->  | -------------------------------------------------------------- | ------------------------------ |
->  | [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Wickshire\|Wickshire]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]       | <ul><li>Undiscovered</li></ul> |
+>   | File                                                           | Discovery Status |
+>  | -------------------------------------------------------------- | ---------------- |
+>  | [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | Undiscovered     |
+>  | [[Locations/The Merrihollows/Wickshire\|Wickshire]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]       | Undiscovered     |
 >  
 { .block-language-dataview}
 

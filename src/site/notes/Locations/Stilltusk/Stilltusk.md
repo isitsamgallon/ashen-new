@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/stilltusk/stilltusk/","tags":["Undiscovered"],"updated":"2026-11-13T19:07:46.351+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Stilltusk","city type":null,"icon":"place","discovery":"Undiscovered"}}
+{"dg-publish":true,"permalink":"/locations/stilltusk/stilltusk/","tags":["Undiscovered"],"updated":"2026-11-13T19:24:12.345+00:00","dg-note-properties":{"tags":["Undiscovered"],"Nation":"Stilltusk","city type":null,"icon":"place","discovery":"Undiscovered"}}
 ---
 
 > [!infobox]
@@ -14,12 +14,12 @@
 >  Founder | Unknown |
 >  Current Leader | Unknown |
 >  ##### Cities & Towns 
->   | File                                                  | Discovery Status               |
->  | ----------------------------------------------------- | ------------------------------ |
->  | [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]] | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Stilltusk/Ironhowl\|Ironhowl]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Stilltusk/Drumscar\|Drumscar]]         | <ul><li>Undiscovered</li></ul> |
->  | [[Locations/Stilltusk/Oathcrag\|Oathcrag]]         | <ul><li>Undiscovered</li></ul> |
+>   | File                                                  | Discovery Status |
+>  | ----------------------------------------------------- | ---------------- |
+>  | [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]] | Undiscovered     |
+>  | [[Locations/Stilltusk/Ironhowl\|Ironhowl]]         | Undiscovered     |
+>  | [[Locations/Stilltusk/Drumscar\|Drumscar]]         | Undiscovered     |
+>  | [[Locations/Stilltusk/Oathcrag\|Oathcrag]]         | Undiscovered     |
 >  
 { .block-language-dataview}
 
