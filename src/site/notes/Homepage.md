@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-11-13T18:09:09.644+00:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage","cssclasses":null}}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-11-21T12:42:51.027+00:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage","cssclasses":null,"banner":null}}
 ---
 
-![TarotBanner.jpg\|sban](/img/user/Admin/Attachments/TarotBanner.jpg)
+
 
 # Quick Links
 [[Named Characters & Beasts/Named Characters & Beasts\|Characters]] | [[Other Information/Display Tags/The Party\|The Party]] | [[Locations/Locations\|Locations]] | [[History & Events/History & Events\|History & Events]] | [[Gods & Heralds/Gods & Heralds\|Gods & Heralds]] | [[Groups & Factions/Groups & Factions\|Groups & Factions]] | [[Other Information/Races/Races\|Races]] | [[Session Notes/All Sessions\|All Sessions]] | [[Other Information/Unique Items/Unique Items\|Party Items]] | [[Other Information/Theories & Unanswered Questions\|Theories & Unanswered Questions]] | [[Other Information/Quotes\|Quotes]] | [[Gallery\|Gallery]]
@@ -295,11 +295,11 @@ This is a read-only version of the Ashen Campaign Vault, designed to make findin
 
 
 ### Recently Modified
+- [[Homepage\|Homepage]]
+- [[Admin/Gallery Images\|Gallery Images]]
 - [[Gallery\|Gallery]]
 - [[The Party/Aiden Knight\|Aiden Knight]]
 - [[Session Notes/04 Ignatius Beckons/Session 34\|Session 34]]
-- [[Gods & Heralds/Somnora/Somnora\|Somnora]]
-- [[Admin/Templates/New Nation\|New Nation]]
 
 { .block-language-dataview}
 
