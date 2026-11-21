@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-11-21T12:42:51.027+00:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage","cssclasses":null,"banner":null}}
+{"dg-publish":true,"permalink":"/homepage/","title":"Homepage","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"updated":"2026-11-21T12:44:31.350+00:00","dg-note-properties":{"obsidianUIMode":null,"title":"Homepage","cssclasses":null,"banner":"Admin/Attachments/TarotBanner.jpg"}}
 ---
 
 
