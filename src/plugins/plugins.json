@@ -42,7 +42,13 @@
         "src/plugins/banners/styles/banners.css",
         "src/plugins/banners/templates/banner.njk",
         "src/plugins/banners/templates/head.njk"
-      ]
+      ],
+      "settings": {
+        "properties": "banner, banner_image, backdrop, art",
+        "height": 500,
+        "fade": false,
+        "applyToHome": true
+      }
     },
     "chartjs": {
       "repo": "oleeskild/garden-plugin-chartjs",
