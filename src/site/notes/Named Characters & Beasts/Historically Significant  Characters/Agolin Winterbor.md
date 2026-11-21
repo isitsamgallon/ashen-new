@@ -24,7 +24,7 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/03 The Worst Diplomates/Session 15.md" data-href="Session Notes/03 The Worst Diplomates/Session 15.md" aria-label="Session Notes/03 The Worst Diplomates/Session 15.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 15</a></span></span> |
+> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/06 Urban Legends/Session 51.md" data-href="Session Notes/06 Urban Legends/Session 51.md" aria-label="Session Notes/06 Urban Legends/Session 51.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 51</a></span></span> |
 > | Last Mention |  <span><span><a class="internal-link" href="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
 
 ### Overview

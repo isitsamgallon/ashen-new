@@ -16,23 +16,23 @@
 >  ##### Cities & Towns 
 >   | File                                                                               | Discovery Status |
 >  | ---------------------------------------------------------------------------------- | ---------------- |
+>  | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Undiscovered     |
 >  | [[Locations/The Desert/The Auditor's Headquarters\|The Auditor's Headquarters]] | Undiscovered     |
 >  | [[Locations/The Desert/Sumene\|Sumene]]                                         | Undiscovered     |
->  | [[Locations/The Desert/The Great Wall\|The Great Wall]]                         | Undiscovered     |
->  | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Undiscovered     |
 >  | [[Locations/The Desert/Longsands Bridge\|Longsands Bridge]]                     | Undiscovered     |
+>  | [[Locations/The Desert/Peyabo\|Peyabo]]                                         | Undiscovered     |
+>  | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Undiscovered     |
 >  | [[Locations/The Desert/Ember Peak\|Ember Peak]]                                 | Undiscovered     |
 >  | [[Locations/The Desert/Emberfall\|Emberfall]]                                   | Undiscovered     |
->  | [[Locations/The Desert/Falkwayn\|Falkwayn]]                                     | Undiscovered     |
 >  | [[Locations/The Desert/Broken Ember Throne\|Broken Ember Throne]]               | Undiscovered     |
->  | [[Locations/The Desert/Desert Camps/Camp Sofia\|Camp Sofia]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Zareem\|Camp Zareem]]                  | Undiscovered     |
->  | [[Locations/The Desert/Desert Camps/Camp Veyra\|Camp Veyra]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Yrandes\|Camp Yrandes]]                | Undiscovered     |
+>  | [[Locations/The Desert/Desert Camps/Camp Veyra\|Camp Veyra]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Solari\|Camp Solari]]                  | Undiscovered     |
->  | [[Locations/The Desert/Desert Camps/Camp Khard\|Camp Khard]]                    | Undiscovered     |
+>  | [[Locations/The Desert/Desert Camps/Camp Sofia\|Camp Sofia]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Sahir\|Camp Sahir]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Namar\|Camp Namar]]                    | Undiscovered     |
+>  | [[Locations/The Desert/Desert Camps/Camp Khard\|Camp Khard]]                    | Undiscovered     |
 >  | [[Locations/The Desert/Desert Camps/Camp Dustblood\|Camp Dustblood]]            | Undiscovered     |
 >  
 { .block-language-dataview}

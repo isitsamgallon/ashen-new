@@ -20,11 +20,11 @@
 >  | [[Locations/Uvam Dynasty/Gimsu\|Gimsu]]                                    | Discovered       |
 >  | [[Locations/Uvam Dynasty/Minatota/Minatota\|Minatota]]                     | Discovered       |
 >  | [[Locations/Uvam Dynasty/Minatota/Nightshade's Crown\|Nightshade's Crown]] | Discovered       |
->  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | Undiscovered     |
 >  | [[Locations/Uvam Dynasty/Tangping\|Tangping]]                              | Undiscovered     |
+>  | [[Locations/Uvam Dynasty/Nakatoro\|Nakatoro]]                              | Undiscovered     |
+>  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | Discovered       |
 >  | [[Locations/Uvam Dynasty/Yakawa\|Yakawa]]                                  | Discovered       |
 >  | [[Locations/Uvam Dynasty/Yokotori\|Yokotori]]                              | Discovered       |
->  | [[Locations/Uvam Dynasty/Uvam Dynasty\|Uvam Dynasty]]                      | Discovered       |
 >  
 { .block-language-dataview}
 
@@ -39,10 +39,10 @@ Uvam is a relatively small nation found towards the south of the [[Locations/Ver
 | File                                                                                                                                                       | Home Town | Status |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Theodore Thornewood\|Theodore Thornewood]]       | Yokotori  | \-     |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Dead   |
-| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]               | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Claribelle Reverence †\|Claribelle Reverence †]] | Yokotori  | Dead   |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Robert Thornwood\|Robert Thornwood]]             | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Arwen Gryffon\|Arwen Gryffon]]                   | Minatota  | Alive  |
+| [[Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Backstory & Family/Niall Thornwood\|Niall Thornwood]]               | Yokotori  | Dead   |
 | [[Named Characters & Beasts/Cindy\|Cindy]]                                                                                                              | Minatota  | Alive  |
 
 { .block-language-dataview}

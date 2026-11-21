@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-10-23T15:34:55.600+01:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams & Archivist of Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/SommnoraGlass.png]]"}}
+{"dg-publish":true,"permalink":"/gods-and-heralds/somnora/somnora/","updated":"2026-11-13T20:23:30.745+00:00","dg-note-properties":{"race":"God","icon":"god","update ":null,"speciality":"Dreams, Sleep, Secrets, Illusion, and the Unconscious","nickname":"The Keeper of Dreams & Archivist of Memories","heralds":"Angel Under The Well","realm":"The Slumbering Veil","cover":"![[Admin/Attachments/SommnoraGlass.png]]"}}
 ---
 
 > [!infobox]
@@ -31,6 +31,8 @@ know. She is the boundary between rest and revelation, a guide through the stran
 The daughter of [[Gods & Heralds/Eldros/Eldros\|Eldros]], who was created to oversee the realm of dreams. Originally, [[Gods & Heralds/Eldros/Eldros\|Eldros]] attempted to manage both the waking and dreaming worlds, but the unpredictable nature of dreams made it difficult for him to maintain balance. Realising that he could not effectively govern both realms, he birthed Somnora to take charge of the sleeping world while he focused on the waking one.
 
 Though little else is known about her, Somnora exists to ensure that the dream world remains stable, separate from the structured reality that [[Gods & Heralds/Eldros/Eldros\|Eldros]] maintains. Her creation signifies a division of responsibilities among the gods, ensuring that both realms—waking and dreaming—are properly maintained.
+
+After [[Session Notes/09 Dangerous Deities/Session 71\|Session 71]], [[The Party/Halfbie\|Halfbie]] calls them 'Ace of Spades'.
 
 ### Divine Attributes
 - Somnora is the goddess of Dreams, Sleep, Secrets, Illusion, and the Unconscious- a quiet guide through the twilight realms where reality softens and hidden truths stir. She moves unseen through slumbering minds, weaving visions, omens, and forgotten memories.

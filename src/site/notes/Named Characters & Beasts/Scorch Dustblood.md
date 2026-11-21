@@ -24,7 +24,7 @@
 > ###### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/06 Urban Legends/Session 49.md" data-href="Session Notes/06 Urban Legends/Session 49.md" aria-label="Session Notes/06 Urban Legends/Session 49.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 49</a></span></span> |
+> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/06 Urban Legends/Session 50.md" data-href="Session Notes/06 Urban Legends/Session 50.md" aria-label="Session Notes/06 Urban Legends/Session 50.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 50</a></span></span> |
 > | Last Mention  |  <span><span><a class="internal-link" href="Session Notes/07 Winter Warriors/Session 58.md" data-href="Session Notes/07 Winter Warriors/Session 58.md" aria-label="Session Notes/07 Winter Warriors/Session 58.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 58</a></span></span> |
 
 

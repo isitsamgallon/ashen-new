@@ -16,14 +16,14 @@
 >  ##### Cities & Towns 
 >   | File                                                        | Discovery Status |
 >  | ----------------------------------------------------------- | ---------------- |
->  | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | Undiscovered     |
 >  | [[Locations/Kearlin Atoll/Cessnulla\|Cessnulla]]         | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Carryn\|Carryn]]               | Undiscovered     |
 >  | [[Locations/Kearlin Atoll/Kearlin Atoll\|Kearlin Atoll]] | \-               |
 >  | [[Locations/Kearlin Atoll/Kitoma\|Kitoma]]               | Undiscovered     |
 >  | [[Locations/Kearlin Atoll/Teria\|Teria]]                 | Undiscovered     |
+>  | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | Discovered       |
 >  | [[Locations/Kearlin Atoll/Thornlore\|Thornlore]]         | Undiscovered     |
 >  | [[Locations/Kearlin Atoll/Totala\|Totala]]               | Undiscovered     |
->  | [[Locations/Kearlin Atoll/Paraton\|Paraton]]             | Discovered       |
 >  
 { .block-language-dataview}
 

@@ -53,8 +53,8 @@ Vampires are very family orientated and will often go to extreme measure and act
 - [[Named Characters & Beasts/Cosmo\|Cosmo]]
 - [[Named Characters & Beasts/Mm\|Mm]]
 - [[Named Characters & Beasts/Selene\|Selene]]
-- [[Named Characters & Beasts/The Hand\|The Hand]]
 - [[Named Characters & Beasts/The Ear\|The Ear]]
+- [[Named Characters & Beasts/The Hand\|The Hand]]
 - [[Named Characters & Beasts/The Mouth\|The Mouth]]
 - [[Named Characters & Beasts/Veranius\|Veranius]]
 

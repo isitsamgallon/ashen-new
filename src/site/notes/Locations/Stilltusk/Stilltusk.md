@@ -16,10 +16,10 @@
 >  ##### Cities & Towns 
 >   | File                                                  | Discovery Status |
 >  | ----------------------------------------------------- | ---------------- |
->  | [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]] | Undiscovered     |
->  | [[Locations/Stilltusk/Ironhowl\|Ironhowl]]         | Undiscovered     |
->  | [[Locations/Stilltusk/Drumscar\|Drumscar]]         | Undiscovered     |
 >  | [[Locations/Stilltusk/Oathcrag\|Oathcrag]]         | Undiscovered     |
+>  | [[Locations/Stilltusk/Drumscar\|Drumscar]]         | Undiscovered     |
+>  | [[Locations/Stilltusk/Ironhowl\|Ironhowl]]         | Undiscovered     |
+>  | [[Locations/Stilltusk/Kragh-Mordun\|Kragh-Mordun]] | Undiscovered     |
 >  
 { .block-language-dataview}
 

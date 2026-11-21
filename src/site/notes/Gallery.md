@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-11-11T20:20:01.456+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"updated":"2026-11-13T20:32:39.800+00:00","dg-note-properties":{}}
 ---
 
 >[!Recite]  Artwork Credits 
@@ -32,6 +32,4 @@
 > ![Tarot_Drache.png](/img/user/Admin/Attachments/Tarot_Drache.png)
 > ![Tarot_Halfbie.png](/img/user/Admin/Attachments/Tarot_Halfbie.png)
 >![Tarot_Mordecai.png](/img/user/Admin/Attachments/Tarot_Mordecai.png) 
->
->![Tarot_Xekai.png](/img/user/Admin/Attachments/Tarot_Xekai.png)
 

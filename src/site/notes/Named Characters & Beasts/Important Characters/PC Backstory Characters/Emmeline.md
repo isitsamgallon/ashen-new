@@ -25,7 +25,7 @@
 > ##### Appearances
 > | Type | Stat |
 > | :----: | --- |
-> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/01 Echoes of the Ethertwist/Session 01.md" data-href="Session Notes/01 Echoes of the Ethertwist/Session 01.md" aria-label="Session Notes/01 Echoes of the Ethertwist/Session 01.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 01</a></span></span> |
+> | First Mention  |  <span><span><a class="internal-link" href="Session Notes/09 Dangerous Deities/Session 67.md" data-href="Session Notes/09 Dangerous Deities/Session 67.md" aria-label="Session Notes/09 Dangerous Deities/Session 67.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 67</a></span></span> |
 > | Last Mention |  <span><span><a class="internal-link" href="Session Notes/09 Dangerous Deities/Session 71.md" data-href="Session Notes/09 Dangerous Deities/Session 71.md" aria-label="Session Notes/09 Dangerous Deities/Session 71.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 71</a></span></span> |
 
 ### Overview

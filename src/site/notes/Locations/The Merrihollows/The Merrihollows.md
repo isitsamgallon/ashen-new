@@ -16,11 +16,11 @@
 >  ##### Cities & Towns 
 >   | File                                                           | Discovery Status |
 >  | -------------------------------------------------------------- | ---------------- |
->  | [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | Undiscovered     |
 >  | [[Locations/The Merrihollows/Wickshire\|Wickshire]]         | Undiscovered     |
->  | [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | Undiscovered     |
->  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Tiller's Rest\|Tiller's Rest]] | Undiscovered     |
 >  | [[Locations/The Merrihollows/Oakbarrow\|Oakbarrow]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Pennymead\|Pennymead]]         | Undiscovered     |
+>  | [[Locations/The Merrihollows/Brindleby\|Brindleby]]         | Undiscovered     |
 >  | [[Locations/The Merrihollows/Goldburrow\|Goldburrow]]       | Undiscovered     |
 >  
 { .block-language-dataview}

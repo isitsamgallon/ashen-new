@@ -16,9 +16,9 @@
 >  ##### Cities & Towns 
 >   | File                                                              | Discovery Status |
 >  | ----------------------------------------------------------------- | ---------------- |
+>  | [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]             | Undiscovered     |
 >  | [[Locations/Luminarch Concord/Solmire\|Solmire]]               | Undiscovered     |
 >  | [[Locations/Luminarch Concord/Elyndor's Gate\|Elyndor's Gate]] | Undiscovered     |
->  | [[Locations/Luminarch Concord/Veyrhold\|Veyrhold]]             | Undiscovered     |
 >  
 { .block-language-dataview}
 

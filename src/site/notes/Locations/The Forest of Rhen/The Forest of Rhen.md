@@ -16,11 +16,11 @@
 >  ##### Cities & Towns 
 >   | File                                                                   | Discovery Status |
 >  | ---------------------------------------------------------------------- | ---------------- |
->  | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Undiscovered     |
 >  | [[Locations/The Forest of Rhen/Sildrune\|Sildrune]]                 | Undiscovered     |
->  | [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Undiscovered     |
->  | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/The Last Watch\|The Last Watch]]     | Undiscovered     |
 >  | [[Locations/The Forest of Rhen/Fort Hiegard\|Fort Hiegard]]         | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Rabenfeld\|Rabenfeld]]               | Undiscovered     |
+>  | [[Locations/The Forest of Rhen/Ashbourne Hollow\|Ashbourne Hollow]] | Undiscovered     |
 >  
 { .block-language-dataview}
 ### Overview

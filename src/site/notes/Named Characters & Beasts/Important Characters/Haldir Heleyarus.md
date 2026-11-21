@@ -26,7 +26,7 @@
 > | Type | Stat |
 > | :----: | --- |
 > | First Mention  |  <span><span><a class="internal-link" href="Session Notes/08 Gutenous Guardians/Session 65.md" data-href="Session Notes/08 Gutenous Guardians/Session 65.md" aria-label="Session Notes/08 Gutenous Guardians/Session 65.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 65</a></span></span> |
-> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/08 Gutenous Guardians/Session 64.md" data-href="Session Notes/08 Gutenous Guardians/Session 64.md" aria-label="Session Notes/08 Gutenous Guardians/Session 64.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 64</a></span></span> |
+> | Last Mention |  <span><span><a class="internal-link" href="Session Notes/07 Winter Warriors/Session 59.md" data-href="Session Notes/07 Winter Warriors/Session 59.md" aria-label="Session Notes/07 Winter Warriors/Session 59.md" data-tooltip-position="top" target="_blank" rel="noopener nofollow">Session 59</a></span></span> |
  
 ### Overview
 Haldir Heleyarus  is a figure of profound magical ability and immense age, responsible for maintaining the global portal network and the magical protections of Strixhaven. 
